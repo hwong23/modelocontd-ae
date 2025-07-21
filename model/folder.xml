@@ -1,0 +1,18 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Secretaria General Alcaldia"
+    id="id-e61caa0dc3cc436aa918b17e0f565135"
+    purpose="version 0.3"
+    version="5.0.0">
+  <properties
+      key="rutaMacMD"/>
+  <properties
+      key="devdoc"/>
+  <properties
+      key="rutaMacHTML"/>
+  <properties
+      key="gh-pages"/>
+  <properties
+      key="reporte"
+      value="IntegracionJEP.html"/>
+</archimate:ArchimateModel>
