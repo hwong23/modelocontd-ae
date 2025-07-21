@@ -96,7 +96,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2a516be6ae25412bbd0dda957afb4e5e"
-      targetConnections="id-4abaae2c96cf46b090086cc334ec0930"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -360,34 +359,6 @@
     <archimateElement
         xsi:type="archimate:Constraint"
         href="Constraint_id-ba84202d55234f03b7ae7d2ceac69861.xml#id-ba84202d55234f03b7ae7d2ceac69861"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-adc3402570144be6808add064bfa9bfc"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#ccccff">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-4abaae2c96cf46b090086cc334ec0930"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-adc3402570144be6808add064bfa9bfc"
-        target="id-2a516be6ae25412bbd0dda957afb4e5e">
-      <archimateRelationship
-          xsi:type="archimate:InfluenceRelationship"
-          href="InfluenceRelationship_id-ccae9822d0c540269d4ba24e79e1efa4.xml#id-ccae9822d0c540269d4ba24e79e1efa4"/>
-    </sourceConnections>
-    <bounds
-        x="436"
-        y="548"
-        width="150"
-        height="70"/>
-    <archimateElement
-        xsi:type="archimate:Constraint"
-        href="Constraint_id-2a4b6ac4fc994b60a539fa16845d6fe7.xml#id-2a4b6ac4fc994b60a539fa16845d6fe7"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
