@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="06.Estrategia. Iniciativas"
-    id="id-cc506af7ae2e4eadbe0ef317bcdce54d">
+    id="id-cc506af7ae2e4eadbe0ef317bcdce54d"
+    documentation="El modelo de diagrama ArchiMate denominado &quot;06.Estrategia. Iniciativas&quot; se posiciona como un componente clave para visualizar y comunicar la transformación estratégica de la organización. Su propósito central es ilustrar cómo los objetivos de alto nivel se desglosan en planes de acción concretos o &quot;iniciativas&quot;, conectando así la visión estratégica con la ejecución. Este tipo de diagrama es fundamental para alinear los esfuerzos y las inversiones empresariales, asegurando que cada proyecto y programa contribuya directamente a la consecución de las metas corporativas.&#xA;&#xA;Un modelo de &quot;Estrategia. Iniciativas&quot; bien estructurado es un activo invaluable para la gestión del portafolio de proyectos, la toma de decisiones informadas sobre la asignación de recursos y la comunicación efectiva de la hoja de ruta estratégica a todos los niveles de la empresa, impulsando la coherencia y el éxito en la implementación.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0c45125fd00144e5b2cb281f514c110e"
