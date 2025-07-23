@@ -28,22 +28,6 @@
         y="36"
         width="229"
         height="132"/>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-cca3038f358d41e0a8abf5839e6a58d1"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#dcebeb">
-      <bounds
-          x="12"
-          y="36"
-          width="169"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-1827a4b5e59448428adfb93b3ee5f4b4.xml#id-1827a4b5e59448428adfb93b3ee5f4b4"/>
-    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-463ff912f57f43c9a45c3d0ef27cffe3.xml#id-463ff912f57f43c9a45c3d0ef27cffe3"/>
@@ -75,22 +59,6 @@
         width="529"
         height="312"/>
     <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-ee38f723c73c41ad88baa82eeba53c03"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#dcebeb">
-      <bounds
-          x="12"
-          y="36"
-          width="157"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-dd2f1c1c1816447380fe900b66faa8bc.xml#id-dd2f1c1c1816447380fe900b66faa8bc"/>
-    </children>
-    <children
         xsi:type="archimate:DiagramModelNote"
         id="id-91d7f1d9ec8f41fb96079c58fb151a66"
         font="1|Lucida Grande|12.0|0|COCOA|1|"
@@ -104,70 +72,6 @@
           y="96"
           width="145"
           height="55"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-1c486d48f9cf4883ab0647dc31766f63"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#dcebeb">
-      <bounds
-          x="336"
-          y="96"
-          width="157"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-fe20e99992234a3cb6af29d19555b72a.xml#id-fe20e99992234a3cb6af29d19555b72a"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-37d54536ffcc4a30b63e08cd8547e078"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#dcebeb">
-      <bounds
-          x="180"
-          y="36"
-          width="145"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-c9f92424c7bd41e6b20b83e818865bd8.xml#id-c9f92424c7bd41e6b20b83e818865bd8"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-3967a6d9631149f59955c334b8ab7c56"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#dcebeb">
-      <bounds
-          x="12"
-          y="96"
-          width="157"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-bc1931cd933a4fecb4363c17460d12bb.xml#id-bc1931cd933a4fecb4363c17460d12bb"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-6873c5675ab34f25be5e8328ac22a556"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#dcebeb">
-      <bounds
-          x="336"
-          y="36"
-          width="157"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-19328f5cdfa949c490bd66a2d140fafb.xml#id-19328f5cdfa949c490bd66a2d140fafb"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -187,22 +91,6 @@
         y="936"
         width="469"
         height="132"/>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-443632af93624ae8a6d0fcff6e7ed46b"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#dcebeb">
-      <bounds
-          x="24"
-          y="36"
-          width="145"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-767ceb6445af4fe981cb6195616183ed.xml#id-767ceb6445af4fe981cb6195616183ed"/>
-    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-01b842b8daf6453cabb82c35762fe4d6.xml#id-01b842b8daf6453cabb82c35762fe4d6"/>
@@ -247,54 +135,6 @@
           y="48"
           width="156"
           height="55"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-34073a3b786f455b95a4e14d9cc29003"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#dcebeb">
-      <bounds
-          x="191"
-          y="48"
-          width="145"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-9523113a6864405a894476cdca6c39dd.xml#id-9523113a6864405a894476cdca6c39dd"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-c5439e611e684b0a968b38c5e11eb7af"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#dcebeb">
-      <bounds
-          x="347"
-          y="48"
-          width="157"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-02cb26deb87b42e0aa456d2ea058382b.xml#id-02cb26deb87b42e0aa456d2ea058382b"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-175f15f988d549399d506d6cddcec3a8"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#dcebeb">
-      <bounds
-          x="24"
-          y="108"
-          width="156"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-3db9c366356b4983af28ea0671d32c85.xml#id-3db9c366356b4983af28ea0671d32c85"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
