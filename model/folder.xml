@@ -15,4 +15,7 @@
   <properties
       key="reporte"
       value="IntegracionJEP.html"/>
+  <properties
+      key="FormComment"
+      value="This form illustrates the Form plugin for Archi.&#xA;&#xA;It creates controls showing up some Archi components' properties. It replaces the description field by the value of property &quot;description_xxx&quot; if it exists, where &quot;xxx&quot; is the value of the model's property &quot;language&quot;.&#xA;&#xA;For instance, if the model has got a &quot;language&quot; property with value &quot;fr&quot;, then the &quot;documentation&quot; field will be replaced by the value of the property &quot;documentation_fr&quot; if any."/>
 </archimate:ArchimateModel>
