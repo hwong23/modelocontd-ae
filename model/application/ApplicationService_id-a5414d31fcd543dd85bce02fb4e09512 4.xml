@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicio de Consulta de Datos"
+    id="id-a5414d31fcd543dd85bce02fb4e09512"
+    documentation="Servicio provisto por el portal de datos para acceder a información pública."/>
