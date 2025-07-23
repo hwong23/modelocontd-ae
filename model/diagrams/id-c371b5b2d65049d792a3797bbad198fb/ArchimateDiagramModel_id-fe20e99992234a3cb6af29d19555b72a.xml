@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="02.1d.Entregables"
+    id="id-fe20e99992234a3cb6af29d19555b72a"
+    documentation="1. Visión. Definición trabajo arquitecrura &#xA;1. Arquitectura actual sistemas información&#xA;1. Arquitectura solución&#xA;1. Catálogo sistemas información&#xA;1. Implementación y Migración">
+  <properties
+      key="alias"
+      value="vista.propuesta"/>
+  <properties
+      key="devdoc"/>
+  <properties
+      key="titulo"
+      value="Entregables de la Propuesta"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
+  <properties
+      key="IncludeDiagram"
+      value="false"/>
+</archimate:ArchimateDiagramModel>
