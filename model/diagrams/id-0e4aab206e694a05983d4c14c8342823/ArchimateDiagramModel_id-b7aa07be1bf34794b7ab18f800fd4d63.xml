@@ -21,8 +21,8 @@
           href="AggregationRelationship_id-b3c355f8c5c84a0f8c087d4795afb608.xml#id-b3c355f8c5c84a0f8c087d4795afb608"/>
     </sourceConnections>
     <bounds
-        x="24"
-        y="378"
+        x="12"
+        y="210"
         width="1068"
         height="276"/>
     <children
@@ -115,8 +115,8 @@
           href="AggregationRelationship_id-f969e74ccc9c4ee9a8969e22bbc6e1a8.xml#id-f969e74ccc9c4ee9a8969e22bbc6e1a8"/>
     </sourceConnections>
     <bounds
-        x="24"
-        y="653"
+        x="12"
+        y="485"
         width="1068"
         height="336"/>
     <children
@@ -172,8 +172,8 @@
       lineColor="#5c5c5c"
       fillColor="#ffe0e0">
     <bounds
-        x="24"
-        y="348"
+        x="12"
+        y="180"
         width="396"
         height="31"/>
     <archimateElement
@@ -188,8 +188,8 @@
       lineColor="#5c5c5c"
       fillColor="#ffe0e0">
     <bounds
-        x="419"
-        y="348"
+        x="407"
+        y="180"
         width="278"
         height="31"/>
     <archimateElement
@@ -204,8 +204,8 @@
       lineColor="#5c5c5c"
       fillColor="#ffe0e0">
     <bounds
-        x="696"
-        y="348"
+        x="684"
+        y="180"
         width="396"
         height="31"/>
     <archimateElement
@@ -248,8 +248,8 @@
           href="CompositionRelationship_id-0b04357bbe3046068850df0ee94ff014.xml#id-0b04357bbe3046068850df0ee94ff014"/>
     </sourceConnections>
     <bounds
-        x="24"
-        y="988"
+        x="12"
+        y="820"
         width="1068"
         height="336"/>
     <children
@@ -341,8 +341,8 @@
       fillColor="#ffffff"
       content="Ingenium. &#xA;Modelo de Entregas. Dominio de Aplicación. AE. Secretaria Seneral Alcaldía Mayor de Bogotá.">
     <bounds
-        x="24"
-        y="192"
+        x="12"
+        y="24"
         width="301"
         height="128"/>
   </children>

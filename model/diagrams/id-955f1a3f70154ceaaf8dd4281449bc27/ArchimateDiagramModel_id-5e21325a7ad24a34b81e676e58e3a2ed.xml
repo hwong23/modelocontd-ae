@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Doc.2n.Métodos"
+    name="Doc.2n.Entregables 1"
     id="id-5e21325a7ad24a34b81e676e58e3a2ed">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -90,6 +90,18 @@
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-b7aa07be1bf34794b7ab18f800fd4d63.xml#id-b7aa07be1bf34794b7ab18f800fd4d63"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-6b5b5ceb13bc450090825672243b3be6">
+      <bounds
+          x="192"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-0993b3b264144f84abe5c7031666fede.xml#id-0993b3b264144f84abe5c7031666fede"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-7c483194ce074b998b35ce052b4cd295.xml#id-7c483194ce074b998b35ce052b4cd295"/>
@@ -114,13 +126,13 @@
   </children>
   <properties
       key="alias"
-      value="doctecnico"/>
+      value="entregables-f1"/>
   <properties
       key="devdoc"
-      value="03.doctecnico.md"/>
+      value="03.entregables-f1.md"/>
   <properties
       key="titulo"
-      value="Contenido de la Propuesta"/>
+      value="Entregables de Fase I. Arquitectura Empresarial de SG"/>
   <properties
       key="DocumentosIndividualesxVista"
       value="true"/>
