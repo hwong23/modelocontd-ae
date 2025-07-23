@@ -75,4 +75,13 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-158894ab6e2d457ca13720b239112852.xml#id-158894ab6e2d457ca13720b239112852"/>
   </children>
+  <properties
+      key="alias"
+      value="visio.entregables"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-md,elementsimple-fila-md"/>
+  <properties
+      key="titulo"
+      value="Entregables Fase I  de la Visión AE de SG"/>
 </archimate:ArchimateDiagramModel>
