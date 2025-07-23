@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sistemas de Información"
+    id="id-c317b012d6d6467a8ae895f39d5c64d4"
+    documentation="Conjunto genérico de sistemas que soportan las operaciones de la entidad."/>

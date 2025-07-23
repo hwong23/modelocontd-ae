@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicio de Acceso a Trámites"
+    id="id-eb47737119e14561a5ea05cc0e9cacf3"
+    documentation="Servicio que permite a los ciudadanos iniciar y gestionar trámites en línea."/>
