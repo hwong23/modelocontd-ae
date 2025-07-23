@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="03.Vision"
+    name="03. Entregables de la Vision"
     id="id-0993b3b264144f84abe5c7031666fede">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -14,5 +14,29 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-2981a357d82f4f4ebf4d04fd1f9f2e69.xml#id-2981a357d82f4f4ebf4d04fd1f9f2e69"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2a65a4e6dd0c427fb5ffa00d6629d1b9">
+    <bounds
+        x="252"
+        y="24"
+        width="199"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-795ae093ab354a8e81ed010e610ec717.xml#id-795ae093ab354a8e81ed010e610ec717"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6ecd28570d1e4d829773209d3922b136">
+    <bounds
+        x="12"
+        y="108"
+        width="199"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-caf4fe45006f495b8d193aa8dd869817.xml#id-caf4fe45006f495b8d193aa8dd869817"/>
   </children>
 </archimate:ArchimateDiagramModel>
