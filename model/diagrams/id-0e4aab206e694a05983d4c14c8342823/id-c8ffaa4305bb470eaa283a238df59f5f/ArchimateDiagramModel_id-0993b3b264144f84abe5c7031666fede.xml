@@ -80,8 +80,8 @@
       value="visio.entregables"/>
   <properties
       key="plantillaElm"
-      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
+      value="elementsimple-sintit-md,elementsimple-filatxt-md"/>
   <properties
       key="titulo"
-      value="Entregables Fase I  de la Visión AE de SG"/>
+      value="Entregables Fase I de la Visión AE de SG"/>
 </archimate:ArchimateDiagramModel>
