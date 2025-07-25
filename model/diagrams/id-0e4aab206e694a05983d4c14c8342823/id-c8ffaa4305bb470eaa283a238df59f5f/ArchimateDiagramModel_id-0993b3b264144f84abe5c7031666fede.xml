@@ -63,14 +63,14 @@
     </sourceConnections>
     <bounds
         width="493"
-        height="409"/>
+        height="325"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f0fd20ba052b438797561a55fa042e69"
         targetConnections="id-cf7292eb823e402b885b51251e4caa0e">
       <bounds
           x="24"
-          y="192"
+          y="96"
           width="199"
           height="55"/>
       <archimateElement
@@ -83,7 +83,7 @@
         targetConnections="id-21e1b41cdd82448da78a8e0a30487ff0">
       <bounds
           x="24"
-          y="264"
+          y="168"
           width="199"
           height="55"/>
       <archimateElement
@@ -108,8 +108,8 @@
         id="id-6ecd28570d1e4d829773209d3922b136"
         targetConnections="id-4f8559ff49cc46a59d5f85e51f687d9c">
       <bounds
-          x="24"
-          y="108"
+          x="264"
+          y="96"
           width="199"
           height="55"/>
       <archimateElement
@@ -135,7 +135,7 @@
         targetConnections="id-9873234eab724bada10e8f5256c66b8c">
       <bounds
           x="24"
-          y="336"
+          y="240"
           width="199"
           height="55"/>
       <archimateElement
@@ -155,4 +155,7 @@
   <properties
       key="titulo"
       value="Entregables Fase I de la Visión AE de SG"/>
+  <properties
+      key="IncluyeElementosSindoc"
+      value="false"/>
 </archimate:ArchimateDiagramModel>
