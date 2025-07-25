@@ -93,6 +93,21 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-e56009668c214a93bf68e32aa5f040ac.xml#id-e56009668c214a93bf68e32aa5f040ac"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-5f283174951342ef9eca0c8376249e5c">
+    <features
+        name="labelExpression"
+        value="${property:titulo}"/>
+    <bounds
+        x="12"
+        y="264"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-0993b3b264144f84abe5c7031666fede.xml#id-0993b3b264144f84abe5c7031666fede"/>
+  </children>
   <properties
       key="alias"
       value="conjunto.aplicaciones"/>
