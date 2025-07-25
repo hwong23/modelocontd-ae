@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="06.BMM. Motivaciones"
+    name="06.BMM. Brechas y Desafíos"
     id="id-d8309f256c0548258af7858c0f0c751a"
     documentation="* Debilidades (Weaknesses) se usarían como Assessment elementos con el estereotipo de debilidad o marcados apropiadamente.&#xA;* Los Outcomes representarían las consecuencias directas de esas debilidades.&#xA;* Las relaciones de Influence (flecha punteada) irían desde las Weaknesses y Outcomes hacia los Goals y Requirements, indicando cómo las debilidades influyen en la definición de lo que se quiere lograr y lo que se necesita hacer.&#xA;* Las relaciones de Realization (flecha con triángulo vacío) irían desde los Requirements hacia los Goals, mostrando cómo los requisitos concretan las metas.&#xA;&#xA;Esta representación en ArchiMate permite visualizar el &quot;por qué&quot; detrás de las iniciativas de arquitectura, conectando directamente los problemas identificados (debilidades) con las metas estratégicas y los requisitos que buscan resolverlos."
     viewpoint="motivation">
@@ -14,7 +14,7 @@
       fillColor="#ccccff">
     <bounds
         x="12"
-        y="492"
+        y="576"
         width="193"
         height="55"/>
     <archimateElement
@@ -66,7 +66,7 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="36"
+        y="120"
         width="193"
         height="55"/>
     <archimateElement
@@ -83,7 +83,7 @@
       fillColor="#ccccff">
     <bounds
         x="288"
-        y="204"
+        y="288"
         width="193"
         height="55"/>
     <archimateElement
@@ -111,7 +111,7 @@
     </sourceConnections>
     <bounds
         x="228"
-        y="492"
+        y="576"
         width="193"
         height="55"/>
     <archimateElement
@@ -151,7 +151,7 @@
     </sourceConnections>
     <bounds
         x="288"
-        y="36"
+        y="120"
         width="193"
         height="55"/>
     <archimateElement
@@ -168,7 +168,7 @@
       fillColor="#ccccff">
     <bounds
         x="312"
-        y="270"
+        y="354"
         width="193"
         height="55"/>
     <archimateElement
@@ -184,7 +184,7 @@
       fillColor="#ccccff">
     <bounds
         x="12"
-        y="552"
+        y="636"
         width="193"
         height="55"/>
     <archimateElement
@@ -201,7 +201,7 @@
       fillColor="#ccccff">
     <bounds
         x="60"
-        y="336"
+        y="420"
         width="193"
         height="55"/>
     <archimateElement
@@ -218,7 +218,7 @@
       fillColor="#ccccff">
     <bounds
         x="36"
-        y="269"
+        y="353"
         width="193"
         height="55"/>
     <archimateElement
@@ -235,7 +235,7 @@
       fillColor="#ccccff">
     <bounds
         x="12"
-        y="204"
+        y="288"
         width="193"
         height="55"/>
     <archimateElement
@@ -252,11 +252,22 @@
       fillColor="#ccccff">
     <bounds
         x="708"
-        y="600"
+        y="684"
         width="180"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-48c3986625264b2281cf08c441da2c2c.xml#id-48c3986625264b2281cf08c441da2c2c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9d8dc3d761f14ac9be48c487a4585803"
+      textAlignment="1"
+      content="Análisis de los conceptos de la fuente &quot;Bogotá: Desafíos Estructurales y Brechas para el Desarrollo Sostenible&quot;.&#xA;">
+    <bounds
+        x="16"
+        y="12"
+        width="213"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
