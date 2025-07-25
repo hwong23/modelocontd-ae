@@ -1395,4 +1395,7 @@
         xsi:type="archimate:Goal"
         href="Goal_id-9e3c0302baaf464da151aad880a6d830.xml#id-9e3c0302baaf464da151aad880a6d830"/>
   </children>
+  <properties
+      key="titulo"
+      value="Objetivos e Iniciativas. PETI SG"/>
 </archimate:ArchimateDiagramModel>

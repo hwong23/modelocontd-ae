@@ -648,4 +648,7 @@
         xsi:type="archimate:Goal"
         href="Goal_id-a661fae362aa46a5a5d4d058b7944add.xml#id-a661fae362aa46a5a5d4d058b7944add"/>
   </children>
+  <properties
+      key="titulo"
+      value="Necesidades y Aplicaciones"/>
 </archimate:ArchimateDiagramModel>

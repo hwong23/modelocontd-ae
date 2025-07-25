@@ -741,4 +741,7 @@
         width="236"
         height="108"/>
   </children>
+  <properties
+      key="titulo"
+      value="SI del Análisis de Entorno"/>
 </archimate:ArchimateDiagramModel>

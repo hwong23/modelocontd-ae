@@ -1107,4 +1107,7 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-de3b4a75f40443379fb2323bb55c138a.xml#id-de3b4a75f40443379fb2323bb55c138a"/>
   </children>
+  <properties
+      key="titulo"
+      value="Oportunidades"/>
 </archimate:ArchimateDiagramModel>

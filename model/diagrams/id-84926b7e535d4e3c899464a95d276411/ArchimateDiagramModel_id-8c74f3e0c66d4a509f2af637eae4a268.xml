@@ -1294,4 +1294,7 @@
         xsi:type="archimate:Requirement"
         href="Requirement_id-2460215ed9de4086ac539fd99d9f786d.xml#id-2460215ed9de4086ac539fd99d9f786d"/>
   </children>
+  <properties
+      key="titulo"
+      value="Preocupaciones (debilidades)"/>
 </archimate:ArchimateDiagramModel>
