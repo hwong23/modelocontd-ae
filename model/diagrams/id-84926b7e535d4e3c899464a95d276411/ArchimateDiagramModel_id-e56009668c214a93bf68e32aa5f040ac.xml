@@ -1101,7 +1101,7 @@
     <bounds
         x="276"
         y="1032"
-        width="120"
+        width="156"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
