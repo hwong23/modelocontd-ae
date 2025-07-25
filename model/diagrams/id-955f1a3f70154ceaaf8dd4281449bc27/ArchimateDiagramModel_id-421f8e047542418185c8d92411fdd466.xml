@@ -85,8 +85,8 @@
         name="labelExpression"
         value="${property:titulo}"/>
     <bounds
-        x="276"
-        y="144"
+        x="144"
+        y="204"
         width="120"
         height="55"/>
     <referencedModel
