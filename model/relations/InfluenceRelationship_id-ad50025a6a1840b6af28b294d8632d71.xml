@@ -1,7 +1,7 @@
 <archimate:InfluenceRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Influye positivamente"
+    name="influye"
     id="id-ad50025a6a1840b6af28b294d8632d71"
     documentation="La gestión de la seguridad de la información (OETI03) influye positivamente en el fortalecimiento de la gobernanza TIC (O2) al asegurar la integridad y confianza en el uso de las TIC.">
   <source

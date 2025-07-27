@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="influye"
+    id="id-0e363e5c798d48b2ad0f7990066a3c85"
+    documentation="El OETI01 está alineado con el Plan Distrital de Desarrollo, especialmente con el objetivo de &quot;Bogotá confía en su gobierno&quot;.">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-b75ca2537df34657bf0e858be8e3e670.xml#id-b75ca2537df34657bf0e858be8e3e670"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-9e7e57f3819047db849e9ef04a3f242d.xml#id-9e7e57f3819047db849e9ef04a3f242d"/>
+</archimate:InfluenceRelationship>

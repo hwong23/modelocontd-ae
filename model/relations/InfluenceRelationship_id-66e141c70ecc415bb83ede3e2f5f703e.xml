@@ -1,13 +1,13 @@
-<archimate:AssociationRelationship
+<archimate:InfluenceRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Alineado con"
-    id="id-7c72a7465f554ecb9ca8c0aadff52ece"
+    name="influye"
+    id="id-66e141c70ecc415bb83ede3e2f5f703e"
     documentation="El OETI02 está alineado con el Plan Distrital de Desarrollo, especialmente con el objetivo de &quot;Bogotá confía en su gobierno&quot; a través de la modernización y mejora de la interacción con el ciudadano.">
   <source
-      xsi:type="archimate:Plateau"
-      href="Plateau_id-b81286a1511f4cd499367182180f0ddb.xml#id-b81286a1511f4cd499367182180f0ddb"/>
+      xsi:type="archimate:Principle"
+      href="Principle_id-b75ca2537df34657bf0e858be8e3e670.xml#id-b75ca2537df34657bf0e858be8e3e670"/>
   <target
       xsi:type="archimate:Goal"
-      href="Goal_id-13c3934dc188447f842bfd7fa291134e.xml#id-13c3934dc188447f842bfd7fa291134e"/>
-</archimate:AssociationRelationship>
+      href="Goal_id-fd4844968a69467c83e0e1da0e4fd44f.xml#id-fd4844968a69467c83e0e1da0e4fd44f"/>
+</archimate:InfluenceRelationship>

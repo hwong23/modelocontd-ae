@@ -1,13 +1,13 @@
-<archimate:AssociationRelationship
+<archimate:InfluenceRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Asociado con"
-    id="id-b9767046da1549c79a8892a7323b3e44"
+    name="influye"
+    id="id-fe74bdedde8e49768a8a4a33861976bc"
     documentation="El Objetivo Estratégico O2 de la Secretaría General busca &quot;Fortalecer la institucionalidad y gobernanza que sirva para impulsar y coordinar el uso de las Tecnologías de la Información y las Comunicaciones TIC&quot;. La OTIC es el principal actor que ejecuta y materializa este objetivo a través de la implementación de la Arquitectura Empresarial, que busca alinear estrategias, procesos y tecnologías para impulsar la transformación digital y fortalecer la gestión pública.">
   <source
-      xsi:type="archimate:Plateau"
-      href="Plateau_id-5137f325d7364db0bc343ace4139ba3e.xml#id-5137f325d7364db0bc343ace4139ba3e"/>
+      xsi:type="archimate:Principle"
+      href="Principle_id-cb68c6722f22456bac310150d5678f7d.xml#id-cb68c6722f22456bac310150d5678f7d"/>
   <target
       xsi:type="archimate:Goal"
       href="Goal_id-f934fe202519444ab5a4389e016fcc28.xml#id-f934fe202519444ab5a4389e016fcc28"/>
-</archimate:AssociationRelationship>
+</archimate:InfluenceRelationship>

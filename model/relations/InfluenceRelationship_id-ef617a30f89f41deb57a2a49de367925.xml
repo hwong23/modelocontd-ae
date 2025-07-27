@@ -1,13 +1,13 @@
-<archimate:AssociationRelationship
+<archimate:InfluenceRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Asociado con"
-    id="id-dd64cac9797948459c89f76f8f647fba"
+    name="influye"
+    id="id-ef617a30f89f41deb57a2a49de367925"
     documentation="La tecnología como habilitador transversal busca optimizar los trámites y servicios ofrecidos a la ciudadanía, contribuyendo al O5.">
   <source
-      xsi:type="archimate:Plateau"
-      href="Plateau_id-5137f325d7364db0bc343ace4139ba3e.xml#id-5137f325d7364db0bc343ace4139ba3e"/>
+      xsi:type="archimate:Principle"
+      href="Principle_id-cb68c6722f22456bac310150d5678f7d.xml#id-cb68c6722f22456bac310150d5678f7d"/>
   <target
       xsi:type="archimate:Goal"
       href="Goal_id-08d0a3e26e6a48cfa49fc0914f5942b9.xml#id-08d0a3e26e6a48cfa49fc0914f5942b9"/>
-</archimate:AssociationRelationship>
+</archimate:InfluenceRelationship>
