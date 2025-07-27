@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiza"
+    id="id-3370267003754503a9a075bf1a8cc7e0"
+    documentation="El OETI02 impulsa la innovación pública habilitando capacidades y promoviendo colaboración (O6).">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-13c3934dc188447f842bfd7fa291134e.xml#id-13c3934dc188447f842bfd7fa291134e"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-e79fa3327114461f8c74521f3de4fe35.xml#id-e79fa3327114461f8c74521f3de4fe35"/>
+</archimate:RealizationRelationship>

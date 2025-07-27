@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asociado con"
+    id="id-58dcf3395f9a4123befff767e7e87910"
+    documentation="La tecnología como habilitador transversal es crucial para fortalecer las capacidades institucionales de la Secretaría General (O7).">
+  <source
+      xsi:type="archimate:Plateau"
+      href="Plateau_id-5137f325d7364db0bc343ace4139ba3e.xml#id-5137f325d7364db0bc343ace4139ba3e"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-420057a3db3f4cc88b8645ee8a26527a.xml#id-420057a3db3f4cc88b8645ee8a26527a"/>
+</archimate:AssociationRelationship>

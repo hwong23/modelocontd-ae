@@ -1,0 +1,13 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiza"
+    id="id-edbeecf9ab044d0585a103f41d7e1c81"
+    documentation="El OETI01 fortalece las capacidades institucionales para la gestión y desempeño (O7).">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-4780038f0aa24faab7ea555021126bee.xml#id-4780038f0aa24faab7ea555021126bee"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-420057a3db3f4cc88b8645ee8a26527a.xml#id-420057a3db3f4cc88b8645ee8a26527a"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Influye positivamente"
+    id="id-fd98fded5e9b4cd1900b3d3caf2c8e5c"
+    documentation="La seguridad digital y continuidad de servicios (OETI03) son fundamentales para fortalecer las capacidades institucionales y la generación de valor público (O7).">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-82f5c98e85bd4038ad25345d8758fb14.xml#id-82f5c98e85bd4038ad25345d8758fb14"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-420057a3db3f4cc88b8645ee8a26527a.xml#id-420057a3db3f4cc88b8645ee8a26527a"/>
+</archimate:InfluenceRelationship>
