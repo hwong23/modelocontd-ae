@@ -11,7 +11,7 @@
         value="${property:titulo}"/>
     <bounds
         x="12"
-        y="24"
+        y="36"
         width="120"
         height="55"/>
     <referencedModel
@@ -20,13 +20,14 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-4ba20ff05ce244c085d6151fdcbc5a95">
+      id="id-4ba20ff05ce244c085d6151fdcbc5a95"
+      fillColor="#7980ff">
     <features
         name="labelExpression"
         value="${property:titulo}"/>
     <bounds
         x="12"
-        y="84"
+        y="108"
         width="120"
         height="55"/>
     <referencedModel
@@ -35,13 +36,14 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-4ebf87310c2f47848f88d6f3c64cbe98">
+      id="id-4ebf87310c2f47848f88d6f3c64cbe98"
+      fillColor="#7980ff">
     <features
         name="labelExpression"
         value="${property:titulo}"/>
     <bounds
         x="144"
-        y="84"
+        y="108"
         width="120"
         height="55"/>
     <referencedModel
@@ -56,7 +58,7 @@
         value="${property:titulo}"/>
     <bounds
         x="12"
-        y="144"
+        y="180"
         width="120"
         height="55"/>
     <referencedModel
@@ -71,7 +73,7 @@
         value="${property:titulo}"/>
     <bounds
         x="144"
-        y="144"
+        y="180"
         width="120"
         height="55"/>
     <referencedModel
@@ -86,7 +88,7 @@
         value="${property:titulo}"/>
     <bounds
         x="144"
-        y="204"
+        y="240"
         width="120"
         height="55"/>
     <referencedModel
@@ -95,13 +97,14 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"
-      id="id-5f283174951342ef9eca0c8376249e5c">
+      id="id-5f283174951342ef9eca0c8376249e5c"
+      fillColor="#ff9300">
     <features
         name="labelExpression"
         value="${property:titulo}"/>
     <bounds
         x="12"
-        y="264"
+        y="348"
         width="120"
         height="55"/>
     <referencedModel
