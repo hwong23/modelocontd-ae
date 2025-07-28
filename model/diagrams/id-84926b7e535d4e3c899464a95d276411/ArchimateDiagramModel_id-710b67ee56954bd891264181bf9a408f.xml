@@ -61,18 +61,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-c6c248f48ad04d1b897201b644312b09"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-af752f19ec0c48af9b7e79afb536a9f6"
-        target="id-5a0b2a9533d34ab3a705d8bf06f47a9e">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-be9cda025958430eb8054fd60d9c02bb.xml#id-be9cda025958430eb8054fd60d9c02bb"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-559cac23a653407cba7c85012a8ab734"
         font="1|Lucida Grande|12.0|0|COCOA|1|"
         fontColor="#000000"
@@ -280,18 +268,6 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ffe0e0">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-4568980287ef46e690f2c0a52c2a3f68"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-1b00ab832dd14867a9366253d99ec6a4"
-        target="id-5a0b2a9533d34ab3a705d8bf06f47a9e">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-7591a3ace6e145c1b5cbcd599394c8b0.xml#id-7591a3ace6e145c1b5cbcd599394c8b0"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-af45cf289c4d417e9a155839bb15c22a"
@@ -1246,18 +1222,6 @@
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-79173871f3974598a99c5a86034c660e.xml#id-79173871f3974598a99c5a86034c660e"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-afffa14372064e2094f94628c543c1dc"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-c515d4d6790d485995b5b97d2558eb6f"
-        target="id-5a0b2a9533d34ab3a705d8bf06f47a9e">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-43128c8b0d3c4e0582bb689952a8103e.xml#id-43128c8b0d3c4e0582bb689952a8103e"/>
-    </sourceConnections>
     <bounds
         x="810"
         y="540"
@@ -1347,7 +1311,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5a0b2a9533d34ab3a705d8bf06f47a9e"
-      targetConnections="id-4568980287ef46e690f2c0a52c2a3f68 id-afffa14372064e2094f94628c543c1dc id-c6c248f48ad04d1b897201b644312b09"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
