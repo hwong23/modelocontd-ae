@@ -1847,22 +1847,6 @@
         xsi:type="archimate:Capability"
         href="Capability_id-89b41c47052a4ed087b25a50edd54c0e.xml#id-89b41c47052a4ed087b25a50edd54c0e"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d864bed5150148a1a635eb6c2a75a9ef"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#ccccff">
-    <bounds
-        x="1068"
-        y="912"
-        width="174"
-        height="70"/>
-    <archimateElement
-        xsi:type="archimate:Goal"
-        href="Goal_id-7ccc533d7aa848ae8c6fb5e0e30a8a90.xml#id-7ccc533d7aa848ae8c6fb5e0e30a8a90"/>
-  </children>
   <properties
       key="titulo"
       value="Objetivos Estratégicos SG-OTIC"/>
