@@ -152,9 +152,9 @@
           href="CompositionRelationship_id-3a891502be8a4f9abf7f0b4a39b1ee3d.xml#id-3a891502be8a4f9abf7f0b4a39b1ee3d"/>
     </sourceConnections>
     <bounds
-        x="1048"
+        x="1080"
         y="1068"
-        width="872"
+        width="840"
         height="360"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -177,7 +177,7 @@
             href="RealizationRelationship_id-d3709212c04c42768186e4833908b202.xml#id-d3709212c04c42768186e4833908b202"/>
       </sourceConnections>
       <bounds
-          x="50"
+          x="24"
           y="120"
           width="180"
           height="72"/>
@@ -218,7 +218,7 @@
             href="RealizationRelationship_id-7591a3ace6e145c1b5cbcd599394c8b0.xml#id-7591a3ace6e145c1b5cbcd599394c8b0"/>
       </sourceConnections>
       <bounds
-          x="636"
+          x="610"
           y="120"
           width="180"
           height="72"/>
@@ -247,7 +247,7 @@
             href="RealizationRelationship_id-07ce7bc1c9854d9a818592921f79b835.xml#id-07ce7bc1c9854d9a818592921f79b835"/>
       </sourceConnections>
       <bounds
-          x="242"
+          x="216"
           y="264"
           width="180"
           height="72"/>
@@ -276,7 +276,7 @@
             href="RealizationRelationship_id-92383ce701e8441a8c3bd86a2a8cf0b5.xml#id-92383ce701e8441a8c3bd86a2a8cf0b5"/>
       </sourceConnections>
       <bounds
-          x="439"
+          x="413"
           y="192"
           width="180"
           height="72"/>
@@ -305,7 +305,7 @@
             href="RealizationRelationship_id-a75124747420408f912587bdcc5d599e.xml#id-a75124747420408f912587bdcc5d599e"/>
       </sourceConnections>
       <bounds
-          x="636"
+          x="610"
           y="48"
           width="180"
           height="72"/>
@@ -334,7 +334,7 @@
             href="RealizationRelationship_id-e95fe6df873c4144a9c906fb1cb2d631.xml#id-e95fe6df873c4144a9c906fb1cb2d631"/>
       </sourceConnections>
       <bounds
-          x="50"
+          x="24"
           y="264"
           width="180"
           height="72"/>
@@ -363,7 +363,7 @@
             href="RealizationRelationship_id-1532018f096e476ebdc50b6bfa6b9a02.xml#id-1532018f096e476ebdc50b6bfa6b9a02"/>
       </sourceConnections>
       <bounds
-          x="636"
+          x="610"
           y="192"
           width="180"
           height="72"/>
@@ -392,7 +392,7 @@
             href="RealizationRelationship_id-24933a0c3cbd4ee180eef0daf28e42e3.xml#id-24933a0c3cbd4ee180eef0daf28e42e3"/>
       </sourceConnections>
       <bounds
-          x="246"
+          x="220"
           y="192"
           width="180"
           height="72"/>
@@ -421,7 +421,7 @@
             href="RealizationRelationship_id-0cb6aa85fc5844568ec1fb06adf92f1e.xml#id-0cb6aa85fc5844568ec1fb06adf92f1e"/>
       </sourceConnections>
       <bounds
-          x="439"
+          x="413"
           y="120"
           width="180"
           height="72"/>
@@ -450,7 +450,7 @@
             href="RealizationRelationship_id-702d72cd64a34de99858c31c6bfe0149.xml#id-702d72cd64a34de99858c31c6bfe0149"/>
       </sourceConnections>
       <bounds
-          x="50"
+          x="24"
           y="48"
           width="180"
           height="72"/>
@@ -479,7 +479,7 @@
             href="RealizationRelationship_id-a67b843d72b04fecbbabafe1394e042a.xml#id-a67b843d72b04fecbbabafe1394e042a"/>
       </sourceConnections>
       <bounds
-          x="246"
+          x="220"
           y="120"
           width="180"
           height="72"/>
@@ -508,7 +508,7 @@
             href="RealizationRelationship_id-4d6568ed67384ecaac644525ba2e09df.xml#id-4d6568ed67384ecaac644525ba2e09df"/>
       </sourceConnections>
       <bounds
-          x="439"
+          x="413"
           y="48"
           width="180"
           height="72"/>
@@ -537,7 +537,7 @@
             href="RealizationRelationship_id-72c240f5b6144a8db04741f654003984.xml#id-72c240f5b6144a8db04741f654003984"/>
       </sourceConnections>
       <bounds
-          x="50"
+          x="24"
           y="192"
           width="180"
           height="72"/>
@@ -566,7 +566,7 @@
             href="RealizationRelationship_id-ece444fc24a74169880d52730e4af998.xml#id-ece444fc24a74169880d52730e4af998"/>
       </sourceConnections>
       <bounds
-          x="246"
+          x="220"
           y="48"
           width="180"
           height="72"/>
@@ -595,7 +595,7 @@
             href="RealizationRelationship_id-3f2164a0a13945ed964010644c6424a8.xml#id-3f2164a0a13945ed964010644c6424a8"/>
       </sourceConnections>
       <bounds
-          x="439"
+          x="413"
           y="264"
           width="180"
           height="72"/>
@@ -636,7 +636,7 @@
             href="RealizationRelationship_id-43128c8b0d3c4e0582bb689952a8103e.xml#id-43128c8b0d3c4e0582bb689952a8103e"/>
       </sourceConnections>
       <bounds
-          x="636"
+          x="610"
           y="264"
           width="180"
           height="72"/>
