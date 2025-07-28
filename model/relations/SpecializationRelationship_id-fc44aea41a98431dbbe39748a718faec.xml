@@ -1,11 +1,14 @@
-<archimate:AggregationRelationship
+<archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-55f31118fbe642d698c5442497cc0f4a">
+    id="id-fc44aea41a98431dbbe39748a718faec">
+  <properties
+      key="destino"
+      value="doc"/>
   <source
       xsi:type="archimate:Goal"
-      href="Goal_id-4780038f0aa24faab7ea555021126bee.xml#id-4780038f0aa24faab7ea555021126bee"/>
+      href="Goal_id-574ce386d83846bd817071f9b402514e.xml#id-574ce386d83846bd817071f9b402514e"/>
   <target
       xsi:type="archimate:Goal"
       href="Goal_id-9e3c0302baaf464da151aad880a6d830.xml#id-9e3c0302baaf464da151aad880a6d830"/>
-</archimate:AggregationRelationship>
+</archimate:SpecializationRelationship>
