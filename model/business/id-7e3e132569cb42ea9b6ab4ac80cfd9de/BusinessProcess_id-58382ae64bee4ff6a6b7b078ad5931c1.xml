@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Procesos de apoyo a la gestión"
     id="id-58382ae64bee4ff6a6b7b078ad5931c1"
-    documentation="Procesos internos que facilitan la operación de la entidad."/>
+    documentation="Procesos internos que facilitan la operación de la entidad.">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:BusinessProcess>

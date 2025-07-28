@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tecnología como Habilitador Transversal (PETI OTIC)"
     id="id-cb68c6722f22456bac310150d5678f7d"
-    documentation="El PETI de la OTIC busca que la tecnología sea un habilitador transversal para una gestión pública más eficiente, inclusiva, transparente y confiable, optimizando los trámites y servicios ofrecidos a la ciudadanía. Para ello, la integración de las tecnologías debe estar alineada con el direccionamiento estratégico y la planeación institucional de la Entidad."/>
+    documentation="El PETI de la OTIC busca que la tecnología sea un habilitador transversal para una gestión pública más eficiente, inclusiva, transparente y confiable, optimizando los trámites y servicios ofrecidos a la ciudadanía. Para ello, la integración de las tecnologías debe estar alineada con el direccionamiento estratégico y la planeación institucional de la Entidad.">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:Principle>

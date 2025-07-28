@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Modelo Operativo del Gobierno de Datos"
     id="id-7f738406275c4377b7936ac83b024de1"
-    documentation="Proyecto para definir e implementar un marco de gobernanza de datos."/>
+    documentation="Proyecto para definir e implementar un marco de gobernanza de datos.">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:WorkPackage>

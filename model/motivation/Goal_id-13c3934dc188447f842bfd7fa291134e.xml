@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="OETI02: Fomentar el uso y la apropiación de las tecnologías de la Cuarta Revolución Industrial (4RI) "
     id="id-13c3934dc188447f842bfd7fa291134e"
-    documentation="Fomentar el uso y la apropiación de las tecnologías de la Cuarta Revolución Industrial (4RI) para impulsar la transformación digital en la Secretaría General, integrando tecnologías emergentes que optimicen los procesos, promuevan la innovación y mejoren la eficiencia en la gestión pública."/>
+    documentation="Fomentar el uso y la apropiación de las tecnologías de la Cuarta Revolución Industrial (4RI) para impulsar la transformación digital en la Secretaría General, integrando tecnologías emergentes que optimicen los procesos, promuevan la innovación y mejoren la eficiencia en la gestión pública.">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:Goal>

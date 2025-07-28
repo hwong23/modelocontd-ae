@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Implementar el Modelo de Gobierno de Datos en el sector de la Gestión Pública"
     id="id-b86aac7e71d2488985d21f74ddf9bb6e"
-    documentation="Proyecto para poner en práctica el marco de gobernanza de datos en el ámbito público."/>
+    documentation="Proyecto para poner en práctica el marco de gobernanza de datos en el ámbito público.">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:WorkPackage>

@@ -4,6 +4,9 @@
     name="influye"
     id="id-fd98fded5e9b4cd1900b3d3caf2c8e5c"
     documentation="La seguridad digital y continuidad de servicios (OETI03) son fundamentales para fortalecer las capacidades institucionales y la generación de valor público (O7).">
+  <properties
+      key="destino"
+      value="doc"/>
   <source
       xsi:type="archimate:Goal"
       href="Goal_id-82f5c98e85bd4038ad25345d8758fb14.xml#id-82f5c98e85bd4038ad25345d8758fb14"/>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mantener los Sistemas de Información y las aplicaciones que apalanquen los procesos misionales y de apoyo a la gestión"
     id="id-f18db722131342388089279a806f0baa"
-    documentation="Actividad continua para asegurar la operatividad y soporte de los sistemas de información clave."/>
+    documentation="Actividad continua para asegurar la operatividad y soporte de los sistemas de información clave.">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:WorkPackage>

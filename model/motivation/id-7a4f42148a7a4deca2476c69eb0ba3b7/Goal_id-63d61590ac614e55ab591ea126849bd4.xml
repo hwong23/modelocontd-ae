@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Impulsar la Transformación Digital"
     id="id-63d61590ac614e55ab591ea126849bd4"
-    documentation="Meta principal del PETI, buscando modernizar la entidad a través de tecnologías digitales. Contiene a la Política de Gobierno Digital."/>
+    documentation="Meta principal del PETI, buscando modernizar la entidad a través de tecnologías digitales. Contiene a la Política de Gobierno Digital.">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:Goal>

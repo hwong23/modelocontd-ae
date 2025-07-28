@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cultura digital enfocada en la transformación de la Entidad"
     id="id-02fd60cbde3b4040b33c22c85d6fdcea"
-    documentation="Meta de fomentar una mentalidad y habilidades digitales dentro de la organización."/>
+    documentation="Meta de fomentar una mentalidad y habilidades digitales dentro de la organización.">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:Goal>

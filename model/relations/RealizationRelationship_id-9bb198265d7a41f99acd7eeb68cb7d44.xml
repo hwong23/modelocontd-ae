@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Realiza"
     id="id-9bb198265d7a41f99acd7eeb68cb7d44">
+  <properties
+      key="destino"
+      value="doc"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_id-e33bf194293246ccacdc3879075c4375.xml#id-e33bf194293246ccacdc3879075c4375"/>

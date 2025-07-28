@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fortalecimiento de los Canales Digitales"
     id="id-126474f0b23647de8b025d3064b0d896"
-    documentation="Iniciativa para mejorar la calidad y alcance de los canales de atención digitales."/>
+    documentation="Iniciativa para mejorar la calidad y alcance de los canales de atención digitales.">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:WorkPackage>

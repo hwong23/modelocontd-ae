@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Objetivos SG"
-    id="id-ab27fd20b2324060bc1bedc3c9ca725a"/>
+    id="id-ab27fd20b2324060bc1bedc3c9ca725a">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:Grouping>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestionar la seguridad de la información y seguridad digital (objetivo estratégico de TI)"
     id="id-cf731d8cdf3146d2a9c8707cf68a9481"
-    documentation="Objetivo de TI para proteger los activos de información y garantizar la ciberseguridad."/>
+    documentation="Objetivo de TI para proteger los activos de información y garantizar la ciberseguridad.">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:Goal>

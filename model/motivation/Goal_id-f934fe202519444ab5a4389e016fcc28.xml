@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="O2: Fortalecer institucionalidad y gobernanza TIC"
     id="id-f934fe202519444ab5a4389e016fcc28"
-    documentation="Fortalecer la institucionalidad y gobernanza para impulsar y coordinar el uso de las Tecnologías de la Información y las Comunicaciones (TIC), con el fin de establecer un marco normativo, habilitar la infraestructura, promover el talento digital y crear procesos eficientes para la prestación de servicios ciudadanos y la transformación de la administración pública."/>
+    documentation="Fortalecer la institucionalidad y gobernanza para impulsar y coordinar el uso de las Tecnologías de la Información y las Comunicaciones (TIC), con el fin de establecer un marco normativo, habilitar la infraestructura, promover el talento digital y crear procesos eficientes para la prestación de servicios ciudadanos y la transformación de la administración pública.">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:Goal>

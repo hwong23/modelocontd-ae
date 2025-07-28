@@ -4,6 +4,9 @@
     name="influye"
     id="id-0e2a131ef8b1409f9e1cae647ce8cb3d"
     documentation="La tecnología como habilitador transversal es crucial para fortalecer las capacidades institucionales de la Secretaría General (O7).">
+  <properties
+      key="destino"
+      value="doc"/>
   <source
       xsi:type="archimate:Principle"
       href="Principle_id-cb68c6722f22456bac310150d5678f7d.xml#id-cb68c6722f22456bac310150d5678f7d"/>

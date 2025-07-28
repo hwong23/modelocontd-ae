@@ -4,6 +4,9 @@
     name="influye"
     id="id-ad50025a6a1840b6af28b294d8632d71"
     documentation="La gestión de la seguridad de la información (OETI03) influye positivamente en el fortalecimiento de la gobernanza TIC (O2) al asegurar la integridad y confianza en el uso de las TIC.">
+  <properties
+      key="destino"
+      value="doc"/>
   <source
       xsi:type="archimate:Goal"
       href="Goal_id-82f5c98e85bd4038ad25345d8758fb14.xml#id-82f5c98e85bd4038ad25345d8758fb14"/>

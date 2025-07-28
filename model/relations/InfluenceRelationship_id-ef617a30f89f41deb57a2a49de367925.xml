@@ -4,6 +4,9 @@
     name="influye"
     id="id-ef617a30f89f41deb57a2a49de367925"
     documentation="La tecnología como habilitador transversal busca optimizar los trámites y servicios ofrecidos a la ciudadanía, contribuyendo al O5.">
+  <properties
+      key="destino"
+      value="doc"/>
   <source
       xsi:type="archimate:Principle"
       href="Principle_id-cb68c6722f22456bac310150d5678f7d.xml#id-cb68c6722f22456bac310150d5678f7d"/>

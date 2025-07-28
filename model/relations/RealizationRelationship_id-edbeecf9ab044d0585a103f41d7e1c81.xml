@@ -4,6 +4,9 @@
     name="Realiza"
     id="id-edbeecf9ab044d0585a103f41d7e1c81"
     documentation="El OETI01 fortalece las capacidades institucionales para la gestión y desempeño (O7).">
+  <properties
+      key="destino"
+      value="doc"/>
   <source
       xsi:type="archimate:Goal"
       href="Goal_id-4780038f0aa24faab7ea555021126bee.xml#id-4780038f0aa24faab7ea555021126bee"/>

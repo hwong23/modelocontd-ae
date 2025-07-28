@@ -4,6 +4,9 @@
     name="Realiza"
     id="id-b9ee74c95c08409182be0b0aa73422ff"
     documentation="El OETI02 mejora el relacionamiento ciudadano a través de la modernización de canales y oferta institucional (O5).">
+  <properties
+      key="destino"
+      value="doc"/>
   <source
       xsi:type="archimate:Goal"
       href="Goal_id-13c3934dc188447f842bfd7fa291134e.xml#id-13c3934dc188447f842bfd7fa291134e"/>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fortalecer la Gestión Pública"
     id="id-9e3c0302baaf464da151aad880a6d830"
-    documentation="Objetivo de TI de alto nivel optimizar (mejorar la eficiencia y eficacia) los procesos y servicios de la administración pública.&#xA;"/>
+    documentation="Objetivo de TI de alto nivel optimizar (mejorar la eficiencia y eficacia) los procesos y servicios de la administración pública.&#xA;">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:Goal>

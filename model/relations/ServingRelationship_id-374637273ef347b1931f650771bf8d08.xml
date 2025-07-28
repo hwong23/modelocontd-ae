@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sirve"
     id="id-374637273ef347b1931f650771bf8d08">
+  <properties
+      key="destino"
+      value="doc"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_id-8104f405cad848469e897f9fee7d3575.xml#id-8104f405cad848469e897f9fee7d3575"/>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="O6: Fortalecer innovación pública"
     id="id-e79fa3327114461f8c74521f3de4fe35"
-    documentation="Fortalecer los procesos de innovación pública en las entidades distritales, facilitando habilitadores, desarrollando capacidades en intraemprendimiento, promoviendo el trabajo colaborativo y la articulación entre actores públicos y privados."/>
+    documentation="Fortalecer los procesos de innovación pública en las entidades distritales, facilitando habilitadores, desarrollando capacidades en intraemprendimiento, promoviendo el trabajo colaborativo y la articulación entre actores públicos y privados.">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:Goal>

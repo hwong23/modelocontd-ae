@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="O9: Promover uso social patrimonio documental"
     id="id-f8b7854a2dd14d39860ba74aafc10a70"
-    documentation="Promover la apropiación y uso social del patrimonio documental del Distrito Capital, mediante su protección, conservación, adecuada gestión y fácil acceso por parte de la ciudadanía."/>
+    documentation="Promover la apropiación y uso social del patrimonio documental del Distrito Capital, mediante su protección, conservación, adecuada gestión y fácil acceso por parte de la ciudadanía.">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:Goal>
