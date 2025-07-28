@@ -1,0 +1,122 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Contexto de Arquitectura de Sistemas de Información SG</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Contexto de Arquitectura de Sistemas de Informaci&#243;n SG</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-BusinessObject"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-BusinessObject" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Desde el dominio de aplicaciones y sistemas de informaci&#243;n de la Secretar&#237;a General, llamada en adelante &#8220;la arquitectura de sistemas de Informaci&#243;n de SG&#8221;, buscamos adelantar las especificaciones de las arquitecturas objetivo de los sistemas de informaci&#243;n de $CLIENTE que soporten la arquitectura de negocio y datos, en l&#237;nea y dentro del alcance de la visi&#243;n establecida en el primer entregable de este ejercicio de arquitectura empresarial de SG (AESG).
+
+En particular, la arquitectura de sistemas de informaci&#243;n de SG se plantea, dentro del alcance de la visi&#243;n del ejercicio:
+
+* Definir la arquitectura de las aplicaciones (SI) necesarias para soportar los procesos de negocio de SG.
+* Identificar las funciones de negocio que deben ser soportadas por las aplicaciones de SG.
+* Establecer la interacci&#243;n y el flujo de informaci&#243;n entre las diferentes aplicaciones de SG.
+* Considerar aspectos sist&#233;micos como la escalabilidad, el rendimiento, la mantenibilidad y la seguridad de las aplicaciones de SG.
+* Listar los capacidades de negocio (servicios de aplicaci&#243;n) relacionadas con las arquitecturas de aplicaciones de SG.
+
+De esta manera, la arquitectura de sistemas de SG contribuye a la consecuci&#243;n de la visi&#243;n de este ejercicio de arquitectura empresarial SG (AESG); y en lo espec&#237;fico, contribuye a los fines de la arquitectura de negocio y tecnol&#243;gica de SG, a delinear oportunidades y soluciones, y a soportar la planeaci&#243;n de la migraci&#243;n. Todo lo anterior dentro del alcance consignado en este ejercicio.
+
+#### Alcance
+El presente ejercicio de la arquitectura dominio de aplicaciones toma como alcance horizontal las &#225;reas o unidades siguientes de la SG (_fuente: sesiones de levantamiento, entrevistas, y cuestionarios compartidos en el mes de julio del 2025, junto con la recopilaci&#243;n estructurada de las fuentes de informaci&#243;n y organigramas_):
+
+Unidades de negocio del alcance del dominio:
+
+* Secretar&#237;a Privada
+    * Oficina Consejer&#237;a Distrital de Comunicaci&#243;n. C&#233;sar Augusto Castro Rodr&#237;guez
+    * Oficina Consejer&#237;a Distrital de Tecnolog&#237;as de la Informaci&#243;n y las Comunicaciones -TIC. Diana Celis Mora
+* Despacho del Secretario General. Miguel Andr&#233;s Silva Moyano
+    * Oficina de Tecnolog&#237;as de la Informaci&#243;n y las Comunicaciones. Arleth Patricia Saurith Contreras
+    * Subsecretar&#237;a Distrital de Fortalecimiento Institucional. Alejandra Rodas Gaiter
+        * Direcci&#243;n Distrital de Desarrollo Institucional. Sebastian Estrada Jaramillo
+            * Subdirecci&#243;n T&#233;cnica de Desarrollo Institucional. Diego Canesco Arenas
+    * Subsecretar&#237;a de Servicio a la Ciudadan&#237;a . Adriana Vargas Tamayo
+        * Direcci&#243;n del Sistema Distrital de Servicio a la Ciudadan&#237;a. Enrique Cusba Garc&#237;a
+    * Subsecretar&#237;a Corporativa. Henry Villamar&#237;n Serrano
+    * Subsecreatar&#237;a de Servicios Ciudadanos (&#8230;)
+    * Subsecreatar&#237;a de Inversi&#243;n y FF (&#8230;)
+    * Subsecreatar&#237;a de Operaciones
+    * Subsecreatar&#237;a de Relaciones Internacionales (&#8230;)
+
+En cuanto al alcance vertical, las aplicaciones de software que est&#225;n consignadas en este ejercicio son las siguientes (_fuente: sesiones de levantamiento, entrevistas, y cuestionarios compartidos en el mes de julio del 2025, junto con la recopilaci&#243;n estructurada de las fuentes de informaci&#243;n_):
+
+* ADMON: Se relaciona con la gesti&#243;n financiera, gesti&#243;n de servicios administrativos y tecnol&#243;gicos, y gesti&#243;n de recursos f&#237;sicos45.
+* Administrativo y Financiero: Soporta la gesti&#243;n financiera, gesti&#243;n de servicios administrativos y tecnol&#243;gicos, y gesti&#243;n de recursos f&#237;sicos
+* Bogot&#225; Te Escucha: Es fundamental para el proceso de Gobierno abierto y relacionamiento con la ciudadan&#237;a5. Tambi&#233;n se menciona como el Sistema Distrital para la Gesti&#243;n de Peticiones Ciudadanas, a trav&#233;s del cual se eval&#250;a la calidad de las respuestas emitidas a la ciudadan&#237;a
+* Bogot&#225; Aprende TIC: Apoya los procesos de Gobierno abierto y relacionamiento con la ciudadan&#237;a, y Fortalecimiento de la Gesti&#243;n P&#250;blica
+* DARUMA: Se utiliza en el proceso de Fortalecimiento de la Gesti&#243;n P&#250;blica5. Tambi&#233;n es el aplicativo donde se encuentran definidas las fichas t&#233;cnicas de productos y servicios de la Secretar&#237;a General8 y se gestionan los riesgos estrat&#233;gicos
+* SIGA: Interviene en la gesti&#243;n de contrataci&#243;n, gesti&#243;n financiera, gesti&#243;n de servicios administrativos y tecnol&#243;gicos, y gesti&#243;n de recursos f&#237;sicos
+* SAT Web: Relacionado con la gesti&#243;n de servicios administrativos y tecnol&#243;gicos
+* GLOBO: Utilizado en el proceso de Fortalecimiento de la Gesti&#243;n P&#250;blica
+* Datos para la Transparencia (SATI): Soporta el proceso de Gobierno abierto y relacionamiento con la ciudadan&#237;a
+* SUDIVC: Se aplica en los procesos de Gobierno abierto y relacionamiento con la ciudadan&#237;a, Paz, v&#237;ctimas y reconciliaci&#243;n, y Fortalecimiento de la Gesti&#243;n P&#250;blica
+* HUMANAPP: Apoya la gesti&#243;n del talento humano
+* SIAB (El COFRE): Utilizado en los procesos de Gobierno abierto y relacionamiento con la ciudadan&#237;a, y Fortalecimiento de la Gesti&#243;n P&#250;blica
+* KOHA: Relacionado con la Gesti&#243;n del conocimiento
+* SIVIC: Interviene en los procesos de Paz, v&#237;ctimas y reconciliaci&#243;n, y Fortalecimiento de la Gesti&#243;n P&#250;blica
+* Data Warehouse AVANTI: Apoya la Gesti&#243;n del conocimiento
+* Gesti&#243;n Acad&#233;mica: Relacionado con la Gesti&#243;n del conocimiento
+* EMLAZE: Utilizado en los procesos de Gobierno abierto y relacionamiento con la ciudadan&#237;a, y Fortalecimiento de la Gesti&#243;n P&#250;blica
+* GLPI: Soporta la gesti&#243;n de servicios administrativos y tecnol&#243;gicos
+* GitLab: Se relaciona con la Gesti&#243;n de alianzas e internacionalizaci&#243;n de Bogot&#225;
+</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
