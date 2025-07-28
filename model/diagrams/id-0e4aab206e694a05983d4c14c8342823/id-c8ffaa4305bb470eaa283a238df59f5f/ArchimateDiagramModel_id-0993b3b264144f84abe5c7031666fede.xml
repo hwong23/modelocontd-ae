@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="03. Entregables de la Vision"
+    name="03. Entregables Vision"
     id="id-0993b3b264144f84abe5c7031666fede">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -161,4 +161,6 @@
   <properties
       key="IncluyeElementosSindoc"
       value="false"/>
+  <properties
+      key="plantillaElm"/>
 </archimate:ArchimateDiagramModel>

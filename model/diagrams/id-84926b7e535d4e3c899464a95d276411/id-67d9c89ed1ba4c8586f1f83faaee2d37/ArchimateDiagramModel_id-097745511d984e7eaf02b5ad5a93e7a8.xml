@@ -874,4 +874,7 @@
   <properties
       key="titulo"
       value="SI del Análisis de Entorno"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
 </archimate:ArchimateDiagramModel>

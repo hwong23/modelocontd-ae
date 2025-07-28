@@ -1106,4 +1106,7 @@
   <properties
       key="titulo"
       value="Oportunidades"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
 </archimate:ArchimateDiagramModel>

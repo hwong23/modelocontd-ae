@@ -651,4 +651,7 @@
   <properties
       key="titulo"
       value="Necesidades y Aplicaciones"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
 </archimate:ArchimateDiagramModel>

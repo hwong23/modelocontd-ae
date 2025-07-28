@@ -1297,4 +1297,7 @@
   <properties
       key="titulo"
       value="Preocupaciones (debilidades)"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
 </archimate:ArchimateDiagramModel>

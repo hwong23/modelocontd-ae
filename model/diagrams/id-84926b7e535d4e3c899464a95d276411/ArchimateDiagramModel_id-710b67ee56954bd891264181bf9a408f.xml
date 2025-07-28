@@ -1398,4 +1398,7 @@
   <properties
       key="titulo"
       value="Objetivos e Iniciativas. PETI SG"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
 </archimate:ArchimateDiagramModel>
