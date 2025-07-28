@@ -1782,4 +1782,10 @@
   <properties
       key="IncluyeElementosSindoc"
       value="false"/>
+  <properties
+      key="alias"
+      value="123estrategia"/>
+  <properties
+      key="devdoc"
+      value="123.estrategia.md"/>
 </archimate:ArchimateDiagramModel>
