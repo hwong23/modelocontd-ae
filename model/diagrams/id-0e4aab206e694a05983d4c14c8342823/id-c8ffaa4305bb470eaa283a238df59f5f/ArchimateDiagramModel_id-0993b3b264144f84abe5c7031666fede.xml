@@ -161,6 +161,4 @@
   <properties
       key="IncluyeElementosSindoc"
       value="false"/>
-  <properties
-      key="plantillaElm"/>
 </archimate:ArchimateDiagramModel>
