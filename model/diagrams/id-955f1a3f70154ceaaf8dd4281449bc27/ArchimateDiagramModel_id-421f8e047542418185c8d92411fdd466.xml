@@ -115,6 +115,9 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-e9fd135fa8e745f194df0167169837bf"
       fillColor="#7980ff">
+    <features
+        name="labelExpression"
+        value="${property:titulo}&#xA;"/>
     <bounds
         x="228"
         y="108"
