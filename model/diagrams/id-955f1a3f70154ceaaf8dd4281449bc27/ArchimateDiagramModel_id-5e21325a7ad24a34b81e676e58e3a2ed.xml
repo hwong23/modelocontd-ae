@@ -120,6 +120,21 @@
         y="564"
         width="529"
         height="312"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-ddd437cd8e7149b0956317003ae5630c">
+      <features
+          name="labelExpression"
+          value="${property:titulo}"/>
+      <bounds
+          x="12"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-097745511d984e7eaf02b5ad5a93e7a8.xml#id-097745511d984e7eaf02b5ad5a93e7a8"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-7a46c8ad05e04437a563db01b3706959.xml#id-7a46c8ad05e04437a563db01b3706959"/>

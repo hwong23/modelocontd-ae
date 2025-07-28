@@ -21,7 +21,7 @@
           value="${property:titulo}&#xA;"/>
       <bounds
           x="228"
-          y="96"
+          y="108"
           width="109"
           height="55"/>
       <referencedModel
@@ -36,7 +36,7 @@
           value="${property:titulo}"/>
       <bounds
           x="12"
-          y="24"
+          y="36"
           width="120"
           height="55"/>
       <referencedModel
@@ -51,7 +51,7 @@
           value="${property:titulo}"/>
       <bounds
           x="12"
-          y="168"
+          y="180"
           width="120"
           height="55"/>
       <referencedModel
@@ -67,7 +67,7 @@
           value="${property:titulo}"/>
       <bounds
           x="120"
-          y="96"
+          y="108"
           width="109"
           height="55"/>
       <referencedModel
@@ -82,7 +82,7 @@
           value="${property:titulo}"/>
       <bounds
           x="131"
-          y="222"
+          y="234"
           width="120"
           height="55"/>
       <referencedModel
@@ -98,7 +98,7 @@
           value="${property:titulo}"/>
       <bounds
           x="12"
-          y="96"
+          y="108"
           width="109"
           height="55"/>
       <referencedModel
@@ -113,7 +113,7 @@
           value="${property:titulo}"/>
       <bounds
           x="131"
-          y="168"
+          y="180"
           width="120"
           height="55"/>
       <referencedModel
@@ -129,7 +129,7 @@
           value="${property:titulo}"/>
       <bounds
           x="12"
-          y="324"
+          y="336"
           width="120"
           height="55"/>
       <referencedModel

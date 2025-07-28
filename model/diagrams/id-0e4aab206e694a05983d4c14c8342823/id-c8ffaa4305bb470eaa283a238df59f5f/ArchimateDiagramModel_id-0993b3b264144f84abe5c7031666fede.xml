@@ -151,7 +151,7 @@
   </children>
   <properties
       key="alias"
-      value="visio.entregables"/>
+      value="vision.entregables"/>
   <properties
       key="plantillaElm"
       value="elementsimple-sintit-md,elementsimple-filatit-md"/>
