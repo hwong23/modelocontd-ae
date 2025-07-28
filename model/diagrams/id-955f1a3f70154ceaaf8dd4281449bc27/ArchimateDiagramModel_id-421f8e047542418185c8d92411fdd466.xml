@@ -142,7 +142,7 @@
   </children>
   <properties
       key="alias"
-      value="conjunto.aplicaciones.no"/>
+      value="conjunto.aplicaciones"/>
   <properties
       key="devdoc"
       value="02.doctecnica-domaplicaciones.md"/>
