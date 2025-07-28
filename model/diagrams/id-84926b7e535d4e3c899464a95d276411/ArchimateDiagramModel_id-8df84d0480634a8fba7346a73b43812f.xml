@@ -7,6 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9e44123b84494f1db08e477ed05dadd2"
+      targetConnections="id-6653cfac2f744f9a87602ef6d5bacb11"
       textAlignment="1"
       type="1">
     <sourceConnections
@@ -1747,6 +1748,30 @@
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-b75ca2537df34657bf0e858be8e3e670.xml#id-b75ca2537df34657bf0e858be8e3e670"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-65b494873c33477498479d082b6eaf5d"
+      textAlignment="1"
+      fillColor="#7c8f5c"
+      type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6653cfac2f744f9a87602ef6d5bacb11"
+        source="id-65b494873c33477498479d082b6eaf5d"
+        target="id-9e44123b84494f1db08e477ed05dadd2">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-374637273ef347b1931f650771bf8d08.xml#id-374637273ef347b1931f650771bf8d08"/>
+    </sourceConnections>
+    <bounds
+        x="660"
+        y="1440"
+        width="900"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-8104f405cad848469e897f9fee7d3575.xml#id-8104f405cad848469e897f9fee7d3575"/>
   </children>
   <properties
       key="titulo"
