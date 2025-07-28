@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="02.Conjunto. Dominio Aplicaciones SG"
-    id="id-421f8e047542418185c8d92411fdd466">
+    id="id-421f8e047542418185c8d92411fdd466"
+    documentation="Secretaría General de Bogotá">
   <children
       xsi:type="archimate:DiagramModelReference"
       id="id-4432f24387bc4cf6a2fdf361c6880d0e">
@@ -138,5 +139,5 @@
       value="true"/>
   <properties
       key="titulo"
-      value="Documetnación Dominio de Aplicaciones"/>
+      value="Documentación Dominio de Aplicaciones"/>
 </archimate:ArchimateDiagramModel>
