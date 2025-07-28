@@ -149,8 +149,8 @@
         lineColor="#5c5c5c"
         fillColor="#ccccff">
       <bounds
-          x="625"
-          y="312"
+          x="626"
+          y="288"
           width="174"
           height="70"/>
       <archimateElement
@@ -175,8 +175,8 @@
             href="SpecializationRelationship_id-96dc474309a449ed99afbe1e1f55b594.xml#id-96dc474309a449ed99afbe1e1f55b594"/>
       </sourceConnections>
       <bounds
-          x="25"
-          y="312"
+          x="26"
+          y="288"
           width="174"
           height="70"/>
       <archimateElement
@@ -201,8 +201,8 @@
             href="SpecializationRelationship_id-df78dc307890431db1f6991ef54d74ee.xml#id-df78dc307890431db1f6991ef54d74ee"/>
       </sourceConnections>
       <bounds
-          x="425"
-          y="226"
+          x="426"
+          y="202"
           width="174"
           height="70"/>
       <archimateElement
@@ -218,8 +218,8 @@
         lineColor="#5c5c5c"
         fillColor="#ccccff">
       <bounds
-          x="624"
-          y="396"
+          x="625"
+          y="372"
           width="174"
           height="70"/>
       <archimateElement
@@ -324,8 +324,8 @@
         lineColor="#5c5c5c"
         fillColor="#ccccff">
       <bounds
-          x="425"
-          y="312"
+          x="426"
+          y="288"
           width="174"
           height="70"/>
       <archimateElement
@@ -341,8 +341,8 @@
         lineColor="#5c5c5c"
         fillColor="#ccccff">
       <bounds
-          x="624"
-          y="226"
+          x="625"
+          y="202"
           width="174"
           height="70"/>
       <archimateElement
@@ -358,8 +358,8 @@
         lineColor="#5c5c5c"
         fillColor="#ccccff">
       <bounds
-          x="225"
-          y="312"
+          x="226"
+          y="288"
           width="174"
           height="70"/>
       <archimateElement
@@ -375,8 +375,8 @@
         lineColor="#5c5c5c"
         fillColor="#ccccff">
       <bounds
-          x="25"
-          y="228"
+          x="26"
+          y="204"
           width="174"
           height="70"/>
       <archimateElement
@@ -545,7 +545,7 @@
       <bounds
           x="25"
           y="469"
-          width="638"
+          width="840"
           height="240"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
