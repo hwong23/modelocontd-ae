@@ -160,7 +160,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-42df75f1e5b34765953a48136d7873bb"
-        targetConnections="id-eb86cf3887b44e56aa21cadf1db5abea id-db9a802c58d5499db0a6b82aaa3f4c76 id-f63db84105d04b23889465ffe0cc545a id-fd93b9d00ec5471d960eaa34b3a8f1d4"
+        targetConnections="id-eb86cf3887b44e56aa21cadf1db5abea id-f63db84105d04b23889465ffe0cc545a id-fd93b9d00ec5471d960eaa34b3a8f1d4"
         font="1|Lucida Grande|12.0|0|COCOA|1|"
         fontColor="#000000"
         lineColor="#5c5c5c"
@@ -248,18 +248,6 @@
         fillColor="#ccccff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-3aab062c460d418c940ed597e4ff58ea"
-          font="1|Lucida Grande|12.0|0|COCOA|1|"
-          fontColor="#000000"
-          lineColor="#000000"
-          source="id-47f8f37d83924158b5ef473b5654a727"
-          target="id-12cfbc555ffb43fababc290267c08aa3">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-1fd036ed3dbf491bbb2842c9146aa9be.xml#id-1fd036ed3dbf491bbb2842c9146aa9be"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-db426c896eb74d25b9909698e154061b"
           font="1|Lucida Grande|12.0|0|COCOA|1|"
           fontColor="#000000"
@@ -281,18 +269,6 @@
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-d1fd378943c64539b0cd3006080f1feb.xml#id-d1fd378943c64539b0cd3006080f1feb"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-db9a802c58d5499db0a6b82aaa3f4c76"
-          font="1|Lucida Grande|12.0|0|COCOA|1|"
-          fontColor="#000000"
-          lineColor="#000000"
-          source="id-47f8f37d83924158b5ef473b5654a727"
-          target="id-42df75f1e5b34765953a48136d7873bb">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-49d1e321dd2346a29dc4fe5faf80d57d.xml#id-49d1e321dd2346a29dc4fe5faf80d57d"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -369,11 +345,23 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-12cfbc555ffb43fababc290267c08aa3"
-        targetConnections="id-3aab062c460d418c940ed597e4ff58ea id-c2c315a49f9c4eba9497d4309b206cce"
+        targetConnections="id-c2c315a49f9c4eba9497d4309b206cce"
         font="1|Lucida Grande|12.0|0|COCOA|1|"
         fontColor="#000000"
         lineColor="#5c5c5c"
         fillColor="#ccccff">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-3aab062c460d418c940ed597e4ff58ea"
+          font="1|Lucida Grande|12.0|0|COCOA|1|"
+          fontColor="#000000"
+          lineColor="#000000"
+          source="id-12cfbc555ffb43fababc290267c08aa3"
+          target="id-82570fac1ef9460f95d40f0a741e6af4">
+        <archimateRelationship
+            xsi:type="archimate:SpecializationRelationship"
+            href="SpecializationRelationship_id-c03f41f321b34244b4ab0ae3b94c1b63.xml#id-c03f41f321b34244b4ab0ae3b94c1b63"/>
+      </sourceConnections>
       <bounds
           x="26"
           y="204"
@@ -386,7 +374,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-82570fac1ef9460f95d40f0a741e6af4"
-        targetConnections="id-9ec2f89e089243a1aee19b4f0dce3363 id-fc64f17a8fe245f2ad3d851151225985 id-ca641ec6df8b4767934f8525a7b75425 id-998e6f977f8945e3a62b5b34ce2d2a4b id-8e419a2bd3cc47188cbebfc37d9c9d93"
+        targetConnections="id-9ec2f89e089243a1aee19b4f0dce3363 id-fc64f17a8fe245f2ad3d851151225985 id-ca641ec6df8b4767934f8525a7b75425 id-998e6f977f8945e3a62b5b34ce2d2a4b id-8e419a2bd3cc47188cbebfc37d9c9d93 id-3aab062c460d418c940ed597e4ff58ea"
         font="1|Lucida Grande|12.0|0|COCOA|1|"
         fontColor="#000000"
         lineColor="#5c5c5c"
