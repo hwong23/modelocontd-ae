@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="02.Conjunto. Dominio Aplicaciones SG"
+    name="03.Conjunto. Dominio Aplicaciones SG"
     id="id-421f8e047542418185c8d92411fdd466"
     documentation="Secretaría General de Bogotá">
   <children
@@ -21,7 +21,7 @@
       <bounds
           x="12"
           y="36"
-          width="120"
+          width="111"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
@@ -29,124 +29,15 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-ad8661780fa2418aa5c4163fd9edbca3"
-        fillColor="#fef296">
-      <features
-          name="labelExpression"
-          value="${property:titulo}"/>
-      <bounds
-          x="12"
-          y="180"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-73084877ba5b4f859a7aa197be93b750.xml#id-73084877ba5b4f859a7aa197be93b750"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-4ebf87310c2f47848f88d6f3c64cbe98"
-        fillColor="#7980ff">
-      <features
-          name="labelExpression"
-          value="${property:titulo}"/>
-      <bounds
-          x="120"
-          y="108"
-          width="109"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-cc506af7ae2e4eadbe0ef317bcdce54d.xml#id-cc506af7ae2e4eadbe0ef317bcdce54d"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-4ed723bf07074c7cbee2f99a66180a9a"
-        fillColor="#fef296">
-      <features
-          name="labelExpression"
-          value="${property:titulo}"/>
-      <bounds
-          x="131"
-          y="234"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-e56009668c214a93bf68e32aa5f040ac.xml#id-e56009668c214a93bf68e32aa5f040ac"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-4ba20ff05ce244c085d6151fdcbc5a95"
-        fillColor="#7980ff">
-      <features
-          name="labelExpression"
-          value="${property:titulo}"/>
-      <bounds
-          x="12"
-          y="108"
-          width="109"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-710b67ee56954bd891264181bf9a408f.xml#id-710b67ee56954bd891264181bf9a408f"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-8f8f45c7f73f49ff90a97ad784f71f35"
-        fillColor="#fef296">
-      <features
-          name="labelExpression"
-          value="${property:titulo}"/>
-      <bounds
-          x="131"
-          y="180"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-8c74f3e0c66d4a509f2af637eae4a268.xml#id-8c74f3e0c66d4a509f2af637eae4a268"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-5f283174951342ef9eca0c8376249e5c"
-        fillColor="#ff9300">
-      <features
-          name="labelExpression"
-          value="${property:titulo}"/>
-      <bounds
-          x="12"
-          y="336"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-0993b3b264144f84abe5c7031666fede.xml#id-0993b3b264144f84abe5c7031666fede"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-9610b7b11f5f49148586e01aec3fc919"
-        fillColor="#7980ff">
+        id="id-68ede1bf96eb4540a5960b7e216918d8">
       <bounds
           x="228"
-          y="108"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-b8b0ab13210747768416c9981a70a62a.xml#id-b8b0ab13210747768416c9981a70a62a"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-ca932285ca204e2a8e0b2e3ac98191b7">
-      <bounds
-          x="131"
           y="36"
-          width="120"
+          width="111"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-ae380c2e676e4dc0bbeaa6ac1a2407a6.xml#id-ae380c2e676e4dc0bbeaa6ac1a2407a6"/>
+          href="ArchimateDiagramModel_id-7812cd6a3a0d4d5783b00f16f2c5826b.xml#id-7812cd6a3a0d4d5783b00f16f2c5826b"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -154,10 +45,10 @@
   </children>
   <properties
       key="alias"
-      value="conjunto.aplicaciones"/>
+      value="conjunto.app"/>
   <properties
       key="devdoc"
-      value="02.doctecnica-domaplicaciones.md"/>
+      value="03.doctec-domaplicaciones.md"/>
   <properties
       key="DocumentosIndividualesxVista"
       value="true"/>
