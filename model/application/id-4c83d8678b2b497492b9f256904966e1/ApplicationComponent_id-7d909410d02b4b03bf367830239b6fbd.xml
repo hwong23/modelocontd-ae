@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PANDORA"
     id="id-7d909410d02b4b03bf367830239b6fbd"
-    documentation="Implementación de temas precontractual y planeación."/>
+    documentation="Implementación de temas precontractual y planeación.">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>

@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Datos para la Transparencia (SATI)"
-    id="id-04b44092a7c0480c8460cfd44996f123"/>
+    id="id-04b44092a7c0480c8460cfd44996f123">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>

@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GLPI"
-    id="id-6a3393cc1a534fc0a9ef87f6b35ee33a"/>
+    id="id-6a3393cc1a534fc0a9ef87f6b35ee33a">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>

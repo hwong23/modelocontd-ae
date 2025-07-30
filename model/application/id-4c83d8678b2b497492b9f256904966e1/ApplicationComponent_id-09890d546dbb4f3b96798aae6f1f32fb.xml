@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Chat-Bot"
-    id="id-09890d546dbb4f3b96798aae6f1f32fb"/>
+    id="id-09890d546dbb4f3b96798aae6f1f32fb">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>

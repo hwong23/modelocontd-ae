@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MoviApp"
     id="id-cf97debe809a4591bd8856dbb8467e96"
-    documentation="Sesión levantamiento no. 2."/>
+    documentation="Sesión levantamiento no. 2.">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>

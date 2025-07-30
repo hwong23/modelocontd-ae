@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="EMLAZE"
-    id="id-b8463d8a081646cbaab64889aa1ba5f1"/>
+    id="id-b8463d8a081646cbaab64889aa1ba5f1">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>

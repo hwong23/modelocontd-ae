@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Comisiones"
     id="id-455970035f064569928799fafa872460"
-    documentation="Sesión levantamiento no. 1.&#xA;"/>
+    documentation="Sesión levantamiento no. 1.&#xA;">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>

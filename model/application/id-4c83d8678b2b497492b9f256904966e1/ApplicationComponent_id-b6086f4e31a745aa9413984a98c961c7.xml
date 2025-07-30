@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DARUMA"
-    id="id-b6086f4e31a745aa9413984a98c961c7"/>
+    id="id-b6086f4e31a745aa9413984a98c961c7">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>
