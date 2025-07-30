@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SIVIC"
-    id="id-2a5ff515382f4d64a422a29dd7903385">
+    id="id-2a5ff515382f4d64a422a29dd7903385"
+    documentation="Interviene en los procesos de Paz, víctimas y reconciliación, y Fortalecimiento de la Gestión Pública.&#xA;">
   <properties
       key="destino"
       value="doc"/>

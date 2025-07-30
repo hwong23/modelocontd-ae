@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SAT Web"
-    id="id-6a822060471a4586add62843106e8b21">
+    id="id-6a822060471a4586add62843106e8b21"
+    documentation="Relacionado con la gestión de servicios administrativos y tecnológicos.&#xA;">
   <properties
       key="destino"
       value="doc"/>

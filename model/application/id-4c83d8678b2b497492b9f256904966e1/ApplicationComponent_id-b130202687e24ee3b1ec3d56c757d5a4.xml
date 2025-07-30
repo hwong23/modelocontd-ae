@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SIGA"
-    id="id-b130202687e24ee3b1ec3d56c757d5a4">
+    id="id-b130202687e24ee3b1ec3d56c757d5a4"
+    documentation="Interviene en la gestión de contratación, gestión financiera, gestión de servicios administrativos y tecnológicos, y gestión de recursos físicos.&#xA;">
   <properties
       key="destino"
       value="doc"/>

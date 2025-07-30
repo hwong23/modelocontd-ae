@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Warehouse AVANTI"
-    id="id-22bbb6d734694603b800cf610eb1b10e">
+    name="Data Warehouse"
+    id="id-22bbb6d734694603b800cf610eb1b10e"
+    documentation="Almacenes de datos de trabajo de SG.&#xA;">
   <properties
       key="destino"
       value="doc"/>
