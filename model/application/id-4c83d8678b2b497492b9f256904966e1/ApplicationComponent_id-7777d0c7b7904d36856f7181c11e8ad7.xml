@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Portal de datos para la transparencia"
     id="id-7777d0c7b7904d36856f7181c11e8ad7"
-    documentation="Plataforma que facilita el acceso público a datos e información gubernamental.">
+    documentation="Plataforma que facilita el acceso público a datos e información gubernamental.&#xA;">
   <properties
       key="destino"
       value="doc"/>
