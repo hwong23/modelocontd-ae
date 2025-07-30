@@ -984,4 +984,10 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-4f43941d323c4d94853d636919dba9c7.xml#id-4f43941d323c4d94853d636919dba9c7"/>
   </children>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
+  <properties
+      key="titulo"
+      value="Aplicaciones y Procesos SG"/>
 </archimate:ArchimateDiagramModel>
