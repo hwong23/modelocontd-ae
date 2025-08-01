@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestión de Contratación"
-    id="id-1ab7f0491af34ee392d1cf34828f27d5">
+    id="id-1ab7f0491af34ee392d1cf34828f27d5"
+    documentation="Gestionar la contratación de bienes, servicios y obras, mediante el desarrollo de procesos contractuales transparentes y conforme a la normativa legal vigente para satisfacer las necesidades de contratación de las dependencias de la Secretaría General de la Alcaldía Mayor de Bogotá, y contribuir al cumplimento de sus metas y objetivos.&#xA;">
   <properties
       key="destino"
       value="doc"/>

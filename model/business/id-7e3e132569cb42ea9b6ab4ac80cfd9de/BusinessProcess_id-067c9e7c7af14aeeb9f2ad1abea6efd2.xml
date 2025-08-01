@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestión de Servicios Administrativos y Tecnológicos"
-    id="id-067c9e7c7af14aeeb9f2ad1abea6efd2">
+    id="id-067c9e7c7af14aeeb9f2ad1abea6efd2"
+    documentation="Apoyar la gestión de la Entidad a través de la prestación de los servicios administrativos y tecnológicos, así como, de la gestión documental, con el fin de satisfacer las necesidades de las dependencias en la materia, al igual que conservar y preservar la memoria institucional.&#xA;">
   <properties
       key="destino"
       value="doc"/>
