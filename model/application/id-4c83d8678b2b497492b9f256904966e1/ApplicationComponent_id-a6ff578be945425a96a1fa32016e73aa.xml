@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integrador de Servicios Ciudadanos"
     id="id-a6ff578be945425a96a1fa32016e73aa"
-    documentation="Plataforma unificada para acceder a diversos servicios y trámites ciudadanos.&#xA;">
+    documentation="Plataforma unificada para acceder a servicios y trámites ciudadanos.&#xA;">
   <properties
       key="destino"
       value="doc"/>

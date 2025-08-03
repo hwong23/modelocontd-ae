@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Portal Bogotá Capital Digital (Plataforma de Trámites en línea)"
+    name="Portal Bogotá Capital Digital"
     id="id-725214aab3a4452db56d3790e2ab21bd"
-    documentation="Portal Integrador de trámites y servicios ofrecidos a la ciudadanía. Componente de aplicación que permite la realización de trámites digitales.&#xA;">
+    documentation="Plataforma de Trámites en línea. Portal Integrador de trámites y servicios ofrecidos a la ciudadanía. Componente de aplicación que permite la realización de trámites digitales.&#xA;">
   <properties
       key="destino"
       value="doc"/>

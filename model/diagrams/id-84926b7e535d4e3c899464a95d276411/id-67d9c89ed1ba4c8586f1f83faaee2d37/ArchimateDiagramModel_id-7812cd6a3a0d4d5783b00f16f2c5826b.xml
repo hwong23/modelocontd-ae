@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="06.2n3. Aplicacion. Aplc y Procesos"
+    name="06.2n3. Aplicaciones y Procesos"
     id="id-7812cd6a3a0d4d5783b00f16f2c5826b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -57,7 +57,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bcdf3995f94a47f390f61d20d3ff53d0"
-      targetConnections="id-c0fb14a09e1d4180ae1f6e414df53115 id-4b1f006c8955473ea8bb73d5bf11593c id-19e79f5ad5db4864b7bceafc022517d8 id-26d7fbb5d4e347c59360d13efce8ea06 id-8f4e8a3ad03f4b34838fe123dd5ca035 id-0f1d15f405bd40b4862ddb4bad995483"
+      targetConnections="id-c0fb14a09e1d4180ae1f6e414df53115 id-4b1f006c8955473ea8bb73d5bf11593c id-19e79f5ad5db4864b7bceafc022517d8 id-26d7fbb5d4e347c59360d13efce8ea06 id-8f4e8a3ad03f4b34838fe123dd5ca035 id-0f1d15f405bd40b4862ddb4bad995483 id-3f514fbd024e420e98536ecf1edf727a"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -926,30 +926,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-65cc45510f08452c84ebe475286e4ed4">
-    <bounds
-        x="567"
-        y="912"
-        width="160"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-94d23268e8c84020ac151ebf8c31af6c.xml#id-94d23268e8c84020ac151ebf8c31af6c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-2d47434f7d9e4a74b01aa21b08998cf3">
-    <bounds
-        x="747"
-        y="912"
-        width="160"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-7777d0c7b7904d36856f7181c11e8ad7.xml#id-7777d0c7b7904d36856f7181c11e8ad7"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-18b246f64b28442fb48eba47884547e9">
     <bounds
         x="33"
@@ -983,6 +959,39 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-4f43941d323c4d94853d636919dba9c7.xml#id-4f43941d323c4d94853d636919dba9c7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-609aa85746344c6a9153199f5f76fbb8">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-3f514fbd024e420e98536ecf1edf727a"
+        source="id-609aa85746344c6a9153199f5f76fbb8"
+        target="id-bcdf3995f94a47f390f61d20d3ff53d0">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-20e5c7e3d7024544a957c515877258bc.xml#id-20e5c7e3d7024544a957c515877258bc"/>
+    </sourceConnections>
+    <bounds
+        x="744"
+        y="912"
+        width="160"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-04b44092a7c0480c8460cfd44996f123.xml#id-04b44092a7c0480c8460cfd44996f123"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2cbfaf25dc184498b648e887734c8177">
+    <bounds
+        x="567"
+        y="912"
+        width="160"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-725214aab3a4452db56d3790e2ab21bd.xml#id-725214aab3a4452db56d3790e2ab21bd"/>
   </children>
   <properties
       key="plantillaElm"
