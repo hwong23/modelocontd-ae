@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="appls"
+    id="id-3cb2d2fc9bd74e9dadf9e9bf429097e8">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-73cc386e382745fab067ad128f919c22">
+    <bounds
+        x="12"
+        y="24"
+        width="301"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-7812cd6a3a0d4d5783b00f16f2c5826b.xml#id-7812cd6a3a0d4d5783b00f16f2c5826b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-f0d16623d2ce40cc93cde16e2d0db15e">
+    <bounds
+        x="12"
+        y="84"
+        width="301"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-097745511d984e7eaf02b5ad5a93e7a8.xml#id-097745511d984e7eaf02b5ad5a93e7a8"/>
+  </children>
+</archimate:ArchimateDiagramModel>
