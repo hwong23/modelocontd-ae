@@ -10,7 +10,7 @@
 
 <br>
 
-La consultoría de Arquitectura Empresarial busca fortalecer la alineación de estrategias, procesos y tecnologías, así como impulsar la transformación digital y una gestión pública más eficiente. Esta iniciativa se enmarca en la necesidad de mejorar la satisfacción de los grupos de interés internos y externos.
+La consultoría de arquitectura empresarial busca fortalecer la alineación de estrategias, procesos y tecnologías, así como impulsar la transformación digital y una gestión pública más eficiente. Esta iniciativa se enmarca en la necesidad de mejorar la satisfacción de los grupos de interés internos y externos.
 
 Las relaciones entre los sistemas de información (Anexo Técnico) y el contexto del Análisis de Entorno (Resumen Ejecutivo FASE I.pdf) son las siguientes:
 
