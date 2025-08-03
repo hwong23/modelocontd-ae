@@ -914,4 +914,7 @@
   <properties
       key="titulo"
       value="Análisis de Entorno Sistemas de Información SG"/>
+  <properties
+      key="IncluyeElementosSindoc"
+      value="false"/>
 </archimate:ArchimateDiagramModel>
