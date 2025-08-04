@@ -2,7 +2,7 @@
 <div style="page-break-before: always;"></div>
 \newpage
 
-# Documentación de Aplicaciones Negocio
+# Dominio de Aplicaciones SG
 
 ## Análisis de Entorno Sistemas de Información SG
 
