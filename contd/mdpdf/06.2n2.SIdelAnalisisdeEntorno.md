@@ -6,7 +6,7 @@
 
 ## Análisis de Entorno Sistemas de Información SG
 
-> Desafíos operativos y estratégicos que justifican la necesidad de optimización e integración de sistemas de información SG (Análisis de Entorno, PETI 25-27, Anexo Técnico SG).  
+> Arquitectura Empresarial SG.  Ingenium. 2025  Dominio de Sistemas y Aplicaciones de Software. Sistemas de información del análisis de entorno.  
 
 <br>
 
