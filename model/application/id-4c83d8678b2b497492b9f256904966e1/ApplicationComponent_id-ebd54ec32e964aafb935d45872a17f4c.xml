@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="HUMANAPP"
     id="id-ebd54ec32e964aafb935d45872a17f4c"
-    documentation="Apoya la gestión del talento humano.&#xA;">
+    documentation="Apoya la gestión del talento humano. Aplicativo de generación de desprendibles de pago para funcionarios y certificaciones laborales, de seguridad social y de ingresos y retenciones.&#xA;">
   <properties
       key="destino"
       value="doc"/>

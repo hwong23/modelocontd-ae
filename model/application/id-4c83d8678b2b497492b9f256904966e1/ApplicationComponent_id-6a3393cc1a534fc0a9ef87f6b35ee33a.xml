@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GLPI"
     id="id-6a3393cc1a534fc0a9ef87f6b35ee33a"
-    documentation="Soporta la gestión de servicios administrativos y tecnológicos.&#xA;">
+    documentation="Sistema de soporta a la gestión de servicios administrativos y tecnológicos, donde se registran y gestionan las solicitudes de servicios TIC.&#xA;">
   <properties
       key="destino"
       value="doc"/>

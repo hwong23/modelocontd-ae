@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Warehouse"
     id="id-22bbb6d734694603b800cf610eb1b10e"
-    documentation="Almacenes de datos de trabajo de SG.&#xA;">
+    documentation="Almacenes de datos de trabajo de SG. Bodega de datos con diversas fuentes de información para el análisis y transformación de datos de interés.&#xA;">
   <properties
       key="destino"
       value="doc"/>

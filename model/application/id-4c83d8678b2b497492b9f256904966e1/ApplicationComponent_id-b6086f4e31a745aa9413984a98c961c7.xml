@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DARUMA"
     id="id-b6086f4e31a745aa9413984a98c961c7"
-    documentation="Se utiliza en el proceso de Fortalecimiento de la Gestión Pública. También es el aplicativo donde se encuentran definidas las fichas técnicas de productos y servicios de la Secretaría General y se gestionan los riesgos estratégicos.&#xA;">
+    documentation="Sistema para el registro de documentos de procesos, procedimientos, formatos, entre otros, como insumos de la Gestión de Calidad.&#xA;">
   <properties
       key="destino"
       value="doc"/>
