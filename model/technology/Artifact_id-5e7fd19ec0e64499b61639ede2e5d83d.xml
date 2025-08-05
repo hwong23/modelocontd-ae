@@ -1,0 +1,9 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ficha"
+    id="id-5e7fd19ec0e64499b61639ede2e5d83d"
+    documentation="&#xA;| **Nombre aplicación**                     | SIGA                                                                |&#xA;| ----------------------------------------- | ------------------------------------------------------------------- |&#xA;| **Descripción Funcional**                 | Sistema Integrado de Gestión Documental, Archivo y Correspondencia. |&#xA;| **Tipo de software**                      | Desarrollo Interno                                                  |&#xA;| **Estado**                                | Productivo                                                          |&#xA;| **Esquema de licenciamiento**             | A perpetuidad                                                       |&#xA;| **Fabricante**                            | Secretaría General de la Alcaldía Mayor de Bogotá D.C.              |&#xA;| **Debilidades o hallazgos estructurales** | Ninguna                                                             |&#xA;">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:Artifact>

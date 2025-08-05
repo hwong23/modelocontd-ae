@@ -140,11 +140,33 @@
         fontColor="#000000"
         lineColor="#5c5c5c"
         fillColor="#0096ff">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-32146b1c100b4e7a930a379c2de7bd8b"
+          source="id-595e6e48be3241dd8c55de48f6b85aa3"
+          target="id-bcd1147394df42acbea371e3df89d6f0">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_id-6d7f592145ff4b258e1c699c34d00213.xml#id-6d7f592145ff4b258e1c699c34d00213"/>
+      </sourceConnections>
       <bounds
           x="336"
           y="36"
           width="150"
           height="48"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-bcd1147394df42acbea371e3df89d6f0"
+          targetConnections="id-32146b1c100b4e7a930a379c2de7bd8b">
+        <bounds
+            x="72"
+            y="12"
+            width="80"
+            height="35"/>
+        <archimateElement
+            xsi:type="archimate:Artifact"
+            href="Artifact_id-5e7fd19ec0e64499b61639ede2e5d83d.xml#id-5e7fd19ec0e64499b61639ede2e5d83d"/>
+      </children>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-b130202687e24ee3b1ec3d56c757d5a4.xml#id-b130202687e24ee3b1ec3d56c757d5a4"/>
