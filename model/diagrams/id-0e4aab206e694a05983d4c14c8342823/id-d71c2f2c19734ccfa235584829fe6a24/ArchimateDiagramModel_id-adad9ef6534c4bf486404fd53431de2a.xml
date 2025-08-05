@@ -407,11 +407,33 @@
         fontColor="#000000"
         lineColor="#5c5c5c"
         fillColor="#b5ffff">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-7b3fd15cb4e140548f6b7e04d9523c68"
+          source="id-58c563e21879405b910ac965edf205db"
+          target="id-1aac79aeb9294dac82a0f7bea2b71130">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_id-56e57123d03f4aa09a83ca14956f686a.xml#id-56e57123d03f4aa09a83ca14956f686a"/>
+      </sourceConnections>
       <bounds
           x="180"
           y="36"
           width="156"
           height="61"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-1aac79aeb9294dac82a0f7bea2b71130"
+          targetConnections="id-7b3fd15cb4e140548f6b7e04d9523c68">
+        <bounds
+            x="72"
+            y="24"
+            width="80"
+            height="35"/>
+        <archimateElement
+            xsi:type="archimate:Artifact"
+            href="Artifact_id-684cd0001e454c3ea22019671a4d9530.xml#id-684cd0001e454c3ea22019671a4d9530"/>
+      </children>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-04b44092a7c0480c8460cfd44996f123.xml#id-04b44092a7c0480c8460cfd44996f123"/>
@@ -896,7 +918,7 @@
       value="true"/>
   <properties
       key="IncludeViewElements"
-      value="false"/>
+      value="true"/>
   <properties
       key="IncluyeElementosSindoc"
       value="false"/>
