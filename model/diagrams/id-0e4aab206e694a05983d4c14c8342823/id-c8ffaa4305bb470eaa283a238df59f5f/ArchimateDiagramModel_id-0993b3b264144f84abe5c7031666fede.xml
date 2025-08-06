@@ -66,7 +66,7 @@
         x="12"
         y="12"
         width="493"
-        height="337"/>
+        height="373"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f0fd20ba052b438797561a55fa042e69"
@@ -144,6 +144,18 @@
       <archimateElement
           xsi:type="archimate:BusinessObject"
           href="BusinessObject_id-158894ab6e2d457ca13720b239112852.xml#id-158894ab6e2d457ca13720b239112852"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-3c65757a092c4a1e9c7e6a031c855baa">
+      <bounds
+          x="24"
+          y="312"
+          width="199"
+          height="49"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-ae380c2e676e4dc0bbeaa6ac1a2407a6.xml#id-ae380c2e676e4dc0bbeaa6ac1a2407a6"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
