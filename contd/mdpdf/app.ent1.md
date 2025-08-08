@@ -41,7 +41,7 @@ El catálogo y caracterización de las aplicaciones de $CLIENTE es un artefacto 
     1. Gestión y Mantenimiento: costos recurrentes, como licencias, uso de plataforma, soporte del proveedor; recursos de personal asignado; percepción del valor de negocio aportado.
     1. Estrategia y Relaciones Clave: alineación con la visión de $CLIENTE, proyectos planificados participantes.
 
-![03.1o. Organización sistemas informacion. _Fuente: Propuesta servicios de ingeniería y evaluación de arquitectura $APP $CLIENTE (2025)_](images/03.1o.Organizaciónsistemasinformacion.png){#fig:id-adad9ef6534c4bf486404fd53431de2a width= height=}
+![03.1o. Organizacion sistemas informacion. _Fuente: Propuesta servicios de ingeniería y evaluación de arquitectura $APP $CLIENTE (2025)_](images/03.1o.Organizacionsistemasinformacion.png){#fig:id-adad9ef6534c4bf486404fd53431de2a width= height=}
 
 ### Canales Alcaldía
 
