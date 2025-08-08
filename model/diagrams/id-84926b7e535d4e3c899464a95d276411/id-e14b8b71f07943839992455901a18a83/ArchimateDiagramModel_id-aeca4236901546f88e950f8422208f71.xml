@@ -217,8 +217,8 @@
           width="144"
           height="61"/>
       <archimateElement
-          xsi:type="archimate:BusinessObject"
-          href="BusinessObject_id-04bb8e675a1c4b60913e3a81a44d4d63.xml#id-04bb8e675a1c4b60913e3a81a44d4d63"/>
+          xsi:type="archimate:WorkPackage"
+          href="WorkPackage_id-703e10991d3b4a21886c41c2d1910ec4.xml#id-703e10991d3b4a21886c41c2d1910ec4"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

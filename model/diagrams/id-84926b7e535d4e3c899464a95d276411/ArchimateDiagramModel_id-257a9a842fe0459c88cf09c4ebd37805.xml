@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="08.BMM. Objetivos Estrategicos SG-OTIC"
     id="id-257a9a842fe0459c88cf09c4ebd37805"
-    documentation="Alineación entre los objetivos estratégicos de la Secretaría General de la Alcaldía Mayor de Bogotá D.C. (SG) y los objetivos de la Oficina de Tecnologías de la Información y las Comunicaciones (OTIC).&#xA;">
+    documentation="Alineación entre los objetivos estratégicos de la Secretaría General de la Alcaldía Mayor de Bogotá D.C. (SG) y los objetivos de la Oficina de Tecnologías de la Información y las Comunicaciones (OTIC).&#xA;&#xA;Se detallan los objetivos estratégicos de la Secretaría General de la Alcaldía Mayor de Bogotá D.C. y los objetivos de la Oficina de Tecnologías de la Información y las Comunicaciones (OTIC), junto con la relación entre ambos, basándose en la información proporcionada en los documentos.&#xA;&#xA;#### Objetivos Estratégicos de la Secretaría General de la Alcaldía Mayor de Bogotá D.C.&#xA;La Secretaría General, en su rol de entidad líder en la articulación y coordinación de la administración distrital, ha definido una plataforma estratégica con los siguientes objetivos.&#xA;&#xA;#### Objetivos de la Oficina de Tecnologías de la Información y las Comunicaciones (OTIC)&#xA;La Oficina de Tecnologías de la Información y las Comunicaciones (OTIC) de la Secretaría General de la Alcaldía Mayor de Bogotá D.C. ha formulado su Plan Estratégico de Tecnologías de la Información (PETI 2025-2027) **con el objetivo general de impulsar la transformación digital de la Entidad**, con apoyo a la consolidación de sus capacidades institucionales y la alineación con la Política de Gobierno Digital y el Plan Distrital de Desarrollo 2024-2027.&#xA;&#xA;#### Relación entre los Objetivos Estratégicos de la Secretaría General y los Objetivos de la OTIC&#xA;Existe una relación intrínseca y de habilitación mutua entre los objetivos estratégicos de la Secretaría General y los objetivos de la OTIC. Los objetivos de la OTIC, articulados en el PETI, están diseñados para ser el motor tecnológico y estratégico que permite alcanzar las metas más amplias de la Secretaría General y del Distrito Capital.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9f9b5d3d9a8b4141b09f99ec484f13ac"
@@ -475,11 +475,11 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e31a576d3d7d41ed85c7644ad279c92b"
-        targetConnections="id-118ae8b765c645539a5bd7e2904c852f id-ea01ee52c2ec42c7ac2105b9e2b16c85">
+        targetConnections="id-118ae8b765c645539a5bd7e2904c852f id-ea01ee52c2ec42c7ac2105b9e2b16c85 id-f69ee9d3cbdb47b492b1f322d65d0044">
       <bounds
           x="24"
           y="552"
-          width="200"
+          width="205"
           height="64"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -488,11 +488,11 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-65717064fddb438f8c2d092beed02808"
-        targetConnections="id-b8824d1597ba419faab0386173824efa">
+        targetConnections="id-b8824d1597ba419faab0386173824efa id-2e0f6a6bf72e458e99156baf8cfeee44">
       <bounds
           x="24"
           y="696"
-          width="200"
+          width="205"
           height="64"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -505,7 +505,7 @@
       <bounds
           x="24"
           y="336"
-          width="200"
+          width="205"
           height="64"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -518,7 +518,7 @@
       <bounds
           x="24"
           y="404"
-          width="200"
+          width="205"
           height="64"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -531,7 +531,7 @@
       <bounds
           x="24"
           y="192"
-          width="200"
+          width="205"
           height="64"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -544,7 +544,7 @@
       <bounds
           x="24"
           y="480"
-          width="200"
+          width="205"
           height="64"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -557,7 +557,7 @@
       <bounds
           x="24"
           y="48"
-          width="200"
+          width="205"
           height="64"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -570,7 +570,7 @@
       <bounds
           x="24"
           y="264"
-          width="200"
+          width="205"
           height="64"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -583,7 +583,7 @@
       <bounds
           x="24"
           y="120"
-          width="200"
+          width="205"
           height="64"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -596,7 +596,7 @@
       <bounds
           x="24"
           y="624"
-          width="200"
+          width="205"
           height="64"/>
       <archimateElement
           xsi:type="archimate:Goal"
@@ -761,6 +761,24 @@
           xsi:type="archimate:InfluenceRelationship"
           href="InfluenceRelationship_id-0e2a131ef8b1409f9e1cae647ce8cb3d.xml#id-0e2a131ef8b1409f9e1cae647ce8cb3d"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-f69ee9d3cbdb47b492b1f322d65d0044"
+        source="id-bc23bd2dd6d94de084cc975e8c2f468b"
+        target="id-e31a576d3d7d41ed85c7644ad279c92b">
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-53278bf42bb1485fb3313b54cb99705d.xml#id-53278bf42bb1485fb3313b54cb99705d"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2e0f6a6bf72e458e99156baf8cfeee44"
+        source="id-bc23bd2dd6d94de084cc975e8c2f468b"
+        target="id-65717064fddb438f8c2d092beed02808">
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-7542cd32829e42a28815463c1f6122d8.xml#id-7542cd32829e42a28815463c1f6122d8"/>
+    </sourceConnections>
     <bounds
         x="24"
         y="264"
@@ -772,7 +790,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a3c3c7ce18ca4fdbbca9426a8dcc42e3">
+      id="id-a3c3c7ce18ca4fdbbca9426a8dcc42e3"
+      targetConnections="id-893b0cf7d7a14e19832adaa82b4ddaec">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-ee6c24e507114e718f37f5f08af6106a"
@@ -799,6 +818,27 @@
     <archimateElement
         xsi:type="archimate:Principle"
         href="Principle_id-b75ca2537df34657bf0e858be8e3e670.xml#id-b75ca2537df34657bf0e858be8e3e670"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2f83a2740f124fcdae7db0505c519b78">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-893b0cf7d7a14e19832adaa82b4ddaec"
+        source="id-2f83a2740f124fcdae7db0505c519b78"
+        target="id-a3c3c7ce18ca4fdbbca9426a8dcc42e3">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-852790af542c48788997605f4d1b44e4.xml#id-852790af542c48788997605f4d1b44e4"/>
+    </sourceConnections>
+    <bounds
+        x="24"
+        y="576"
+        width="205"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-703e10991d3b4a21886c41c2d1910ec4.xml#id-703e10991d3b4a21886c41c2d1910ec4"/>
   </children>
   <properties
       key="titulo"
