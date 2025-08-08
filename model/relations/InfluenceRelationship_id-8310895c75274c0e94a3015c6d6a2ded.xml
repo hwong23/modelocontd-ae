@@ -1,0 +1,13 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="influye"
+    id="id-8310895c75274c0e94a3015c6d6a2ded"
+    documentation="La OTIC es el principal actor que ejecuta y materializa el objetivo 02 mediante Arquitectura Empresarial.&#xA;">
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-f934fe202519444ab5a4389e016fcc28.xml#id-f934fe202519444ab5a4389e016fcc28"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-13c3934dc188447f842bfd7fa291134e.xml#id-13c3934dc188447f842bfd7fa291134e"/>
+</archimate:InfluenceRelationship>

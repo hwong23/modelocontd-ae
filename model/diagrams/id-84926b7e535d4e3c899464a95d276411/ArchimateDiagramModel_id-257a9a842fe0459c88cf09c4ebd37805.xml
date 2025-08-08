@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="08.BMM. Objetivos Estrategicos SG-OTIC"
     id="id-257a9a842fe0459c88cf09c4ebd37805"
-    documentation="Alineación entre los objetivos estratégicos de la Secretaría General de la Alcaldía Mayor de Bogotá D.C. (SG) y los objetivos de la Oficina de Tecnologías de la Información y las Comunicaciones (OTIC).&#xA;&#xA;Se detallan los objetivos estratégicos de la Secretaría General de la Alcaldía Mayor de Bogotá D.C. y los objetivos de la Oficina de Tecnologías de la Información y las Comunicaciones (OTIC), junto con la relación entre ambos, basándose en la información proporcionada en los documentos.&#xA;&#xA;#### Objetivos Estratégicos de la Secretaría General de la Alcaldía Mayor de Bogotá D.C.&#xA;La Secretaría General, en su rol de entidad líder en la articulación y coordinación de la administración distrital, ha definido una plataforma estratégica con los siguientes objetivos.&#xA;&#xA;#### Objetivos de la Oficina de Tecnologías de la Información y las Comunicaciones (OTIC)&#xA;La Oficina de Tecnologías de la Información y las Comunicaciones (OTIC) de la Secretaría General de la Alcaldía Mayor de Bogotá D.C. ha formulado su Plan Estratégico de Tecnologías de la Información (PETI 2025-2027) **con el objetivo general de impulsar la transformación digital de la Entidad**, con apoyo a la consolidación de sus capacidades institucionales y la alineación con la Política de Gobierno Digital y el Plan Distrital de Desarrollo 2024-2027.&#xA;&#xA;#### Relación entre los Objetivos Estratégicos de la Secretaría General y los Objetivos de la OTIC&#xA;Existe una relación intrínseca y de habilitación mutua entre los objetivos estratégicos de la Secretaría General y los objetivos de la OTIC. Los objetivos de la OTIC, articulados en el PETI, están diseñados para ser el motor tecnológico y estratégico que permite alcanzar las metas más amplias de la Secretaría General y del Distrito Capital.&#xA;">
+    documentation="Alineación entre los objetivos estratégicos de la Secretaría General de la Alcaldía Mayor de Bogotá D.C. (SG) y los objetivos de la Oficina de Tecnologías de la Información y las Comunicaciones (OTIC).&#xA;&#xA;Se detallan los objetivos estratégicos de la Secretaría General de la Alcaldía Mayor de Bogotá D.C. y los objetivos de la Oficina de Tecnologías de la Información y las Comunicaciones (OTIC), junto con la relación entre ambos, basándose en la información proporcionada en los documentos.&#xA;&#xA;#### Objetivos Estratégicos de la Secretaría General de la Alcaldía Mayor de Bogotá D.C.&#xA;La Secretaría General, en su rol de entidad líder en la articulación y coordinación de la administración distrital, ha definido una plataforma estratégica con los siguientes objetivos.&#xA;&#xA;#### Objetivos de la Oficina de Tecnologías de la Información y las Comunicaciones (OTIC)&#xA;La Oficina de Tecnologías de la Información y las Comunicaciones (OTIC) de la Secretaría General de la Alcaldía Mayor de Bogotá D.C. ha formulado su Plan Estratégico de Tecnologías de la Información (PETI 2025-2027) **con el objetivo general de impulsar la transformación digital de la Entidad**, con apoyo a la consolidación de sus capacidades institucionales y la alineación con la Política de Gobierno Digital y el Plan Distrital de Desarrollo 2024-2027.&#xA;&#xA;#### Contribución Directa OTIC a Objetivos Institucionales: de la Secretaría General&#xA;Existe una relación intrínseca y de habilitación mutua entre los objetivos estratégicos de la Secretaría General y los objetivos de la OTIC. Los objetivos de la OTIC, articulados en el PETI, están diseñados para ser el motor tecnológico y estratégico que permite alcanzar las metas más amplias de la Secretaría General y del Distrito Capital.&#xA;&#xA;1. El OETI01 de la OTIC (&quot;Fortalecer la implementación de la Política de Gobierno Digital...&quot;) está directamente asociado con el Objetivo Estratégico Institucional O7 (&quot;Fortalecer las capacidades institucionales para la implementación de las políticas de gestión y desempeño con el fin de generar valor público...&quot;). Esto significa que los esfuerzos de la OTIC en gobierno digital y optimización tecnológica son esenciales para mejorar la capacidad institucional de la Secretaría General en la gestión pública y la generación de valor.&#xA;1. El OETI02 de la OTIC (&quot;Fomentar el uso y la apropiación de las tecnologías de la Cuarta Revolución Industrial...&quot;) está asociado con dos objetivos institucionales:&#xA;      * O5 (&quot;Mejorar el relacionamiento de la ciudadanía con el gobierno distrital...&quot;). La adopción de tecnologías emergentes por parte de la OTIC busca modernizar los canales de atención y fortalecer la oferta institucional, lo que a su vez mejora la interacción y la confianza de los ciudadanos.&#xA;      * O6 (&quot;Fortalecer los procesos de innovación pública en las entidades distritales...&quot;). Las iniciativas de la OTIC en tecnologías 4RI son cruciales para habilitar la innovación pública tendientes al desarrollo de capacidades y fomento de colaboración dentro de la entidad y con otros actores.&#xA;1.. Soporte a la Transformación Digital y la Gobernanza de TIC: El Objetivo Estratégico O2 de la Secretaría General busca &quot;Fortalecer la institucionalidad y gobernanza que sirva para impulsar y coordinar el uso de las Tecnologías de la Información y las Comunicaciones TIC&quot;. La OTIC es el principal actor que ejecuta y materializa este objetivo a través de la implementación de la Arquitectura Empresarial, que busca alinear estrategias, procesos y tecnologías para impulsar la transformación digital y fortalecer la gestión pública.&#xA;1. Toma de Decisiones basada en Datos: La OTIC también contribuye al objetivo de la Secretaría General de generar valor en la gestión pública a través del aprovechamiento de los datos y las tecnologías para la toma de decisiones estratégicas. Proyectos como el Data Warehouse y los tableros de control con Inteligencia Artificial buscan transformar los datos en un activo institucional.&#xA;&#xA;Los objetivos OTIC son pilares tecnológicos fundamentales que permiten a la Secretaría General avanzar en su misión y alcanzar sus ambiciosos objetivos estratégicos, especialmente aquellos relacionados con la modernización de la gestión pública, la mejora de los servicios a la ciudadanía y el impulso de la transformación digital.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9f9b5d3d9a8b4141b09f99ec484f13ac"
@@ -579,7 +579,16 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4d32ed3169ca402ba2bd4ef441537c24"
-        targetConnections="id-739f75c44a164993ab8d5b1bf82f1aa3 id-a5a7a14d55444932b457f8d4c6d1dfb2 id-8c4341cb51974d318f7b50a83a0e2568">
+        targetConnections="id-a5a7a14d55444932b457f8d4c6d1dfb2 id-8c4341cb51974d318f7b50a83a0e2568">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-d989c3b8acb942a0be7339bdbc57ba9d"
+          source="id-4d32ed3169ca402ba2bd4ef441537c24"
+          target="id-87b86ab8ed9542f38978359f0c0902ce">
+        <archimateRelationship
+            xsi:type="archimate:InfluenceRelationship"
+            href="InfluenceRelationship_id-8310895c75274c0e94a3015c6d6a2ded.xml#id-8310895c75274c0e94a3015c6d6a2ded"/>
+      </sourceConnections>
       <bounds
           x="24"
           y="120"
@@ -658,7 +667,7 @@
       </sourceConnections>
       <bounds
           x="24"
-          y="337"
+          y="264"
           width="212"
           height="80"/>
       <archimateElement
@@ -668,7 +677,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-87b86ab8ed9542f38978359f0c0902ce"
-        targetConnections="id-8bb97562255348d5bfdf7c9b9633e47b id-cb14c49446154290a44853676ed32a0a">
+        targetConnections="id-8bb97562255348d5bfdf7c9b9633e47b id-cb14c49446154290a44853676ed32a0a id-d989c3b8acb942a0be7339bdbc57ba9d">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c9607304801a48b8ad566d55eda57210"
@@ -689,7 +698,7 @@
       </sourceConnections>
       <bounds
           x="24"
-          y="240"
+          y="348"
           width="212"
           height="80"/>
       <archimateElement
@@ -700,15 +709,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-626c735bdeec4374971ff03020850efd"
         targetConnections="id-ac1cea7535024d67af601826cd194b4d">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-739f75c44a164993ab8d5b1bf82f1aa3"
-          source="id-626c735bdeec4374971ff03020850efd"
-          target="id-4d32ed3169ca402ba2bd4ef441537c24">
-        <archimateRelationship
-            xsi:type="archimate:InfluenceRelationship"
-            href="InfluenceRelationship_id-ad50025a6a1840b6af28b294d8632d71.xml#id-ad50025a6a1840b6af28b294d8632d71"/>
-      </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-341df350facd41ca92f131befe41ea3d"
