@@ -5,7 +5,7 @@
 
 <br>
 
-## Producto Entregable Caracterización de los sistemas de información
+### Producto Entregable Caracterización de los sistemas de información
 Arquitectura de aplicaciones - MAE.LI.ASI.03 Caracterización de los sistemas de información SG.
 
 Inventario de las sistemas de información (o aplicaciones de software) de $CLIENTE y su ficha de características, pertenecientes al alcance del ejercicio actual de arquitectura empresarial objeto del contrato.
@@ -13,15 +13,15 @@ Inventario de las sistemas de información (o aplicaciones de software) de $CLIE
 Es un inventario detallado y documentado que contiene las fichas técnicas de los sistemas de información de una institución.
 
 
-## Justificación
+#### Justificación
 El catálogo y caracterización de las aplicaciones de $CLIENTE es un artefacto clave para documentar, comprender, y comunicar el panorama actual y futuro de las aplicaciones de SG. el panorama actual y futuro de las aplicaciones de $CLIENTE. A la vez, es base para la toma de decisiones de la gestión y gobierno de las capacidades de TI, y del portafolio y ciclo de vida de las aplicaciones de $CLIENTE. Sirve además para la actualización continua de las características y atributos relevantes de los sistemas de información.
 
-## Objetivos
+#### Objetivos
 1. Documentar y comunicar el panorama actual y futuro de las aplicaciones de SG.
 1. Proveer base para la toma de decisiones de la gestión del portafolio y del ciclo de vida de las aplicaciones de SG.
 1. Facilitar la actualización de su información. Para el efecto, debe usar medios y formatos accesibles y editables por SG.
 
-## Contenido
+#### Contenido
 1. Catálogo de sistemas de información seleccionadas. El catálogo relaciona datos individuales e importantes de los sistemas. Incluye la descripción, e identificación de cada aplicación, relación con dominio de negocio, información para la gestión y mantenimiento del sistema.
     * ID de Aplicación
     * Nombre de la Aplicación
