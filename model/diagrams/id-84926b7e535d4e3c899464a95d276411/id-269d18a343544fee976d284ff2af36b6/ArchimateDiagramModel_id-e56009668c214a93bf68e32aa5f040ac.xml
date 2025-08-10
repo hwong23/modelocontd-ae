@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="07.Negocio.n4. Oportunidades"
     id="id-e56009668c214a93bf68e32aa5f040ac"
-    documentation="Esta vista general presenta las relaciones clave entre las oportunidades (drivers), las metas, las capacidades estratégicas, los cursos de acción, los flujos de valor y los resultados, ofreciendo una perspectiva integral de la transformación propuesta.">
+    documentation="Esta vista modela las relaciones clave entre las oportunidades (drivers), las metas, las capacidades estratégicas, los cursos de acción, los flujos de valor y los resultados. Ofrece una perspectiva integral para construir transformaciones favorables a los objetivos y retos de la SG.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fbea388c0b4841e590a0af351e6d14b0"
