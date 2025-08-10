@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="08.BMM. Mapa Objetivos Estrategicos SG-OTIC"
+    name="08.BMM. Mapa Estrategico SG-OTIC"
     id="id-99747f91574e4ced8dee264c77454ceb"
-    documentation="Alineación entre los objetivos estratégicos de la Secretaría General de la Alcaldía Mayor de Bogotá D.C. (SG) y los objetivos de la Oficina de Tecnologías de la Información y las Comunicaciones (OTIC). *Muestra cómo los esfuerzos de TI (objetivos accionables, personas y procesos e iniciativas) habilitan las metas institucionales de alto nivel*.&#xA;">
+    documentation="Alineación entre los objetivos estratégicos de la Secretaría General de la Alcaldía Mayor de Bogotá (SG) y los objetivos de la Oficina de Tecnologías de la Información y las Comunicaciones (OTIC). Esta vista *muestra cómo los esfuerzos de TI (acciones, personas, procesos e iniciativas) habilitan las metas institucionales de alto nivel*.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-37a4d4267c67484d87fe0d11ce0d43af">
@@ -152,9 +152,9 @@
           href="CompositionRelationship_id-3a891502be8a4f9abf7f0b4a39b1ee3d.xml#id-3a891502be8a4f9abf7f0b4a39b1ee3d"/>
     </sourceConnections>
     <bounds
-        x="745"
-        y="1404"
-        width="840"
+        x="24"
+        y="1452"
+        width="1068"
         height="360"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -1167,9 +1167,9 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="1524"
-        width="638"
-        height="240"/>
+        y="1080"
+        width="1068"
+        height="360"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-fe2066f9f52540d9bb55b14adab41c0e"
@@ -1778,40 +1778,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-eaa37b19fbb44a90aa6d53d4883c0ebd"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#f5deaa">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-63afd64357c44cc6b13cfe601909a65c"
-        source="id-eaa37b19fbb44a90aa6d53d4883c0ebd"
-        target="id-ac5631405dac4524b30570286ebe3a86">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-370c66b775f44783ba97b14787f93f5a.xml#id-370c66b775f44783ba97b14787f93f5a"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-4539cdecb64c4725a21b0e250eec8e9f"
-        source="id-eaa37b19fbb44a90aa6d53d4883c0ebd"
-        target="id-858090b402f34420bbf0b1337cc66623">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-404a43011d73479f9be4dfd740a076a5.xml#id-404a43011d73479f9be4dfd740a076a5"/>
-    </sourceConnections>
-    <bounds
-        x="474"
-        y="1452"
-        width="176"
-        height="50"/>
-    <archimateElement
-        xsi:type="archimate:Capability"
-        href="Capability_id-89b41c47052a4ed087b25a50edd54c0e.xml#id-89b41c47052a4ed087b25a50edd54c0e"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-459567deed55490b910b4bbce3501a4c"
       textAlignment="1"
       type="1">
@@ -1930,6 +1896,40 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-b6271d427ff940f7882df563a5415236.xml#id-b6271d427ff940f7882df563a5415236"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-eaa37b19fbb44a90aa6d53d4883c0ebd"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#f5deaa">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-63afd64357c44cc6b13cfe601909a65c"
+        source="id-eaa37b19fbb44a90aa6d53d4883c0ebd"
+        target="id-ac5631405dac4524b30570286ebe3a86">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-370c66b775f44783ba97b14787f93f5a.xml#id-370c66b775f44783ba97b14787f93f5a"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-4539cdecb64c4725a21b0e250eec8e9f"
+        source="id-eaa37b19fbb44a90aa6d53d4883c0ebd"
+        target="id-858090b402f34420bbf0b1337cc66623">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-404a43011d73479f9be4dfd740a076a5.xml#id-404a43011d73479f9be4dfd740a076a5"/>
+    </sourceConnections>
+    <bounds
+        x="916"
+        y="1824"
+        width="176"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-89b41c47052a4ed087b25a50edd54c0e.xml#id-89b41c47052a4ed087b25a50edd54c0e"/>
   </children>
   <properties
       key="titulo"
