@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arquitectura Empresarial - Secretaría General"
+    name="07.Negocio.n5. Riesgos Procesos SG"
     id="id-3ed0d5f5954a47d88d5702f28b5ca486"
     documentation="Vista global de la arquitectura empresarial de la Secretaría General, mostrando la interconexión entre las capas Estratégica, de Motivación, de Negocio, de Aplicación y de Tecnología para la gestión de riesgos y la transformación digital.&#xA;">
   <children
@@ -389,8 +389,8 @@
       id="id-e1b3984e0c8a4bf5991e3bf6538f1325"
       targetConnections="id-c4e529f638c04618ab6b641c07f39bbf">
     <bounds
-        x="624"
-        y="360"
+        x="573"
+        y="279"
         width="250"
         height="60"/>
     <archimateElement
@@ -1407,4 +1407,16 @@
         xsi:type="archimate:Node"
         href="Node_id-4e1daac94326443b9b45d6e6946a8b9e.xml#id-4e1daac94326443b9b45d6e6946a8b9e"/>
   </children>
+  <properties
+      key="devdoc"
+      value="07.negc.06.riesgos.md"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
+  <properties
+      key="titulo"
+      value="Problemas Riesgo y Procesos SG"/>
+  <properties
+      key="IncluyeElementosSindoc"
+      value="false"/>
 </archimate:ArchimateDiagramModel>
