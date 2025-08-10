@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="08.BMM. Objetivos y Empresa"
+    name="08.BMM. Mapa Objetivos Acciones"
     id="id-185a7edbc2ef42eeb7eae7dc13f9a592"
-    documentation="Alineación entre los objetivos estratégicos de la Secretaría General de la Alcaldía Mayor de Bogotá D.C. (SG) y los objetivos de la Oficina de Tecnologías de la Información y las Comunicaciones (OTIC), junto a los esfuerzos empresariales y de TI: objetivos accionables, personas y procesos e iniciativas, que habilitan las metas institucionales de alto nivel.&#xA;">
+    documentation="Alineación entre los objetivos estratégicos de la Secretaría General de la Alcaldía Mayor de Bogotá D.C. (SG) y los objetivos de la Oficina de Tecnologías de la Información y las Comunicaciones (OTIC), junto a los esfuerzos empresariales y de TI: objetivos accionables, personas, procesos e iniciativas que habilitan las metas institucionales de alto nivel.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-061441264dcc43429f057761b01af497">
@@ -153,7 +153,7 @@
     </sourceConnections>
     <bounds
         x="1080"
-        y="1068"
+        y="804"
         width="840"
         height="360"/>
     <children
@@ -1118,7 +1118,7 @@
         x="347"
         y="804"
         width="638"
-        height="240"/>
+        height="360"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-462f7a5fef2f4afeb82b9b2111e9b91f"
@@ -1819,7 +1819,7 @@
     </sourceConnections>
     <bounds
         x="1080"
-        y="804"
+        y="1176"
         width="176"
         height="50"/>
     <archimateElement
