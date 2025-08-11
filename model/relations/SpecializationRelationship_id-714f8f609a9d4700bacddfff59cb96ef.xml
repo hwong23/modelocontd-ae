@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Realiza"
+    id="id-714f8f609a9d4700bacddfff59cb96ef">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-a47f673ab2de4ea5b2173ebbb834e775.xml#id-a47f673ab2de4ea5b2173ebbb834e775"/>
+  <target
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-703e10991d3b4a21886c41c2d1910ec4.xml#id-703e10991d3b4a21886c41c2d1910ec4"/>
+</archimate:SpecializationRelationship>
