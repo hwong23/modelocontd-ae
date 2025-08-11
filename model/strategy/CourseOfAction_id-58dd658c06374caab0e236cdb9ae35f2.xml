@@ -1,9 +1,9 @@
-<archimate:Goal
+<archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mejorar las capacidades tecnológicas de la Entidad"
-    id="id-a661fae362aa46a5a5d4d058b7944add"
+    id="id-58dd658c06374caab0e236cdb9ae35f2"
     documentation="Meta de TI para modernizar y potenciar la infraestructura y habilidades tecnológicas.">
   <properties
       key="destino"
       value="doc"/>
-</archimate:Goal>
+</archimate:CourseOfAction>

@@ -1,9 +1,9 @@
-<archimate:Goal
+<archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ACC1. Impulsar la Transformación Digital"
-    id="id-63d61590ac614e55ab591ea126849bd4"
+    id="id-7be0b10c289f47b3b6e177e11f61def1"
     documentation="Meta principal del PETI, buscando modernizar la entidad a través de tecnologías digitales. Contiene a la Política de Gobierno Digital.">
   <properties
       key="destino"
       value="doc"/>
-</archimate:Goal>
+</archimate:CourseOfAction>

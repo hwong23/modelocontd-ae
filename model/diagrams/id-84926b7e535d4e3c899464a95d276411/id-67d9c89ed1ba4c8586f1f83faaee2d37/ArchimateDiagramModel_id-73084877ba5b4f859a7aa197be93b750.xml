@@ -202,8 +202,8 @@
           width="150"
           height="70"/>
       <archimateElement
-          xsi:type="archimate:Goal"
-          href="Goal_id-9e3c0302baaf464da151aad880a6d830.xml#id-9e3c0302baaf464da151aad880a6d830"/>
+          xsi:type="archimate:CourseOfAction"
+          href="CourseOfAction_id-aa21f958b0f9440f947f7a570f8ec23c.xml#id-aa21f958b0f9440f947f7a570f8ec23c"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -271,15 +271,15 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-dd84520202084f41ababdcadb8c49e63"
-        targetConnections="id-f7bc533646fa416d8a67d16aa445797c id-1420e625016d4c5cbe2233e230ed09e6">
+        targetConnections="id-1420e625016d4c5cbe2233e230ed09e6 id-f7bc533646fa416d8a67d16aa445797c">
       <bounds
           x="20"
           y="644"
           width="150"
           height="70"/>
       <archimateElement
-          xsi:type="archimate:Goal"
-          href="Goal_id-a661fae362aa46a5a5d4d058b7944add.xml#id-a661fae362aa46a5a5d4d058b7944add"/>
+          xsi:type="archimate:CourseOfAction"
+          href="CourseOfAction_id-58dd658c06374caab0e236cdb9ae35f2.xml#id-58dd658c06374caab0e236cdb9ae35f2"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -295,8 +295,8 @@
           source="id-fc55b7d445a34e67a073b0442356d69b"
           target="id-dd84520202084f41ababdcadb8c49e63">
         <archimateRelationship
-            xsi:type="archimate:InfluenceRelationship"
-            href="InfluenceRelationship_id-332f3ddbd74a433e90c48ce823bf390b.xml#id-332f3ddbd74a433e90c48ce823bf390b"/>
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_id-fd66e00529024430a6aee2bcc317cc98.xml#id-fd66e00529024430a6aee2bcc317cc98"/>
       </sourceConnections>
       <bounds
           x="220"

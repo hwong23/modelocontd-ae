@@ -1,9 +1,9 @@
-<archimate:Goal
+<archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Transformación digital de servicios y procesos administrativos"
-    id="id-f0b1779b97754935a4ec8f01bc100b1c"
+    id="id-be4fd478be484057b2e9c6acb3ffc297"
     documentation="Meta de digitalizar y optimizar los servicios y procesos internos y externos.">
   <properties
       key="destino"
       value="doc"/>
-</archimate:Goal>
+</archimate:CourseOfAction>

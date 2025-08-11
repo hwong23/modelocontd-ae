@@ -1,9 +1,9 @@
-<archimate:Goal
+<archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ACC2. Fortalecer la Gestión Pública"
-    id="id-9e3c0302baaf464da151aad880a6d830"
+    id="id-aa21f958b0f9440f947f7a570f8ec23c"
     documentation="Objetivo de TI de alto nivel optimizar (mejorar la eficiencia y eficacia) los procesos y servicios de la administración pública.&#xA;">
   <properties
       key="destino"
       value="doc"/>
-</archimate:Goal>
+</archimate:CourseOfAction>

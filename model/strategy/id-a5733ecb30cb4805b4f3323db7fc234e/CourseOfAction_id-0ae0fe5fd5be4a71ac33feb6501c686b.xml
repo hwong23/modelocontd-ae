@@ -1,9 +1,9 @@
-<archimate:Goal
+<archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bogotá en una ciudad más conectada y orientada al bienestar de la ciudadanía"
-    id="id-574ce386d83846bd817071f9b402514e"
+    id="id-0ae0fe5fd5be4a71ac33feb6501c686b"
     documentation="Visión a largo plazo para la ciudad impulsada por la digitalización.">
   <properties
       key="destino"
       value="doc"/>
-</archimate:Goal>
+</archimate:CourseOfAction>

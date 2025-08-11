@@ -9,6 +9,6 @@
       xsi:type="archimate:WorkPackage"
       href="WorkPackage_id-b3acddb457ed41799b07aa2890afb838.xml#id-b3acddb457ed41799b07aa2890afb838"/>
   <target
-      xsi:type="archimate:Goal"
-      href="Goal_id-a661fae362aa46a5a5d4d058b7944add.xml#id-a661fae362aa46a5a5d4d058b7944add"/>
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-58dd658c06374caab0e236cdb9ae35f2.xml#id-58dd658c06374caab0e236cdb9ae35f2"/>
 </archimate:RealizationRelationship>

@@ -1,14 +1,14 @@
-<archimate:RealizationRelationship
+<archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-a75124747420408f912587bdcc5d599e">
+    id="id-637e05b93be7450ab2cf21abb3cfda8c">
   <properties
       key="destino"
       value="doc"/>
   <source
-      xsi:type="archimate:WorkPackage"
-      href="WorkPackage_id-b86aac7e71d2488985d21f74ddf9bb6e.xml#id-b86aac7e71d2488985d21f74ddf9bb6e"/>
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-0ae0fe5fd5be4a71ac33feb6501c686b.xml#id-0ae0fe5fd5be4a71ac33feb6501c686b"/>
   <target
       xsi:type="archimate:CourseOfAction"
       href="CourseOfAction_id-aa21f958b0f9440f947f7a570f8ec23c.xml#id-aa21f958b0f9440f947f7a570f8ec23c"/>
-</archimate:RealizationRelationship>
+</archimate:AssociationRelationship>
