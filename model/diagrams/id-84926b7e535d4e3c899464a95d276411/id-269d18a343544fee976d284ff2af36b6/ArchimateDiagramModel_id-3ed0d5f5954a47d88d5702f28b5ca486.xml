@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="07.Negocio.n5. Riesgos Procesos SG"
     id="id-3ed0d5f5954a47d88d5702f28b5ca486"
-    documentation="Vista global de la arquitectura empresarial de la Secretaría General, mostrando la interconexión entre las capas Estratégica, de Motivación, de Negocio, de Aplicación y de Tecnología para la gestión de riesgos y la transformación digital.&#xA;">
+    documentation="Vista de arquitectura empresarial de la Secretaría General. Presenta la interconexión entre las capas Estratégica, Motivación, Negocio, Aplicación y Tecnología para la gestión de riesgos y la transformación digital.&#xA;&#xA;Este modelo ArchiMate busca representar las oportunidades como Impulsores (Motivadores) y las metas que se esperan alcanzar a través de las diferentes iniciativas. **La clave es mapear estas oportunidades a Capacidades empresariales que la organización necesita fortalecer o adquirir para aprovecharlas**. La vista incluye también los Cursos de Acción o iniciativas concretas que realizan estas capacidades. Finalmente, muestra cómo esto impacta los Flujos de Valor y los Servicios de Negocio, así como los Resultados esperados.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dc4a8e9c39e44d91b11ed56c620cba62"
@@ -389,9 +389,9 @@
       id="id-e1b3984e0c8a4bf5991e3bf6538f1325"
       targetConnections="id-c4e529f638c04618ab6b641c07f39bbf">
     <bounds
-        x="573"
+        x="574"
         y="279"
-        width="250"
+        width="200"
         height="60"/>
     <archimateElement
         xsi:type="archimate:Goal"
@@ -402,9 +402,9 @@
       id="id-cc01989f6d564ac8b302a8da1c6dca50"
       targetConnections="id-6012bd6fc58d4db6bb3f2f5fcd5c62fc">
     <bounds
-        x="624"
-        y="440"
-        width="250"
+        x="824"
+        y="276"
+        width="216"
         height="60"/>
     <archimateElement
         xsi:type="archimate:Goal"
@@ -615,7 +615,7 @@
       targetConnections="id-03e3e9a6799b493f87316b97c5e3a7ec">
     <bounds
         x="1074"
-        y="620"
+        y="612"
         width="250"
         height="60"/>
     <archimateElement
@@ -628,7 +628,7 @@
       targetConnections="id-0837a9e43b37416a9a7c4935c2cdcb81">
     <bounds
         x="1074"
-        y="700"
+        y="680"
         width="250"
         height="60"/>
     <archimateElement
@@ -733,7 +733,7 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="760"
+        y="816"
         width="200"
         height="60"/>
     <archimateElement
@@ -763,7 +763,7 @@
     </sourceConnections>
     <bounds
         x="274"
-        y="760"
+        y="816"
         width="200"
         height="60"/>
     <archimateElement
@@ -794,7 +794,7 @@
     </sourceConnections>
     <bounds
         x="524"
-        y="760"
+        y="816"
         width="200"
         height="60"/>
     <archimateElement
@@ -815,7 +815,7 @@
     </sourceConnections>
     <bounds
         x="774"
-        y="760"
+        y="816"
         width="200"
         height="60"/>
     <archimateElement
@@ -836,7 +836,7 @@
     </sourceConnections>
     <bounds
         x="1024"
-        y="760"
+        y="816"
         width="200"
         height="60"/>
     <archimateElement
@@ -858,7 +858,7 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="840"
+        y="896"
         width="200"
         height="60"/>
     <archimateElement
@@ -879,7 +879,7 @@
     </sourceConnections>
     <bounds
         x="274"
-        y="840"
+        y="896"
         width="200"
         height="60"/>
     <archimateElement
@@ -900,7 +900,7 @@
     </sourceConnections>
     <bounds
         x="524"
-        y="840"
+        y="896"
         width="200"
         height="60"/>
     <archimateElement
@@ -921,7 +921,7 @@
     </sourceConnections>
     <bounds
         x="774"
-        y="840"
+        y="896"
         width="200"
         height="60"/>
     <archimateElement
@@ -942,7 +942,7 @@
     </sourceConnections>
     <bounds
         x="1024"
-        y="840"
+        y="896"
         width="200"
         height="60"/>
     <archimateElement
@@ -963,7 +963,7 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="920"
+        y="976"
         width="200"
         height="60"/>
     <archimateElement
@@ -1012,7 +1012,7 @@
     </sourceConnections>
     <bounds
         x="274"
-        y="920"
+        y="976"
         width="200"
         height="60"/>
     <archimateElement
@@ -1033,7 +1033,7 @@
     </sourceConnections>
     <bounds
         x="524"
-        y="920"
+        y="976"
         width="200"
         height="60"/>
     <archimateElement
@@ -1064,7 +1064,7 @@
     </sourceConnections>
     <bounds
         x="774"
-        y="920"
+        y="976"
         width="200"
         height="60"/>
     <archimateElement
@@ -1085,7 +1085,7 @@
     </sourceConnections>
     <bounds
         x="1024"
-        y="920"
+        y="976"
         width="200"
         height="60"/>
     <archimateElement
@@ -1124,8 +1124,8 @@
           href="RealizationRelationship_id-6b7638d585e64e66a1634418d777c1aa.xml#id-6b7638d585e64e66a1634418d777c1aa"/>
     </sourceConnections>
     <bounds
-        x="1274"
-        y="920"
+        x="1260"
+        y="816"
         width="200"
         height="60"/>
     <archimateElement
@@ -1147,7 +1147,7 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="1000"
+        y="1056"
         width="200"
         height="60"/>
     <archimateElement
@@ -1177,7 +1177,7 @@
     </sourceConnections>
     <bounds
         x="274"
-        y="1000"
+        y="1056"
         width="200"
         height="60"/>
     <archimateElement
@@ -1198,7 +1198,7 @@
     </sourceConnections>
     <bounds
         x="524"
-        y="1000"
+        y="1056"
         width="200"
         height="60"/>
     <archimateElement
@@ -1220,7 +1220,7 @@
     </sourceConnections>
     <bounds
         x="774"
-        y="1000"
+        y="1056"
         width="200"
         height="60"/>
     <archimateElement
@@ -1242,7 +1242,7 @@
     </sourceConnections>
     <bounds
         x="1024"
-        y="1000"
+        y="1056"
         width="200"
         height="60"/>
     <archimateElement
@@ -1282,7 +1282,7 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="1110"
+        y="1166"
         width="200"
         height="60"/>
     <archimateElement
@@ -1303,7 +1303,7 @@
     </sourceConnections>
     <bounds
         x="274"
-        y="1110"
+        y="1166"
         width="200"
         height="60"/>
     <archimateElement
@@ -1325,7 +1325,7 @@
     </sourceConnections>
     <bounds
         x="524"
-        y="1110"
+        y="1166"
         width="200"
         height="60"/>
     <archimateElement
@@ -1356,7 +1356,7 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="1220"
+        y="1276"
         width="200"
         height="60"/>
     <archimateElement
@@ -1378,7 +1378,7 @@
     </sourceConnections>
     <bounds
         x="274"
-        y="1220"
+        y="1276"
         width="200"
         height="60"/>
     <archimateElement
@@ -1400,7 +1400,7 @@
     </sourceConnections>
     <bounds
         x="524"
-        y="1220"
+        y="1276"
         width="200"
         height="60"/>
     <archimateElement
@@ -1415,7 +1415,7 @@
       value="elementsimple-sintit-md,elementsimple-filatit-md"/>
   <properties
       key="titulo"
-      value="Problemas Riesgo y Procesos SG"/>
+      value="Problemas Riesgo y Procesos SG (interconexión entre capas AE)"/>
   <properties
       key="IncluyeElementosSindoc"
       value="false"/>
