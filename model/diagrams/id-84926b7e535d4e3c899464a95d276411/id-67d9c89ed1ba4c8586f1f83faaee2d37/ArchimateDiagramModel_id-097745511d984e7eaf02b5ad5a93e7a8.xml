@@ -83,7 +83,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-045d45a6f9a2492faa0e40ae0537ed7b"
-        targetConnections="id-2e776009a6ab46c4b2ea9d2b56919dad">
+        targetConnections="id-2e776009a6ab46c4b2ea9d2b56919dad"
+        fillColor="#fefb00">
       <bounds
           x="181"
           y="156"
@@ -96,7 +97,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8be7fd38d634473695176a44731b40b1"
-        targetConnections="id-ab7ed2e79af244a1b65eb711c3de3ffb">
+        targetConnections="id-ab7ed2e79af244a1b65eb711c3de3ffb"
+        fillColor="#fefb00">
       <bounds
           x="181"
           y="36"
@@ -109,7 +111,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-09da50b965fd4659a04493bcc558b7ae"
-        targetConnections="id-aa0ca85624e04cfd82cf8b99876a758c">
+        targetConnections="id-aa0ca85624e04cfd82cf8b99876a758c"
+        fillColor="#fefb00">
       <bounds
           x="181"
           y="96"
@@ -122,7 +125,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a48b3a1807df40238a93829399316c18"
-        targetConnections="id-eea9775e0b6b489aa249699abc5cf7f0">
+        targetConnections="id-eea9775e0b6b489aa249699abc5cf7f0"
+        fillColor="#fefb00">
       <bounds
           x="36"
           y="36"
@@ -135,7 +139,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e33e9746c7204d5c9f7a188caf0eb7d0"
-        targetConnections="id-6189b097c23a49a0958154ee3f2aa004">
+        targetConnections="id-6189b097c23a49a0958154ee3f2aa004"
+        fillColor="#fefb00">
       <bounds
           x="35"
           y="216"
@@ -148,7 +153,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-43d9f835ef3347dbb6f80588b24ef203"
-        targetConnections="id-0f1fd449585c426fb8c8d5ba0c14a34c">
+        targetConnections="id-0f1fd449585c426fb8c8d5ba0c14a34c"
+        fillColor="#fefb00">
       <bounds
           x="35"
           y="156"
@@ -161,7 +167,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-17df000399d346fa97f6fdbdeb2244cc"
-        targetConnections="id-ce72cd596e9640618e71b445f88e32fb">
+        targetConnections="id-ce72cd596e9640618e71b445f88e32fb"
+        fillColor="#fefb00">
       <bounds
           x="35"
           y="96"
@@ -1109,12 +1116,12 @@
       id="id-143e631effe543318a3c2b1831992437"
       textAlignment="1"
       fillColor="#0096ff"
-      content="Sistemas transversales">
+      content="Sistemas transversales a procesos">
     <bounds
-        x="565"
-        y="83"
-        width="147"
-        height="37"/>
+        x="456"
+        y="60"
+        width="120"
+        height="60"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1211,6 +1218,33 @@
     <archimateElement
         xsi:type="archimate:Artifact"
         href="Artifact_id-eed164168f8d450b95038b5313d3f633.xml#id-eed164168f8d450b95038b5313d3f633"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-224e3c693e3e4806853b450e024fe26c"
+      textAlignment="1"
+      fillColor="#fefb00"
+      content="Sistemas en desarrollo">
+    <bounds
+        x="587"
+        y="60"
+        width="120"
+        height="60"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-428fa6373f7048c58cccf5b3623db7af"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#b5ffff"
+      content="Sistemas actuales gestión OTIC">
+    <bounds
+        x="324"
+        y="60"
+        width="120"
+        height="60"/>
   </children>
   <properties
       key="titulo"
