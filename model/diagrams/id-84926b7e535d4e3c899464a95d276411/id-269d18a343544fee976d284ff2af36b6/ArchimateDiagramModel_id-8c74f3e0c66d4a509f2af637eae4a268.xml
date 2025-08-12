@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="07.Negocio.n3. Preocupaciones (debilidades)"
-    id="id-8c74f3e0c66d4a509f2af637eae4a268">
+    id="id-8c74f3e0c66d4a509f2af637eae4a268"
+    documentation="Con base en el estudio de las sesiones de levantamiento, entrevistas, y cuestionarios compartidos en el mes de julio del 2025, junto con la recopilación estructurada de las fuentes de información sobre cada sistema identificamos las siguientes preocupaciones (debilidades) internas de la SG relacionadas con el dominio de sistemas de información, dentro del alcance de este ejercicio.&#xA;&#xA;fuente: DOFA de la SG (sección &quot;10.12 Contexto interno y externo”), y el Anexo Nro. 1 del “Contexto_Estratégico_v05”.&#xA;&#xA;Las preocupaciones tecnológicas respecto de los sistemas de información de SG mencionadas en estas fuentes señalan:&#xA;&#xA;* Deficiente apropiación del conocimiento en procesos de tecnologías de la información, lo que genera demora en la solución de los servicios de tecnologías de la información.&#xA;* Equipos tecnológicos en proceso de mitigar la obsolescencia, que generan dificultad en la ejecución de las actividades que desarrolla la entidad.&#xA;* Fallas recurrentes en el funcionamiento de los sistemas de información y plataformas tecnológicas de la entidad, que afectan la continuidad del servicio y generan retrasos y reprocesos en la ejecución de las actividades.&#xA;* Insuficiencia en la capacidad de las herramientas tecnológicas de la entidad que pueden obstaculizar el avance de los iniciativas en marcha de la SG.&#xA;* Debilidad en la capacidad de extraer información dinámica que sirva como insumo para la toma de decisiones basado en evidencia.&#xA;* Se realizan análisis de datos descriptivos aislados, pero no predictivos y prospectivos de los resultados de la gestión de la entidad, lo que dificulta la toma de decisiones basada en evidencia.&#xA;* Falta de personal para actualizar las plataformas tecnológicas, lo que genera retrasos en la operación de la entidad.&#xA;* Deficiente conectividad y falta de interoperabilidad de las plataformas tecnológicas.&#xA;* Cambios en las plataformas tecnológicas que no interactúan con las anteriores, lo cual expone a la SG a posibles pérdidas de información y reprocesos.&#xA;* Apostar más en la mejora continua de la inestabilidad de la conectividad, indisponibilidad de servidores de información y vulnerabilidad en la seguridad informática; lo contrario puede comprometer la operatividad, la integridad de los datos críticos de la entidad y el cumplimiento de las metas.&#xA;* Potencial y rápida obsolescencia tecnológica que implica la necesidad de renovación de los equipos y dificulta la prestación de los servicios de la entidad.&#xA;* Los altos costos de la tecnología pueden limitar la capacidad de la entidad para implementar y mantener sistemas avanzados y eficientes.&#xA;* (otros) Materialización de riesgos asociados a ataques cibernéticos, e ingeniería social, suplantación de identidad, entre otros, que ponen en riesgo la seguridad de la información y los documentos (pérdida de la confidencialidad, integridad y disponibilidad de la información) y afectan la continuidad operativa.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-53fc86b1dc3e4c3a9e9590d893e88f36"
@@ -47,7 +48,7 @@
           href="AssociationRelationship_id-1d50d2025c084af78ef4c0e6303154f5.xml#id-1d50d2025c084af78ef4c0e6303154f5"/>
     </sourceConnections>
     <bounds
-        x="816"
+        x="780"
         y="486"
         width="200"
         height="50"/>
@@ -63,7 +64,7 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="816"
+        x="780"
         y="556"
         width="200"
         height="50"/>
@@ -91,7 +92,7 @@
           href="AssociationRelationship_id-6a937f25ff3f4aa594fe995fa88166da.xml#id-6a937f25ff3f4aa594fe995fa88166da"/>
     </sourceConnections>
     <bounds
-        x="1066"
+        x="1030"
         y="486"
         width="250"
         height="50"/>
@@ -107,7 +108,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="1066"
+        x="1030"
         y="556"
         width="250"
         height="50"/>
@@ -123,7 +124,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="1066"
+        x="1030"
         y="626"
         width="250"
         height="50"/>
@@ -163,7 +164,7 @@
           href="InfluenceRelationship_id-dbcfd6078121460c9ec87997d2ab0060.xml#id-dbcfd6078121460c9ec87997d2ab0060"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="12"
         y="252"
         width="280"
         height="50"/>
@@ -203,7 +204,7 @@
           href="InfluenceRelationship_id-ea883d4345df44498546acbf46cfa74c.xml#id-ea883d4345df44498546acbf46cfa74c"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="12"
         y="322"
         width="280"
         height="50"/>
@@ -255,7 +256,7 @@
           href="InfluenceRelationship_id-556f2cf0dedf4e2baca45700c4a76d5f.xml#id-556f2cf0dedf4e2baca45700c4a76d5f"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="12"
         y="392"
         width="280"
         height="50"/>
@@ -295,7 +296,7 @@
           href="InfluenceRelationship_id-f06d9c746d684aac93eb0419fcd1a96e.xml#id-f06d9c746d684aac93eb0419fcd1a96e"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="12"
         y="462"
         width="280"
         height="50"/>
@@ -335,7 +336,7 @@
           href="InfluenceRelationship_id-0a22dd153d784c0382d42ccf9d8d7189.xml#id-0a22dd153d784c0382d42ccf9d8d7189"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="12"
         y="532"
         width="280"
         height="50"/>
@@ -375,7 +376,7 @@
           href="InfluenceRelationship_id-a36a9cfca37c431dbd17cbfc1348146b.xml#id-a36a9cfca37c431dbd17cbfc1348146b"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="12"
         y="602"
         width="280"
         height="50"/>
@@ -403,7 +404,7 @@
           href="InfluenceRelationship_id-83538423b1774b08bb8b3e20f1b5bdca.xml#id-83538423b1774b08bb8b3e20f1b5bdca"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="12"
         y="672"
         width="280"
         height="50"/>
@@ -455,7 +456,7 @@
           href="InfluenceRelationship_id-0cf3a285c1c947e2afe62c1860966558.xml#id-0cf3a285c1c947e2afe62c1860966558"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="12"
         y="742"
         width="280"
         height="50"/>
@@ -507,7 +508,7 @@
           href="InfluenceRelationship_id-2301c2ea14704533a7ff8f22a90fdace.xml#id-2301c2ea14704533a7ff8f22a90fdace"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="12"
         y="812"
         width="280"
         height="50"/>
@@ -583,7 +584,7 @@
           href="InfluenceRelationship_id-04b77710b5704de9a898c3739d941310.xml#id-04b77710b5704de9a898c3739d941310"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="12"
         y="882"
         width="280"
         height="50"/>
@@ -623,7 +624,7 @@
           href="InfluenceRelationship_id-a2390b8bd7b447de9b3aa7d45e0ddc53.xml#id-a2390b8bd7b447de9b3aa7d45e0ddc53"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="12"
         y="952"
         width="280"
         height="50"/>
@@ -663,7 +664,7 @@
           href="InfluenceRelationship_id-604cfee42a3e4af9ae1bfbb6cc6749a9.xml#id-604cfee42a3e4af9ae1bfbb6cc6749a9"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="12"
         y="1022"
         width="280"
         height="50"/>
@@ -703,7 +704,7 @@
           href="InfluenceRelationship_id-efbd99a97926425089e274c01dd54a15.xml#id-efbd99a97926425089e274c01dd54a15"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="12"
         y="1092"
         width="280"
         height="50"/>
@@ -755,7 +756,7 @@
           href="InfluenceRelationship_id-24572a90d53c40c398abc8c363f8a551.xml#id-24572a90d53c40c398abc8c363f8a551"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="12"
         y="1162"
         width="280"
         height="50"/>
@@ -772,7 +773,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="66"
         width="250"
         height="50"/>
@@ -789,7 +790,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="136"
         width="250"
         height="50"/>
@@ -806,7 +807,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="206"
         width="250"
         height="50"/>
@@ -823,7 +824,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="276"
         width="250"
         height="50"/>
@@ -840,7 +841,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="346"
         width="250"
         height="50"/>
@@ -857,7 +858,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="416"
         width="250"
         height="50"/>
@@ -874,7 +875,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="486"
         width="250"
         height="50"/>
@@ -891,7 +892,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="556"
         width="250"
         height="50"/>
@@ -908,7 +909,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="626"
         width="250"
         height="50"/>
@@ -925,7 +926,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="696"
         width="250"
         height="50"/>
@@ -942,7 +943,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="766"
         width="250"
         height="50"/>
@@ -959,7 +960,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="836"
         width="250"
         height="50"/>
@@ -976,7 +977,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="906"
         width="250"
         height="50"/>
@@ -993,7 +994,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="976"
         width="250"
         height="50"/>
@@ -1010,7 +1011,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="1046"
         width="250"
         height="50"/>
@@ -1027,7 +1028,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="1116"
         width="250"
         height="50"/>
@@ -1044,7 +1045,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="1186"
         width="250"
         height="50"/>
@@ -1061,7 +1062,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="1256"
         width="250"
         height="50"/>
@@ -1078,7 +1079,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="516"
+        x="480"
         y="1326"
         width="250"
         height="50"/>
@@ -1095,7 +1096,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="1380"
+        x="1344"
         y="60"
         width="250"
         height="50"/>
@@ -1112,7 +1113,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="1380"
+        x="1344"
         y="130"
         width="250"
         height="50"/>
@@ -1129,7 +1130,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="1380"
+        x="1344"
         y="200"
         width="250"
         height="50"/>
@@ -1158,7 +1159,7 @@
           href="RealizationRelationship_id-aa83df26013b4dfe83263ec517fb1618.xml#id-aa83df26013b4dfe83263ec517fb1618"/>
     </sourceConnections>
     <bounds
-        x="816"
+        x="780"
         y="66"
         width="280"
         height="50"/>
@@ -1187,7 +1188,7 @@
           href="RealizationRelationship_id-4b0c77581e6e4887b40e968cd15bf91f.xml#id-4b0c77581e6e4887b40e968cd15bf91f"/>
     </sourceConnections>
     <bounds
-        x="816"
+        x="780"
         y="136"
         width="280"
         height="50"/>
@@ -1216,7 +1217,7 @@
           href="RealizationRelationship_id-41cc5df88cea444db3948b18906250b8.xml#id-41cc5df88cea444db3948b18906250b8"/>
     </sourceConnections>
     <bounds
-        x="816"
+        x="780"
         y="206"
         width="280"
         height="50"/>
@@ -1245,7 +1246,7 @@
           href="RealizationRelationship_id-9a004feeafa34182881ef0819e23cbb9.xml#id-9a004feeafa34182881ef0819e23cbb9"/>
     </sourceConnections>
     <bounds
-        x="816"
+        x="780"
         y="276"
         width="280"
         height="50"/>
@@ -1286,13 +1287,24 @@
           href="RealizationRelationship_id-19eeb515fd4146679d522d449a30edfe.xml#id-19eeb515fd4146679d522d449a30edfe"/>
     </sourceConnections>
     <bounds
-        x="816"
+        x="780"
         y="346"
         width="280"
         height="50"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-2460215ed9de4086ac539fd99d9f786d.xml#id-2460215ed9de4086ac539fd99d9f786d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-fd5ffadb1b9040ff84f513156e874f06"
+      textAlignment="1"
+      content="Debilidades (y preocupaciones) de la SG (sección &quot;10.12 Contexto interno y externo”), y el Anexo Nro. 1 del Contexto_Estratégico.&#xA;">
+    <bounds
+        x="12"
+        y="12"
+        width="241"
+        height="104"/>
   </children>
   <properties
       key="titulo"
