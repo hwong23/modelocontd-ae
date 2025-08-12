@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Super App Ciudad"
+    id="id-05edc73b51304a64b42322308a425997"
+    documentation="Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.&#xA;">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>

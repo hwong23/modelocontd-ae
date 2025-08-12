@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agente MIPG"
+    id="id-60a7532bb7564c609cdaa95bbe8a14c0"
+    documentation="Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.&#xA;">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>

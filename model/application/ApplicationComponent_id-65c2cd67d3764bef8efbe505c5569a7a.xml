@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portal Transaccional"
+    id="id-65c2cd67d3764bef8efbe505c5569a7a"
+    documentation="Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.&#xA;">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>

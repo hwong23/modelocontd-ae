@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tablero Gestión Riesgos Feminicidios"
+    id="id-1a86b1bd766149188f0e8428113908e5"
+    documentation="Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.&#xA;">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>

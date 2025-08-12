@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flujos Automatizados de Procesos Empleado con TH y Contratistas"
+    id="id-202d3a1035dd4ca1a1f8b896b77e3517"
+    documentation="Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.&#xA;">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>
