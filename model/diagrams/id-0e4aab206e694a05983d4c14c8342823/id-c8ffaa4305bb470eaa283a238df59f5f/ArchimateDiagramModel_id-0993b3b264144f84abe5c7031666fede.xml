@@ -15,27 +15,42 @@
         height="517"/>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-3c65757a092c4a1e9c7e6a031c855baa">
-      <bounds
-          x="24"
-          y="96"
-          width="199"
-          height="49"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-ae380c2e676e4dc0bbeaa6ac1a2407a6.xml#id-ae380c2e676e4dc0bbeaa6ac1a2407a6"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
         id="id-2bcb4b1447bd4d58a486add13b75af15">
       <bounds
           x="24"
           y="36"
-          width="199"
+          width="289"
           height="49"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-f46748634baa4f87afc7a9ab40892964.xml#id-f46748634baa4f87afc7a9ab40892964"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-eb8a37ec5fe749fca73102931a72ac13">
+      <bounds
+          x="24"
+          y="156"
+          width="289"
+          height="49"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-7812cd6a3a0d4d5783b00f16f2c5826b.xml#id-7812cd6a3a0d4d5783b00f16f2c5826b"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-1b04673bdd214b76a596cb7387d71870">
+      <features
+          name="labelExpression"
+          value="${property:titulo}"/>
+      <bounds
+          x="24"
+          y="96"
+          width="289"
+          height="49"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-097745511d984e7eaf02b5ad5a93e7a8.xml#id-097745511d984e7eaf02b5ad5a93e7a8"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
