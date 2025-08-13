@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="03. Entregables Vision"
-    id="id-0993b3b264144f84abe5c7031666fede">
+    id="id-0993b3b264144f84abe5c7031666fede"
+    documentation="versión 0.1&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3f914d7c2c734b2bb2850f9db23ca861"
