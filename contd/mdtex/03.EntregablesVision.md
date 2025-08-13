@@ -368,15 +368,19 @@ Las relaciones entre los sistemas de información (Anexo Técnico) y el contexto
 | Sistemas de gestión administrativa y financiera | Grouping |  |
 | ADMON | Application Component | Se relaciona con la gestión financiera, gestión de servicios administrativos y tecnológicos, y gestión de recursos físicos.
  |
-| Administrativo y Financiero | Application Component | Sistema de soporta la gestión financiera, gestión de servicios administrativos y tecnológicos, y gestión de recursos físicos. Incluye los siguientes módulos/sistemas: Módulo de Personal y Nómina (PERNO, heredado de SICAPITAL), 
-Administración de costos y facturación de los Cades y Supercades (FACTURACIÓN), Libro Mayor (LIMAY, heredado de SICAPITAL), Sistema de control de gestión de elementos de consumo (SAE, heredado de SICAPITAL), Sistema control de gestión de elementos devolutivos (SAI, heredado de SICAPITAL), Registro y control de la información de presupuesto de la Secretaría General (SIPRES), Sistema para manejo y control del presupuesto de regalías (SIPRES REGALIAS), Registro y control de la información contractual de la Secretaría General (CONTRACTUAL), Sistema para manejo de contratos con presupuesto de regalías (CONTRACTUAL REGALIAS).
+| Administrativo y Financiero | Application Component | Grupo de sistema de soporte a la gestión financiera, gestión de servicios administrativos, tecnológicos, y gestión de recursos físicos.
  |
-| PERNO (Personal y Nómina) | Application Component | Módulo de Personal y Nómina (PERNO, heredado de SICAPITAL)Administración de costos y facturación de los Cades y Supercades (FACTURACIÓN)Libro Mayor (LIMAY, heredado de SICAPITAL)Sistema de control de gestión de elementos de consumo (SAE, heredado de SICAPITAL)Sistema control de gestión de elementos devolutivos (SAI, heredado de SICAPITAL)Registro y control de la información de presupuesto de la Secretaría General (SIPRES)Sistema para manejo y control del presupuesto de regalías (SIPRES REGALIAS)Registro y control de la información contractual de la Secretaría General (CONTRACTUAL)Sistema para manejo de contratos con presupuesto de regalías (CONTRACTUAL REGALIAS)
+| PERNO (Personal y Nómina) | Application Component | Módulo de Personal y Nómina (PERNO, heredado de SICAPITAL).
  |
-| Facturación | Application Component | Administración de costos y facturación de los Cades y Supercades (FACTURACIÓN)
-Libro Mayor (LIMAY, heredado de SICAPITAL)Sistema de control de gestión de elementos de consumo (SAE, heredado de SICAPITAL)Sistema control de gestión de elementos devolutivos (SAI, heredado de SICAPITAL)Registro y control de la información de presupuesto de la Secretaría General (SIPRES)Sistema para manejo y control del presupuesto de regalías (SIPRES REGALIAS)Registro y control de la información contractual de la Secretaría General (CONTRACTUAL)Sistema para manejo de contratos con presupuesto de regalías (CONTRACTUAL REGALIAS)
+| Facturación | Application Component | Administración de costos y facturación de los Cades y Supercades (FACTURACIÓN).
  |
 | Libro Mayor | Application Component | LIMAY, heredado de SICAPITAL).
+ |
+| Gestión de Elementos Devolutivos  | Application Component | Sistema control de gestión de elementos devolutivos (SAI, heredado de SICAPITAL)
+ |
+| SIPRES Registro y Control de Presupuesto  | Application Component | Registro y control de la información de presupuesto de la Secretaría General (SIPRES).
+ |
+| SIPRES Regalías | Application Component | Sistema para manejo y control del presupuesto de regalías (SIPRES REGALIAS)Registro y control de la información contractual de la Secretaría General (CONTRACTUAL)Sistema para manejo de contratos con presupuesto de regalías (CONTRACTUAL REGALIAS).
  |
 | DARUMA | Application Component | Sistema para el registro de documentos de procesos, procedimientos, formatos, entre otros, como insumos de la Gestión de Calidad.
  |
@@ -599,8 +603,7 @@ Portal de apoya los procesos de Gobierno abierto y relacionamiento con la ciudad
 Sistema de información para la administración, registro, atención, seguimiento y control de las peticiones, quejas, reclamos, solicitudes de información, denuncias y sugerencias que reciban las entidades del distrito capital por los diferentes canales. Fundamental para el proceso de Gobierno abierto y relacionamiento con la ciudadanía. También se menciona como el Sistema Distrital para la Gestión de Peticiones Ciudadanas, a través del cual se evalúa la calidad de las respuestas emitidas a la ciudadanía.
 
 ### Administrativo y Financiero
-Sistema de soporta la gestión financiera, gestión de servicios administrativos y tecnológicos, y gestión de recursos físicos. Incluye los siguientes módulos/sistemas: Módulo de Personal y Nómina (PERNO, heredado de SICAPITAL), 
-Administración de costos y facturación de los Cades y Supercades (FACTURACIÓN), Libro Mayor (LIMAY, heredado de SICAPITAL), Sistema de control de gestión de elementos de consumo (SAE, heredado de SICAPITAL), Sistema control de gestión de elementos devolutivos (SAI, heredado de SICAPITAL), Registro y control de la información de presupuesto de la Secretaría General (SIPRES), Sistema para manejo y control del presupuesto de regalías (SIPRES REGALIAS), Registro y control de la información contractual de la Secretaría General (CONTRACTUAL), Sistema para manejo de contratos con presupuesto de regalías (CONTRACTUAL REGALIAS).
+Grupo de sistema de soporte a la gestión financiera, gestión de servicios administrativos, tecnológicos, y gestión de recursos físicos.
 
 ### SIGA
 Sistema Integrado de Gestión Documental, Archivo y Correspondencia.
