@@ -231,7 +231,7 @@ Las oportunidades tecnológicas y de mejora de sistemas de información menciona
     * Se espera que la Arquitectura Empresarial fortalezca la transparencia, y aumente la eficiencia de la gestión pública y la rendición de cuentas al estandarizar procesos y sistemas de información. La AE busca realmente impactar el objetivo de aumentar la confianza de la ciudadanía en la Gestión Pública.
     * Es requerido que este ejercicio beneficie a la SG con la entrega de activos como hojas de ruta, catálogos y caracterización de los sistemas de información, matrices de interacción, entre otros.
 
-### 2. Diagnóstico Actual: Debilidades Tecnológicas Clave de la Secretaría General
+### Diagnóstico de Debilidades Tecnológicas
 Basado en el análisis de las matrices DOFA (Matriz de Evaluación de Factores Internos - MEFI y Matriz de Evaluación de Factores Externos - MEFE) [5, 6], se han identificado las siguientes debilidades tecnológicas:
 
 * Sistemas de Información y Datos:
@@ -256,7 +256,7 @@ Basado en el análisis de las matrices DOFA (Matriz de Evaluación de Factores I
     * Deficiente apropiación del conocimiento en procesos de tecnologías de la información, generando demora en la solución de servicios [17].
     * Falta de personal para actualizar las plataformas tecnológicas, lo que genera retrasos en la operación.
 
-### 3. La Arquitectura Empresarial (AE) como Solución Estratégica
+### Planteamiento de Arquitectura Empresarial
 La implementación de un ejercicio de Arquitectura Empresarial es clave para abordar estas debilidades [4].
 
 * Propósito y Alcance de la AE:
@@ -266,7 +266,7 @@ La implementación de un ejercicio de Arquitectura Empresarial es clave para abo
 
 * Dominios Clave que aborda la AE:
     * Arquitectura Institucional: Modelo de capacidades, modelo operativo y catálogo de servicios institucionales [21].
-    * Arquitectura de Información: Definición de flujos y arquitectura de información, intercambio de información entre entidades y modelo de información institucional, incluyendo la aplicación de Inteligencia Artificial [22, 23].
+    * Arquitectura de Información: Definición de flujos y arquitectura de información, intercambio de información entre entidades y modelo de información institucional, incluyendo la aplicación de Inteligencia Artificial.
     * Arquitectura de Sistemas de Información: Definición de arquitecturas de referencia para soluciones (SOA), arquitecturas de solución para proyectos de SI y caracterización de sistemas de información existentes [24, 25].
     * Arquitectura de Tecnología: Catálogo de elementos de infraestructura, plataforma de interoperabilidad, continuidad y disponibilidad de infraestructura, y arquitecturas de referencia tecnológica [26-28].
     * Arquitectura de Seguridad: Catálogo de servicios de seguridad de la información y ciberseguridad, análisis de impacto del negocio, arquitectura de seguridad alineada e integrada, y diseño de controles de seguridad informática para la gestión de riesgos [28-30].
@@ -393,15 +393,14 @@ Libro Mayor (LIMAY, heredado de SICAPITAL)Sistema de control de gestión de elem
 | SAT Web | Application Component | Sistema de Asignación de Turnos en los puntos de atención a la ciudadanía (Red Cade).
  |
 | Expediente Digital | Data Object | Objeto de datos en la capa de aplicación que representa un expediente electrónico. |
+| 4233100-CR-033 Gestión de servicios  | Artifact | 4233100-CR-033 Gestión de servicios administrativos y tecnológicos.
+ |
 | 2213200-PR-101 Gestión de Incidentes | Artifact | 2213200-PR-101 Gestión de Incidentes, Requerimientos y Problemas Tecnológicos.
  |
-| 4233100-CR-033 Gestión de servicios  | Artifact | 4233100-CR-033 Gestión de servicios administrativos y tecnológicos.
+| 4204000-PR-106 Desarrollo de soluciones | Artifact | 4204000-PR-106 Desarrollo de soluciones
+ |
+| 4204000-GS-110 Metodología gestión proyectos TI | Artifact | 4204000-GS-110 Metodología gestión proyectos TI.
 
-* 4204000-PR-106 Análisis, diseño, desarrollo e implementación de soluciones
-* 4204000-GS-110 Metodología para la gestión de proyectos de TI
-* 4204000-GS-006 Guía de Arquitectura de Software para Soluciones Tecnológicas
-* 4204000-OT-047 Estándares de nomenclatura para el desarrollo de aplicaciones en ambientes de bases de datos
-* 4204000-GS-108 Guía Metodológica para el desarrollo y mantenimiento de soluciones de software
  |
 | Sistemas de fortalecimiento de capacidades y conocimiento | Grouping |  |
 | Bogotá Aprende TIC | Application Component | Portal de apoya los procesos de Gobierno abierto y relacionamiento con la ciudadanía, y Fortalecimiento de la Gestión Pública.
@@ -423,6 +422,12 @@ Libro Mayor (LIMAY, heredado de SICAPITAL)Sistema de control de gestión de elem
 | SIVIC | Application Component | Sistema de Información de Víctimas de Bogotá para registrar la gestión de atención integral a las víctimas. Interviene en los procesos de Paz, víctimas y reconciliación, y Fortalecimiento de la Gestión Pública. Interviene en los procesos de Paz, víctimas y reconciliación, y Fortalecimiento de la Gestión Pública.
  |
 | AVANTI | Application Component | Sistema de Información para registrar avance de programación y seguimiento de metas plan de desarrollo de las entidades distritales SDARIV relacionadas con atención integral a las víctimas.
+ |
+| 4204000-GS-006 Guía de Arquitectura | Artifact | 4204000-GS-006 Guía de Arquitectura de Software para Soluciones Tecnológicas.
+ |
+| 4204000-OT-047 Estándares nomenclatura | Artifact | 4204000-OT-047 Estándares de nomenclatura para el desarrollo de aplicaciones en ambientes de bases de datos.
+ |
+| 4204000-GS-108 Guía desarrollo y mantenimiento | Artifact | 4204000-GS-108 Guía Metodológica para el desarrollo y mantenimiento de soluciones de software
  |
 | Sistemas de desarrollo | Grouping |  |
 | Gitlab | Application Component | Plataforma de desarrollo de software y colaboración.
