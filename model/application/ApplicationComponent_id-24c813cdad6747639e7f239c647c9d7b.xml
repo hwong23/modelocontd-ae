@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Personal y Nómina"
+    name="PERNO (Personal y Nómina)"
     id="id-24c813cdad6747639e7f239c647c9d7b"
     documentation="Módulo de Personal y Nómina (PERNO, heredado de SICAPITAL)Administración de costos y facturación de los Cades y Supercades (FACTURACIÓN)Libro Mayor (LIMAY, heredado de SICAPITAL)Sistema de control de gestión de elementos de consumo (SAE, heredado de SICAPITAL)Sistema control de gestión de elementos devolutivos (SAI, heredado de SICAPITAL)Registro y control de la información de presupuesto de la Secretaría General (SIPRES)Sistema para manejo y control del presupuesto de regalías (SIPRES REGALIAS)Registro y control de la información contractual de la Secretaría General (CONTRACTUAL)Sistema para manejo de contratos con presupuesto de regalías (CONTRACTUAL REGALIAS)&#xA;"/>
