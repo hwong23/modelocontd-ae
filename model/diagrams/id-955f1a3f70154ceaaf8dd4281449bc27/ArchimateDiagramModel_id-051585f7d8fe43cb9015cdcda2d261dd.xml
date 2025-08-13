@@ -109,22 +109,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-6c348cf480e04d2ba1acf28c9d0ca14a"
-        fillColor="#ff9300">
-      <features
-          name="labelExpression"
-          value="${property:titulo}"/>
-      <bounds
-          x="12"
-          y="336"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-0993b3b264144f84abe5c7031666fede.xml#id-0993b3b264144f84abe5c7031666fede"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
         id="id-3ff05c86d2da422f9aa7aa43ebefd5cb">
       <bounds
           x="120"
