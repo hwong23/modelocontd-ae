@@ -61,4 +61,7 @@
   <properties
       key="titulo"
       value="Situación Actual Sistemas Información SG (view)"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-sintit-md,elementsimple-filatxt-md"/>
 </archimate:ArchimateDiagramModel>
