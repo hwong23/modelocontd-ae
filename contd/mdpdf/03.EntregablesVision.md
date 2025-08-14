@@ -15,7 +15,7 @@
 
 <br>
 
-El dominio de sistemas de información es un pilar estructural del proyecto de arquitectura empresarial de la SG que genera aportes tecnológicos alineados con los objetivos estratégicos de transformación digital de SG. En este dominio tratamos con las necesidades de negocio para identificar, en conjunto con la Oficina de Tecnologías de la Información (OTIC), brechas y soluciones de aplicaciones de software y preparar el terreno para la selección de la tecnología subyacente.
+El dominio de sistemas de información es un pilar estructural del proyecto de arquitectura empresarial de la SG que genera aportes tecnológicos alineados con los objetivos estratégicos de transformación digital de la SG. En este dominio tratamos con las necesidades de negocio para identificar, en conjunto con la Oficina de Tecnologías de la Información (OTIC), brechas y soluciones de aplicaciones de software y preparar el terreno para la selección de las soluciones tecnológicas acordes con los objetivos estratégicos de la SG.
 
 #### Objetivo de la Arquitectura de Aplicaciones
 
@@ -23,11 +23,10 @@ El objetivo principal del trabajo de arquitectura de aplicaciones de este proyec
 
 En términos más específicos, la arquitectura de aplicaciones busca:
 
-* Definir la arquitectura de las aplicaciones (software) necesarias para soportar los procesos de negocio.
-* Identificar las funciones de negocio que deben ser soportadas por las aplicaciones.
+* Definir la arquitectura de las aplicaciones necesarias para soportar los procesos de negocio.
+* Identificar las capacidades de negocio de la SG que deben ser soportadas por las aplicaciones de software.
 * Establecer la interacción y el flujo de información entre las diferentes aplicaciones.
 * Considerar aspectos como la escalabilidad, el rendimiento, la mantenibilidad y la seguridad de las aplicaciones.
-* Listar las capacidades de negocio (servicios de aplicación) relacionadas con las arquitecturas de aplicaciones de SG.
 
 
 #### Relación con las Fases del Proyecto
