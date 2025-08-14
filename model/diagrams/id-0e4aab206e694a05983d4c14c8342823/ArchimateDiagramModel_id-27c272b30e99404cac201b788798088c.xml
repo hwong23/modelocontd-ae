@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vistas y Artefactos Entregables "
+    id="id-27c272b30e99404cac201b788798088c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-bc152263b5c14f4bb4f19fd0966c017b">
+    <bounds
+        x="60"
+        y="48"
+        width="202"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Artifact"
+        href="Artifact_id-40b5d3a3d2a5481d8628596d28e5b83f.xml#id-40b5d3a3d2a5481d8628596d28e5b83f"/>
+  </children>
+</archimate:ArchimateDiagramModel>
