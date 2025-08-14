@@ -439,8 +439,7 @@
         targetConnections="id-a1dab923f3204ae2b063cc2d4cee9776"
         font="1|Lucida Grande|12.0|0|COCOA|1|"
         fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#0096ff">
+        lineColor="#5c5c5c">
       <bounds
           x="24"
           y="131"
@@ -473,8 +472,7 @@
         targetConnections="id-8bb13be4dca34a3f878b2c23891f2806"
         font="1|Lucida Grande|12.0|0|COCOA|1|"
         fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#0096ff">
+        lineColor="#5c5c5c">
       <bounds
           x="24"
           y="84"
@@ -490,8 +488,7 @@
         targetConnections="id-583c43135abc463e9bef94dd3cfdd1a2"
         font="1|Lucida Grande|12.0|0|COCOA|1|"
         fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#0096ff">
+        lineColor="#5c5c5c">
       <bounds
           x="24"
           y="179"
@@ -1197,118 +1194,15 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-143e631effe543318a3c2b1831992437"
-      textAlignment="1"
-      fillColor="#0096ff"
-      content="Sistemas transversales a procesos">
-    <bounds
-        x="456"
-        y="84"
-        width="120"
-        height="60"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-2a5aa9a7c74647ba90a67f58b2342cf9"
-      font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande">
-    <bounds
-        x="881"
-        y="873"
-        width="180"
-        height="45"/>
-    <archimateElement
-        xsi:type="archimate:Artifact"
-        href="Artifact_id-8cd8b7ce8dbd40c1bf43f9f30c3e9542.xml#id-8cd8b7ce8dbd40c1bf43f9f30c3e9542"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-f3cf5463f2244c73b1539a12dca4da1c"
-      font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande">
-    <bounds
-        x="881"
-        y="829"
-        width="180"
-        height="45"/>
-    <archimateElement
-        xsi:type="archimate:Artifact"
-        href="Artifact_id-ff5614e32ab64e97af81eea7c0dc9f32.xml#id-ff5614e32ab64e97af81eea7c0dc9f32"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1f24ce02eb1b4151a386c0eca0a2162f"
-      font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande">
-    <bounds
-        x="881"
-        y="785"
-        width="180"
-        height="45"/>
-    <archimateElement
-        xsi:type="archimate:Artifact"
-        href="Artifact_id-691dcb6d41cb4668ab59e0e66ac159d1.xml#id-691dcb6d41cb4668ab59e0e66ac159d1"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0da94c3832834cdab69b2dbe5f4346b0"
-      font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande">
-    <bounds
-        x="881"
-        y="741"
-        width="180"
-        height="45"/>
-    <archimateElement
-        xsi:type="archimate:Artifact"
-        href="Artifact_id-508840d7b6be4266b9b7fc8ffb952484.xml#id-508840d7b6be4266b9b7fc8ffb952484"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-be6c56e398b44b07afd446cb013542d2"
-      font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande">
-    <bounds
-        x="881"
-        y="700"
-        width="180"
-        height="45"/>
-    <archimateElement
-        xsi:type="archimate:Artifact"
-        href="Artifact_id-dd95f06c08944b38a22383eef0d36ba7.xml#id-dd95f06c08944b38a22383eef0d36ba7"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7f6a36fc6a004b06963cb0dec82f77ae"
-      font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande">
-    <bounds
-        x="881"
-        y="656"
-        width="180"
-        height="45"/>
-    <archimateElement
-        xsi:type="archimate:Artifact"
-        href="Artifact_id-75e8bf2b04dc450195bec7c31e83e921.xml#id-75e8bf2b04dc450195bec7c31e83e921"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0b30e3b6507c4aee87a4d4fb845db3f9"
-      font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande">
-    <bounds
-        x="881"
-        y="612"
-        width="180"
-        height="45"/>
-    <archimateElement
-        xsi:type="archimate:Artifact"
-        href="Artifact_id-eed164168f8d450b95038b5313d3f633.xml#id-eed164168f8d450b95038b5313d3f633"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
       id="id-224e3c693e3e4806853b450e024fe26c"
       textAlignment="1"
       fillColor="#fefb00"
-      content="Sistemas en desarrollo">
+      borderType="1">
     <bounds
-        x="587"
-        y="84"
-        width="120"
-        height="60"/>
+        x="483"
+        y="107"
+        width="38"
+        height="37"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -1318,12 +1212,47 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#b5ffff"
-      content="Sistemas actuales gestión OTIC">
+      borderType="1">
     <bounds
-        x="324"
-        y="84"
-        width="120"
-        height="60"/>
+        x="483"
+        y="71"
+        width="38"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1a67b02e674a41daa844ab042cd23c90"
+      textAlignment="1"
+      alpha="0"
+      content="Sistemas en desarrollo"
+      borderType="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="520"
+        y="107"
+        width="192"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-08374a09a1da497891c2eac4e11b708b"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      alpha="0"
+      content="Sistemas actuales gestión OTIC"
+      borderType="1">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="520"
+        y="71"
+        width="192"
+        height="37"/>
   </children>
   <properties
       key="titulo"
