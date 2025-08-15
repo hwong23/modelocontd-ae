@@ -276,7 +276,7 @@ todo: aun no está lista
 
 ## Análisis de Entorno Sistemas de Información SG
 
-> Arquitectura Empresarial Secretaría General Alcaldía Mayor Bogotá.  Ingenium. 2025  Dominio de Sistemas y Aplicaciones de Software. Sistemas de información del análisis de entorno.   
+> Arquitectura Empresarial Secretaría General Alcaldía Mayor Bogotá.  Ingenium. 2025  Dominio de Sistemas y Aplicaciones de Software gestionadas por la OTIC. Sistemas de información del análisis de entorno.   
 
 <br>
 
@@ -320,7 +320,7 @@ La vista de sistemas de información organiza la información del catálogo de a
 
 | Nombre  | Tipo | Documentación |
 |---------|------|---------------|
-| Canales Alcaldía | Grouping |  |
+| Canales Alcaldía Mayor de Bogotá | Grouping |  |
 | SuperCADE Virtual | Application Component | Red de canales presenciales de atención a ciudadanía.
  |
 | Chat-Bot | Application Component | Canal web de atención a ciudadanía.
@@ -387,18 +387,18 @@ La vista de sistemas de información organiza la información del catálogo de a
 | PANDORA | Application Component | Implementación de temas precontractual y planeación.
  |
 | Expediente Digital | Data Object | Objeto de datos en la capa de aplicación que representa un expediente electrónico. |
-| Sistemas de fortalecimiento de capacidades y conocimiento | Grouping |  |
+| Sistemas de fortalecimiento de capacidades, del conocimiento y datos para la gestión pública | Grouping |  |
 | Bogotá Aprende TIC | Application Component | Portal de apoya los procesos de Gobierno abierto y relacionamiento con la ciudadanía, y Fortalecimiento de la Gestión Pública.
  |
-| GLOBO | Application Component | Registro de acciones de cooperación internacional. Utilizado en el proceso de Fortalecimiento de la Gestión Pública.
+| Globo | Application Component | Registro de acciones de cooperación internacional. Utilizado en el proceso de Fortalecimiento de la Gestión Pública.
  |
 | SUDIVC | Application Component | Sistema Unificado Distrital de Inspección, Vigilancia y Control – SUDIVC.
  |
-| HUMANAPP | Application Component | Apoya la gestión del talento humano. Aplicativo de generación de desprendibles de pago para funcionarios y certificaciones laborales, de seguridad social y de ingresos y retenciones.
+| Humanapp | Application Component | Apoya la gestión del talento humano. Aplicativo de generación de desprendibles de pago para funcionarios y certificaciones laborales, de seguridad social y de ingresos y retenciones.
  |
-| SIAB (El COFRE) | Application Component | Sistema de Información del Archivo de Bogotá SIAB. Permite automatizar los procesos archivísticos y técnicos que realiza el Archivo, tales como llevar un registro de los Ingresos Documentales (antes área de acopio), para la descripción y catalogación de la documentación, propios del proceso de Gestión de la Función Archivística y del Patrimonio Documental, para su custodia y conservación permanente. Utilizado en los procesos de Gobierno abierto y relacionamiento con la ciudadanía, y Fortalecimiento de la Gestión Pública.
+| SIAB (El Cofre) | Application Component | Sistema de Información del Archivo de Bogotá SIAB. Permite automatizar los procesos archivísticos y técnicos que realiza el Archivo, tales como llevar un registro de los Ingresos Documentales (antes área de acopio), para la descripción y catalogación de la documentación, propios del proceso de Gestión de la Función Archivística y del Patrimonio Documental, para su custodia y conservación permanente. Utilizado en los procesos de Gobierno abierto y relacionamiento con la ciudadanía, y Fortalecimiento de la Gestión Pública.
  |
-| KOHA | Application Component | Sistema Integrado de Gestión de Bibliotecas. Relacionado con la Gestión del conocimiento.
+| Koha | Application Component | Sistema Integrado de Gestión de Bibliotecas. Relacionado con la Gestión del conocimiento.
  |
 | Data Warehouse | Application Component | Almacenes de datos de trabajo de SG. Bodega de datos con diversas fuentes de información para el análisis y transformación de datos de interés.
  |
@@ -406,7 +406,7 @@ La vista de sistemas de información organiza la información del catálogo de a
  |
 | SIVIC | Application Component | Sistema de Información de Víctimas de Bogotá para registrar la gestión de atención integral a las víctimas. Interviene en los procesos de Paz, víctimas y reconciliación, y Fortalecimiento de la Gestión Pública. Interviene en los procesos de Paz, víctimas y reconciliación, y Fortalecimiento de la Gestión Pública.
  |
-| AVANTI | Application Component | Sistema de Información para registrar avance de programación y seguimiento de metas plan de desarrollo de las entidades distritales SDARIV relacionadas con atención integral a las víctimas.
+| Avanti | Application Component | Sistema de Información para registrar avance de programación y seguimiento de metas plan de desarrollo de las entidades distritales SDARIV relacionadas con atención integral a las víctimas.
  |
 | Sistemas de desarrollo | Grouping |  |
 | Gitlab | Application Component | Plataforma de desarrollo de software y colaboración.
@@ -519,13 +519,13 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | Gestión de Trámites Ciudadanos | Business Process | Proceso de atención y resolución de solicitudes y gestiones de los ciudadanos.
  |
-| HUMANAPP | Application Component | Apoya la gestión del talento humano. Aplicativo de generación de desprendibles de pago para funcionarios y certificaciones laborales, de seguridad social y de ingresos y retenciones.
+| Humanapp | Application Component | Apoya la gestión del talento humano. Aplicativo de generación de desprendibles de pago para funcionarios y certificaciones laborales, de seguridad social y de ingresos y retenciones.
  |
 | ADMON | Application Component | Se relaciona con la gestión financiera, gestión de servicios administrativos y tecnológicos, y gestión de recursos físicos.
  |
 | Datos para Transparencia (SATI) | Application Component | Sistema de tableros de control con datos relevantes, actualizados y comprensibles, incluyendo alertas tempranas contra la corrupción. Plataforma que facilita el acceso a datos e información gubernamental. Soporta el proceso de Gobierno abierto y relacionamiento con la ciudadanía.
  |
-| SIAB (El COFRE) | Application Component | Sistema de Información del Archivo de Bogotá SIAB. Permite automatizar los procesos archivísticos y técnicos que realiza el Archivo, tales como llevar un registro de los Ingresos Documentales (antes área de acopio), para la descripción y catalogación de la documentación, propios del proceso de Gestión de la Función Archivística y del Patrimonio Documental, para su custodia y conservación permanente. Utilizado en los procesos de Gobierno abierto y relacionamiento con la ciudadanía, y Fortalecimiento de la Gestión Pública.
+| SIAB (El Cofre) | Application Component | Sistema de Información del Archivo de Bogotá SIAB. Permite automatizar los procesos archivísticos y técnicos que realiza el Archivo, tales como llevar un registro de los Ingresos Documentales (antes área de acopio), para la descripción y catalogación de la documentación, propios del proceso de Gestión de la Función Archivística y del Patrimonio Documental, para su custodia y conservación permanente. Utilizado en los procesos de Gobierno abierto y relacionamiento con la ciudadanía, y Fortalecimiento de la Gestión Pública.
  |
 | EMLAZE | Application Component | Sistema para la planeación de recursos empresariales (ERP) de la Imprenta Distrital y control de ejecución y consumo de insumos en el ejercicio de imprenta.
  |
@@ -533,7 +533,7 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | SUDIVC | Application Component | Sistema Unificado Distrital de Inspección, Vigilancia y Control – SUDIVC.
  |
-| GLOBO | Application Component | Registro de acciones de cooperación internacional. Utilizado en el proceso de Fortalecimiento de la Gestión Pública.
+| Globo | Application Component | Registro de acciones de cooperación internacional. Utilizado en el proceso de Fortalecimiento de la Gestión Pública.
  |
 | SAT Web | Application Component | Sistema de Asignación de Turnos en los puntos de atención a la ciudadanía (Red Cade).
  |
@@ -553,9 +553,9 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | DARUMA | Application Component | Sistema para el registro de documentos de procesos, procedimientos, formatos, entre otros, como insumos de la Gestión de Calidad.
  |
-| KOHA | Application Component | Sistema Integrado de Gestión de Bibliotecas. Relacionado con la Gestión del conocimiento.
+| Koha | Application Component | Sistema Integrado de Gestión de Bibliotecas. Relacionado con la Gestión del conocimiento.
  |
-| AVANTI | Application Component | Sistema de Información para registrar avance de programación y seguimiento de metas plan de desarrollo de las entidades distritales SDARIV relacionadas con atención integral a las víctimas.
+| Avanti | Application Component | Sistema de Información para registrar avance de programación y seguimiento de metas plan de desarrollo de las entidades distritales SDARIV relacionadas con atención integral a las víctimas.
  |
 | Chat-Bot | Application Component | Canal web de atención a ciudadanía.
  |
