@@ -343,7 +343,7 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
  |
 | Datos para Transparencia (SATI) | Application Component | Sistema de tableros de control con datos relevantes, actualizados y comprensibles, incluyendo alertas tempranas contra la corrupción. Plataforma que facilita el acceso a datos e información gubernamental. Soporta el proceso de Gobierno abierto y relacionamiento con la ciudadanía.
  |
-| EMLAZE | Application Component | Sistema para la planeación de recursos empresariales (ERP) de la Imprenta Distrital y control de ejecución y consumo de insumos en el ejercicio de imprenta.
+| Emlaze | Application Component | Sistema para la planeación de recursos empresariales (ERP) de la Imprenta Distrital y control de ejecución y consumo de insumos en el ejercicio de imprenta.
  |
 | MoviApp | Application Component | Canal móvil de atención a ciudadanía.
  |
@@ -379,9 +379,9 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
  |
 | SIPRES Regalías | Application Component | Sistema para manejo y control del presupuesto de regalías (SIPRES REGALIAS).
  |
-| DARUMA | Application Component | Sistema para el registro de documentos de procesos, procedimientos, formatos, entre otros, como insumos de la Gestión de Calidad.
+| Daruma | Application Component | Sistema para el registro de documentos de procesos, procedimientos, formatos, entre otros, como insumos de la Gestión de Calidad.
  |
-| SIGA | Application Component | Sistema Integrado de Gestión Documental, Archivo y Correspondencia.
+| Siga | Application Component | Sistema Integrado de Gestión Documental, Archivo y Correspondencia.
  |
 | GLPI | Application Component | Sistema de soporta a la gestión de servicios administrativos y tecnológicos, donde se registran y gestionan las solicitudes de servicios TIC.
  |
@@ -389,7 +389,7 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
  |
 | SAT Web | Application Component | Sistema de Asignación de Turnos en los puntos de atención a la ciudadanía (Red Cade).
  |
-| PANDORA | Application Component | Implementación de temas precontractual y planeación.
+| Pandora | Application Component | Implementación de temas precontractual y planeación.
  |
 | Expediente Digital | Data Object | Objeto de datos en la capa de aplicación que representa un expediente electrónico. |
 | Sistemas de fortalecimiento de capacidades, del conocimiento y datos para la gestión pública | Grouping |  |
@@ -532,7 +532,7 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | SIAB (El Cofre) | Application Component | Sistema de Información del Archivo de Bogotá SIAB. Permite automatizar los procesos archivísticos y técnicos que realiza el Archivo, tales como llevar un registro de los Ingresos Documentales (antes área de acopio), para la descripción y catalogación de la documentación, propios del proceso de Gestión de la Función Archivística y del Patrimonio Documental, para su custodia y conservación permanente. Utilizado en los procesos de Gobierno abierto y relacionamiento con la ciudadanía, y Fortalecimiento de la Gestión Pública.
  |
-| EMLAZE | Application Component | Sistema para la planeación de recursos empresariales (ERP) de la Imprenta Distrital y control de ejecución y consumo de insumos en el ejercicio de imprenta.
+| Emlaze | Application Component | Sistema para la planeación de recursos empresariales (ERP) de la Imprenta Distrital y control de ejecución y consumo de insumos en el ejercicio de imprenta.
  |
 | SIVIC | Application Component | Sistema de Información de Víctimas de Bogotá para registrar la gestión de atención integral a las víctimas. Interviene en los procesos de Paz, víctimas y reconciliación, y Fortalecimiento de la Gestión Pública. Interviene en los procesos de Paz, víctimas y reconciliación, y Fortalecimiento de la Gestión Pública.
  |
@@ -554,9 +554,9 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | Administrativo y Financiero | Application Component | Grupo de sistema de soporte a la gestión financiera, gestión de servicios administrativos, tecnológicos, y gestión de recursos físicos.
  |
-| SIGA | Application Component | Sistema Integrado de Gestión Documental, Archivo y Correspondencia.
+| Siga | Application Component | Sistema Integrado de Gestión Documental, Archivo y Correspondencia.
  |
-| DARUMA | Application Component | Sistema para el registro de documentos de procesos, procedimientos, formatos, entre otros, como insumos de la Gestión de Calidad.
+| Daruma | Application Component | Sistema para el registro de documentos de procesos, procedimientos, formatos, entre otros, como insumos de la Gestión de Calidad.
  |
 | Koha | Application Component | Sistema Integrado de Gestión de Bibliotecas. Relacionado con la Gestión del conocimiento.
  |
@@ -574,7 +574,7 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | Office 365 | Application Component | Herramientas de ofimática y colaboración SG.
  |
-| PANDORA | Application Component | Implementación de temas precontractual y planeación.
+| Pandora | Application Component | Implementación de temas precontractual y planeación.
  |
 | Portal Bogotá Capital Digital | Application Component | Plataforma de Trámites en línea. Portal Integrador de trámites y servicios ofrecidos a la ciudadanía. Componente de aplicación que permite la realización de trámites digitales.
  |
