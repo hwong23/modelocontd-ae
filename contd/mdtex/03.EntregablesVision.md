@@ -284,19 +284,24 @@ La vista de sistemas de información organiza la información del catálogo de a
 
 #### Relación con Entorno de la SG
 
-* Sistemas de gestión administrativa y financiera (Administrativo y Financiero, SIGA, SAT Web, GLPI):
-    - Estos sistemas son cruciales para la "Gestión financiera", "Gestión de servicios administrativos y tecnológicos" y "Gestión de recursos físicos".
-    - Relación con objetivos: El "Resumen Ejecutivo FASE I.pdf" aborda la necesidad de una gestión pública más eficiente y transparente, la optimización de recursos y la rendición de cuentas. Estos sistemas son habilitadores directos de dichas metas.
-    - Relación con problemas: El documento también señala desafíos en el "Entorno Económico" como el déficit fiscal y la necesidad de eficiencia en la inversión pública. Los sistemas administrativos y financieros son fundamentales para una planificación financiera adecuada y una gestión fiscal sostenible.
-    - Relación con oportunidades: La recomendación de "simplificación administrativa y coordinación intersectorial" implica la mejora de estos sistemas para reducir duplicidades y estandarizar prácticas, lo que contribuye a una "arquitectura institucional más coherente y eficiente".
+Las relaciones entre los sistemas de información y el análisis de entorno (arquitectura institucional de la Secretaría General) son las siguientes:
+•	Sistemas de gestión administrativa y financiera (Administrativo y Financiero, SIGA, SAT Web, GLPI):
+–	Estos sistemas soportan los procesos de Gestión financiera, Gestión de servicios administrativos y tecnológicos y Gestión de recursos físicos.
+–	Desde estos sistemas se soportan los objetivos de gestión pública más eficiente y transparente, la optimización de recursos y la rendición de cuentas. Estos sistemas son habilitadores directos de estos objetivos.
+–	En relación a los desafíos del entorno económico de la Secretaría General, como el déficit fiscal junto con la necesidad de eficiencia en la inversión pública, ambos mencionados en las fuentes oficiales proporcionadas a este ejercicio de arquitectura empresarial, los sistemas administrativos y financieros son fundamentales para una planificación financiera adecuada y una gestión fiscal sostenible.
+–	En cuanto a oportunidades potenciales que implican a estos sistemas se encuentran la simplificación administrativa y aumentar la coordinación intersectorial que reduzca las duplicidades de tareas, roles y prácticas de las subsecretarías.
 
-* Sistemas de interacción ciudadana y transparencia (Bogotá Te Escucha, Datos para la Transparencia (SATI), EMLAZE):
-    - Estos sistemas soportan directamente el proceso de "Gobierno abierto y relacionamiento con la ciudadanía".
-    - Objetivos: El "Resumen Ejecutivo FASE I.pdf" destaca el objetivo estratégico "Bogotá confía en su gobierno", que busca ofrecer "servicios amables, ágiles y oportunos". Bogotá Te Escucha es el sistema distrital clave para la gestión de peticiones ciudadanas y la evaluación de la calidad de las respuestas.
-    - Problemas: Se reconoce que, si bien hay avances en la atención institucional, persisten desafíos en la "eficiencia operativa, tiempos de respuesta y digitalización de servicios". Estos sistemas son vitales para abordar estas brechas mediante la digitalización de servicios públicos y la automatización de trámites.
-    - Oportunidad: "Datos para la Transparencia (SATI)" es clave para la política de "Transparencia, acceso a la información pública y lucha contra la corrupción". La estandarización de procesos y sistemas de información a través de estos sistemas fortalece la confianza ciudadana.
+•	Sistemas de interacción ciudadana y transparencia (Bogotá Te Escucha, Datos para la Transparencia (SATI), EMLAZE):
+–	Estos sistemas soportan directamente el proceso de Gobierno abierto y Relacionamiento con la ciudadanía.
+–	Se relacionan con los objetivos de la Secretaría General, Bogotá confía en su gobierno, que busca ofrecer “servicios amables, ágiles y oportunos”. En este sentido, Bogotá Te Escucha es el sistema clave para la gestión de peticiones ciudadanas y la evaluación de la calidad de las respuestas.
+–	Si bien el levantamiento de información dio evidencias de avances en la atención institucional, impulsada principalmente por la Subsecretaría de Servicios Ciudadanos, persisten desafíos en el objetivo de “eficiencia operativa, tiempos de respuesta y digitalización de servicios”. Los sistemas de atención ciudadana son vitales para abordar estas brechas mediante la digitalización de servicios públicos y la automatización de trámites.
+–	En cuanto a oportunidades potenciales, Datos para la Transparencia (SATI) es herramienta clave para la política de Transparencia, acceso a la información pública y lucha contra la corrupción. El aumento del apoyo que este grupo de sistemas de información dan a los procesos de interacción ciudadana, como Gobierno Abierto y Relacionamiento con la Ciudadanía, impactaría en el fortalecimiento de la confianza de los ciudadanos.
 
-* Sistemas de fortalecimiento de capacidades y conocimiento (Bogotá Aprende TIC, DARUMA, GLOBO, SUDIVC, HUMANAPP, SIAB (El COFRE), KOHA, SIVIC, Data Warehouse AVANTI, Gestión Académica).
+•	Sistemas de fortalecimiento de capacidades, del conocimiento y datos para la gestión pública (Bogotá Aprende TIC, Gestión Académica, Daruma, Humanapp, SIAB (El Cofre), Koha, SIVIC)
+–	Tanto las sesiones de levantamiento de este ejercicio de arquitectura empresarial, como el análisis de entorno tecnológico (Informe Final Análisis de los Entornos) apuntan a que los sistemas Bogotá Aprende TIC y Gestión Académica abordan la necesidad de alfabetización digital y la escasez de talento humano especializado en tecnologías emergentes.
+–	Humanapp es fundamental para el proceso Gestión del talento humano, vinculado además a los objetivos de profesionalización del servicio público y el fortalecimiento de capacidades de los servidores públicos, y a los problemas de rotación de los funcionarios y contratistas.
+–	Siga, SIAB (El Cofre) y Koha, están relacionados con los procesos Gestión del conocimiento y Gestión documental y soporte archivístico se relacionan de manera directa con la problemática de la pérdida del conocimiento evidenciadas en las sesiones de levantamiento de información y en las fuentes de información proporcionadas a este ejercicio de arquitectura empresarial.
+–	SUDIVC y SIVIC apoya al proceso de Paz, víctimas y reconciliación, desde el que se aborda las desigualdades que afectan a las poblaciones vulnerables de la ciudad.
 
 
 #### Relación con Objetivos
