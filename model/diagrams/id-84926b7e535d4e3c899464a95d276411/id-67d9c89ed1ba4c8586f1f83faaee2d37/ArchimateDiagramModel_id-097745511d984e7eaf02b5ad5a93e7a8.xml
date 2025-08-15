@@ -77,9 +77,9 @@
     </sourceConnections>
     <bounds
         x="732"
-        y="300"
+        y="288"
         width="329"
-        height="312"/>
+        height="301"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-045d45a6f9a2492faa0e40ae0537ed7b"
@@ -1181,7 +1181,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-a5061f7eb60d4d5280d53dd67b8c5eb3"
       textAlignment="1"
-      content="Arquitectura Empresarial Secretaría General Alcaldía Mayor Bogotá. &#xA;Ingenium. 2025&#xA;&#xA;Dominio de Sistemas y Aplicaciones de Software. Sistemas de información del análisis de entorno.&#xA;">
+      content="Arquitectura Empresarial Secretaría General Alcaldía Mayor Bogotá. &#xA;Ingenium. 2025&#xA;&#xA;Dominio de Sistemas y Aplicaciones de Software gestionadas por la OTIC. Sistemas de información del análisis de entorno.&#xA;">
     <bounds
         x="24"
         y="12"
