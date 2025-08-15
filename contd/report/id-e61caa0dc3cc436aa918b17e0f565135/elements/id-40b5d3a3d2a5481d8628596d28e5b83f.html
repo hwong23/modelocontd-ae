@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Vistas y Artefactos Entregables </title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.4.1.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Vistas y Artefactos Entregables </b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-Artifact"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-Artifact" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+                    <!-- Analysis -->
+                    	<li role="presentation"><a href="#analysis" aria-controls="analysis" role="tab" data-toggle="tab" class="i18n-analysis"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">002n.2n.1AE.app.aa. MAE Entregables Dominio Aplicaciones
+
+
+Tema	Proyecto ARQ
+Palabras clave	kClean architecture, kArquitectura, kDise&#241;o, 
+Autor	
+Fuente	
+Secuencia	Padre 
+Hijo
+V&#237;nculos	
+
+El Marco de Referencia de Arquitectura Empresarial (MRAE) propone varios entregables y artefactos clave para el dominio de Arquitectura de Sistemas de Informaci&#243;n [1-3]. Estos instrumentos tienen como objetivo guiar a las entidades p&#250;blicas en la planeaci&#243;n y dise&#241;o de la arquitectura, el ciclo de vida, las aplicaciones, los soportes y la gesti&#243;n de los sistemas de informaci&#243;n que permiten el cumplimiento de sus funciones [4].
+
+A continuaci&#243;n, se detallan los principales entregables y artefactos:
+
+
+* Cat&#225;logo de Sistemas de Informaci&#243;n&#160;[5]:
+    * Es un&#160;inventario detallado y documentado&#160;que contiene las fichas t&#233;cnicas de los sistemas de informaci&#243;n de una instituci&#243;n [5, 6].
+    * Es un artefacto fundamental para la gesti&#243;n y gobierno de las capacidades de TI [6].
+    * Las entidades deben realizar la caracterizaci&#243;n de cada uno de sus sistemas de informaci&#243;n y este cat&#225;logo debe permanecer actualizado, incluyendo atributos relevantes para su gobernabilidad [7, 8]. Las entidades cabeza de sector deben consolidar y mantener actualizado el cat&#225;logo de sistemas de informaci&#243;n sectorial [8, 9].
+    * Se debe integrar al cat&#225;logo la caracterizaci&#243;n de los sistemas de informaci&#243;n involucrados en el ejercicio de arquitectura empresarial, que incluye los actores, subsistema, componentes candidatos, sus relaciones, atributos, integraciones y las acciones o intervenciones a realizar (crear, evolucionar, integrar, eliminar) [10].
+    * Este cat&#225;logo es gestionado en el Modelo de Gesti&#243;n y Gobierno de TI (MGGTI), espec&#237;ficamente en el dominio de Gesti&#243;n de Sistemas de Informaci&#243;n [11].
+
+* Matrices&#160;[12]: Son herramientas que facilitan la observaci&#243;n de relaciones y asociaciones entre sistemas de informaci&#243;n y otros elementos de inter&#233;s [12]. Algunas matrices recomendadas incluyen:
+    * Matriz de Sistemas de Informaci&#243;n y Procesos de Negocio: Permite mapear la relaci&#243;n entre los sistemas de informaci&#243;n y los procesos de negocio que soportan [5, 13-15]. Ayuda a comprender las necesidades de los procesos de negocio respecto al soporte de sistemas de informaci&#243;n, incluyendo el nivel de digitalizaci&#243;n y automatizaci&#243;n [16].
+    * Matriz de integraci&#243;n de sistemas de informaci&#243;n contra sistemas de informaci&#243;n comparando interfaz-protocolo: Permite mapear los mecanismos de integraci&#243;n e interoperabilidad entre sistemas de informaci&#243;n [13, 17-19]. Ayuda a comprender el grado de interacci&#243;n, el n&#250;mero y tipo de interfaces, y la duplicaci&#243;n de interfaces [20].
+    * Matriz de Sistemas de Informaci&#243;n contra la Informaci&#243;n que gestiona: Permite mapear los sistemas de informaci&#243;n y la informaci&#243;n que gestionan [13, 19].
+    * Otras matrices que pueden considerarse son: Sistemas de informaci&#243;n y Capacidades, y Sistemas de informaci&#243;n y tr&#225;mites y servicios [13].
+
+* Diagramas&#160;[13]: Presentan la informaci&#243;n de la Arquitectura de Sistema de Informaci&#243;n desde diferentes perspectivas, seg&#250;n los requisitos de los interesados [21]. Algunos diagramas recomendados son:
+    * Diagrama de Componentes: Permite observar los componentes de la arquitectura y sus interacciones [19, 22, 23]. Se utiliza para modelar componentes funcionales, no funcionales, de integraci&#243;n, interoperabilidad y seguridad [11].
+    * Diagrama de comunicaci&#243;n entre los sistemas de informaci&#243;n &#8211; Vista de integraci&#243;n&#160;[22].
+    * Diagramas de Comunicaci&#243;n de Sistemas de Informaci&#243;n&#160;[22, 24].
+    * Diagrama de Conectividad de Nodos (Modelo N2)&#160;[22, 24].
+
+* Documentaci&#243;n de la Arquitectura de Referencia de la Entidad&#160;[25, 26]:
+    * Debe ofrecer un modelo de Alto Nivel donde se plasman los sistemas de informaci&#243;n existentes y c&#243;mo est&#225;n relacionados entre s&#237; [25, 27, 28].
+    * Contempla principios de dise&#241;o, decisiones arquitect&#243;nicas de alto nivel, recomendaciones tecnol&#243;gicas y de desarrollo, herramientas espec&#237;ficas y componentes existentes reutilizables [27-29].
+    * Este documento es una evidencia del cumplimiento del lineamiento MAE.LI.ASI.01 [26, 30].
+* Arquitecturas de Soluci&#243;n de los proyectos de sistemas de informaci&#243;n&#160;[7, 8]:
+    * Son definidas, documentadas y actualizadas para cualquier proyecto a integrar en el ecosistema arquitect&#243;nico bajo los lineamientos del MRAE [7, 8].
+    * Este documento es una evidencia del cumplimiento del lineamiento MAE.LI.ASI.02 [8, 25]. La Arquitectura de Soluci&#243;n est&#225; conformada por la caracterizaci&#243;n de los sistemas de informaci&#243;n involucrados en el ejercicio de arquitectura empresarial [10].
+* Hoja de Ruta. Adem&#225;s, el MRAE establece que los&#160;ejercicios de Arquitectura Empresarial&#160;deben generar una&#160;Hoja de Ruta&#160;que incluya las iniciativas priorizados para alcanzar la situaci&#243;n objetivo [31]. Esta hoja de ruta de la AE debe incorporarse en el Plan Estrat&#233;gico de Tecnolog&#237;as de la Informaci&#243;n (PETI) y otros instrumentos de planeaci&#243;n institucional [32]. 
+* Tambi&#233;n se debe contar con un&#160;Repositorio de Arquitectura Empresarial&#160;para almacenar la documentaci&#243;n, modelos y artefactos [33].
+
+Es importante se&#241;alar que la selecci&#243;n de modelos y herramientas debe ser pr&#225;ctica y enfocada en cumplir con el prop&#243;sito y alcance de cada ejercicio de Arquitectura Empresarial [6].
+</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="analysis">
+						<table class="table table-striped table-hover table-condensed" id="used-in-views">
+							<thead>
+								<tr><th colspan="2" class="i18n-used-in-views" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-viewpoint"></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr id="used-in-views-id-27c272b30e99404cac201b788798088c">
+																	<td><a href="../views/id-27c272b30e99404cac201b788798088c.html" target="view" title="Vistas y Artefactos Entregables "> Vistas y Artefactos Entregables  </a></td>
+																	<td><span class="i18n-viewpoint-" /></td>
+																</tr>
+							</tbody>
+						</table>
+						<table class="table table-striped table-hover table-condensed" id="model-relations">
+							<thead>
+								<tr><th colspan="4" class="i18n-model-relations" /></tr>
+								<tr>
+									<th class="i18n-name"></th>
+									<th class="i18n-type"></th>
+									<th class="i18n-source"></th>
+									<th class="i18n-target"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
