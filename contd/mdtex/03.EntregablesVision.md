@@ -334,13 +334,15 @@ La vista de sistemas de información organiza la información del catálogo de a
 | Sistema de Participación Ciudadana | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
  |
 | Sistemas de interacción ciudadana y transparencia | Grouping |  |
-| Bogotá Te Escucha | Application Component | Sistema de información para la administración, registro, atención, seguimiento y control de las peticiones, quejas, reclamos, solicitudes de información, denuncias y sugerencias que reciban las entidades del distrito capital por los diferentes canales. Fundamental para el proceso de Gobierno abierto y relacionamiento con la ciudadanía. También se menciona como el Sistema Distrital para la Gestión de Peticiones Ciudadanas, a través del cual se evalúa la calidad de las respuestas emitidas a la ciudadanía.
+| Articulado de Alertas Tempranas (SAAT) | Application Component | Sistema de apoyo a la estrategia de la Secretaría Distrital de la Mujer (ley Ley 248 de 1995 y Ley 1257 de 2008): identificación del riesgo posible víctima, gestión del riesgo y reducción del riesgo.
  |
 | Datos para Transparencia (SATI) | Application Component | Sistema de tableros de control con datos relevantes, actualizados y comprensibles, incluyendo alertas tempranas contra la corrupción. Plataforma que facilita el acceso a datos e información gubernamental. Soporta el proceso de Gobierno abierto y relacionamiento con la ciudadanía.
  |
 | EMLAZE | Application Component | Sistema para la planeación de recursos empresariales (ERP) de la Imprenta Distrital y control de ejecución y consumo de insumos en el ejercicio de imprenta.
  |
 | MoviApp | Application Component | Canal móvil de atención a ciudadanía.
+ |
+| Bogotá Te Escucha | Application Component | Sistema de información para la administración, registro, atención, seguimiento y control de las peticiones, quejas, reclamos, solicitudes de información, denuncias y sugerencias que reciban las entidades del distrito capital por los diferentes canales. Fundamental para el proceso de Gobierno abierto y relacionamiento con la ciudadanía. También se menciona como el Sistema Distrital para la Gestión de Peticiones Ciudadanas, a través del cual se evalúa la calidad de las respuestas emitidas a la ciudadanía.
  |
 | Sistemas en Desarrollo | Grouping |  |
 | Gestión Instancias de Coordinación | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
@@ -358,8 +360,6 @@ La vista de sistemas de información organiza la información del catálogo de a
 | Tablero Gestión Riesgos Feminicidios | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
  |
 | Sistemas de gestión administrativa y financiera | Grouping |  |
-| ADMON | Application Component | Se relaciona con la gestión financiera, gestión de servicios administrativos y tecnológicos, y gestión de recursos físicos.
- |
 | Administrativo y Financiero | Application Component | Grupo de sistema de soporte a la gestión financiera, gestión de servicios administrativos, tecnológicos, y gestión de recursos físicos.
  |
 | PERNO (Personal y Nómina) | Application Component | Módulo de Personal y Nómina (PERNO, heredado de SICAPITAL).
