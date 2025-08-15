@@ -328,7 +328,7 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | Canales Alcaldía Mayor de Bogotá | Grouping |  |
 | SuperCADE Virtual | Application Component | Red de canales presenciales de atención a ciudadanía.
  |
-| Chat-Bot | Application Component | Canal web de atención a ciudadanía.
+| chatico | Application Component | Agente virtual del Distrito Capital para el servicio a la ciudadanía
  |
 | Línea 195 | Application Component | Canal telefónico de atención a ciudadanía.
  |
@@ -562,7 +562,7 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | Avanti | Application Component | Sistema de Información para registrar avance de programación y seguimiento de metas plan de desarrollo de las entidades distritales SDARIV relacionadas con atención integral a las víctimas.
  |
-| Chat-Bot | Application Component | Canal web de atención a ciudadanía.
+| chatico | Application Component | Agente virtual del Distrito Capital para el servicio a la ciudadanía
  |
 | Comisiones | Application Component | Sesión levantamiento no. 1.
  |
