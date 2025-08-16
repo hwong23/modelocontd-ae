@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bogotá Internacional"
-    id="id-51259f206992460f9a6b7ec7efb6568c"
-    documentation="Registro de acciones de cooperación internacional">
+    name="Control de Vehículos (SHV)"
+    id="id-052c73a9158841b1b429e172f835f32e"
+    documentation="Sistema de control de vehículos">
   <properties
       key="catalogo"
       value="true"/>

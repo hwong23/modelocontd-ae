@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Nómina"
-    id="id-07bc8c24747d4eb4aa240abb0a417bf0"
-    documentation="Sistema de personal y nómina">
-  <properties
-      key="catalogo"
-      value="true"/>
-</archimate:ApplicationComponent>

@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sistema Integrado de Gestión de Calidad  (servicio)"
-    id="id-e259d5861c924400bf248bfde23b6e75"
-    documentation="Sistema para el registro de documentos de procesos, procedimientos, formatos, entre otros, como insumos de la Gestión de Calidad">
-  <properties
-      key="catalogo"
-      value="true"/>
-</archimate:ApplicationComponent>
