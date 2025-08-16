@@ -602,7 +602,7 @@
         lineColor="#5c5c5c">
       <bounds
           x="24"
-          y="131"
+          y="191"
           width="150"
           height="48"/>
       <archimateElement
@@ -635,7 +635,7 @@
         lineColor="#5c5c5c">
       <bounds
           x="24"
-          y="84"
+          y="144"
           width="150"
           height="48"/>
       <archimateElement
