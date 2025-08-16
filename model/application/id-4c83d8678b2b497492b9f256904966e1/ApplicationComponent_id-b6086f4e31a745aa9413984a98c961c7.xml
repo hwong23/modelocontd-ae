@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Daruma"
     id="id-b6086f4e31a745aa9413984a98c961c7"
-    documentation="Sistema para el registro de documentos de procesos, procedimientos, formatos, entre otros, como insumos de la Gestión de Calidad.&#xA;">
+    documentation="Sistema institucional de gestión de la calidad utilizado por la Secretaría General para centralizar, automatizar y hacer seguimiento a procesos clave como la administración de documentos, indicadores, auditorías y acciones de mejora.&#xA;">
   <properties
       key="destino"
       value="doc"/>
