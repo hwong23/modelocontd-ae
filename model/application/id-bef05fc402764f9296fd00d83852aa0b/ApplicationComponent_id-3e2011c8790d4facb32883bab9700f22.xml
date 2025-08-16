@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestión de elementos devolutivos"
-    id="id-3e2011c8790d4facb32883bab9700f22"
-    documentation="Sistema de control de gestión de elementos devolutivos">
-  <properties
-      key="catalogo"
-      value="true"/>
-</archimate:ApplicationComponent>

@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sistema Unificado Distrital de Inspección, Vigilancia y Control"
-    id="id-9569dc34e0614eef94fd99e50be83e53"
-    documentation="Sistema Unificado Distrital de Inspección, Vigilancia y Control - SUDIVC">
-  <properties
-      key="catalogo"
-      value="true"/>
-</archimate:ApplicationComponent>

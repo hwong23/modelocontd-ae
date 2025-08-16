@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sistema de Gestión de Incidentes Tecnológicos"
-    id="id-b236dc2ca1334a3eba5fd6ed58b8ae00"
-    documentation="Sistema donde se registran y gestionan las solicitudes de servicios de diferentes categorías de la Secretaría General. Mesa de ayuda (Gestión de solicitudes de atención ante incidentes tecnológicos)">
-  <properties
-      key="catalogo"
-      value="true"/>
-</archimate:ApplicationComponent>

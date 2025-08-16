@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sistema Integrado de Gestión Documental"
-    id="id-9f2cf0a441524e60bbd8414bed6cc5bc"
-    documentation="Sistema Integrado de Gestión Documental -Sistema de información para gesttión de todas la comunicaciones internas de la SG (Memorandos, Circulares, etc), externas y algunas interoperabilidades">
-  <properties
-      key="catalogo"
-      value="true"/>
-</archimate:ApplicationComponent>
