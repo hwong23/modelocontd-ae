@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Portal Datos para Transparencia"
-    id="id-59c752f395034ed2ad80d790545b83a9"
-    documentation="Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.&#xA;">
-  <properties
-      key="destino"
-      value="doc"/>
-</archimate:ApplicationComponent>

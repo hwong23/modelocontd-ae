@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Portal Centro de Memoria - Histórico"
-    id="id-0c609d5c57d4458ca44e4c3bdc2c5b4c"
-    documentation="Se publican experiencias vividas para las víctimas del conflicto armado en Colombia.">
-  <properties
-      key="catalogo"
-      value="true"/>
-</archimate:ApplicationComponent>
