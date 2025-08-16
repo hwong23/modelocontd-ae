@@ -20,17 +20,17 @@ El dominio de sistemas de información es un pilar estructural del proyecto de a
 El objetivo principal del trabajo de arquitectura de aplicaciones de este proyecto es desarrollar el conocimiento y la caracterización de los sistemas de información que soportan la arquitectura de negocio de la Secretaría General y que implementan la visión de la arquitectura empresarial.
 En términos más específicos, la arquitectura de aplicaciones busca:
 
-•	Definir la arquitectura de las aplicaciones necesarias para soportar los procesos de negocio.
-•	Identificar y caracterizar las aplicaciones de software que soportan las capacidades de negocio de la Secretaría General.
-•	Identificar las integraciones entre las aplicaciones.
-•	Considerar aspectos como obsolescencia, mantenimiento, gobierno de aplicaciones, escalabilidad, rendimiento y la seguridad de las aplicaciones.
+* Definir la arquitectura de las aplicaciones necesarias para soportar los procesos de negocio.
+* Identificar y caracterizar las aplicaciones de software que soportan las capacidades de negocio de la Secretaría General.
+* Identificar las integraciones entre las aplicaciones.
+* Considerar aspectos como obsolescencia, mantenimiento, gobierno de aplicaciones, escalabilidad, rendimiento y la seguridad de las aplicaciones.
 
 El trabajo de la arquitectura de aplicaciones opera en conjunto y coordinación con otros dominios y fases de la arquitectura empresarial de la Secretaría General, de la siguiente manera:
 
-•	Relación con la visión de la arquitectura: Los sistemas de información toman como entrada principal la visión de este ejercicio de arquitectura, que establece el alcance, los objetivos de alto nivel, los principios de la arquitectura y la visión del negocio con el propósito de alinearse y contribuir a la consecución de esta visión.
-•	Relación con la arquitectura de negocio: La arquitectura de negocio (procesos de negocio, funciones, organización, etc.) es la entrada principal para este dominio. La arquitectura de sistemas de Información se construye para soportar y habilitar los requisitos definidos en la Arquitectura de Negocio.
-•	Relación con la arquitectura tecnológica: Este dominio proporciona bases y requisitos para el dominio de tecnología e infraestructura, que servirá a su vez para soportar la operación de las aplicaciones y gestionar los datos.
-•	Relación con oportunidades y soluciones y hoja de ruta: Las arquitecturas aplicaciones desarrolladas en este dominio son insumos para identificar oportunidades de implementación en la Secretaría General, y para desarrollar la hoja de ruta desde las arquitecturas actuales hacia las arquitecturas objetivo.
+* Relación con la visión de la arquitectura: Los sistemas de información toman como entrada principal la visión de este ejercicio de arquitectura, que establece el alcance, los objetivos de alto nivel, los principios de la arquitectura y la visión del negocio con el propósito de alinearse y contribuir a la consecución de esta visión.
+* Relación con la arquitectura de negocio: La arquitectura de negocio (procesos de negocio, funciones, organización, etc.) es la entrada principal para este dominio. La arquitectura de sistemas de Información se construye para soportar y habilitar los requisitos definidos en la Arquitectura de Negocio.
+* Relación con la arquitectura tecnológica: Este dominio proporciona bases y requisitos para el dominio de tecnología e infraestructura, que servirá a su vez para soportar la operación de las aplicaciones y gestionar los datos.
+* Relación con oportunidades y soluciones y hoja de ruta: Las arquitecturas aplicaciones desarrolladas en este dominio son insumos para identificar oportunidades de implementación en la Secretaría General, y para desarrollar la hoja de ruta desde las arquitecturas actuales hacia las arquitecturas objetivo.
 
 
 ### Contexto de Arquitectura de Sistemas de Información SG
@@ -333,7 +333,8 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | Portal Centro Memoria | Application Component | Herramienta de información para el fomento de la cultura y los derechos humanos. Publica experiencias vividas para las víctimas del conflicto armado en Colombia. Sitio http://centromemoria.gov.co.
  |
 | Portal Archivo de Bogotá | Application Component | Sitio web institucional del Archivo de Bogotá. |
-| Portal Bogotá | Application Component | Portal de la Alcaldia Mayor de Bogota orientado a la publicación de la Gestión del alcalde, noticias de entidades y noticias de las localidades. |
+| Portal Bogotá | Application Component | Portal de la Alcaldía Mayor de Bogotá orientado a la publicación de la Gestión del alcalde, noticias de entidades y noticias de las localidades.
+ |
 | Sistemas en Desarrollo | Grouping |  |
 | Gestión Instancias de Coordinación | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
  |
