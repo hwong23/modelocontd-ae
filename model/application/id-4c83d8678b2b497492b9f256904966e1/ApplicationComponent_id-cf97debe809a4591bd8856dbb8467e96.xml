@@ -2,8 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MoviApp"
     id="id-cf97debe809a4591bd8856dbb8467e96"
-    documentation="Canal móvil de atención a ciudadanía.&#xA;">
+    documentation="Aplicativo que permite el uso el registro del uso en bicicleta por parte de los funcionarios de las entidades del distrito.">
   <properties
       key="destino"
       value="doc"/>
+  <properties
+      key="catalogo"
+      value="true"/>
 </archimate:ApplicationComponent>

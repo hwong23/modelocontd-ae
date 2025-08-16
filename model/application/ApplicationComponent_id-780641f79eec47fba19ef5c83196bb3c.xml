@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asignación de Turnos"
+    id="id-780641f79eec47fba19ef5c83196bb3c"
+    documentation="Sistema de Asignación de Turnos en los puntos de atención de la ciudad (Cades, Súper Cades, puntos de encuentro)">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

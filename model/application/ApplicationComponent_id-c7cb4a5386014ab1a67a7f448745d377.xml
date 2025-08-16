@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Facturación"
-    id="id-75db045ff17b4c1a9a82dfd5544ac81a"
-    documentation="Sistema de Facturación de la Subdirección de Servicio a la Ciudadanía">
+    name="Portal Archivo de Bogotá"
+    id="id-c7cb4a5386014ab1a67a7f448745d377"
+    documentation="Sitio web institucional del Archivo de Bogotá.">
   <properties
       key="catalogo"
       value="true"/>

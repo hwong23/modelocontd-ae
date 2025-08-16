@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Facturación"
-    id="id-75db045ff17b4c1a9a82dfd5544ac81a"
-    documentation="Sistema de Facturación de la Subdirección de Servicio a la Ciudadanía">
+    name="Datawarehouse"
+    id="id-caf8440e4ce14ac3bae2ba394ead5ca8"
+    documentation="Bodega de datos con varias fuentes - Analítica de datos">
   <properties
       key="catalogo"
       value="true"/>

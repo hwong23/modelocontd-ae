@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Acuerdos Laborales"
+    id="id-de72974c7530490495b0e06901aea3a9"
+    documentation="Sistema de Información de Acuerdos Laborales - Registro de los acuerdos laborales entre la SG y los sindicatos del Distrito">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

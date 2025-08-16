@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portal Bogotá Historia Común 2.0"
+    id="id-c03b952dbdd54203a9ee045d70f3e02d"
+    documentation="Portal para mostrar infografías de Bogotá. La ciudadanía provee historias cotidianas de su localidad y un grupo de análisis del Archivo de Bogotá determina la pertinencia para su publicación. Sección del Portal de Archivo de Bogotá.">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

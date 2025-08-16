@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portal Sede Electrónica Secretaría General"
+    id="id-9c22cb79906e4fdb8ee74bd88fd12deb"
+    documentation="Sitio web oficial de la Secretaría General. Se publica información pública y en cumplimiento de obligaciones legales.">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

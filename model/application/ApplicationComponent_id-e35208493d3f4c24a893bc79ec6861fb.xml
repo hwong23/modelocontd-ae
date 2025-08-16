@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sistema de Información del Archivo de Bogotá"
+    id="id-e35208493d3f4c24a893bc79ec6861fb"
+    documentation="Registro del acervo documental de Bogotá (documentos históricos, planos, mapas, transferencias bibliograficas, entre otros)">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Facturación"
-    id="id-75db045ff17b4c1a9a82dfd5544ac81a"
-    documentation="Sistema de Facturación de la Subdirección de Servicio a la Ciudadanía">
+    name="Presupuesto-Regalías"
+    id="id-9585532e1f1641d0940d2f1d894d68b6"
+    documentation="Sistema SIPRES - de Presupuesto - Regalías">
   <properties
       key="catalogo"
       value="true"/>

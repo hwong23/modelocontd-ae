@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OCS Inventory"
+    id="id-8f8fc4fc0173416384bb407821bfc896"
+    documentation="Sistema para gestionar información del inventario de los componentes lógicos de los elementos ofimáticos">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

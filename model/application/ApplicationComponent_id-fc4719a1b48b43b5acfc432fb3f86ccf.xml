@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gamificación"
+    id="id-fc4719a1b48b43b5acfc432fb3f86ccf"
+    documentation="Herramienta web para el autoaprendizaje y refuerzo temático para cualificación a servidores públicos ">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

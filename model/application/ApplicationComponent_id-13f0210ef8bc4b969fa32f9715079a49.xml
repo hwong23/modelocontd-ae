@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Facturación"
-    id="id-75db045ff17b4c1a9a82dfd5544ac81a"
-    documentation="Sistema de Facturación de la Subdirección de Servicio a la Ciudadanía">
+    name="Sistema Integrado de Gestión"
+    id="id-13f0210ef8bc4b969fa32f9715079a49"
+    documentation="Sistema Integrado de Gestión de Calidad- Histórico">
   <properties
       key="catalogo"
       value="true"/>

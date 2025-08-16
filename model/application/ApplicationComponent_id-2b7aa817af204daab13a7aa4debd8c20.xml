@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Carteleras Internas"
+    id="id-2b7aa817af204daab13a7aa4debd8c20"
+    documentation="Portales de  visualización pública a los funcionarios y contratistas de la Secretaría General.">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

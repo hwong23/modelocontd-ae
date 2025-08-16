@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Facturación"
-    id="id-75db045ff17b4c1a9a82dfd5544ac81a"
-    documentation="Sistema de Facturación de la Subdirección de Servicio a la Ciudadanía">
+    name="Registro Distrital "
+    id="id-eebc70514fc3418aa85fe30a83eeeaef"
+    documentation="Se publican todos los actos administrativos del Distrito, de cara al ciudadano.">
   <properties
       key="catalogo"
       value="true"/>

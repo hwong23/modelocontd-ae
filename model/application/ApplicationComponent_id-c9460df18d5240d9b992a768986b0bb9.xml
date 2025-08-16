@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Facturación"
-    id="id-75db045ff17b4c1a9a82dfd5544ac81a"
-    documentation="Sistema de Facturación de la Subdirección de Servicio a la Ciudadanía">
+    name="Información de Fortalecimiento Institucional"
+    id="id-c9460df18d5240d9b992a768986b0bb9"
+    documentation="Sistema de Información de Fortalecimiento Institucional ">
   <properties
       key="catalogo"
       value="true"/>

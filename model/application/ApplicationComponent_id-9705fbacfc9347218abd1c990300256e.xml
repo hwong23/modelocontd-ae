@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SISTEMA DE INFORMACIÓN DE PROGRAMACIÓN Y SEGUIMIENTO AL PAD - AVANTI"
+    id="id-9705fbacfc9347218abd1c990300256e"
+    documentation="Sistema de Información para registrar avance de programación y seguimiento de metas plan de desarrollo  de la estidades distritales SDARIV relacionadas con atención integral a las víctimas.">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

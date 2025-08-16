@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Facturación"
-    id="id-75db045ff17b4c1a9a82dfd5544ac81a"
-    documentation="Sistema de Facturación de la Subdirección de Servicio a la Ciudadanía">
+    name="Alertas Tempranas contra la Corrupción"
+    id="id-26541d870a1a4ff4a3f310aded0d5855"
+    documentation="Sistema Alertas Tempranas contra la Corrupción">
   <properties
       key="catalogo"
       value="true"/>

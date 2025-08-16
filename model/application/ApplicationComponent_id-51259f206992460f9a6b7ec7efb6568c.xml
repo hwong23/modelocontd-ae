@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Facturación"
-    id="id-75db045ff17b4c1a9a82dfd5544ac81a"
-    documentation="Sistema de Facturación de la Subdirección de Servicio a la Ciudadanía">
+    name="Bogotá Internacional"
+    id="id-51259f206992460f9a6b7ec7efb6568c"
+    documentation="Registro de acciones de cooperación internacional">
   <properties
       key="catalogo"
       value="true"/>

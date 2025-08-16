@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Certicontratos"
+    id="id-8a13a6b48155456199653acfd75f5d06"
+    documentation="Sitio privado interno donde se muestran los contratos de la entidad, ejecutados desde 2015.">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

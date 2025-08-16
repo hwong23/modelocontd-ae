@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Información Víctimas de Bogotá. Módulo Integrado de Reportes del Sistema"
+    id="id-71ba494b54cb46368e7a6df6726e69a1"
+    documentation="Sistema de Información de Víctimas de Bogotá - Para registrar la gestión de atención integral a las víctimas. Sistema que utiliza el operador externo para realizar entregas de Ayuda Humanitaria Inmediata.">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

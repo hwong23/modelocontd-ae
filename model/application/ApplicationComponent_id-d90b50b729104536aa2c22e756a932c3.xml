@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Facturación"
-    id="id-75db045ff17b4c1a9a82dfd5544ac81a"
-    documentation="Sistema de Facturación de la Subdirección de Servicio a la Ciudadanía">
+    name="Carteleras Externas"
+    id="id-d90b50b729104536aa2c22e756a932c3"
+    documentation="Portales de visualización pública a la ciudadanía en los sitios de atención.">
   <properties
       key="catalogo"
       value="true"/>

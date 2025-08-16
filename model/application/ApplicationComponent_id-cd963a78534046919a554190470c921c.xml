@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Facturación"
-    id="id-75db045ff17b4c1a9a82dfd5544ac81a"
-    documentation="Sistema de Facturación de la Subdirección de Servicio a la Ciudadanía">
+    name="Contratación a la vista"
+    id="id-cd963a78534046919a554190470c921c"
+    documentation="Sistema de registro de contratos distritales">
   <properties
       key="catalogo"
       value="true"/>

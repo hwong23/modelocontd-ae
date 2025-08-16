@@ -1,0 +1,50 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSVImport-Fri Aug 15 2025 20:36:47 GMT-0500 (COT)"
+    id="id-2c024588a0e240b2a73bd049cc9c1003">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-56769eb0f3534c62928262d609527bf1"
+      textAlignment="1"
+      content="Import from:/Users/hwo/Downloads/Catalogo Basico 2025.csv on Fri Aug 15 2025 20:36:47 GMT-0500 (COT)">
+    <bounds
+        x="12"
+        y="12"
+        width="1200"
+        height="24"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-1b8008739e58491b87d417869d36bbb7"
+      name="New Elements"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="48"
+        width="1200"
+        height="120"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-50d876fd93cc4adfa8869ca26e227939"
+      name="Matched by Name"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="180"
+        width="1200"
+        height="120"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-e04940accbea4f7d89f0ebbe88b00761"
+      name="Matched by UID"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="312"
+        width="1200"
+        height="120"/>
+  </children>
+</archimate:ArchimateDiagramModel>

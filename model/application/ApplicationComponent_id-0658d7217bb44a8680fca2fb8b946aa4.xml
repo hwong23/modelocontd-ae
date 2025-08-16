@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Facturación"
-    id="id-75db045ff17b4c1a9a82dfd5544ac81a"
-    documentation="Sistema de Facturación de la Subdirección de Servicio a la Ciudadanía">
+    name="Sistema Contable"
+    id="id-0658d7217bb44a8680fca2fb8b946aa4"
+    documentation="Sistema contable maneja el libro mayor de la entidad.">
   <properties
       key="catalogo"
       value="true"/>

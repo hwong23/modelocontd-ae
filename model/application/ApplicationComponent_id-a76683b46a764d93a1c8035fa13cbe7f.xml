@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Facturación"
-    id="id-75db045ff17b4c1a9a82dfd5544ac81a"
-    documentation="Sistema de Facturación de la Subdirección de Servicio a la Ciudadanía">
+    name="Gestión Contractual - Regalías"
+    id="id-a76683b46a764d93a1c8035fa13cbe7f"
+    documentation="Sistema de Gestión Contractual, módulo de regalías">
   <properties
       key="catalogo"
       value="true"/>

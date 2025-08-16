@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gobierno Abierto de Datos"
+    id="id-25eecb41cc234a8087de1d3628507e57"
+    documentation="Portal para la publicación de datos abiertos de Distrito con el fin de ser consultados por la Ciudadanía y utilizados en toma de decisiones o análisis de información ">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

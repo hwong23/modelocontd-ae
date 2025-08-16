@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Facturación"
-    id="id-75db045ff17b4c1a9a82dfd5544ac81a"
-    documentation="Sistema de Facturación de la Subdirección de Servicio a la Ciudadanía">
+    name="Portal Consejería Distrital de TIC"
+    id="id-f6e50600e87f4e40b2031c50149da7ec"
+    documentation="Sitio web institucional de la Alta Consejería Distrital de TIC.">
   <properties
       key="catalogo"
       value="true"/>

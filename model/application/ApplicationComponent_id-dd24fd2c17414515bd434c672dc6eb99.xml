@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Módulo Integrado de Descripción de Archivos"
+    id="id-dd24fd2c17414515bd434c672dc6eb99"
+    documentation="Catalogación y descripción de algunos registros del Archivo de Bogotá">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

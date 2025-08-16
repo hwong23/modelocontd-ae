@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portal Bogotá"
+    id="id-17e1353ec9424f91bce8ac67cfe86cdd"
+    documentation="Portal de la Alcaldia Mayor de Bogota orientado a la publicación de la Gestión del alcalde, noticias de entidades y noticias de las localidades.">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

@@ -2,8 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestión Académica"
     id="id-a6a378b8df104e16aaa927d16cf19678"
-    documentation="Moodle para capacitación de servidores de la Entidad en diferentes temas. Relacionado con la Gestión del conocimiento.&#xA;">
+    documentation="Moodle para capacitación de servidores de la SG en diferentes temas  ">
   <properties
       key="destino"
       value="doc"/>
+  <properties
+      key="catalogo"
+      value="true"/>
 </archimate:ApplicationComponent>

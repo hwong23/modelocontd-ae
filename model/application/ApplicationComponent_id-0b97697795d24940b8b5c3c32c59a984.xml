@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Redmine"
+    id="id-0b97697795d24940b8b5c3c32c59a984"
+    documentation="Sistema de documentación técnica de los Sistemas de Información. Portales Web y Aplicativos de la SG">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>
