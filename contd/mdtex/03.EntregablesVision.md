@@ -345,10 +345,8 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
  |
 | Emlaze | Application Component | Sistema para la planeación de recursos empresariales (ERP) de la Imprenta Distrital y control de ejecución y consumo de insumos en el ejercicio de imprenta.
  |
-| MoviApp | Application Component | Canal móvil de atención a ciudadanía.
- |
-| Bogotá Te Escucha | Application Component | Sistema de información para la administración, registro, atención, seguimiento y control de las peticiones, quejas, reclamos, solicitudes de información, denuncias y sugerencias que reciban las entidades del distrito capital por los diferentes canales. Fundamental para el proceso de Gobierno abierto y relacionamiento con la ciudadanía. También se menciona como el Sistema Distrital para la Gestión de Peticiones Ciudadanas, a través del cual se evalúa la calidad de las respuestas emitidas a la ciudadanía.
- |
+| MoviApp | Application Component | Aplicativo que permite el uso el registro del uso en bicicleta por parte de los funcionarios de las entidades del distrito. |
+| Bogotá Te Escucha | Application Component | Sistema para el registro de peticiones, quejas y sugerencias de la ciudadanía |
 | Sistemas en Desarrollo | Grouping |  |
 | Gestión Instancias de Coordinación | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
  |
@@ -369,8 +367,7 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
  |
 | PERNO (Personal y Nómina) | Application Component | Módulo de Personal y Nómina (PERNO, heredado de SICAPITAL).
  |
-| Facturación | Application Component | Administración de costos y facturación de los Cades y Supercades (FACTURACIÓN).
- |
+| Facturación | Application Component | Sistema de Facturación de la Subdirección de Servicio a la Ciudadanía |
 | Libro Mayor | Application Component | LIMAY, heredado de SICAPITAL).
  |
 | Gestión de Elementos Devolutivos  | Application Component | Sistema control de gestión de elementos devolutivos (SAI, heredado de SICAPITAL)
@@ -407,8 +404,7 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
  |
 | Data Warehouse | Application Component | Almacenes de datos de trabajo de SG. Bodega de datos con diversas fuentes de información para el análisis y transformación de datos de interés.
  |
-| Gestión Académica | Application Component | Moodle para capacitación de servidores de la Entidad en diferentes temas. Relacionado con la Gestión del conocimiento.
- |
+| Gestión Académica | Application Component | Moodle para capacitación de servidores de la SG en diferentes temas   |
 | SIVIC | Application Component | Sistema de Información de Víctimas de Bogotá para registrar la gestión de atención integral a las víctimas. Interviene en los procesos de Paz, víctimas y reconciliación, y Fortalecimiento de la Gestión Pública. Interviene en los procesos de Paz, víctimas y reconciliación, y Fortalecimiento de la Gestión Pública.
  |
 | Avanti | Application Component | Sistema de Información para registrar avance de programación y seguimiento de metas plan de desarrollo de las entidades distritales SDARIV relacionadas con atención integral a las víctimas.
@@ -546,12 +542,10 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | GLPI | Application Component | Sistema de soporta a la gestión de servicios administrativos y tecnológicos, donde se registran y gestionan las solicitudes de servicios TIC.
  |
-| Gestión Académica | Application Component | Moodle para capacitación de servidores de la Entidad en diferentes temas. Relacionado con la Gestión del conocimiento.
- |
+| Gestión Académica | Application Component | Moodle para capacitación de servidores de la SG en diferentes temas   |
 | Bogotá Aprende TIC | Application Component | Portal de apoya los procesos de Gobierno abierto y relacionamiento con la ciudadanía, y Fortalecimiento de la Gestión Pública.
  |
-| Bogotá Te Escucha | Application Component | Sistema de información para la administración, registro, atención, seguimiento y control de las peticiones, quejas, reclamos, solicitudes de información, denuncias y sugerencias que reciban las entidades del distrito capital por los diferentes canales. Fundamental para el proceso de Gobierno abierto y relacionamiento con la ciudadanía. También se menciona como el Sistema Distrital para la Gestión de Peticiones Ciudadanas, a través del cual se evalúa la calidad de las respuestas emitidas a la ciudadanía.
- |
+| Bogotá Te Escucha | Application Component | Sistema para el registro de peticiones, quejas y sugerencias de la ciudadanía |
 | Administrativo y Financiero | Application Component | Grupo de sistema de soporte a la gestión financiera, gestión de servicios administrativos, tecnológicos, y gestión de recursos físicos.
  |
 | Siga | Application Component | Sistema Integrado de Gestión Documental, Archivo y Correspondencia.
@@ -570,8 +564,7 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | Línea 195 | Application Component | Canal telefónico de atención a ciudadanía.
  |
-| MoviApp | Application Component | Canal móvil de atención a ciudadanía.
- |
+| MoviApp | Application Component | Aplicativo que permite el uso el registro del uso en bicicleta por parte de los funcionarios de las entidades del distrito. |
 | Office 365 | Application Component | Herramientas de ofimática y colaboración SG.
  |
 | Pandora | Application Component | Implementación de temas precontractual y planeación.
