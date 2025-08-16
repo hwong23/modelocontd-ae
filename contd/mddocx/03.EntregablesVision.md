@@ -325,28 +325,15 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 
 | Nombre  | Tipo | Documentación |
 |---------|------|---------------|
-| Canales Alcaldía Mayor de Bogotá | Grouping |  |
-| SuperCADE Virtual | Application Component | Red de canales presenciales de atención a ciudadanía.
- |
-| chatico | Application Component | Agente virtual del Distrito Capital para el servicio a la ciudadanía
- |
-| Línea 195 | Application Component | Canal telefónico de atención a ciudadanía.
- |
-| Portal Centro Memoria | Application Component | Herramienta de información para el fomento de la cultura y los derechos humanos. Sitio http://centromemoria.gov.co.
- |
+| Portales Institucionales y de Contenido | Grouping |  |
+| Portal Bogotá Historia Común 2.0 | Application Component | Portal para mostrar infografías de Bogotá. La ciudadanía provee historias cotidianas de su localidad y un grupo de análisis del Archivo de Bogotá determina la pertinencia para su publicación. Sección del Portal de Archivo de Bogotá. |
 | Portal Bogotá Capital Digital | Application Component | Plataforma de Trámites en línea. Portal Integrador de trámites y servicios ofrecidos a la ciudadanía. Componente de aplicación que permite la realización de trámites digitales.
  |
-| Sistema de Participación Ciudadana | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
+| Portal Consejería Distrital de TIC | Application Component | Sitio web institucional de la Alta Consejería Distrital de TIC. |
+| Portal Centro Memoria | Application Component | Herramienta de información para el fomento de la cultura y los derechos humanos. Publica experiencias vividas para las víctimas del conflicto armado en Colombia. Sitio http://centromemoria.gov.co.
  |
-| Sistemas de interacción ciudadana y transparencia | Grouping |  |
-| Articulado de Alertas Tempranas (SAAT) | Application Component | Sistema de apoyo a la estrategia de la Secretaría Distrital de la Mujer (ley Ley 248 de 1995 y Ley 1257 de 2008): identificación del riesgo posible víctima, gestión del riesgo y reducción del riesgo.
- |
-| Datos para Transparencia (SATI) | Application Component | Sistema de tableros de control con datos relevantes, actualizados y comprensibles, incluyendo alertas tempranas contra la corrupción. Plataforma que facilita el acceso a datos e información gubernamental. Soporta el proceso de Gobierno abierto y relacionamiento con la ciudadanía.
- |
-| Emlaze | Application Component | Sistema para la planeación de recursos empresariales (ERP) de la Imprenta Distrital y control de ejecución y consumo de insumos en el ejercicio de imprenta.
- |
-| MoviApp | Application Component | Aplicativo que permite el uso el registro del uso en bicicleta por parte de los funcionarios de las entidades del distrito. |
-| Bogotá Te Escucha | Application Component | Sistema para el registro de peticiones, quejas y sugerencias de la ciudadanía |
+| Portal Archivo de Bogotá | Application Component | Sitio web institucional del Archivo de Bogotá. |
+| Portal Bogotá | Application Component | Portal de la Alcaldia Mayor de Bogota orientado a la publicación de la Gestión del alcalde, noticias de entidades y noticias de las localidades. |
 | Sistemas en Desarrollo | Grouping |  |
 | Gestión Instancias de Coordinación | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
  |
@@ -362,56 +349,103 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
  |
 | Tablero Gestión Riesgos Feminicidios | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
  |
+| Canales Alcaldía Mayor de Bogotá | Grouping |  |
+| SuperCADE Virtual | Application Component | Red de canales presenciales de atención a ciudadanía.
+ |
+| chatico | Application Component | Agente virtual del Distrito Capital para el servicio a la ciudadanía
+ |
+| Línea 195 | Application Component | Canal telefónico de atención a ciudadanía.
+ |
+| Página Web Observatorio de Víctimas del conflicto Armado | Application Component | Conflicto armado de Bogotá D.C. reportadas por la Oficina Consejería Distrital de Paz, Victimas y Reconciliacion |
+| Carteleras Externas | Application Component | Portales de visualización pública a la ciudadanía en los sitios de atención. |
+| Carteleras Internas | Application Component | Portales de  visualización pública a los funcionarios y contratistas de la Secretaría General. |
+| Gestión Contractual - Regalías (SGC-R) | Application Component | Sistema de Gestión Contractual, módulo de regalías |
+| Portal Sede Electrónica Secretaría General | Application Component | Sitio web oficial de la Secretaría General. Se publica información pública y en cumplimiento de obligaciones legales. |
+| Sistemas de interacción ciudadana y transparencia | Grouping |  |
+| Articulado de Alertas Tempranas (SAAT) | Application Component | Sistema de apoyo a la estrategia de la Secretaría Distrital de la Mujer (ley Ley 248 de 1995 y Ley 1257 de 2008): identificación del riesgo posible víctima, gestión del riesgo y reducción del riesgo.
+ |
+| Datos para Transparencia (SATI) | Application Component | Sistema de tableros de control con datos relevantes, actualizados y comprensibles, incluyendo alertas tempranas contra la corrupción para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos. Plataforma que facilita el acceso a datos e información gubernamental. Soporta el proceso de Gobierno abierto y relacionamiento con la ciudadanía.
+ |
+| Bogotá Te Escucha | Application Component | Sistema para el registro de peticiones, quejas y sugerencias de la ciudadanía |
+| Portal de la Consejería de Paz, Víctimas y Reconciliación | Application Component | Portal donde se publican noticias y eventos relacionados con la misionalidad de la  Consejería de Paz, Víctimas y Reconciliación. |
+| Asignación de Turnos | Application Component | Sistema de Asignación de Turnos en los puntos de atención de la ciudad (Cades, Súper Cades, puntos de encuentro) |
+| Gobierno Abierto de Datos | Application Component | Portal para la publicación de datos abiertos de Distrito con el fin de ser consultados por la Ciudadanía y utilizados en toma de decisiones o análisis de información  |
+| Información Víctimas de Bogotá | Application Component | Módulo Integrado de Reportes del Sistema. Sistema de Información de Víctimas de Bogotá - Para registrar la gestión de atención integral a las víctimas. Sistema que utiliza el operador externo para realizar entregas de Ayuda Humanitaria Inmediata. |
+| Contratación a la vista | Application Component | Sistema de registro de contratos distritales |
+| Registro Distrital  | Application Component | Se publican todos los actos administrativos del Distrito, de cara al ciudadano. |
+| MoviApp | Application Component | Aplicativo que permite el uso el registro del uso en bicicleta por parte de los funcionarios de las entidades del distrito. |
+| Alertas Tempranas contra la Corrupción | Application Component | Sistema Alertas Tempranas contra la Corrupción |
 | Sistemas de gestión administrativa y financiera | Grouping |  |
 | Administrativo y Financiero | Application Component | Grupo de sistema de soporte a la gestión financiera, gestión de servicios administrativos, tecnológicos, y gestión de recursos físicos.
  |
-| PERNO (Personal y Nómina) | Application Component | Módulo de Personal y Nómina (PERNO, heredado de SICAPITAL).
+| Personal y Nómina (PERNO) | Application Component | Módulo de Personal y Nómina (PERNO, heredado de SICAPITAL.
  |
 | Facturación | Application Component | Sistema de Facturación de la Subdirección de Servicio a la Ciudadanía |
-| Libro Mayor | Application Component | LIMAY, heredado de SICAPITAL).
+| Sistema Contable (LIMAY) | Application Component | LIMAY, heredado de SICAPITAL. Sistema contable que maneja el libro mayor de la entidad.
  |
-| Gestión de Elementos Devolutivos  | Application Component | Sistema control de gestión de elementos devolutivos (SAI, heredado de SICAPITAL)
+| Control de Vehículos (SHV) | Application Component | Sistema de control de vehículos |
+| Presupuesto SI | Application Component | Sistema presupuestal de la Entidad |
+| Gestión de Elementos Devolutivos  | Application Component | Sistema control de gestión de elementos devolutivos (SAI, heredado de SICAPITAL).
  |
 | SIPRES Registro y Control de Presupuesto  | Application Component | Registro y control de la información de presupuesto de la Secretaría General (SIPRES).
  |
 | SIPRES Regalías | Application Component | Sistema para manejo y control del presupuesto de regalías (SIPRES REGALIAS).
  |
+| Gestión Contractual | Application Component | Sistema de Gestión Contractual |
+| Gestión Contractual - Regalías (SGC-R) | Application Component | Sistema de Gestión Contractual, módulo de regalías |
+| Sistema Contable | Application Component | Sistema contable maneja el libro mayor de la entidad. |
+| Presupuesto-Regalías | Application Component | Sistema SIPRES - de Presupuesto - Regalías |
 | Daruma | Application Component | Sistema para el registro de documentos de procesos, procedimientos, formatos, entre otros, como insumos de la Gestión de Calidad.
  |
-| Siga | Application Component | Sistema Integrado de Gestión Documental, Archivo y Correspondencia.
+| Siga | Application Component | Sistema Integrado de Gestión Documental, Archivo y Correspondencia para gesttión de todas la comunicaciones internas de la SG (Memorandos, Circulares, etc), externas y algunas interoperabilidades.
  |
-| GLPI | Application Component | Sistema de soporta a la gestión de servicios administrativos y tecnológicos, donde se registran y gestionan las solicitudes de servicios TIC.
+| GLPI | Application Component | Sistema de soporta a la gestión de servicios administrativos y tecnológicos, donde se registran y gestionan las solicitudes de servicios TIC de diferentes categorías de la Secretaría General. Mesa de ayuda (Gestión de solicitudes de atención ante incidentes tecnológicos).
  |
-| Sistema Gestión Documental | Application Component | Componente de aplicación para la gestión electrónica de documentos.
+| Humanapp | Application Component | Aplicativo de uso interno de la Secretaría General para generar desprendibles de pago para funcionarios y certificaciones laborales, de seguridad social y de ingresos y retenciones. Utiliza una vista del sistema PERNO. Apoya la gestión del talento humano. Aplicativo de generación de desprendibles de pago para funcionarios y certificaciones laborales, de seguridad social y de ingresos y retenciones.
  |
+| Emlaze | Application Component | Sistema para la planeación de recursos empresariales (ERP) de la Imprenta Distrital y control de ejecución y consumo de insumos en el ejercicio de imprenta.
+ |
+| Sistema de Programación y Seguimiento PAD - AVANTI | Application Component | Sistema de Información para registrar avance de programación y seguimiento de metas plan de desarrollo  de la estidades distritales SDARIV relacionadas con atención integral a las víctimas. |
+| Certicontratos | Application Component | Sitio privado interno donde se muestran los contratos de la entidad, ejecutados desde 2015. |
 | SAT Web | Application Component | Sistema de Asignación de Turnos en los puntos de atención a la ciudadanía (Red Cade).
  |
 | Pandora | Application Component | Implementación de temas precontractual y planeación.
  |
-| Expediente Digital | Data Object | Objeto de datos en la capa de aplicación que representa un expediente electrónico. |
+| Programas de desarrollo territorial Bogotá – Región (PDET) | Application Component | Plataforma tecnológica para habilitar los procesos participativos de construcción de paz, con énfasis en la formulación de los programas de desarrollo territorial Bogotá – Región (PDET – BR). |
+| OCS Inventory | Application Component | Sistema para gestionar información del inventario de los componentes lógicos de los elementos ofimáticos |
+| Acuerdos Laborales | Application Component | Sistema de Información de Acuerdos Laborales - Registro de los acuerdos laborales entre la SG y los sindicatos del Distrito |
 | Sistemas de fortalecimiento de capacidades, del conocimiento y datos para la gestión pública | Grouping |  |
 | Bogotá Aprende TIC | Application Component | Portal de apoya los procesos de Gobierno abierto y relacionamiento con la ciudadanía, y Fortalecimiento de la Gestión Pública.
  |
-| Globo | Application Component | Registro de acciones de cooperación internacional. Utilizado en el proceso de Fortalecimiento de la Gestión Pública.
+| Bogotá Internacional (Globo) | Application Component | Registro de acciones de cooperación internacional. Utilizado en el proceso de Fortalecimiento de la Gestión Pública.
+ |
+| Bogotá Historia Común 2.0 | Application Component | Sistema para mostrar infografías de Bogotá. La ciudadanía provee historias cotidianas de su localidad y un grupo de análisis del Archivo de Bogotá determina la pertinencia para su publicación.. |
+| Módulo Integrado de Descripción de Archivos (MIDAS) | Application Component | Catalogación y descripción de algunos registros del Archivo de Bogotá |
+| Gestión Académica | Application Component | Moodle para capacitación de servidores de la SG en diferentes temas   |
+| MEGA Arquitectura Empresarial | Application Component | Herramienta de Arquitectura Empresarial enfocada a los resultados de negocios ayuda a las empresas a gestionar la innovación e iniciativas estratégicas (también llamado MEGA).
+ |
+| SIAB (El Cofre) | Application Component | Sistema de Información del Archivo de Bogotá SIAB. Registro del acervo documental de Bogotá (documentos históricos, planos, mapas, transferencias bibliograficas, entre otros). Permite automatizar los procesos archivísticos y técnicos que realiza el Archivo, tales como llevar un registro de los Ingresos Documentales (antes área de acopio), para la descripción y catalogación de la documentación, propios del proceso de Gestión de la Función Archivística y del Patrimonio Documental, para su custodia y conservación permanente. Utilizado en los procesos de Gobierno abierto y relacionamiento con la ciudadanía, y Fortalecimiento de la Gestión Pública. 
  |
 | SUDIVC | Application Component | Sistema Unificado Distrital de Inspección, Vigilancia y Control – SUDIVC.
  |
-| Humanapp | Application Component | Apoya la gestión del talento humano. Aplicativo de generación de desprendibles de pago para funcionarios y certificaciones laborales, de seguridad social y de ingresos y retenciones.
- |
-| SIAB (El Cofre) | Application Component | Sistema de Información del Archivo de Bogotá SIAB. Permite automatizar los procesos archivísticos y técnicos que realiza el Archivo, tales como llevar un registro de los Ingresos Documentales (antes área de acopio), para la descripción y catalogación de la documentación, propios del proceso de Gestión de la Función Archivística y del Patrimonio Documental, para su custodia y conservación permanente. Utilizado en los procesos de Gobierno abierto y relacionamiento con la ciudadanía, y Fortalecimiento de la Gestión Pública.
- |
-| Koha | Application Component | Sistema Integrado de Gestión de Bibliotecas. Relacionado con la Gestión del conocimiento.
- |
 | Data Warehouse | Application Component | Almacenes de datos de trabajo de SG. Bodega de datos con diversas fuentes de información para el análisis y transformación de datos de interés.
  |
-| Gestión Académica | Application Component | Moodle para capacitación de servidores de la SG en diferentes temas   |
+| Gamificación | Application Component | Herramienta web para el autoaprendizaje y refuerzo temático para cualificación a servidores públicos  |
+| Bogotá Global | Application Component | Sistema donde se registran las acciones de Cooperación Internacional de Bogotá con otras ciudades e instituciones del mundo |
+| Koha | Application Component | Sistema Integrado de Gestión de Bibliotecas. Relacionado con la Gestión del conocimiento.
+ |
 | SIVIC | Application Component | Sistema de Información de Víctimas de Bogotá para registrar la gestión de atención integral a las víctimas. Interviene en los procesos de Paz, víctimas y reconciliación, y Fortalecimiento de la Gestión Pública. Interviene en los procesos de Paz, víctimas y reconciliación, y Fortalecimiento de la Gestión Pública.
  |
 | Avanti | Application Component | Sistema de Información para registrar avance de programación y seguimiento de metas plan de desarrollo de las entidades distritales SDARIV relacionadas con atención integral a las víctimas.
  |
-| Sistemas de desarrollo | Grouping |  |
+| Información de Fortalecimiento Institucional | Application Component | Sistema de Información de Fortalecimiento Institucional  |
+| Sistema Integrado de Gestión | Application Component | Sistema Integrado de Gestión de Calidad- Histórico |
+| Gestión de procesos | Application Component | Sistema de Gestión de procesos |
+| Sistemas de desarrollo de software | Grouping |  |
 | Gitlab | Application Component | Plataforma de desarrollo de software y colaboración.
  |
+| Redmine | Application Component | Sistema de documentación técnica de los Sistemas de Información. Portales Web y Aplicativos de la SG |
+| Datawarehouse | Application Component | Bodega de datos con varias fuentes - Analítica de datos |
 | Ofimática y colaboración | Grouping |  |
 | Office 365 | Application Component | Herramientas de ofimática y colaboración SG.
  |
@@ -520,13 +554,13 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | Gestión de Trámites Ciudadanos | Business Process | Proceso de atención y resolución de solicitudes y gestiones de los ciudadanos.
  |
-| Humanapp | Application Component | Apoya la gestión del talento humano. Aplicativo de generación de desprendibles de pago para funcionarios y certificaciones laborales, de seguridad social y de ingresos y retenciones.
+| Humanapp | Application Component | Aplicativo de uso interno de la Secretaría General para generar desprendibles de pago para funcionarios y certificaciones laborales, de seguridad social y de ingresos y retenciones. Utiliza una vista del sistema PERNO. Apoya la gestión del talento humano. Aplicativo de generación de desprendibles de pago para funcionarios y certificaciones laborales, de seguridad social y de ingresos y retenciones.
  |
 | ADMON | Application Component | Se relaciona con la gestión financiera, gestión de servicios administrativos y tecnológicos, y gestión de recursos físicos.
  |
-| Datos para Transparencia (SATI) | Application Component | Sistema de tableros de control con datos relevantes, actualizados y comprensibles, incluyendo alertas tempranas contra la corrupción. Plataforma que facilita el acceso a datos e información gubernamental. Soporta el proceso de Gobierno abierto y relacionamiento con la ciudadanía.
+| Datos para Transparencia (SATI) | Application Component | Sistema de tableros de control con datos relevantes, actualizados y comprensibles, incluyendo alertas tempranas contra la corrupción para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos. Plataforma que facilita el acceso a datos e información gubernamental. Soporta el proceso de Gobierno abierto y relacionamiento con la ciudadanía.
  |
-| SIAB (El Cofre) | Application Component | Sistema de Información del Archivo de Bogotá SIAB. Permite automatizar los procesos archivísticos y técnicos que realiza el Archivo, tales como llevar un registro de los Ingresos Documentales (antes área de acopio), para la descripción y catalogación de la documentación, propios del proceso de Gestión de la Función Archivística y del Patrimonio Documental, para su custodia y conservación permanente. Utilizado en los procesos de Gobierno abierto y relacionamiento con la ciudadanía, y Fortalecimiento de la Gestión Pública.
+| SIAB (El Cofre) | Application Component | Sistema de Información del Archivo de Bogotá SIAB. Registro del acervo documental de Bogotá (documentos históricos, planos, mapas, transferencias bibliograficas, entre otros). Permite automatizar los procesos archivísticos y técnicos que realiza el Archivo, tales como llevar un registro de los Ingresos Documentales (antes área de acopio), para la descripción y catalogación de la documentación, propios del proceso de Gestión de la Función Archivística y del Patrimonio Documental, para su custodia y conservación permanente. Utilizado en los procesos de Gobierno abierto y relacionamiento con la ciudadanía, y Fortalecimiento de la Gestión Pública. 
  |
 | Emlaze | Application Component | Sistema para la planeación de recursos empresariales (ERP) de la Imprenta Distrital y control de ejecución y consumo de insumos en el ejercicio de imprenta.
  |
@@ -534,13 +568,13 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | SUDIVC | Application Component | Sistema Unificado Distrital de Inspección, Vigilancia y Control – SUDIVC.
  |
-| Globo | Application Component | Registro de acciones de cooperación internacional. Utilizado en el proceso de Fortalecimiento de la Gestión Pública.
+| Bogotá Internacional (Globo) | Application Component | Registro de acciones de cooperación internacional. Utilizado en el proceso de Fortalecimiento de la Gestión Pública.
  |
 | SAT Web | Application Component | Sistema de Asignación de Turnos en los puntos de atención a la ciudadanía (Red Cade).
  |
 | Data Warehouse | Application Component | Almacenes de datos de trabajo de SG. Bodega de datos con diversas fuentes de información para el análisis y transformación de datos de interés.
  |
-| GLPI | Application Component | Sistema de soporta a la gestión de servicios administrativos y tecnológicos, donde se registran y gestionan las solicitudes de servicios TIC.
+| GLPI | Application Component | Sistema de soporta a la gestión de servicios administrativos y tecnológicos, donde se registran y gestionan las solicitudes de servicios TIC de diferentes categorías de la Secretaría General. Mesa de ayuda (Gestión de solicitudes de atención ante incidentes tecnológicos).
  |
 | Gestión Académica | Application Component | Moodle para capacitación de servidores de la SG en diferentes temas   |
 | Bogotá Aprende TIC | Application Component | Portal de apoya los procesos de Gobierno abierto y relacionamiento con la ciudadanía, y Fortalecimiento de la Gestión Pública.
@@ -548,7 +582,7 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
 | Bogotá Te Escucha | Application Component | Sistema para el registro de peticiones, quejas y sugerencias de la ciudadanía |
 | Administrativo y Financiero | Application Component | Grupo de sistema de soporte a la gestión financiera, gestión de servicios administrativos, tecnológicos, y gestión de recursos físicos.
  |
-| Siga | Application Component | Sistema Integrado de Gestión Documental, Archivo y Correspondencia.
+| Siga | Application Component | Sistema Integrado de Gestión Documental, Archivo y Correspondencia para gesttión de todas la comunicaciones internas de la SG (Memorandos, Circulares, etc), externas y algunas interoperabilidades.
  |
 | Daruma | Application Component | Sistema para el registro de documentos de procesos, procedimientos, formatos, entre otros, como insumos de la Gestión de Calidad.
  |
@@ -573,11 +607,9 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | Portal Bogotá Capital Digital | Application Component | Plataforma de Trámites en línea. Portal Integrador de trámites y servicios ofrecidos a la ciudadanía. Componente de aplicación que permite la realización de trámites digitales.
  |
-| Datos para Transparencia (SATI) | Application Component | Sistema de tableros de control con datos relevantes, actualizados y comprensibles, incluyendo alertas tempranas contra la corrupción. Plataforma que facilita el acceso a datos e información gubernamental. Soporta el proceso de Gobierno abierto y relacionamiento con la ciudadanía.
+| Datos para Transparencia (SATI) | Application Component | Sistema de tableros de control con datos relevantes, actualizados y comprensibles, incluyendo alertas tempranas contra la corrupción para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos. Plataforma que facilita el acceso a datos e información gubernamental. Soporta el proceso de Gobierno abierto y relacionamiento con la ciudadanía.
  |
 | Sistema de Participación Ciudadana | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
- |
-| Sistema Gestión Documental | Application Component | Componente de aplicación para la gestión electrónica de documentos.
  |
 | SuperCADE Virtual | Application Component | Red de canales presenciales de atención a ciudadanía.
  |
