@@ -1,8 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="chatico"
+    name="Chatico"
     id="id-09890d546dbb4f3b96798aae6f1f32fb"
-    documentation="Agente virtual del Distrito Capital para el servicio a la ciudadanía&#xA;">
+    documentation="Agente virtual basado en inteligencia artificial que facilita el acceso de la ciudadanía a información sobre trámites, servicios, ayudas distritales y participación ciudadana. Chatico está disponible a través de la página web oficial y por WhatsApp (+57 316 0231524).&#xA;">
   <properties
       key="destino"
       value="doc"/>
