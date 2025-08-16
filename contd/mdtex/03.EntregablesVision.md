@@ -327,7 +327,7 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 |---------|------|---------------|
 | Portales Institucionales y de Contenido | Grouping |  |
 | Portal Bogotá Historia Común 2.0 | Application Component | Portal para mostrar infografías de Bogotá. La ciudadanía provee historias cotidianas de su localidad y un grupo de análisis del Archivo de Bogotá determina la pertinencia para su publicación. Sección del Portal de Archivo de Bogotá. |
-| Portal Bogotá Capital Digital | Application Component | Plataforma de Trámites en línea. Portal Integrador de trámites y servicios ofrecidos a la ciudadanía. Componente de aplicación que permite la realización de trámites digitales.
+| Portal Bogotá Capital Digital | Application Component | Plataforma unificada creada por la Secretaría General de la Alcaldía Mayor de Bogotá para facilitar el acceso de la ciudadanía a más de 1.400 trámites y servicios en línea.
  |
 | Portal Consejería Distrital de TIC | Application Component | Sitio web institucional de la Alta Consejería Distrital de TIC. |
 | Portal Centro Memoria | Application Component | Herramienta de información para el fomento de la cultura y los derechos humanos. Publica experiencias vividas para las víctimas del conflicto armado en Colombia. Sitio http://centromemoria.gov.co.
@@ -350,11 +350,11 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | Tablero Gestión Riesgos Feminicidios | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
  |
 | Canales Alcaldía Mayor de Bogotá | Grouping |  |
-| SuperCADE Virtual | Application Component | Red de canales presenciales de atención a ciudadanía.
+| SuperCADE Virtual | Application Component | Plataforma digital desarrollada por la Secretaría General de la Alcaldía Mayor de Bogotá que permite a la ciudadanía acceder de manera rápida y segura a más de 200 trámites y servicios en línea, sin necesidad de desplazarse físicamente.  
  |
-| chatico | Application Component | Agente virtual del Distrito Capital para el servicio a la ciudadanía
+| Chatico | Application Component | Agente virtual basado en inteligencia artificial que facilita el acceso de la ciudadanía a información sobre trámites, servicios, ayudas distritales y participación ciudadana. Chatico está disponible a través de la página web oficial y por WhatsApp (+57 316 0231524).
  |
-| Línea 195 | Application Component | Canal telefónico de atención a ciudadanía.
+| Línea 195 | Application Component | Canal telefónico oficial de atención ciudadana operado por la Secretaría General de la Alcaldía Mayor de Bogotá, creado para ofrecer información clara, veraz y oportuna sobre trámites, servicios, campañas y entidades del Distrito Capital.
  |
 | Página Web Observatorio de Víctimas del conflicto Armado | Application Component | Conflicto armado de Bogotá D.C. reportadas por la Oficina Consejería Distrital de Paz, Victimas y Reconciliacion |
 | Carteleras Externas | Application Component | Portales de visualización pública a la ciudadanía en los sitios de atención. |
@@ -395,7 +395,7 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | Gestión Contractual - Regalías (SGC-R) | Application Component | Sistema de Gestión Contractual, módulo de regalías |
 | Sistema Contable | Application Component | Sistema contable maneja el libro mayor de la entidad. |
 | Presupuesto-Regalías | Application Component | Sistema SIPRES - de Presupuesto - Regalías |
-| Daruma | Application Component | Sistema para el registro de documentos de procesos, procedimientos, formatos, entre otros, como insumos de la Gestión de Calidad.
+| Daruma | Application Component | Sistema institucional de gestión de la calidad utilizado por la Secretaría General para centralizar, automatizar y hacer seguimiento a procesos clave como la administración de documentos, indicadores, auditorías y acciones de mejora.
  |
 | Siga | Application Component | Sistema Integrado de Gestión Documental, Archivo y Correspondencia para gesttión de todas la comunicaciones internas de la SG (Memorandos, Circulares, etc), externas y algunas interoperabilidades.
  |
@@ -584,34 +584,34 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | Siga | Application Component | Sistema Integrado de Gestión Documental, Archivo y Correspondencia para gesttión de todas la comunicaciones internas de la SG (Memorandos, Circulares, etc), externas y algunas interoperabilidades.
  |
-| Daruma | Application Component | Sistema para el registro de documentos de procesos, procedimientos, formatos, entre otros, como insumos de la Gestión de Calidad.
+| Daruma | Application Component | Sistema institucional de gestión de la calidad utilizado por la Secretaría General para centralizar, automatizar y hacer seguimiento a procesos clave como la administración de documentos, indicadores, auditorías y acciones de mejora.
  |
 | Koha | Application Component | Sistema Integrado de Gestión de Bibliotecas. Relacionado con la Gestión del conocimiento.
  |
 | Avanti | Application Component | Sistema de Información para registrar avance de programación y seguimiento de metas plan de desarrollo de las entidades distritales SDARIV relacionadas con atención integral a las víctimas.
  |
-| chatico | Application Component | Agente virtual del Distrito Capital para el servicio a la ciudadanía
+| Chatico | Application Component | Agente virtual basado en inteligencia artificial que facilita el acceso de la ciudadanía a información sobre trámites, servicios, ayudas distritales y participación ciudadana. Chatico está disponible a través de la página web oficial y por WhatsApp (+57 316 0231524).
  |
 | Comisiones | Application Component | Sesión levantamiento no. 1.
  |
 | Integrador de Servicios Ciudadanos | Application Component | Plataforma unificada para acceder a servicios y trámites ciudadanos.
  |
-| Línea 195 | Application Component | Canal telefónico de atención a ciudadanía.
+| Línea 195 | Application Component | Canal telefónico oficial de atención ciudadana operado por la Secretaría General de la Alcaldía Mayor de Bogotá, creado para ofrecer información clara, veraz y oportuna sobre trámites, servicios, campañas y entidades del Distrito Capital.
  |
 | MoviApp | Application Component | Aplicativo que permite el uso el registro del uso en bicicleta por parte de los funcionarios de las entidades del distrito. |
 | Office 365 | Application Component | Herramientas de ofimática y colaboración SG.
  |
 | Pandora | Application Component | Implementación de temas precontractual y planeación.
  |
-| Portal Bogotá Capital Digital | Application Component | Plataforma de Trámites en línea. Portal Integrador de trámites y servicios ofrecidos a la ciudadanía. Componente de aplicación que permite la realización de trámites digitales.
+| Portal Bogotá Capital Digital | Application Component | Plataforma unificada creada por la Secretaría General de la Alcaldía Mayor de Bogotá para facilitar el acceso de la ciudadanía a más de 1.400 trámites y servicios en línea.
  |
-| Portal Bogotá Capital Digital | Application Component | Plataforma de Trámites en línea. Portal Integrador de trámites y servicios ofrecidos a la ciudadanía. Componente de aplicación que permite la realización de trámites digitales.
+| Portal Bogotá Capital Digital | Application Component | Plataforma unificada creada por la Secretaría General de la Alcaldía Mayor de Bogotá para facilitar el acceso de la ciudadanía a más de 1.400 trámites y servicios en línea.
  |
 | Datos para Transparencia (SATI) | Application Component | Sistema de tableros de control con datos relevantes, actualizados y comprensibles, incluyendo alertas tempranas contra la corrupción para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos. Plataforma que facilita el acceso a datos e información gubernamental. Soporta el proceso de Gobierno abierto y relacionamiento con la ciudadanía.
  |
 | Sistema de Participación Ciudadana | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
  |
-| SuperCADE Virtual | Application Component | Red de canales presenciales de atención a ciudadanía.
+| SuperCADE Virtual | Application Component | Plataforma digital desarrollada por la Secretaría General de la Alcaldía Mayor de Bogotá que permite a la ciudadanía acceder de manera rápida y segura a más de 200 trámites y servicios en línea, sin necesidad de desplazarse físicamente.  
  |
 
 Table: Elementos de la vista. {#tbl:tblelement-06.2n3.a.AplicacionesyProcesos-id}
