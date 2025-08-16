@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Koha - Library sistema integrado de gestión de bibliotecas"
-    id="id-9ddce0a31d644b6e85395ebefc592cc6"
-    documentation="bibliotecas">
-  <properties
-      key="catalogo"
-      value="true"/>
-</archimate:ApplicationComponent>

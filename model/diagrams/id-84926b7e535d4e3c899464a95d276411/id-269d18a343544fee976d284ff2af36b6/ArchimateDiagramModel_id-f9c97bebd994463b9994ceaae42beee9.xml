@@ -581,7 +581,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3d048902bfb246c9ab67342521f52138"
-      targetConnections="id-d28a9fee4e2d4406b777b3d00458f296"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -787,48 +786,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-aa6f10b2fdee42a387ce4b5107321762"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#b5ffff">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-93b3c0be05ad479ea16fdaf5ba16af8c"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-aa6f10b2fdee42a387ce4b5107321762"
-        target="id-46e551bf85eb433d8be140879a348826">
-      <archimateRelationship
-          xsi:type="archimate:AccessRelationship"
-          href="AccessRelationship_id-8d3330d9125c40d9b9b7d63899d4bf13.xml#id-8d3330d9125c40d9b9b7d63899d4bf13"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-d28a9fee4e2d4406b777b3d00458f296"
-        font="1|Lucida Grande|12.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-aa6f10b2fdee42a387ce4b5107321762"
-        target="id-3d048902bfb246c9ab67342521f52138">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-16226cea7ed94b64bab41760c04fac3f.xml#id-16226cea7ed94b64bab41760c04fac3f"/>
-    </sourceConnections>
-    <bounds
-        x="1086"
-        y="629"
-        width="150"
-        height="70"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-ecafc102249a464dbed337cd73617bcb.xml#id-ecafc102249a464dbed337cd73617bcb"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-46e551bf85eb433d8be140879a348826"
-      targetConnections="id-93b3c0be05ad479ea16fdaf5ba16af8c"
       font="1|Lucida Grande|12.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"

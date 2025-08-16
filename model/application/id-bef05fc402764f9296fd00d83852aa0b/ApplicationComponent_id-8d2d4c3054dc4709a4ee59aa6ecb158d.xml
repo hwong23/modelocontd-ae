@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EMLAZE"
-    id="id-8d2d4c3054dc4709a4ee59aa6ecb158d"
-    documentation="Sistema para la planeación de recursos empresariales (ERP) de la Imprenta Distrital y control de ejecución y consumo de insumos en el ejercicio de imprenta">
-  <properties
-      key="catalogo"
-      value="true"/>
-</archimate:ApplicationComponent>

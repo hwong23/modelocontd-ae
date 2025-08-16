@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Herramienta de Arquitectura Empresarial"
-    id="id-899ffe742aa7484fbf9509693d7a1079"
-    documentation="Herramienta de Arquitectura Empresarial enfocada a los resultados de negocios ayuda a las empresas a gestionar la innovación e iniciativas estratégicas (también llamado MEGA)">
-  <properties
-      key="catalogo"
-      value="true"/>
-</archimate:ApplicationComponent>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="HumanApp"
     id="id-574d24f74c91431ab94289af16fcebde"
-    documentation="Aplicativo de uso interno de la Secretaría General para generar desprendibles de pago para funcionarios y certificaciones laborales, de seguridad social y de ingresos y retenciones. Utiliza una vista del sistema PERNO.">
+    documentation="Aplicativo de uso interno de la Secretaría General para generar desprendibles de pago para funcionarios y certificaciones laborales, de seguridad social y de ingresos y retenciones. Utiliza una vista del sistema PERNO.&#xA;">
   <properties
       key="catalogo"
       value="true"/>

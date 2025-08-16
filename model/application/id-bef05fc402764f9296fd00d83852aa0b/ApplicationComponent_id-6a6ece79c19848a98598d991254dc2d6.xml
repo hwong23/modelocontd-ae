@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GITLAB"
-    id="id-6a6ece79c19848a98598d991254dc2d6"
-    documentation="Sistema de Almacenamiento de archivos fuente de sistemas, sitios web y App">
-  <properties
-      key="catalogo"
-      value="true"/>
-</archimate:ApplicationComponent>
