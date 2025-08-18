@@ -325,18 +325,6 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 
 | Nombre  | Tipo | Documentación |
 |---------|------|---------------|
-| Portales Institucionales y de Contenido | Grouping |  |
-| Portal Bogotá Historia Común 2.0 | Application Component | Portal para mostrar infografías de Bogotá. La ciudadanía provee historias cotidianas de su localidad y un grupo de análisis del Archivo de Bogotá determina la pertinencia para su publicación. Sección del Portal de Archivo de Bogotá. |
-| Portal Bogotá Capital Digital | Application Component | Plataforma unificada creada por la Secretaría General de la Alcaldía Mayor de Bogotá para facilitar el acceso de la ciudadanía a más de 1.400 trámites y servicios en línea.
- |
-| Portal Consejería Distrital de TIC | Application Component | Sitio web institucional de la Alta Consejería Distrital de TIC. |
-| Portal Centro Memoria | Application Component | Herramienta de información para el fomento de la cultura y los derechos humanos. Publica experiencias vividas para las víctimas del conflicto armado en Colombia. Sitio http://centromemoria.gov.co.
- |
-| Portal Archivo de Bogotá | Application Component | Sitio web institucional del Archivo de Bogotá. |
-| Portal Bogotá | Application Component | Portal de la Alcaldía Mayor de Bogotá orientado a la publicación de la Gestión del alcalde, noticias de entidades y noticias de las localidades.
- |
-| Portal Web de Gobierno abierto de Bogotá – GAB | Application Component | Plataforma en la que los ciudadanos ayudan a decidir como transformar tu localidad.
- |
 | Canales Alcaldía Mayor de Bogotá | Grouping |  |
 | SuperCADE Virtual | Application Component | Plataforma digital desarrollada por la Secretaría General de la Alcaldía Mayor de Bogotá que permite a la ciudadanía acceder de manera rápida y segura a más de 200 trámites y servicios en línea, sin necesidad de desplazarse físicamente.  
  |
@@ -345,11 +333,23 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | Línea 195 | Application Component | Canal telefónico oficial de atención ciudadana operado por la Secretaría General de la Alcaldía Mayor de Bogotá, creado para ofrecer información clara, veraz y oportuna sobre trámites, servicios, campañas y entidades del Distrito Capital.
  |
 | Página Web Observatorio de Víctimas del conflicto Armado | Application Component | Conflicto armado de Bogotá D.C. reportadas por la Oficina Consejería Distrital de Paz, Victimas y Reconciliacion |
+| Portal Bogotá Historia Común 2.0 | Application Component | Portal Bogotá Historia Común 2.0	Bogotá historia común 2.0 es un proyecto de la Secretaría General de la Alcaldía Mayor de Bogotá, a través del Archivo de Bogotá, que propone nuevas formas de reconstruir, recuperar y conectar las memorias barriales y vecinales de la ciudad, brindando acceso libre a los testimonios, textos, audios, videos y fotografías que forman parte del patrimonio documental bogotano. https://archivobogota.secretariageneral.gov.co/proyectos-estrategicos/bogota-historia-comun/.
+ |
+| Portal Consejería Distrital de TIC | Application Component | Sitio web institucional de la Alta Consejería Distrital de TIC. |
+| Portal Bogotá | Application Component | Portal de la Alcaldía Mayor de Bogotá orientado a la publicación de la Gestión del alcalde, noticias de entidades y noticias de las localidades.
+ |
 | Carteleras Externas | Application Component | Portales de visualización pública a la ciudadanía en los sitios de atención. |
 | Carteleras Internas | Application Component | Portales de  visualización pública a los funcionarios y contratistas de la Secretaría General. |
 | Gestión Contractual - Regalías (SGC-R) | Application Component | Sistema de Gestión Contractual, módulo de regalías |
 | Portal Sede Electrónica Secretaría General | Application Component | Sitio web oficial de la Secretaría General. Se publica información pública y en cumplimiento de obligaciones legales. |
+| Portal Centro Memoria | Application Component | Herramienta de información para el fomento de la cultura y los derechos humanos. Publica experiencias vividas para las víctimas del conflicto armado en Colombia. Sitio http://centromemoria.gov.co.
+ |
+| Portal Archivo de Bogotá | Application Component | Sitio web institucional del Archivo de Bogotá. |
+| Intranet | Application Component | Sistema web que presta los servicios para actualizar, administrar, monitorear y optimizar la comunicación interna de la entidad, sirve como como instrumento de divulgación de información vital e importante de la entidad.
+ |
 | SuperCADE Bus Transaccional | Application Component | Aplicación de software que permite la interoperabilidad de los procesos del Distrito, con el fin de realizar trámites en Línea. Página web que redirige a servicios del Súper CADE.
+ |
+| Portal Web de Gobierno abierto de Bogotá – GAB | Application Component | Plataforma en la que los ciudadanos ayudan a decidir como transformar tu localidad.
  |
 | Sistemas de interacción ciudadana y transparencia | Grouping |  |
 | Articulado de Alertas Tempranas (SAAT) | Application Component | Sistema de apoyo a la estrategia de la Secretaría Distrital de la Mujer (ley Ley 248 de 1995 y Ley 1257 de 2008): identificación del riesgo posible víctima, gestión del riesgo y reducción del riesgo.
