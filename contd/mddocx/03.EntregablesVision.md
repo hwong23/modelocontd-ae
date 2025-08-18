@@ -335,20 +335,7 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | Portal Archivo de Bogotá | Application Component | Sitio web institucional del Archivo de Bogotá. |
 | Portal Bogotá | Application Component | Portal de la Alcaldía Mayor de Bogotá orientado a la publicación de la Gestión del alcalde, noticias de entidades y noticias de las localidades.
  |
-| Sistemas en Desarrollo | Grouping |  |
-| Gestión Instancias de Coordinación | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
- |
-| Agente MIPG | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
- |
-| Flujos Automatizados de Procesos Empleado con TH y Contratistas | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
- |
-| Portal Transaccional | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
- |
-| Gestión para Gestores en Territorio | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
- |
-| Super App Ciudad | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
- |
-| Tablero Gestión Riesgos Feminicidios | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
+| Portal Web de Gobierno abierto de Bogotá – GAB | Application Component | Plataforma en la que los ciudadanos ayudan a decidir como transformar tu localidad.
  |
 | Canales Alcaldía Mayor de Bogotá | Grouping |  |
 | SuperCADE Virtual | Application Component | Plataforma digital desarrollada por la Secretaría General de la Alcaldía Mayor de Bogotá que permite a la ciudadanía acceder de manera rápida y segura a más de 200 trámites y servicios en línea, sin necesidad de desplazarse físicamente.  
@@ -376,6 +363,21 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | Registro Distrital  | Application Component | Se publican todos los actos administrativos del Distrito, de cara al ciudadano. |
 | MoviApp | Application Component | Aplicativo que permite el uso el registro del uso en bicicleta por parte de los funcionarios de las entidades del distrito. |
 | Alertas Tempranas contra la Corrupción | Application Component | Sistema Alertas Tempranas contra la Corrupción |
+| Sistemas en Desarrollo | Grouping |  |
+| Gestión Instancias de Coordinación | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
+ |
+| Agente MIPG | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
+ |
+| Flujos Automatizados de Procesos Empleado con TH y Contratistas | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
+ |
+| Portal Transaccional | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
+ |
+| Gestión para Gestores en Territorio | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
+ |
+| Super App Ciudad | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
+ |
+| Tablero Gestión Riesgos Feminicidios | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
+ |
 | Sistemas de gestión administrativa y financiera | Grouping |  |
 | Administrativo y Financiero | Application Component | Grupo de sistema de soporte a la gestión financiera, gestión de servicios administrativos, tecnológicos, y gestión de recursos físicos.
  |
@@ -396,6 +398,8 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | Gestión Contractual - Regalías (SGC-R) | Application Component | Sistema de Gestión Contractual, módulo de regalías |
 | Sistema Contable | Application Component | Sistema contable maneja el libro mayor de la entidad. |
 | Presupuesto-Regalías | Application Component | Sistema SIPRES - de Presupuesto - Regalías |
+| Sistema SAE - Gestión de Elementos de Consumo | Application Component | Sistema de control de gestión de elementos de consumo (Heredado SICAPITAL).
+ |
 | Daruma | Application Component | Sistema institucional de gestión de la calidad utilizado por la Secretaría General para centralizar, automatizar y hacer seguimiento a procesos clave como la administración de documentos, indicadores, auditorías y acciones de mejora.
  |
 | Siga | Application Component | Sistema Integrado de Gestión Documental, Archivo y Correspondencia para gesttión de todas la comunicaciones internas de la SG (Memorandos, Circulares, etc), externas y algunas interoperabilidades.
@@ -442,6 +446,7 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | Información de Fortalecimiento Institucional | Application Component | Sistema de Información de Fortalecimiento Institucional  |
 | Sistema Integrado de Gestión | Application Component | Sistema Integrado de Gestión de Calidad- Histórico |
 | Gestión de procesos | Application Component | Sistema de Gestión de procesos |
+| Información Víctimas de Bogotá | Application Component | Sistema de Información de Víctimas de Bogotá - Para registrar la gestión de atención integral a las víctimas. Sistema que utiliza el operador externo para realizar entregas de Ayuda Humanitaria Inmediata. |
 | Sistemas de desarrollo de software | Grouping |  |
 | Gitlab | Application Component | Plataforma de desarrollo de software y colaboración.
  |
