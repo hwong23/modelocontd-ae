@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Continuum"
+    id="id-8a845e2273c845309ccb37d34f9373bf"
+    documentation="Herramientas de ofimática y colaboración SG.&#xA;Sistema de registro y gestión de uso de las tarjetas de proximidad de la entidad.&#xA;">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>

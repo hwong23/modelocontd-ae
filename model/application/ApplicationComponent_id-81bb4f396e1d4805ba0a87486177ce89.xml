@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portal Renta Básica (ayudas para afectados del COVID-19)"
+    id="id-81bb4f396e1d4805ba0a87486177ce89"
+    documentation="Sistema de ayudas para los ciudadanos de Bogotá afectados por la cuarentena del coronavirus (COVID-19).">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

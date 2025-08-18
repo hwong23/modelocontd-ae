@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centro de Gobierno - Tablero de control"
+    id="id-5c24862ae71b49dbb4636e362888fe53"
+    documentation="Esta plataforma permite al alcalde y al equipo de gobierno tener la visión distrital de cada proyecto agilizando la coordinación de acciones estratégicas encaminadas a la gestión del plan de desarrollo distrital de Bogotá 2020-2023.&#xA;">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

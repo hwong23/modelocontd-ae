@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sistema de Asignación de Turnos - SAT (histórico)"
+    id="id-fea8a556b6b248dc8d9ca8e2ad15bf43"
+    documentation="Sistema de asignación de turnos para los puntos de atención al ciudadano de la Secretaría General.&#xA;">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

@@ -1,9 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aulas Virtuales CM"
-    id="id-2a5ff515382f4d64a422a29dd7903385"
+    id="id-d778f4332f6a4165a03cc015aa68f326"
     documentation="Portal Aulas virtuales del Centro de Memoria, Paz y Reconciliación.&#xA;">
   <properties
-      key="destino"
-      value="doc"/>
+      key="catalogo"
+      value="true"/>
 </archimate:ApplicationComponent>

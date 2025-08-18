@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestión Instancias de Coordinación"
     id="id-0d50049396774654acc2d50812d8ce61"
-    documentation="Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.&#xA;">
+    documentation="Aplicación de software para facilitar la interacción y el acercamiento de los ciudadanos.&#xA;">
   <properties
       key="destino"
       value="doc"/>

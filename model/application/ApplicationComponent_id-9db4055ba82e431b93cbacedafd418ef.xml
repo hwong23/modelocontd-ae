@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portal Sede Electrónica Secretaría General (histórico)"
+    id="id-9db4055ba82e431b93cbacedafd418ef"
+    documentation="Histórico.">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

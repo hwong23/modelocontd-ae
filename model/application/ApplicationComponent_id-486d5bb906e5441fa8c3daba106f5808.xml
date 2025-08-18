@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sistema Integrado de Gestión de Calidad (histórico)"
+    id="id-486d5bb906e5441fa8c3daba106f5808"
+    documentation="Histórico.">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

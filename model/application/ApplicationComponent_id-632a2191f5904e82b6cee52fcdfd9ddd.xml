@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tablero de Control - PDD (Plan Distrital de Desarrollo)"
+    id="id-632a2191f5904e82b6cee52fcdfd9ddd"
+    documentation="Portal web que visualiza información sobre ejecución, programas metas del PDD.">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Agente MIPG"
     id="id-60a7532bb7564c609cdaa95bbe8a14c0"
-    documentation="Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.&#xA;">
+    documentation="Agente de inteligencia artificial para MIPG y temas institucionales de entidades distritales.&#xA;">
   <properties
       key="destino"
       value="doc"/>

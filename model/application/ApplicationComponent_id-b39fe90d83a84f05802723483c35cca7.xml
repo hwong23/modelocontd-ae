@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sistema CHIE"
+    id="id-b39fe90d83a84f05802723483c35cca7"
+    documentation="Histórico. Gestión de acciones y planes de mejora de la Secretaría General (histórico sólo para consulta).&#xA;">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>

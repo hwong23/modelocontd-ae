@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tableros de control - BITÁCORA PRODUCCIÓN"
+    id="id-84549676135e4b258dbc950ff10bbea5"
+    documentation="Página web de uso privado donde se publican los tableros de control de uso frecuente del Secretario General.&#xA;">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>

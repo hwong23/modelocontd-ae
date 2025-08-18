@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ELASTIX - Telefonía IP"
+    id="id-5c5bc961e899449fbd67d0ee0d840688"
+    documentation="Aplicación de software para soportar el servicio de telefonía IP.&#xA;">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

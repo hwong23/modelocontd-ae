@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portal Archivos a Fondo"
+    id="id-4b452d92d67c4721b786a7bffbfc5861"
+    documentation="Portal web  con motivo de la celebración del mes del patrimonio para la primera muestra de la Exposición Archivos a Fondo, con la presentación de veintiún fondos, colecciones y series documentales, organizada por la Dirección Distrital de Archivo de Bogotá, de la Secretaría General de la Alcaldía Mayor.&#xA;">
+  <properties
+      key="destino"
+      value="doc"/>
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portal de la Alta Consejería de Paz, Víctimas y Reconciliación (histórico)"
+    id="id-b217fa45a1cc41f58493e405842b9a11"
+    documentation="Histórico.">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

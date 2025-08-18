@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestión para Gestores en Territorio"
     id="id-686059a68bdd45b1814b7d4550c29108"
-    documentation="Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.&#xA;">
+    documentation="Aplicación de software para recopilación de información de campo de trabajo de gestores territoriales.&#xA;">
   <properties
       key="destino"
       value="doc"/>

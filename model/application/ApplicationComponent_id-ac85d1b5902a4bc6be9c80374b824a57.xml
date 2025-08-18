@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tablero de Control Negocio - TABLEAU Privado"
+    id="id-ac85d1b5902a4bc6be9c80374b824a57"
+    documentation="Tablero de Control Alcalde -Tableau controlado con cinco licencias de uso. Análisis visuales interactivos que le permite responder a preguntas de negocios complejas y acceder rápidamente a información que hace crecer su negocio. Impulsado por nuestra tecnología patentada VizQL, Tableau proporciona análisis eficaces para hacer preguntas más detalladas y obtener respuestas más significativas.&#xA;">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>

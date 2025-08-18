@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SuperCADE Bus Transaccional"
+    id="id-6c32003e8bcb4c15a2ff1ca1afa0604c"
+    documentation="Aplicación de software que permite la interoperabilidad de los procesos del Distrito, con el fin de realizar trámites en Línea. Página web que redirige a servicios del Súper CADE.&#xA;">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>

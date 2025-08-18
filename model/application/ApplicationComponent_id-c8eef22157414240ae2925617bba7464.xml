@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aplicativo móvil de Centro de Memoria - CMPR"
+    id="id-c8eef22157414240ae2925617bba7464"
+    documentation="Aplicación móvil para las víctimas del conflicto, busca que los ciudadanos comprendan cómo Bogotá y sus habitantes han sido afectados por el conflicto armado.">
+  <properties
+      key="destino"
+      value="doc"/>
+  <properties
+      key="IncluyeSaltosLineaElementos"
+      value="false"/>
+</archimate:ApplicationComponent>

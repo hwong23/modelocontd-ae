@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portal Exposición 30 años de la Constitución"
+    id="id-a798d03550c14863ae707e82f5e7f49c"
+    documentation="Portal para mostrar infografías con motivo del 30º aniversario de la Constitución Política de Colombia.&#xA;">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>
