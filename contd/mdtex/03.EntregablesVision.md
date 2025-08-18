@@ -349,6 +349,8 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | Carteleras Internas | Application Component | Portales de  visualización pública a los funcionarios y contratistas de la Secretaría General. |
 | Gestión Contractual - Regalías (SGC-R) | Application Component | Sistema de Gestión Contractual, módulo de regalías |
 | Portal Sede Electrónica Secretaría General | Application Component | Sitio web oficial de la Secretaría General. Se publica información pública y en cumplimiento de obligaciones legales. |
+| SuperCADE Bus Transaccional | Application Component | Aplicación de software que permite la interoperabilidad de los procesos del Distrito, con el fin de realizar trámites en Línea. Página web que redirige a servicios del Súper CADE.
+ |
 | Sistemas de interacción ciudadana y transparencia | Grouping |  |
 | Articulado de Alertas Tempranas (SAAT) | Application Component | Sistema de apoyo a la estrategia de la Secretaría Distrital de la Mujer (ley Ley 248 de 1995 y Ley 1257 de 2008): identificación del riesgo posible víctima, gestión del riesgo y reducción del riesgo.
  |
@@ -364,19 +366,23 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | MoviApp | Application Component | Aplicativo que permite el uso el registro del uso en bicicleta por parte de los funcionarios de las entidades del distrito. |
 | Alertas Tempranas contra la Corrupción | Application Component | Sistema Alertas Tempranas contra la Corrupción |
 | Sistemas en Desarrollo | Grouping |  |
-| Gestión Instancias de Coordinación | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
+| Gestión Instancias de Coordinación | Application Component | Aplicación de software para facilitar la interacción y el acercamiento de los ciudadanos.
  |
-| Agente MIPG | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
+| Agente MIPG | Application Component | Agente de inteligencia artificial para MIPG y temas institucionales de entidades distritales.
  |
-| Flujos Automatizados de Procesos Empleado con TH y Contratistas | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
+| Flujos Automatizados de Procesos Empleado con TH y Contratistas | Application Component | Flujos automatizados de procesos de empleado con TH y contratistas (ausentismos, permisos comisiones, etc.)
  |
 | Portal Transaccional | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
  |
-| Gestión para Gestores en Territorio | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
+| Gestión para Gestores en Territorio | Application Component | Aplicación de software para recopilación de información de campo de trabajo de gestores territoriales.
  |
 | Super App Ciudad | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
  |
-| Tablero Gestión Riesgos Feminicidios | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
+| Tablero Gestión Riesgos Feminicidios | Application Component | Tablero de control para seguimiento 	de gestión de riesgos de feminicidios en Bogotá. Proyecto sector Bienestar.
+ |
+| Inteligencia artificial para la organización, clasificación, y descripción de un fondo documental histórico | Application Component | Herramientas de inteligencia artificial para la organización, clasificación, y descripción de un fondo documental histórico del Archivo General de Bogotá.
+ |
+| Líneas de operación de la Subdirección de Sistema Distrital de Archivos de Bogotá – SSDA | Application Component | Aplicación de software para automatización de los procesos de 4 líneas de operación de la Subdirección de Sistema Distrital de Archivos de Bogotá –SSDA.
  |
 | Sistemas de gestión administrativa y financiera | Grouping |  |
 | Administrativo y Financiero | Application Component | Grupo de sistema de soporte a la gestión financiera, gestión de servicios administrativos, tecnológicos, y gestión de recursos físicos.
@@ -439,7 +445,7 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | Bogotá Global | Application Component | Sistema donde se registran las acciones de Cooperación Internacional de Bogotá con otras ciudades e instituciones del mundo |
 | Koha | Application Component | Sistema Integrado de Gestión de Bibliotecas. Relacionado con la Gestión del conocimiento.
  |
-| SIVIC | Application Component | Sistema de Información de Víctimas de Bogotá para registrar la gestión de atención integral a las víctimas. Interviene en los procesos de Paz, víctimas y reconciliación, y Fortalecimiento de la Gestión Pública. Interviene en los procesos de Paz, víctimas y reconciliación, y Fortalecimiento de la Gestión Pública.
+| Aulas Virtuales CM | Application Component | Portal Aulas virtuales del Centro de Memoria, Paz y Reconciliación.
  |
 | Avanti | Application Component | Sistema de Información para registrar avance de programación y seguimiento de metas plan de desarrollo de las entidades distritales SDARIV relacionadas con atención integral a las víctimas.
  |
@@ -447,14 +453,50 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | Sistema Integrado de Gestión | Application Component | Sistema Integrado de Gestión de Calidad- Histórico |
 | Gestión de procesos | Application Component | Sistema de Gestión de procesos |
 | Información Víctimas de Bogotá | Application Component | Sistema de Información de Víctimas de Bogotá - Para registrar la gestión de atención integral a las víctimas. Sistema que utiliza el operador externo para realizar entregas de Ayuda Humanitaria Inmediata. |
-| Sistemas de desarrollo de software | Grouping |  |
+| Centro de Gobierno - Tablero de control | Application Component | Esta plataforma permite al alcalde y al equipo de gobierno tener la visión distrital de cada proyecto agilizando la coordinación de acciones estratégicas encaminadas a la gestión del plan de desarrollo distrital de Bogotá 2020-2023.
+ |
+| Sistemas de desarrollo de software y Ofimática | Grouping |  |
 | Gitlab | Application Component | Plataforma de desarrollo de software y colaboración.
  |
 | Redmine | Application Component | Sistema de documentación técnica de los Sistemas de Información. Portales Web y Aplicativos de la SG |
-| Datawarehouse | Application Component | Bodega de datos con varias fuentes - Analítica de datos |
-| Ofimática y colaboración | Grouping |  |
+| DATAPROTECTOR | Application Component | Sistema de Copias de seguridad.
+ |
+| NAGIOS | Application Component | Sistema de monitoreo de infraestructura y servicio de TI.
+ |
 | Office 365 | Application Component | Herramientas de ofimática y colaboración SG.
  |
+| Datawarehouse | Application Component | Bodega de datos con varias fuentes - Analítica de datos |
+| ELASTIX - Telefonía IP | Application Component | Aplicación de software para soportar el servicio de telefonía IP.
+ |
+| Continuum | Application Component | Herramientas de ofimática y colaboración SG.
+Sistema de registro y gestión de uso de las tarjetas de proximidad de la entidad.
+ |
+| Sistemas de información históricos | Grouping |  |
+| Portal Extiende tu mano | Application Component | Sistema donde se gestionan ayudas y se realizan donaciones.
+ |
+| Intranet (histórico) | Application Component | Histórico |
+| Portal Sede Electrónica Secretaría General (histórico) | Application Component | Histórico. |
+| Portal Exposición 30 años de la Constitución | Application Component | Portal para mostrar infografías con motivo del 30º aniversario de la Constitución Política de Colombia.
+ |
+| Portal Archivos a Fondo | Application Component | Portal web  con motivo de la celebración del mes del patrimonio para la primera muestra de la Exposición Archivos a Fondo, con la presentación de veintiún fondos, colecciones y series documentales, organizada por la Dirección Distrital de Archivo de Bogotá, de la Secretaría General de la Alcaldía Mayor.
+ |
+| Tablero de Control - PDD (Plan Distrital de Desarrollo) | Application Component | Portal web que visualiza información sobre ejecución, programas metas del PDD. |
+| Aplicativo móvil de Centro de Memoria - CMPR | Application Component | Aplicación móvil para las víctimas del conflicto, busca que los ciudadanos comprendan cómo Bogotá y sus habitantes han sido afectados por el conflicto armado. |
+| Tableros de control - BITÁCORA PRODUCCIÓN | Application Component | Página web de uso privado donde se publican los tableros de control de uso frecuente del Secretario General.
+ |
+| Tablero de Control Negocio - TABLEAU Privado | Application Component | Tablero de Control Alcalde -Tableau controlado con cinco licencias de uso. Análisis visuales interactivos que le permite responder a preguntas de negocios complejas y acceder rápidamente a información que hace crecer su negocio. Impulsado por nuestra tecnología patentada VizQL, Tableau proporciona análisis eficaces para hacer preguntas más detalladas y obtener respuestas más significativas.
+ |
+| Sistema VEC | Application Component | Sistema donde se registran actividades de mercados campesinos.
+ |
+| Sistema CHIE | Application Component | Histórico. Gestión de acciones y planes de mejora de la Secretaría General (histórico sólo para consulta).
+ |
+| Sistema de Asignación de Turnos - SAT (histórico) | Application Component | Sistema de asignación de turnos para los puntos de atención al ciudadano de la Secretaría General.
+ |
+| Sistema de Contratación a la vista (histórico) CAV2 | Application Component | Histórico. |
+| Portal Centro de Memoria (histórico) | Application Component | Histórico. |
+| Portal de la Alta Consejería de Paz, Víctimas y Reconciliación (histórico) | Application Component | Histórico. |
+| Portal Renta Básica (ayudas para afectados del COVID-19) | Application Component | Sistema de ayudas para los ciudadanos de Bogotá afectados por la cuarentena del coronavirus (COVID-19). |
+| Sistema Integrado de Gestión de Calidad (histórico) | Application Component | Histórico. |
 
 Table: Elementos de la vista. {#tbl:tblelement-06.2n2.1a.SIdelAnalisisdeEntorno-id}
 
@@ -570,7 +612,7 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | Emlaze | Application Component | Sistema para la planeación de recursos empresariales (ERP) de la Imprenta Distrital y control de ejecución y consumo de insumos en el ejercicio de imprenta.
  |
-| SIVIC | Application Component | Sistema de Información de Víctimas de Bogotá para registrar la gestión de atención integral a las víctimas. Interviene en los procesos de Paz, víctimas y reconciliación, y Fortalecimiento de la Gestión Pública. Interviene en los procesos de Paz, víctimas y reconciliación, y Fortalecimiento de la Gestión Pública.
+| Aulas Virtuales CM | Application Component | Portal Aulas virtuales del Centro de Memoria, Paz y Reconciliación.
  |
 | SUDIVC | Application Component | Sistema Unificado Distrital de Inspección, Vigilancia y Control – SUDIVC.
  |
