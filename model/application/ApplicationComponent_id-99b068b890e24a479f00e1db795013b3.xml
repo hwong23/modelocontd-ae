@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portal Web de Gobierno abierto de Bogotá – GAB"
+    id="id-99b068b890e24a479f00e1db795013b3"
+    documentation="Plataforma en la que los ciudadanos ayudan a decidir como transformar tu localidad.&#xA;">
+  <properties
+      key="catalogo"
+      value="true"/>
+</archimate:ApplicationComponent>

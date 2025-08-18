@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sistema SAE - Gestión de Elementos de Consumo"
+    id="id-09fa2ab6a93946fb9013a62896a20fbf"
+    documentation="Sistema de control de gestión de elementos de consumo (Heredado SICAPITAL).&#xA;">
+  <properties
+      key="destino"
+      value="doc"/>
+</archimate:ApplicationComponent>
