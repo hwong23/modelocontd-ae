@@ -1771,7 +1771,8 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#ffffff">
+      fillColor="#ffffff"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-772cfb833af94714a8c45b082f182a92"
@@ -1984,18 +1985,6 @@
           y="87"
           width="109"
           height="48"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-b8daad8ac9fc423699e952578cb996ba">
-        <bounds
-            x="226"
-            y="34"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationComponent"
-            href="ApplicationComponent_id-a76683b46a764d93a1c8035fa13cbe7f.xml#id-a76683b46a764d93a1c8035fa13cbe7f"/>
-      </children>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-2b7aa817af204daab13a7aa4debd8c20.xml#id-2b7aa817af204daab13a7aa4debd8c20"/>
