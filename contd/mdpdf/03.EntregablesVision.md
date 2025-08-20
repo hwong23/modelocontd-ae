@@ -349,7 +349,7 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
  |
 | SuperCADE Bus Transaccional | Application Component | Aplicación de software que permite la interoperabilidad de los procesos del Distrito, con el fin de realizar trámites en Línea. Página web que redirige a servicios del Súper CADE.
  |
-| Portal Web de Gobierno abierto de Bogotá – GAB | Application Component | Plataforma en la que los ciudadanos ayudan a decidir como transformar tu localidad.
+| Portal Web de Gobierno abierto de Bogotá – GAB | Application Component | Portal que soporta el Gobierno Abierto de Bogotá. Cuenta con distintas secciones: datos destacados de la contratación distrital, datos distritales, datos abiertos, agendas abiertas, entre otros. https://gobiernoabiertobogota.gov.co/.
  |
 | Sistemas de interacción ciudadana y transparencia | Grouping |  |
 | Articulado de Alertas Tempranas (SAAT) | Application Component | Sistema de apoyo a la estrategia de la Secretaría Distrital de la Mujer (ley Ley 248 de 1995 y Ley 1257 de 2008): identificación del riesgo posible víctima, gestión del riesgo y reducción del riesgo.
@@ -363,16 +363,17 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | Información Víctimas de Bogotá | Application Component | Módulo Integrado de Reportes del Sistema. Sistema de Información de Víctimas de Bogotá - Para registrar la gestión de atención integral a las víctimas. Sistema que utiliza el operador externo para realizar entregas de Ayuda Humanitaria Inmediata. |
 | Contratación a la vista | Application Component | Sistema de registro de contratos distritales |
 | Registro Distrital  | Application Component | Se publican todos los actos administrativos del Distrito, de cara al ciudadano. |
-| MoviApp | Application Component | Aplicativo que permite el uso el registro del uso en bicicleta por parte de los funcionarios de las entidades del distrito. |
+| MoviApp | Application Component | Aplicación móvil para ejercer la movilidad responsable, a través del uso generalizado de la bicicleta entre los funcionarios de las diferentes dependencias de la alcaldía. Aplicativo que permite el uso el registro del uso en bicicleta por parte de los funcionarios de las entidades del Distrito.
+ |
 | Alertas Tempranas contra la Corrupción | Application Component | Sistema Alertas Tempranas contra la Corrupción |
-| Sistemas en Desarrollo | Grouping |  |
+| Sistemas en desarrollo | Grouping |  |
 | Gestión Instancias de Coordinación | Application Component | Aplicación de software para facilitar la interacción y el acercamiento de los ciudadanos.
  |
 | Agente MIPG | Application Component | Agente de inteligencia artificial para MIPG y temas institucionales de entidades distritales.
  |
 | Flujos Automatizados de Procesos Empleado con TH y Contratistas | Application Component | Flujos automatizados de procesos de empleado con TH y contratistas (ausentismos, permisos comisiones, etc.)
  |
-| Portal Transaccional | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
+| Portal Transaccional (BTE-DWH) | Application Component | Portal oficial de servicios ciudadanos de la Alcaldía de Bogotá. Consulta pagos pendientes, trámites y servicios en línea. https://bogota.gov.co/servicios/inicio
  |
 | Gestión para Gestores en Territorio | Application Component | Aplicación de software para recopilación de información de campo de trabajo de gestores territoriales.
  |
@@ -425,16 +426,15 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | Programas de desarrollo territorial Bogotá – Región (PDET) | Application Component | Plataforma tecnológica para habilitar los procesos participativos de construcción de paz, con énfasis en la formulación de los programas de desarrollo territorial Bogotá – Región (PDET – BR). |
 | OCS Inventory | Application Component | Sistema para gestionar información del inventario de los componentes lógicos de los elementos ofimáticos |
 | Acuerdos Laborales | Application Component | Sistema de Información de Acuerdos Laborales - Registro de los acuerdos laborales entre la SG y los sindicatos del Distrito |
-| Sistemas de fortalecimiento de capacidades, del conocimiento y datos para la gestión pública | Grouping |  |
+| Otros sistemas de apoyo a la misionalidad  | Grouping |  |
 | Bogotá Aprende TIC | Application Component | Portal de apoya los procesos de Gobierno abierto y relacionamiento con la ciudadanía, y Fortalecimiento de la Gestión Pública.
  |
-| Bogotá Internacional (Globo) | Application Component | Registro de acciones de cooperación internacional. Utilizado en el proceso de Fortalecimiento de la Gestión Pública.
+| Bogotá Internacional (Globo) | Application Component | Sistema donde se registran las acciones de Cooperación Internacional de Bogotá con otras ciudades e instituciones del mundo.
  |
 | Bogotá Historia Común 2.0 | Application Component | Sistema para mostrar infografías de Bogotá. La ciudadanía provee historias cotidianas de su localidad y un grupo de análisis del Archivo de Bogotá determina la pertinencia para su publicación.. |
 | Módulo Integrado de Descripción de Archivos (MIDAS) | Application Component | Catalogación y descripción de algunos registros del Archivo de Bogotá |
 | Gestión Académica | Application Component | Moodle para capacitación de servidores de la SG en diferentes temas   |
-| MEGA Arquitectura Empresarial | Application Component | Herramienta de Arquitectura Empresarial enfocada a los resultados de negocios ayuda a las empresas a gestionar la innovación e iniciativas estratégicas (también llamado MEGA).
- |
+| Información Víctimas de Bogotá | Application Component | Sistema de Información de Víctimas de Bogotá - Para registrar la gestión de atención integral a las víctimas. Sistema que utiliza el operador externo para realizar entregas de Ayuda Humanitaria Inmediata. |
 | SIAB (El Cofre) | Application Component | Sistema de Información del Archivo de Bogotá SIAB. Registro del acervo documental de Bogotá (documentos históricos, planos, mapas, transferencias bibliograficas, entre otros). Permite automatizar los procesos archivísticos y técnicos que realiza el Archivo, tales como llevar un registro de los Ingresos Documentales (antes área de acopio), para la descripción y catalogación de la documentación, propios del proceso de Gestión de la Función Archivística y del Patrimonio Documental, para su custodia y conservación permanente. Utilizado en los procesos de Gobierno abierto y relacionamiento con la ciudadanía, y Fortalecimiento de la Gestión Pública. 
  |
 | SUDIVC | Application Component | Sistema Unificado Distrital de Inspección, Vigilancia y Control – SUDIVC.
@@ -442,20 +442,17 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | Data Warehouse | Application Component | Almacenes de datos de trabajo de SG. Bodega de datos con diversas fuentes de información para el análisis y transformación de datos de interés.
  |
 | Gamificación | Application Component | Herramienta web para el autoaprendizaje y refuerzo temático para cualificación a servidores públicos  |
-| Bogotá Global | Application Component | Sistema donde se registran las acciones de Cooperación Internacional de Bogotá con otras ciudades e instituciones del mundo |
-| Koha | Application Component | Sistema Integrado de Gestión de Bibliotecas. Relacionado con la Gestión del conocimiento.
+| Gestión de procesos | Application Component | Sistema de Gestión de procesos |
+| Centro de Gobierno - Tablero de control | Application Component | Esta plataforma permite al alcalde y al equipo de gobierno tener la visión distrital de cada proyecto agilizando la coordinación de acciones estratégicas encaminadas a la gestión del plan de desarrollo distrital de Bogotá 2020-2023.
  |
 | Aulas Virtuales CM | Application Component | Portal Aulas virtuales del Centro de Memoria, Paz y Reconciliación.
  |
 | Avanti | Application Component | Sistema de Información para registrar avance de programación y seguimiento de metas plan de desarrollo de las entidades distritales SDARIV relacionadas con atención integral a las víctimas.
  |
 | Información de Fortalecimiento Institucional | Application Component | Sistema de Información de Fortalecimiento Institucional  |
-| Sistema Integrado de Gestión | Application Component | Sistema Integrado de Gestión de Calidad- Histórico |
-| Gestión de procesos | Application Component | Sistema de Gestión de procesos |
-| Información Víctimas de Bogotá | Application Component | Sistema de Información de Víctimas de Bogotá - Para registrar la gestión de atención integral a las víctimas. Sistema que utiliza el operador externo para realizar entregas de Ayuda Humanitaria Inmediata. |
-| Centro de Gobierno - Tablero de control | Application Component | Esta plataforma permite al alcalde y al equipo de gobierno tener la visión distrital de cada proyecto agilizando la coordinación de acciones estratégicas encaminadas a la gestión del plan de desarrollo distrital de Bogotá 2020-2023.
+| Koha | Application Component | Sistema Integrado de Gestión de Bibliotecas. Relacionado con la Gestión del conocimiento.
  |
-| Sistemas de desarrollo de software y Ofimática | Grouping |  |
+| Sistemas gestión de tecnología y ofimática | Grouping |  |
 | Gitlab | Application Component | Plataforma de desarrollo de software y colaboración.
  |
 | Redmine | Application Component | Sistema de documentación técnica de los Sistemas de Información. Portales Web y Aplicativos de la SG |
@@ -464,6 +461,8 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | NAGIOS | Application Component | Sistema de monitoreo de infraestructura y servicio de TI.
  |
 | Office 365 | Application Component | Herramientas de ofimática y colaboración SG.
+ |
+| MEGA Arquitectura Empresarial | Application Component | Herramienta de Arquitectura Empresarial enfocada a los resultados de negocios ayuda a las empresas a gestionar la innovación e iniciativas estratégicas (también llamado MEGA).
  |
 | Datawarehouse | Application Component | Bodega de datos con varias fuentes - Analítica de datos |
 | ELASTIX - Telefonía IP | Application Component | Aplicación de software para soportar el servicio de telefonía IP.
@@ -616,7 +615,7 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | SUDIVC | Application Component | Sistema Unificado Distrital de Inspección, Vigilancia y Control – SUDIVC.
  |
-| Bogotá Internacional (Globo) | Application Component | Registro de acciones de cooperación internacional. Utilizado en el proceso de Fortalecimiento de la Gestión Pública.
+| Bogotá Internacional (Globo) | Application Component | Sistema donde se registran las acciones de Cooperación Internacional de Bogotá con otras ciudades e instituciones del mundo.
  |
 | SAT Web | Application Component | Sistema de Asignación de Turnos en los puntos de atención a la ciudadanía (Red Cade).
  |
@@ -646,7 +645,8 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | Línea 195 | Application Component | Canal telefónico oficial de atención ciudadana operado por la Secretaría General de la Alcaldía Mayor de Bogotá, creado para ofrecer información clara, veraz y oportuna sobre trámites, servicios, campañas y entidades del Distrito Capital.
  |
-| MoviApp | Application Component | Aplicativo que permite el uso el registro del uso en bicicleta por parte de los funcionarios de las entidades del distrito. |
+| MoviApp | Application Component | Aplicación móvil para ejercer la movilidad responsable, a través del uso generalizado de la bicicleta entre los funcionarios de las diferentes dependencias de la alcaldía. Aplicativo que permite el uso el registro del uso en bicicleta por parte de los funcionarios de las entidades del Distrito.
+ |
 | Office 365 | Application Component | Herramientas de ofimática y colaboración SG.
  |
 | Pandora | Application Component | Implementación de temas precontractual y planeación.
