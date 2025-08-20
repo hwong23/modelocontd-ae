@@ -358,7 +358,8 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | Bogotá Te Escucha | Application Component | Sistema para el registro de peticiones, quejas y sugerencias de la ciudadanía |
 | Portal de la Consejería de Paz, Víctimas y Reconciliación | Application Component | Portal donde se publican noticias y eventos relacionados con la misionalidad de la  Consejería de Paz, Víctimas y Reconciliación. |
 | Asignación de Turnos | Application Component | Sistema de Asignación de Turnos en los puntos de atención de la ciudad (Cades, Súper Cades, puntos de encuentro) |
-| Gobierno Abierto de Datos | Application Component | Portal para la publicación de datos abiertos de Distrito con el fin de ser consultados por la Ciudadanía y utilizados en toma de decisiones o análisis de información  |
+| Gobierno Abierto de Datos | Application Component | Portal para la publicación de datos abiertos de Distrito con el fin de ser consultados por la Ciudadanía y utilizados en toma de decisiones o análisis de información.
+ |
 | Información Víctimas de Bogotá | Application Component | Módulo Integrado de Reportes del Sistema. Sistema de Información de Víctimas de Bogotá - Para registrar la gestión de atención integral a las víctimas. Sistema que utiliza el operador externo para realizar entregas de Ayuda Humanitaria Inmediata. |
 | Contratación a la vista | Application Component | Sistema de registro de contratos distritales |
 | Registro Distrital  | Application Component | Se publican todos los actos administrativos del Distrito, de cara al ciudadano. |
