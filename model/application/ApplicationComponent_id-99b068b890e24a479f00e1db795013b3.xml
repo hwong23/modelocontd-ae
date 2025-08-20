@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Portal Web de Gobierno abierto de Bogotá – GAB"
     id="id-99b068b890e24a479f00e1db795013b3"
-    documentation="Aplicación móvil iterativa, que promueve la transparencia, la participación ciudadana y brinda información sobre los apoyos que ha dispuesto la Alcaldía. También permite a los usuarios acceder a la oferta de trámites y servicios de la ciudad. GAB brindará a los ciudadanos la oferta de ayudas que tiene el Distrito (transferencias monetarias, bonos canjeables, alimentación escolar, madres gestantes, etc.) con el objetivo de facilitar los trámites por parte del ciudadano, Gabo APP cuenta con acceso al SuperCADE virtual.&#xA;">
+    documentation="Portal que soporta el Gobierno Abierto de Bogotá. Cuenta con distintas secciones: datos destacados de la contratación distrital, datos distritales, datos abiertos, agendas abiertas, entre otros. https://gobiernoabiertobogota.gov.co/.&#xA;">
   <properties
       key="catalogo"
       value="true"/>

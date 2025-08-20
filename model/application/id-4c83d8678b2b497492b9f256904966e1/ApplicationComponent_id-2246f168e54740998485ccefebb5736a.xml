@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bogotá Global"
-    id="id-2246f168e54740998485ccefebb5736a"
-    documentation="Sistema donde se registran las acciones de Cooperación Internacional de Bogotá con otras ciudades e instituciones del mundo">
-  <properties
-      key="catalogo"
-      value="true"/>
-</archimate:ApplicationComponent>
