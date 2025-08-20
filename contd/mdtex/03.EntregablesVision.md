@@ -393,7 +393,8 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | Facturación | Application Component | Sistema de Facturación de la Subdirección de Servicio a la Ciudadanía |
 | Sistema Contable (LIMAY) | Application Component | LIMAY, heredado de SICAPITAL. Sistema contable que maneja el libro mayor de la entidad.
  |
-| Control de Vehículos (SHV) | Application Component | Sistema de control de vehículos |
+| Control de Vehículos (SHV) | Application Component | Sistema de control de hoja de vida vehículos.
+ |
 | Presupuesto SI | Application Component | Sistema presupuestal de la Entidad |
 | Gestión de Elementos Devolutivos  | Application Component | Sistema control de gestión de elementos devolutivos (SAI, heredado de SICAPITAL).
  |
