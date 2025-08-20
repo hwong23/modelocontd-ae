@@ -340,7 +340,6 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
  |
 | Carteleras Externas | Application Component | Portales de visualización pública a la ciudadanía en los sitios de atención. |
 | Carteleras Internas | Application Component | Portales de  visualización pública a los funcionarios y contratistas de la Secretaría General. |
-| Gestión Contractual - Regalías (SGC-R) | Application Component | Sistema de Gestión Contractual, módulo de regalías |
 | Portal Sede Electrónica Secretaría General | Application Component | Sitio web oficial de la Secretaría General. Se publica información pública y en cumplimiento de obligaciones legales. |
 | Portal Centro Memoria | Application Component | Herramienta de información para el fomento de la cultura y los derechos humanos. Publica experiencias vividas para las víctimas del conflicto armado en Colombia. Sitio http://centromemoria.gov.co.
  |
