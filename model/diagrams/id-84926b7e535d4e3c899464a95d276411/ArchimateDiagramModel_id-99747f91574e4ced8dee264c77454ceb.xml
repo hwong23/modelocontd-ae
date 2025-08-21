@@ -1574,7 +1574,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-bf19553f4102479582c5e7f3037041de"
-        targetConnections="id-df27d2337b5348d28025b2610b3fda5a id-73c63514b2814402b0fa5f063b7565bb id-79c5d5ba48a342a7969881d2a0b9bf14 id-e971aa2e8ee94354b643739a9ef4e17d id-15903ee575ad4b679c6c9676aacd64cd">
+        targetConnections="id-df27d2337b5348d28025b2610b3fda5a id-73c63514b2814402b0fa5f063b7565bb id-79c5d5ba48a342a7969881d2a0b9bf14 id-e971aa2e8ee94354b643739a9ef4e17d id-15903ee575ad4b679c6c9676aacd64cd"
+        font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande">
       <bounds
           x="636"
           y="48"
@@ -1613,7 +1614,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-76f579c424ef41f299ac0dc9a2024cf4"
-        targetConnections="id-b28c57721f20402cb878f08864c093ef id-f3c5a4f2250f453eb5737bf3a6becfcb id-7550e09dd8d141108d0a87eb39f2b758">
+        targetConnections="id-b28c57721f20402cb878f08864c093ef id-f3c5a4f2250f453eb5737bf3a6becfcb id-7550e09dd8d141108d0a87eb39f2b758 id-c30a83b4f72d4930a53c30785c950584">
       <bounds
           x="228"
           y="48"
@@ -1690,6 +1691,20 @@
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-edbeecf9ab044d0585a103f41d7e1c81.xml#id-edbeecf9ab044d0585a103f41d7e1c81"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-c30a83b4f72d4930a53c30785c950584"
+          source="id-ac5631405dac4524b30570286ebe3a86"
+          target="id-76f579c424ef41f299ac0dc9a2024cf4">
+        <bendpoints
+            startX="62"
+            startY="-112"
+            endX="-28"
+            endY="124"/>
+        <archimateRelationship
+            xsi:type="archimate:InfluenceRelationship"
+            href="InfluenceRelationship_id-455987debcbc4535b0bce707efeff7c3.xml#id-455987debcbc4535b0bce707efeff7c3"/>
       </sourceConnections>
       <bounds
           x="132"
