@@ -353,19 +353,19 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
 | Sistemas de interacción ciudadana y transparencia | Grouping |  |
 | Articulado de Alertas Tempranas (SAAT) | Application Component | Sistema de apoyo a la estrategia de la Secretaría Distrital de la Mujer (ley Ley 248 de 1995 y Ley 1257 de 2008): identificación del riesgo posible víctima, gestión del riesgo y reducción del riesgo.
  |
-| Datos para Transparencia (SATI) | Application Component | Sistema de tableros de control con datos relevantes, actualizados y comprensibles, incluyendo alertas tempranas contra la corrupción para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos. Plataforma que facilita el acceso a datos e información gubernamental. Soporta el proceso de Gobierno abierto y relacionamiento con la ciudadanía.
+| Datos para Transparencia (SATI) | Application Component | Sistema de tableros de control con datos relevantes, actualizados y comprensibles. Incluye alertas tempranas contra la corrupción para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos. Plataforma que facilita el acceso a datos e información gubernamental. Soporta al proceso de Gobierno abierto y relacionamiento con la ciudadanía.
  |
 | Bogotá Te Escucha | Application Component | Sistema para el registro de peticiones, quejas y sugerencias de la ciudadanía |
 | Portal de la Consejería de Paz, Víctimas y Reconciliación | Application Component | Portal donde se publican noticias y eventos relacionados con la misionalidad de la  Consejería de Paz, Víctimas y Reconciliación. |
-| Asignación de Turnos | Application Component | Sistema de Asignación de Turnos en los puntos de atención de la ciudad (Cades, Súper Cades, puntos de encuentro) |
+| Información Víctimas de Bogotá | Application Component | Módulo Integrado de Reportes del Sistema. Sistema de Información de Víctimas de Bogotá - Para registrar la gestión de atención integral a las víctimas. Sistema que utiliza el operador externo para realizar entregas de Ayuda Humanitaria Inmediata. |
 | Gobierno Abierto de Datos | Application Component | Portal para la publicación de datos abiertos de Distrito con el fin de ser consultados por la Ciudadanía y utilizados en toma de decisiones o análisis de información.
  |
-| Información Víctimas de Bogotá | Application Component | Módulo Integrado de Reportes del Sistema. Sistema de Información de Víctimas de Bogotá - Para registrar la gestión de atención integral a las víctimas. Sistema que utiliza el operador externo para realizar entregas de Ayuda Humanitaria Inmediata. |
 | Contratación a la vista | Application Component | Sistema de registro de contratos distritales |
 | Registro Distrital  | Application Component | Se publican todos los actos administrativos del Distrito, de cara al ciudadano. |
 | MoviApp | Application Component | Aplicación móvil para ejercer la movilidad responsable, a través del uso generalizado de la bicicleta entre los funcionarios de las diferentes dependencias de la alcaldía. Aplicativo que permite el uso el registro del uso en bicicleta por parte de los funcionarios de las entidades del Distrito.
  |
 | Alertas Tempranas contra la Corrupción | Application Component | Sistema Alertas Tempranas contra la Corrupción |
+| Asignación de Turnos | Application Component | Sistema de Asignación de Turnos en los puntos de atención de la ciudad (Cades, Súper Cades, puntos de encuentro) |
 | Sistemas en desarrollo | Grouping |  |
 | Gestión Instancias de Coordinación | Application Component | Aplicación de software para facilitar la interacción y el acercamiento de los ciudadanos.
  |
@@ -379,7 +379,7 @@ Las relaciones entre los sistemas de información y el análisis de entorno (arq
  |
 | Super App Ciudad | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
  |
-| Tablero Gestión Riesgos Feminicidios | Application Component | Tablero de control para seguimiento 	de gestión de riesgos de feminicidios en Bogotá. Proyecto sector Bienestar.
+| Tablero Gestión Riesgos Feminicidios | Application Component | Tablero de control para seguimiento de gestión de riesgos de feminicidios en Bogotá. Proyecto sector Bienestar.
  |
 | Inteligencia artificial para la organización, clasificación, y descripción de un fondo documental histórico | Application Component | Herramientas de inteligencia artificial para la organización, clasificación, y descripción de un fondo documental histórico del Archivo General de Bogotá.
  |
@@ -580,7 +580,7 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | Gestión de Contratación | Business Process | Gestionar la contratación de bienes, servicios y obras, mediante el desarrollo de procesos contractuales transparentes y conforme a la normativa legal vigente para satisfacer las necesidades de contratación de las dependencias de la Secretaría General de la Alcaldía Mayor de Bogotá, y contribuir al cumplimento de sus metas y objetivos.
  |
-| Gobierno Abierto y Relacionamiento con la Ciudadanía | Business Process | Fortalecer relación entre la administración distrital y la ciudadanía mediante la formulación de lineamientos, desarrollo de estrategias y proyectos, fortalecimiento de capacidades, seguimiento y evaluación en materia de servicio a la ciudadanía, gobierno abierto y transformación digital de la Secretaría General y de las entidades distritales, para el acceso oportuno, efectivo y de calidad a la oferta institucional de bienes y servicios.
+| Gobierno Abierto y Relacionamiento con la Ciudadanía | Business Process | Proceso que fortalece la interacción entre la administración y los ciudadanos. Su objetivo es fortalecer la relación entre la administración distrital y la ciudadanía mediante la formulación de lineamientos, desarrollo de estrategias y proyectos, fortalecimiento de capacidades, seguimiento y evaluación en materia de servicio a la ciudadanía, gobierno abierto y transformación digital de la Secretaría General y de las entidades distritales, para el acceso oportuno, efectivo y de calidad a la oferta institucional de bienes y servicios.
  |
 | Gestión de Recursos Físicos | Business Process | Administrar los bienes que legalmente están a cargo de la Secretaría General de la Alcaldía Mayor de Bogotá D.C. mediante su recepción, asignación, mantenimiento, control, baja y/o destinación final con el fin de cubrir las necesidades de recursos físicos de las dependencias.
  |
@@ -606,7 +606,7 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | ADMON | Application Component | Se relaciona con la gestión financiera, gestión de servicios administrativos y tecnológicos, y gestión de recursos físicos.
  |
-| Datos para Transparencia (SATI) | Application Component | Sistema de tableros de control con datos relevantes, actualizados y comprensibles, incluyendo alertas tempranas contra la corrupción para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos. Plataforma que facilita el acceso a datos e información gubernamental. Soporta el proceso de Gobierno abierto y relacionamiento con la ciudadanía.
+| Datos para Transparencia (SATI) | Application Component | Sistema de tableros de control con datos relevantes, actualizados y comprensibles. Incluye alertas tempranas contra la corrupción para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos. Plataforma que facilita el acceso a datos e información gubernamental. Soporta al proceso de Gobierno abierto y relacionamiento con la ciudadanía.
  |
 | SIAB (El Cofre) | Application Component | Sistema de Información del Archivo de Bogotá SIAB. Registro del acervo documental de Bogotá (documentos históricos, planos, mapas, transferencias bibliograficas, entre otros). Permite automatizar los procesos archivísticos y técnicos que realiza el Archivo, tales como llevar un registro de los Ingresos Documentales (antes área de acopio), para la descripción y catalogación de la documentación, propios del proceso de Gestión de la Función Archivística y del Patrimonio Documental, para su custodia y conservación permanente. Utilizado en los procesos de Gobierno abierto y relacionamiento con la ciudadanía, y Fortalecimiento de la Gestión Pública. 
  |
@@ -656,7 +656,7 @@ Es importante destacar que el sistema Integrado de Gestión de Calidad DARUMA, e
  |
 | Portal Bogotá Capital Digital | Application Component | Plataforma unificada creada por la Secretaría General de la Alcaldía Mayor de Bogotá para facilitar el acceso de la ciudadanía a más de 1.400 trámites y servicios en línea.
  |
-| Datos para Transparencia (SATI) | Application Component | Sistema de tableros de control con datos relevantes, actualizados y comprensibles, incluyendo alertas tempranas contra la corrupción para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos. Plataforma que facilita el acceso a datos e información gubernamental. Soporta el proceso de Gobierno abierto y relacionamiento con la ciudadanía.
+| Datos para Transparencia (SATI) | Application Component | Sistema de tableros de control con datos relevantes, actualizados y comprensibles. Incluye alertas tempranas contra la corrupción para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos. Plataforma que facilita el acceso a datos e información gubernamental. Soporta al proceso de Gobierno abierto y relacionamiento con la ciudadanía.
  |
 | Sistema de Participación Ciudadana | Application Component | Componente de aplicación para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos.
  |
