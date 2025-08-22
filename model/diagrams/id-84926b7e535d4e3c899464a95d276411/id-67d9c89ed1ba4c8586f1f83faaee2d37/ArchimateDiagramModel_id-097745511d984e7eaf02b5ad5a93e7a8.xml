@@ -1309,9 +1309,9 @@
         targetConnections="id-9330a47d148549209c8585b207f67383">
       <bounds
           x="671"
-          y="36"
+          y="96"
           width="169"
-          height="48"/>
+          height="49"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-780641f79eec47fba19ef5c83196bb3c.xml#id-780641f79eec47fba19ef5c83196bb3c"/>
@@ -1335,7 +1335,7 @@
         targetConnections="id-c08b37d16e6c41ebbcf1f23e6be5d336">
       <bounds
           x="671"
-          y="83"
+          y="36"
           width="169"
           height="61"/>
       <archimateElement
@@ -1350,7 +1350,7 @@
           x="839"
           y="36"
           width="96"
-          height="108"/>
+          height="109"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-25eecb41cc234a8087de1d3628507e57.xml#id-25eecb41cc234a8087de1d3628507e57"/>
