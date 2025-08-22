@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brechas TIC SG"
+    id="id-f7e61c47bcf9433687838eabe18a71f8"
+    documentation="* Infraestructura Tecnológica:&#xA;    * Equipos tecnológicos obsoletos que dificultan la ejecución de las actividades.&#xA;    * Deficiente conectividad y falta de interoperabilidad de las plataformas tecnológicas.&#xA;    * Inestabilidad de la conectividad e indisponibilidad de servidores de información, comprometiendo la operatividad y el cumplimiento de metas.&#xA;    * Obsolescencia tecnológica generalizada que implica la necesidad de renovación de equipos y dificulta la prestación de servicios.&#xA;    * Los altos costos de la tecnología pueden limitar la capacidad para implementar y mantener sistemas avanzados.&#xA;&#xA;* Seguridad Informática:&#xA;    * Vulnerabilidad en la seguridad informática, que puede comprometer la integridad de los datos críticos y la continuidad operativa.&#xA;    * Vulneración de la inviolabilidad de acceso a cuentas de correo institucionales y aplicativos, afectando la reserva de la información.&#xA;    * Materialización de riesgos asociados a ataques cibernéticos, ingeniería social y suplantación de identidad, poniendo en riesgo la seguridad de la información y los documentos (pérdida de confidencialidad, integridad y disponibilidad).&#xA;&#xA;* Gestión del Conocimiento y Capacidades Humanas:&#xA;    * Deficiente apropiación del conocimiento en procesos de tecnologías de la información, generando demora en la solución de servicios.&#xA;    * Falta de personal para actualizar las plataformas tecnológicas, lo que genera retrasos en la operación.&#xA;">
+  <properties
+      key="destino"
+      value="ppt"/>
+</archimate:BusinessObject>

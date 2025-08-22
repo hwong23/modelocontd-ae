@@ -6,58 +6,151 @@
     documentation="La Fase Tres (3) de la arquitectura empresarial (AE) de SG se divide en dos partes principales: Arquitectura de Datos y Arquitectura de Aplicaciones.&#xA;&#xA;#### Objetivo de la Arquitectura de Aplicaciones:&#xA;&#xA;El objetivo principal de la Arquitectura de Aplicaciones es desarrollar las arquitecturas de sistemas de información objetivo (tanto de datos como de aplicaciones) que soporten la arquitectura de negocio (desarrollada en la Fase B) y que implementen la visión de arquitectura inicial (establecida en la Fase A).&#xA;&#xA;En términos más específicos, la arquitectura de aplicaciones busca:&#xA;&#xA;* Definir la arquitectura de las aplicaciones (software) necesarias para soportar los procesos de negocio.&#xA;* Identificar las funciones de negocio que deben ser soportadas por las aplicaciones.&#xA;* Establecer la interacción y el flujo de información entre las diferentes aplicaciones.&#xA;* Considerar aspectos como la escalabilidad, el rendimiento, la mantenibilidad y la seguridad de las aplicaciones.&#xA;* Listar los capacidades de negocio (servicios de aplicación) relacionadas con las arquitecturas de aplicaciones de SG.&#xA;&#xA;&#xA;#### Relación con las demás fases del proyecto&#xA;La Arquitectura de Aplicaciones no opera de forma aislada; está intrínsecamente conectada con las fases anteriores y posteriores de la arquitectura empresarial de $CLIENTE:&#xA;&#xA;* Relación con la Fase A (Visión de la Arquitectura): La Fase C toma como entrada principal la Visión de la Arquitectura, que establece el alcance, los objetivos de alto nivel, los principios de la arquitectura y la visión del negocio. La Arquitectura de Sistemas de Información debe alinearse y contribuir a la consecución de esta visión.&#xA;* Relación con la Fase B (Arquitectura de Negocio): La Arquitectura de Negocio (procesos de negocio, funciones, organización, etc.) es el motor principal para la Fase C. La Arquitectura de Sistemas de Información se construye para soportar y habilitar los requisitos definidos en la Arquitectura de Negocio. Por ejemplo, los procesos de negocio definidos en la Fase B informarán las necesidades de datos y las funcionalidades de las aplicaciones en la Fase C.&#xA;* Relación con la Fase D (Arquitectura Tecnológica): La Fase C proporciona los requisitos para la Fase D. La Arquitectura de Sistemas de Información (datos y aplicaciones) determina la tecnología subyacente (hardware, software de infraestructura, middleware, redes) que se necesitará para soportar las aplicaciones y gestionar los datos. La Fase D, por lo tanto, desarrollará la Arquitectura Tecnológica basándose en las necesidades identificadas en la Fase C.&#xA;* Relación con la Fase E (Oportunidades y Soluciones) y Fase F (Planificación de la Migración): Las arquitecturas de datos y aplicaciones desarrolladas en la Fase C son insumos críticos para identificar oportunidades de implementación (Fase E) y para desarrollar el plan de migración (Fase F) de las arquitecturas actuales a las arquitecturas objetivo.&#xA;* Relación con la Gestión de Requisitos (Requirements Management): La Gestión de Requisitos es una capacidad continua que atraviesa todas las fases del ADM. Los requisitos de los sistemas de información, capturados y gestionados, son fundamentales para guiar el desarrollo de las arquitecturas en la Fase C y para asegurar que la arquitectura final cumpla con las necesidades del negocio.&#xA;&#xA;#### Requisitos Necesarios para su Realización (Entradas Clave):&#xA;Para llevar a cabo la Fase C de manera efectiva, una empresa debe contar con ciertos requisitos y entradas esenciales, que provienen principalmente de las fases previas del proceso de AE:&#xA;&#xA;* Requisitos de Negocio: Una comprensión clara y detallada de los requisitos de negocio, procesos de negocio, funciones y estructuras organizacionales definidos en la Fase B. Esto incluye, por ejemplo, el Catálogo de Requisitos (como se menciona en el documento &quot;TOGAF Catalogs Matrices and Diagrams.pdf&quot;, página 60), que &quot;captura las cosas que la empresa necesita hacer para cumplir sus objetivos&quot;.&#xA;* Visión de la Arquitectura: La &quot;Visión de la Arquitectura&quot; (Architectural Vision) y los &quot;Principios de la Arquitectura&quot; establecidos en la Fase A, que guiarán las decisiones de diseño en la Fase C.&#xA;* Arquitectura de Negocio de Línea Base y Objetivo: Los modelos de Arquitectura de Negocio actual y deseada (definidos en la Fase B), que servirán como punto de partida y destino para la Arquitectura de Sistemas de Información.&#xA;* Metamodelo de Contenidos de la Arquitectura: Una comprensión y aplicación del metamodelo de contenidos de TOGAF (referenciado en &quot;TOGAF 9.2 - Content Metamodel.pdf&quot;), que proporciona un marco estructurado para describir los artefactos de la arquitectura.&#xA;* Principios de Arquitectura de Sistemas de Información: Principios específicos que guiarán el diseño de los datos y las aplicaciones, asegurando la coherencia y la alineación con los objetivos empresariales.&#xA;* Capacidad de Arquitectura Empresarial: La infraestructura y los recursos necesarios para realizar actividades de arquitectura, incluyendo herramientas de modelado (como ArchiMate, Draw.io, compatible con TOGAF) y personal con las habilidades adecuadas.&#xA;* Planes de Iteración y Nivel de Detalle: El alcance y el nivel de detalle requerido para la arquitectura de sistemas de información, que a menudo se define en la Fase de Visión y se refina a medida que avanza el proceso de AE. Esto puede incluir un enfoque iterativo para el desarrollo de la arquitectura, según lo discutido en &quot;ADM Guidelines &amp; Techniques.pdf&quot; (Capítulo 19: Applying Iteration to the ADM).&#xA;&#xA;La arquitectura de aplicaciones es un pilar fundamental en la transformación empresarial, traduciendo las necesidades de negocio en soluciones tangibles de datos y aplicaciones, y preparando el terreno para la selección de la tecnología subyacente.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-16ec7387aa304d1ba14afecc0a03b63a"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#ffffb5">
+      id="id-b218daefc8a840f2bd9bad1ab7a9807d"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-0875a1dedd1f4e3ab6bb6bf0fa6715d2"
+        source="id-b218daefc8a840f2bd9bad1ab7a9807d"
+        target="id-a98c2ac728c54d978325378cca1668df">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-e46d5dc7b138411f97271d333ca96beb.xml#id-e46d5dc7b138411f97271d333ca96beb"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c0a2766f62d64d5db0fd559c5e6330f1"
+        source="id-b218daefc8a840f2bd9bad1ab7a9807d"
+        target="id-342dbcb959344814b6fef4c57331251f">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-cbc1d2ce0e8246a1b55bfe1985cb7f05.xml#id-cbc1d2ce0e8246a1b55bfe1985cb7f05"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-ebfc04dcd70b403896e12fd6c5e4b0a6"
+        source="id-b218daefc8a840f2bd9bad1ab7a9807d"
+        target="id-c98a527c2bcd409e9aeabab1c3c3277a">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-bd7e07ee2e9d4154a487c135ec257d93.xml#id-bd7e07ee2e9d4154a487c135ec257d93"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-4b6b986d47074f1da5fa78d1c75b5400"
+        source="id-b218daefc8a840f2bd9bad1ab7a9807d"
+        target="id-16ec7387aa304d1ba14afecc0a03b63a">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-7cfa41a292bb463ab88e15ef58112e2b.xml#id-7cfa41a292bb463ab88e15ef58112e2b"/>
+    </sourceConnections>
     <bounds
         x="12"
         y="12"
-        width="155"
-        height="65"/>
+        width="889"
+        height="241"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-86ea7132687645b08119ab05581cf621">
+      <bounds
+          x="233"
+          y="108"
+          width="205"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-8de5bdda7a914cf9b23955213301db39.xml#id-8de5bdda7a914cf9b23955213301db39"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-a04e6f8903014d11a61298db99221be9">
+      <bounds
+          x="24"
+          y="108"
+          width="205"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-73084877ba5b4f859a7aa197be93b750.xml#id-73084877ba5b4f859a7aa197be93b750"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-a98c2ac728c54d978325378cca1668df"
+        targetConnections="id-0875a1dedd1f4e3ab6bb6bf0fa6715d2"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#ffffb5">
+      <bounds
+          x="660"
+          y="36"
+          width="205"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-24a0f4d014954ad4accd0c7f21ba019c.xml#id-24a0f4d014954ad4accd0c7f21ba019c"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-342dbcb959344814b6fef4c57331251f"
+        targetConnections="id-c0a2766f62d64d5db0fd559c5e6330f1"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#ffffb5">
+      <bounds
+          x="233"
+          y="36"
+          width="205"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-fa437dd4a7b24bd995877e36bda19b9b.xml#id-fa437dd4a7b24bd995877e36bda19b9b"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-c98a527c2bcd409e9aeabab1c3c3277a"
+        targetConnections="id-ebfc04dcd70b403896e12fd6c5e4b0a6"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#ffffb5">
+      <bounds
+          x="444"
+          y="36"
+          width="205"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-f7e61c47bcf9433687838eabe18a71f8.xml#id-f7e61c47bcf9433687838eabe18a71f8"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-16ec7387aa304d1ba14afecc0a03b63a"
+        targetConnections="id-4b6b986d47074f1da5fa78d1c75b5400"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#ffffb5">
+      <bounds
+          x="24"
+          y="36"
+          width="205"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-fcb114ec1cb74adeac9d3bd737aca69f.xml#id-fcb114ec1cb74adeac9d3bd737aca69f"/>
+    </children>
     <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-fcb114ec1cb74adeac9d3bd737aca69f.xml#id-fcb114ec1cb74adeac9d3bd737aca69f"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a98c2ac728c54d978325378cca1668df"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#ffffb5">
-    <bounds
-        x="394"
-        y="12"
-        width="155"
-        height="65"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-24a0f4d014954ad4accd0c7f21ba019c.xml#id-24a0f4d014954ad4accd0c7f21ba019c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-342dbcb959344814b6fef4c57331251f"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#ffffb5">
-    <bounds
-        x="178"
-        y="12"
-        width="205"
-        height="65"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-fa437dd4a7b24bd995877e36bda19b9b.xml#id-fa437dd4a7b24bd995877e36bda19b9b"/>
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-4bbded08774b4b6f9c56ae7b99145cb2.xml#id-4bbded08774b4b6f9c56ae7b99145cb2"/>
   </children>
   <properties
       key="alias"
-      value="si-ppt-individual"/>
+      value="si-situacionactual"/>
   <properties
       key="devdoc"
-      value="04.si-ppt-individual.md"/>
+      value="04.n6.si-situacionactual.md"/>
   <properties
       key="titulo"
       value="Situación Actual Sistemas Información SG (view)"/>
