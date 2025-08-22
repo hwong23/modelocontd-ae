@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Datos para Transparencia (SATI)"
     id="id-04b44092a7c0480c8460cfd44996f123"
-    documentation="Sistema de tableros de control con datos relevantes, actualizados y comprensibles, incluyendo alertas tempranas contra la corrupción para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos. Plataforma que facilita el acceso a datos e información gubernamental. Soporta el proceso de Gobierno abierto y relacionamiento con la ciudadanía.&#xA;">
+    documentation="Sistema de tableros de control con datos relevantes, actualizados y comprensibles. Incluye alertas tempranas contra la corrupción para facilitar la interacción y el acercamiento (realimentación) de los ciudadanos. Plataforma que facilita el acceso a datos e información gubernamental. Soporta al proceso de Gobierno abierto y relacionamiento con la ciudadanía.&#xA;">
   <properties
       key="destino"
       value="doc"/>
