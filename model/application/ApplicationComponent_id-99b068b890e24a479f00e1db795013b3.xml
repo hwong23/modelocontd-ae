@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Portal Web de Gobierno abierto de Bogotá – GAB"
+    name="Portal Web de Gobierno abierto de Bogotá - GAB"
     id="id-99b068b890e24a479f00e1db795013b3"
     documentation="Portal que soporta el Gobierno Abierto de Bogotá. Cuenta con distintas secciones: datos destacados de la contratación distrital, datos distritales, datos abiertos, agendas abiertas, entre otros. https://gobiernoabiertobogota.gov.co/.&#xA;">
   <properties
