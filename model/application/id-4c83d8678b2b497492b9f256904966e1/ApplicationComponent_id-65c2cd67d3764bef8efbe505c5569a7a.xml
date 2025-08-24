@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Portal Transaccional (BTE-DWH)"
     id="id-65c2cd67d3764bef8efbe505c5569a7a"
-    documentation="Portal oficial de servicios ciudadanos de la Alcaldía de Bogotá. Consulta pagos pendientes, trámites y servicios en línea. https://bogota.gov.co/servicios/inicio&#xA;">
+    documentation="En contratación. Subsecretaria de Servicio a la Ciudadanía. Diseñar, desarrollar e implementar el portal transaccional de servicio a la ciudadanía de la Alcaldía Mayor de Bogotá, como el agregador de la oferta e integración de la demanda de los servicios distritales, que facilite el acceso ágil y sencillo de la ciudadanía a la oferta institucional.&#xA;">
   <properties
       key="destino"
       value="doc"/>

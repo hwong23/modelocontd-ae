@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Flujos Automatizados de Procesos Empleado con TH y Contratistas"
     id="id-202d3a1035dd4ca1a1f8b896b77e3517"
-    documentation="Flujos automatizados de procesos de empleado con TH y contratistas (ausentismos, permisos comisiones, etc.)&#xA;">
+    documentation="Flujos automatizados de procesos de empleado con TH y contratistas para la gestión de casos ausentismos, permisos comisiones.&#xA;">
   <properties
       key="destino"
       value="doc"/>
