@@ -869,8 +869,8 @@
           href="CompositionRelationship_id-7015644bee4746249e63df60d54a810a.xml#id-7015644bee4746249e63df60d54a810a"/>
     </sourceConnections>
     <bounds
-        x="26"
-        y="1272"
+        x="24"
+        y="1212"
         width="952"
         height="168"/>
     <children
@@ -1489,11 +1489,20 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-68fb1589b7014ae7a566f8796e16a07e.xml#id-68fb1589b7014ae7a566f8796e16a07e"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-4fc5f489f7c34506938ecfa6fc861193"
+        source="id-4a25d1fc0939459798fd1b41549e8acf"
+        target="id-f9898c820aef450483fc2e2a3854458d">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-c21e80a7e83047ba94a84f4863552673.xml#id-c21e80a7e83047ba94a84f4863552673"/>
+    </sourceConnections>
     <bounds
         x="26"
         y="984"
         width="948"
-        height="276"/>
+        height="217"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1f07d09789064f72bfc4df5e0f2263a8"
@@ -1694,7 +1703,7 @@
           x="636"
           y="108"
           width="149"
-          height="55"/>
+          height="36"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-f2d4152d2e1e4e10add2d062d7cfbc0e.xml#id-f2d4152d2e1e4e10add2d062d7cfbc0e"/>
@@ -1720,7 +1729,7 @@
           x="792"
           y="108"
           width="132"
-          height="84"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-5c24862ae71b49dbb4636e362888fe53.xml#id-5c24862ae71b49dbb4636e362888fe53"/>
@@ -1733,10 +1742,27 @@
           x="324"
           y="144"
           width="149"
-          height="55"/>
+          height="35"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-51183ca5685d44c0871afaae42c9ae87.xml#id-51183ca5685d44c0871afaae42c9ae87"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-f9898c820aef450483fc2e2a3854458d"
+        targetConnections="id-4fc5f489f7c34506938ecfa6fc861193"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#b5ffff">
+      <bounds
+          x="636"
+          y="143"
+          width="150"
+          height="36"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-9a4ea480d62f4c1088e1619d626df39f.xml#id-9a4ea480d62f4c1088e1619d626df39f"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -2113,7 +2139,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-a5061f7eb60d4d5280d53dd67b8c5eb3"
       textAlignment="1"
-      content="Arquitectura Empresarial Secretaría General Alcaldía Mayor Bogotá. &#xA;Ingenium. 2025&#xA;&#xA;Dominio de Sistemas y Aplicaciones de Software gestionadas por la OTIC. Sistemas de información del análisis de entorno.&#xA;&#xA;versión 1.3.1">
+      content="Arquitectura Empresarial Secretaría General Alcaldía Mayor Bogotá. &#xA;Ingenium. 2025&#xA;&#xA;Dominio de Sistemas y Aplicaciones de Software gestionadas por la OTIC. Sistemas de información del análisis de entorno.&#xA;&#xA;versión 1.3.3">
     <bounds
         x="24"
         y="12"
@@ -2344,8 +2370,8 @@
           href="CompositionRelationship_id-f817bbe47b7e43d69380bb243d4b27a0.xml#id-f817bbe47b7e43d69380bb243d4b27a0"/>
     </sourceConnections>
     <bounds
-        x="26"
-        y="1452"
+        x="24"
+        y="1392"
         width="948"
         height="276"/>
     <children

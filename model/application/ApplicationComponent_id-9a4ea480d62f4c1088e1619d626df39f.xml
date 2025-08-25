@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EDL APP"
+    id="id-9a4ea480d62f4c1088e1619d626df39f"
+    documentation="Aplicación de software para la evaluación de desempeño laboral de la Comisión Nacional del Servicio Civil (CNSC). Este servicio permite valorar las contribuciones individuales y el comportamiento de servidores de carrera y en periodo de prueba para medir el desempeño institucional. https://bogota.gov.co/servicios/tramites/evaluacion-de-desempeno-laboral&#xA;">
+  <properties
+      key="destino"
+      value="doc"/>
+  <properties
+      key="app-categoria"
+      value="Otros sistemas de apoyo a la misionalidad "/>
+</archimate:ApplicationComponent>
