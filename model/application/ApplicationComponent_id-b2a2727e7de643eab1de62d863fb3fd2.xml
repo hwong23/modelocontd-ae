@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aula Saber Distrital"
+    id="id-b2a2727e7de643eab1de62d863fb3fd2"
+    documentation="Sistema Moodle administrado por el  Departamento Administrativo del Servicio Civil Distrital (DASCD). Es una plataforma de formación para ofrecer cursos y programas de formación en diferentes áreas al personal de carrera docente y administrativa, contratistas y la ciudadanía en general. La formación se ofrece en varias modalidades (presencial, virtual y mixta) y a través de diferentes plataformas. https://capacitacion.moodle.serviciocivil.gov.co/">
+  <properties
+      key="catalogo"
+      value="true"/>
+  <properties
+      key="app-categoria"
+      value="Sistemas de interacción ciudadana y transparencia"/>
+</archimate:ApplicationComponent>
