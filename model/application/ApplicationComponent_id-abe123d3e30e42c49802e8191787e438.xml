@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Intranet"
     id="id-abe123d3e30e42c49802e8191787e438"
-    documentation="Sistema web que presta los servicios para actualizar, administrar, monitorear y optimizar la comunicación interna de la entidad, sirve como como instrumento de divulgación de información vital e importante de la entidad.&#xA;">
+    documentation="Sistema web que presta los servicios para actualizar, administrar, monitorear y optimizar la comunicación interna de la entidad, sirve como instrumento de divulgación de información vital e importante de la entidad.&#xA;">
   <properties
       key="catalogo"
       value="true"/>
