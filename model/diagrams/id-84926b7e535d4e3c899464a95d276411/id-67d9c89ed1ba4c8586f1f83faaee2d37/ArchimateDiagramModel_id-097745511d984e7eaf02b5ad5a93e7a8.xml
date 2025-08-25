@@ -458,24 +458,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-b9c94bc3861f4f8bba42e7aa9582e4ba"
-          source="id-722b22f97e3f40f0a23f92c6d327bea5"
-          target="id-29a2832595ce46edbabc27345f0614d6">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-aa1068f6b5ea4f8283ebe21afec22fa4.xml#id-aa1068f6b5ea4f8283ebe21afec22fa4"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-a0ef0d9a42654a96b7a5991ebe4dfd7d"
-          source="id-722b22f97e3f40f0a23f92c6d327bea5"
-          target="id-e7f65aee4bc943b588b345bde1aec8d2">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-8310c44e014e48e4b798cfd7b09e061e.xml#id-8310c44e014e48e4b798cfd7b09e061e"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-cc66f85c5ca24b478d10003664562d02"
           source="id-722b22f97e3f40f0a23f92c6d327bea5"
           target="id-8ed78bc19296401ebecb7ba1917cb335">
@@ -508,7 +490,7 @@
         <bounds
             x="144"
             y="24"
-            width="120"
+            width="132"
             height="55"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
@@ -521,7 +503,7 @@
         <bounds
             x="276"
             y="24"
-            width="120"
+            width="132"
             height="55"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
@@ -547,7 +529,7 @@
         <bounds
             x="144"
             y="78"
-            width="120"
+            width="132"
             height="55"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
@@ -560,7 +542,7 @@
         <bounds
             x="276"
             y="78"
-            width="120"
+            width="132"
             height="55"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
@@ -573,7 +555,7 @@
         <bounds
             x="408"
             y="24"
-            width="120"
+            width="132"
             height="55"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
@@ -586,7 +568,7 @@
         <bounds
             x="408"
             y="78"
-            width="120"
+            width="132"
             height="55"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
@@ -620,41 +602,15 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-29a2832595ce46edbabc27345f0614d6"
-          targetConnections="id-b9c94bc3861f4f8bba42e7aa9582e4ba">
-        <bounds
-            x="12"
-            y="132"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationComponent"
-            href="ApplicationComponent_id-0658d7217bb44a8680fca2fb8b946aa4.xml#id-0658d7217bb44a8680fca2fb8b946aa4"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-e7f65aee4bc943b588b345bde1aec8d2"
-          targetConnections="id-a0ef0d9a42654a96b7a5991ebe4dfd7d">
-        <bounds
-            x="144"
-            y="132"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:ApplicationComponent"
-            href="ApplicationComponent_id-9585532e1f1641d0940d2f1d894d68b6.xml#id-9585532e1f1641d0940d2f1d894d68b6"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
           id="id-8ed78bc19296401ebecb7ba1917cb335"
           targetConnections="id-cc66f85c5ca24b478d10003664562d02"
           font="1|Lucida Grande|12.0|0|COCOA|1|"
           fontColor="#000000"
           lineColor="#5c5c5c">
         <bounds
-            x="276"
+            x="144"
             y="132"
-            width="252"
+            width="132"
             height="54"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"
