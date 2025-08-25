@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sistema de información Distrital del Empleo y la Administración Pública (SIDEAP)"
+    id="id-ff765cdb43b0496c985d4b9ff1288395"
+    documentation="SIDEAP es la plataforma de información y transparencia Distrital que permite agilidad y visibilidad de la información de la Gestión Integral del Talento Humano de las entidades públicas del Distrito de cara a la ciudadanía. Esta herramienta de Transparencia y del Derecho de Acceso a la Información pública en el Distrito suministra cifras estandarizadas y consolidadas con información sobre decisiones gerenciales y el ejercicio del control social relacionado con el empleo público en Bogotá. https://www.serviciocivil.gov.co/content/sideap20">
+  <properties
+      key="catalogo"
+      value="true"/>
+  <properties
+      key="app-categoria"
+      value="Sistemas de gestión administrativa y financiera"/>
+</archimate:ApplicationComponent>

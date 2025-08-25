@@ -344,6 +344,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-e54a819326e643f6aed1b74100e76347.xml#id-e54a819326e643f6aed1b74100e76347"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-21dd5f9ff6d743398635ca9e31757c5f"
+        source="id-7656d34d5ece48eb90126abc871c2e1e"
+        target="id-999aa4b3a1a0447e94e81cc4b33a7090">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-fa22f323e746465d9539c73a79e8baf1.xml#id-fa22f323e746465d9539c73a79e8baf1"/>
+    </sourceConnections>
     <bounds
         x="25"
         y="612"
@@ -620,7 +629,7 @@
         lineColor="#5c5c5c">
       <bounds
           x="24"
-          y="83"
+          y="85"
           width="150"
           height="48"/>
       <archimateElement
@@ -652,7 +661,7 @@
         lineColor="#5c5c5c">
       <bounds
           x="24"
-          y="132"
+          y="133"
           width="150"
           height="48"/>
       <archimateElement
@@ -685,8 +694,8 @@
         lineColor="#5c5c5c"
         fillColor="#b5ffff">
       <bounds
-          x="180"
-          y="242"
+          x="24"
+          y="180"
           width="150"
           height="48"/>
       <archimateElement
@@ -703,7 +712,7 @@
         fillColor="#b5ffff">
       <bounds
           x="336"
-          y="242"
+          y="289"
           width="143"
           height="48"/>
       <archimateElement
@@ -715,9 +724,9 @@
         id="id-784580f9a0c143098ed7913e9014f033"
         targetConnections="id-5c48fd025299419285414d9a8ea5e023">
       <bounds
-          x="336"
-          y="289"
-          width="252"
+          x="180"
+          y="242"
+          width="238"
           height="48"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -728,9 +737,9 @@
         id="id-336ee51e569b496a9355600df527ee5a"
         targetConnections="id-8e23b9fde0ae47f683800d969df3c727">
       <bounds
-          x="480"
+          x="418"
           y="242"
-          width="204"
+          width="214"
           height="48"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -741,9 +750,9 @@
         id="id-37c741237c714803b11da564fb226275"
         targetConnections="id-8acd9ad4e59846cd99c9b3e55624b5ed">
       <bounds
-          x="683"
-          y="242"
-          width="150"
+          x="24"
+          y="227"
+          width="149"
           height="48"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -754,7 +763,7 @@
         id="id-ccad74d66e8247aa828fd60856846682"
         targetConnections="id-33451a1b5d674b598451cf1c9c6cb070">
       <bounds
-          x="587"
+          x="480"
           y="289"
           width="150"
           height="48"/>
@@ -767,13 +776,26 @@
         id="id-d26675a5b86746eb8849a0cab1e8852c"
         targetConnections="id-c1391d73efeb46c686cd7a9333cb2e38">
       <bounds
-          x="736"
-          y="289"
-          width="150"
-          height="48"/>
+          x="24"
+          y="276"
+          width="149"
+          height="60"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-de72974c7530490495b0e06901aea3a9.xml#id-de72974c7530490495b0e06901aea3a9"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-999aa4b3a1a0447e94e81cc4b33a7090"
+        targetConnections="id-21dd5f9ff6d743398635ca9e31757c5f">
+      <bounds
+          x="629"
+          y="242"
+          width="295"
+          height="48"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-ff765cdb43b0496c985d4b9ff1288395.xml#id-ff765cdb43b0496c985d4b9ff1288395"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -2139,7 +2161,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-a5061f7eb60d4d5280d53dd67b8c5eb3"
       textAlignment="1"
-      content="Arquitectura Empresarial Secretaría General Alcaldía Mayor Bogotá. &#xA;Ingenium. 2025&#xA;&#xA;Dominio de Sistemas y Aplicaciones de Software gestionadas por la OTIC. Sistemas de información del análisis de entorno.&#xA;&#xA;versión 1.3.3">
+      content="Arquitectura Empresarial Secretaría General Alcaldía Mayor Bogotá. &#xA;Ingenium. 2025&#xA;&#xA;Dominio de Sistemas y Aplicaciones de Software gestionadas por la OTIC. Sistemas de información del análisis de entorno.&#xA;&#xA;versión 1.3.4">
     <bounds
         x="24"
         y="12"
