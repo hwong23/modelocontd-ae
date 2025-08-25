@@ -50,15 +50,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-889aba24b489488cb6fd879eb134af5d"
-        source="id-3bd4e1b95eaf484cb0798995cef80fb1"
-        target="id-244f6bb952b64906b64b516e64ee4847">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-0fbcc79370774c8c82400a7ab5b33862.xml#id-0fbcc79370774c8c82400a7ab5b33862"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3e5f31228b374156a82cab1758b17a60"
         source="id-3bd4e1b95eaf484cb0798995cef80fb1"
         target="id-99ed0ca57f6746e9b55aafee53d2646d">
@@ -165,7 +156,6 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-244f6bb952b64906b64b516e64ee4847"
-        targetConnections="id-889aba24b489488cb6fd879eb134af5d"
         font="1|Lucida Grande|12.0|0|COCOA|1|"
         fontColor="#000000"
         lineColor="#5c5c5c"
