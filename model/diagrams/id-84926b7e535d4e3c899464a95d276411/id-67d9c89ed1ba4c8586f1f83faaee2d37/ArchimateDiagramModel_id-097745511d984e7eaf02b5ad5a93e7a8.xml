@@ -1894,13 +1894,13 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-35d1d947f25d4359b840bf6d9ddcc874"
         targetConnections="id-772cfb833af94714a8c45b082f182a92"
-        font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+        font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande"
         lineColor="#5c5c5c"
         fillColor="#b5ffff">
       <bounds
           x="12"
           y="36"
-          width="97"
+          width="145"
           height="48"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -1915,9 +1915,9 @@
         lineColor="#5c5c5c"
         fillColor="#b5ffff">
       <bounds
-          x="120"
+          x="168"
           y="36"
-          width="85"
+          width="133"
           height="48"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -1932,9 +1932,9 @@
         lineColor="#5c5c5c"
         fillColor="#b5ffff">
       <bounds
-          x="216"
+          x="312"
           y="36"
-          width="85"
+          width="133"
           height="48"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -1947,7 +1947,7 @@
       <bounds
           x="12"
           y="87"
-          width="121"
+          width="145"
           height="48"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -1958,9 +1958,9 @@
         id="id-0f856845c4c34b7abf151695eb858540"
         targetConnections="id-9bacdce580a4426db198ba9796350f34">
       <bounds
-          x="144"
+          x="168"
           y="87"
-          width="109"
+          width="133"
           height="48"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -1971,8 +1971,8 @@
         id="id-99f5751640804e27b026f7daf8a76d2d"
         targetConnections="id-d46ade6af45b427bb839ee7e62822392">
       <bounds
-          x="264"
-          y="87"
+          x="168"
+          y="138"
           width="181"
           height="48"/>
       <archimateElement
@@ -1986,7 +1986,7 @@
         font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande">
       <bounds
           x="312"
-          y="36"
+          y="87"
           width="133"
           height="48"/>
       <archimateElement
@@ -2004,7 +2004,7 @@
       <bounds
           x="12"
           y="138"
-          width="133"
+          width="145"
           height="48"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -2043,8 +2043,8 @@
       <bounds
           x="456"
           y="138"
-          width="157"
-          height="60"/>
+          width="193"
+          height="48"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-99b068b890e24a479f00e1db795013b3.xml#id-99b068b890e24a479f00e1db795013b3"/>
@@ -2113,7 +2113,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-a5061f7eb60d4d5280d53dd67b8c5eb3"
       textAlignment="1"
-      content="Arquitectura Empresarial Secretaría General Alcaldía Mayor Bogotá. &#xA;Ingenium. 2025&#xA;&#xA;Dominio de Sistemas y Aplicaciones de Software gestionadas por la OTIC. Sistemas de información del análisis de entorno.&#xA;&#xA;versión 1.3">
+      content="Arquitectura Empresarial Secretaría General Alcaldía Mayor Bogotá. &#xA;Ingenium. 2025&#xA;&#xA;Dominio de Sistemas y Aplicaciones de Software gestionadas por la OTIC. Sistemas de información del análisis de entorno.&#xA;&#xA;versión 1.3.1">
     <bounds
         x="24"
         y="12"
