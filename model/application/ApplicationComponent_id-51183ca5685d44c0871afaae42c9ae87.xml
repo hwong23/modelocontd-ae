@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapa de Conocimiento"
+    id="id-51183ca5685d44c0871afaae42c9ae87"
+    documentation="Aplicación de software desarrollada por la Secretaría General para el uso y la apropiación del conocimiento. El Mapa de Conocimiento identifica, organiza y sistematiza el conocimiento crítico y estratégico de la entidad, tanto explícito (documentado) como tácito (intelectual), necesario para cumplir con su misión y objetivos estratégicos. El Mapa de Conocimiento cuenta con más de 18 núcleos, 37 nodos, 67 temáticas y 127 activos de conocimiento de la Entidad. https://secretariageneral.gov.co/transparencia-y-acceso-la-informacion-publica/gestion-del-conocimiento/mapa-de-conocimiento&#xA;">
+  <properties
+      key="catalogo"
+      value="true"/>
+  <properties
+      key="app-categoria"
+      value="Otros sistemas de apoyo a la misionalidad "/>
+</archimate:ApplicationComponent>
