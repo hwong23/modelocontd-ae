@@ -1771,8 +1771,7 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       textAlignment="1"
-      fillColor="#ffffff"
-      type="1">
+      fillColor="#ffffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-772cfb833af94714a8c45b082f182a92"

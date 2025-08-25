@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestión de Elementos Devolutivos "
     id="id-08807a8f171a4205a9beedf544e8e1e6"
-    documentation="Sistema control de gestión de elementos devolutivos (SAI, heredado de SICAPITAL).&#xA;"/>
+    documentation="Sistema control de gestión de elementos devolutivos (SAI, heredado de SICAPITAL).&#xA;">
+  <properties
+      key="app-categoria"
+      value="Sistemas de gestión administrativa y financiera"/>
+</archimate:ApplicationComponent>

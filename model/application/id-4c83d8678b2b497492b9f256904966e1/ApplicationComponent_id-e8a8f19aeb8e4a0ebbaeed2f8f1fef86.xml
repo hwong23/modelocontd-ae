@@ -9,4 +9,7 @@
   <properties
       key="catalogo"
       value="true"/>
+  <properties
+      key="app-categoria"
+      value="Sistemas de interacción ciudadana y transparencia"/>
 </archimate:ApplicationComponent>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SIPRES Regalías"
     id="id-0bac3f6d757b4a48833169e0e4c13551"
-    documentation="Sistema para manejo y control del presupuesto de regalías (SIPRES REGALIAS).&#xA;"/>
+    documentation="Sistema para manejo y control del presupuesto de regalías (SIPRES REGALIAS).&#xA;">
+  <properties
+      key="app-categoria"
+      value="Sistemas de gestión administrativa y financiera"/>
+</archimate:ApplicationComponent>

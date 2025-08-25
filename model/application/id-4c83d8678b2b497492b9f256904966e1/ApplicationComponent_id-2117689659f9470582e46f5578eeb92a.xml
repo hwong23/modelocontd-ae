@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sistema Contable (LIMAY)"
     id="id-2117689659f9470582e46f5578eeb92a"
-    documentation="LIMAY, heredado de SICAPITAL. Sistema contable que maneja el libro mayor de la entidad.&#xA;"/>
+    documentation="LIMAY, heredado de SICAPITAL. Sistema contable que maneja el libro mayor de la entidad.&#xA;">
+  <properties
+      key="app-categoria"
+      value="Sistemas de gestión administrativa y financiera"/>
+</archimate:ApplicationComponent>

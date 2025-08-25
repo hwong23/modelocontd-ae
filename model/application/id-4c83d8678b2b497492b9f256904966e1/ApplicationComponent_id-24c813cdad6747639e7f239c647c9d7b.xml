@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Personal y Nómina (PERNO)"
     id="id-24c813cdad6747639e7f239c647c9d7b"
-    documentation="Módulo de Personal y Nómina (PERNO, heredado de SICAPITAL.&#xA;"/>
+    documentation="Módulo de Personal y Nómina (PERNO, heredado de SICAPITAL.&#xA;">
+  <properties
+      key="app-categoria"
+      value="Sistemas de gestión administrativa y financiera"/>
+</archimate:ApplicationComponent>

@@ -6,4 +6,7 @@
   <properties
       key="destino"
       value="doc"/>
+  <properties
+      key="app-categoria"
+      value="Sistemas de información históricos"/>
 </archimate:ApplicationComponent>

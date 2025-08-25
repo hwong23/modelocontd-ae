@@ -9,4 +9,7 @@
   <properties
       key="IncluyeSaltosLineaElementos"
       value="false"/>
+  <properties
+      key="app-categoria"
+      value="Otros sistemas de apoyo a la misionalidad "/>
 </archimate:ApplicationComponent>
