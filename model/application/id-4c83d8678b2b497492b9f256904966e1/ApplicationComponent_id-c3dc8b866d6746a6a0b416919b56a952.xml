@@ -2,11 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inteligencia artificial para la organización, clasificación, y descripción de un fondo documental histórico"
     id="id-c3dc8b866d6746a6a0b416919b56a952"
-    documentation="Herramientas de inteligencia artificial para la organización, clasificación, y descripción de un fondo documental histórico del Archivo General de Bogotá.&#xA;">
+    documentation="Herramientas de inteligencia artificial para la organización, clasificación, y descripción del fondo documental histórico del Archivo General de Bogotá.&#xA;">
   <properties
       key="destino"
       value="doc"/>
   <properties
       key="app-categoria"
-      value="Sistemas en desarrollo"/>
+      value="Otros sistemas de apoyo a la misionalidad"/>
 </archimate:ApplicationComponent>
