@@ -1260,7 +1260,7 @@
         id="id-d881ab15e52b49968070b62fa0ba2eea"
         targetConnections="id-9330a47d148549209c8585b207f67383">
       <bounds
-          x="671"
+          x="684"
           y="96"
           width="169"
           height="49"/>
@@ -1286,7 +1286,7 @@
         id="id-ef16c2cb431a4ab59031b6412dde617c"
         targetConnections="id-c08b37d16e6c41ebbcf1f23e6be5d336">
       <bounds
-          x="671"
+          x="684"
           y="36"
           width="169"
           height="61"/>
@@ -1635,7 +1635,7 @@
         id="id-1c0b805ba4b1429ba3cc4518bf597c0c"
         targetConnections="id-bb82a0976f3d4fa1a25597ff494dfb20">
       <bounds
-          x="480"
+          x="324"
           y="108"
           width="150"
           height="36"/>
@@ -1678,7 +1678,7 @@
         id="id-5273ef35d54348b8a049044ae3f477df"
         targetConnections="id-11bb7f74cde64d56ac95fbccf1a84a98">
       <bounds
-          x="636"
+          x="480"
           y="108"
           width="149"
           height="36"/>
@@ -1715,7 +1715,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d9251c2b86bf42619e1ad4a606743578"
-        targetConnections="id-8f058a1399dc46fb993c29406663092a">
+        targetConnections="id-8f058a1399dc46fb993c29406663092a"
+        font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande">
       <bounds
           x="324"
           y="144"
@@ -1735,7 +1736,7 @@
         fillColor="#b5ffff">
       <bounds
           x="636"
-          y="143"
+          y="108"
           width="150"
           height="36"/>
       <archimateElement
@@ -2117,7 +2118,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-a5061f7eb60d4d5280d53dd67b8c5eb3"
       textAlignment="1"
-      content="Arquitectura Empresarial Secretaría General Alcaldía Mayor Bogotá. &#xA;Ingenium. 2025&#xA;&#xA;Dominio de Sistemas y Aplicaciones de Software gestionadas por la OTIC. Sistemas de información del análisis de entorno.&#xA;&#xA;versión 1.3.7">
+      content="Arquitectura Empresarial Secretaría General Alcaldía Mayor Bogotá. &#xA;Ingenium. 2025&#xA;&#xA;Dominio de Sistemas y Aplicaciones de Software gestionadas por la OTIC. Sistemas de información del análisis de entorno.&#xA;&#xA;versión 1.3.9">
     <bounds
         x="24"
         y="12"
