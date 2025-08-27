@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NAGIOS"
+    name="Nagios"
     id="id-7562acd607a345c9a6303f2463245fc5"
     documentation="Sistema de monitoreo de infraestructura y servicio de TI.&#xA;">
   <properties
