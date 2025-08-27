@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DATAPROTECTOR"
+    name="DataProtector"
     id="id-060a09ef99f24b62b8b59b0b9d4d2954"
     documentation="Sistema de Copias de seguridad.&#xA;">
   <properties
