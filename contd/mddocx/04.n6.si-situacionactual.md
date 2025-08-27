@@ -192,7 +192,6 @@ https://archivobogota.secretariageneral.gov.co/proyectos-estrategicos/bogota-his
 | Registro Distrital  | Application Component | Se publican todos los actos administrativos del Distrito, de cara al ciudadano. |
 | MoviApp | Application Component | Aplicación móvil para ejercer la movilidad responsable, a través del uso generalizado de la bicicleta entre los funcionarios de las diferentes dependencias de la alcaldía. Aplicativo que permite el uso el registro del uso en bicicleta por parte de los funcionarios de las entidades del Distrito.
  |
-| Alertas Tempranas contra la Corrupción | Application Component | Sistema Alertas Tempranas contra la Corrupción |
 | Asignación de Turnos | Application Component | Sistema de Asignación de Turnos en los puntos de atención de la ciudad (Cades, Súper Cades, puntos de encuentro) |
 | Sistemas en desarrollo | Grouping |  |
 | Gestión Instancias de Coordinación | Application Component | Aplicación de software para facilitar la interacción y el acercamiento de los ciudadanos.
