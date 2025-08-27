@@ -1273,7 +1273,7 @@
           x="684"
           y="96"
           width="169"
-          height="49"/>
+          height="48"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-780641f79eec47fba19ef5c83196bb3c.xml#id-780641f79eec47fba19ef5c83196bb3c"/>
@@ -1286,7 +1286,7 @@
           x="492"
           y="96"
           width="180"
-          height="49"/>
+          height="48"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-26541d870a1a4ff4a3f310aded0d5855.xml#id-26541d870a1a4ff4a3f310aded0d5855"/>
@@ -1359,7 +1359,7 @@
           x="492"
           y="144"
           width="360"
-          height="49"/>
+          height="48"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-485e2cc27da6480398b1e81c8d3d6329.xml#id-485e2cc27da6480398b1e81c8d3d6329"/>
