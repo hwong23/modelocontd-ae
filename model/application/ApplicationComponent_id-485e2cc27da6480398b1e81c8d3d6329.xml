@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sistema de Alertas Tempranas para la Integridad de la Gestión Pública Distrital (SATI)"
+    id="id-485e2cc27da6480398b1e81c8d3d6329"
+    documentation="Sistema de Alertas Tempranas para la Integridad de la Gestión Pública Distrital (SATI) es un conjunto de recursos humanos, técnicos, tecnológicos y administrativos, mediante los cuales se identifican, recolectan, procesan, analizan datos y se ejecutan las acciones para la generación de alertas y recomendaciones sobre posibles casos de corrupción en la administración pública. El tablero de visualización de SATI está diseñado para identificar situaciones inusuales mediante señales de alerta generadas a partir del cruce de datos disponibles en materia de contratación.&#xA;">
+  <properties
+      key="destino"
+      value="doc"/>
+  <properties
+      key="app-categoria"
+      value="Sistemas de interacción ciudadana y transparencia"/>
+</archimate:ApplicationComponent>

@@ -689,9 +689,9 @@
         lineColor="#5c5c5c"
         fillColor="#b5ffff">
       <bounds
-          x="630"
+          x="636"
           y="263"
-          width="143"
+          width="136"
           height="48"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -765,11 +765,12 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-999aa4b3a1a0447e94e81cc4b33a7090"
-        targetConnections="id-21dd5f9ff6d743398635ca9e31757c5f">
+        targetConnections="id-21dd5f9ff6d743398635ca9e31757c5f"
+        font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande">
       <bounds
-          x="629"
+          x="636"
           y="216"
-          width="295"
+          width="288"
           height="48"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -1143,6 +1144,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-d4e1cbe74a234842b61f682abb0c9c88.xml#id-d4e1cbe74a234842b61f682abb0c9c88"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-3c27bd9d40a54671a99f41889187e2ea"
+        source="id-04483e1434714270b2dc2b5f08177bba"
+        target="id-0bc30135eb79420497ba3831d3fb077f">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-d8ea1642b9a147e8b5c3ace1150d1cc6.xml#id-d8ea1642b9a147e8b5c3ace1150d1cc6"/>
+    </sourceConnections>
     <bounds
         x="26"
         y="384"
@@ -1336,6 +1346,23 @@
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-b2a2727e7de643eab1de62d863fb3fd2.xml#id-b2a2727e7de643eab1de62d863fb3fd2"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-0bc30135eb79420497ba3831d3fb077f"
+        targetConnections="id-3c27bd9d40a54671a99f41889187e2ea"
+        font="1|Lucida Grande|12.0|0|COCOA|1|"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#b5ffff">
+      <bounds
+          x="492"
+          y="144"
+          width="360"
+          height="49"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-485e2cc27da6480398b1e81c8d3d6329.xml#id-485e2cc27da6480398b1e81c8d3d6329"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -2144,7 +2171,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-a5061f7eb60d4d5280d53dd67b8c5eb3"
       textAlignment="1"
-      content="Arquitectura Empresarial Secretaría General Alcaldía Mayor Bogotá. &#xA;Ingenium. 2025&#xA;&#xA;Dominio de Sistemas y Aplicaciones de Software gestionadas por la OTIC. Sistemas de información del análisis de entorno.&#xA;&#xA;versión 1.3.9">
+      content="Arquitectura Empresarial Secretaría General Alcaldía Mayor Bogotá. &#xA;Ingenium. 2025&#xA;&#xA;Dominio de Sistemas y Aplicaciones de Software gestionadas por la OTIC. Sistemas de información del análisis de entorno.&#xA;&#xA;versión 1.3.12">
     <bounds
         x="24"
         y="12"
