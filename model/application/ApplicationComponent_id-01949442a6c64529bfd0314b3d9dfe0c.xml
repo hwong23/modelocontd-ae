@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sivic"
+    id="id-01949442a6c64529bfd0314b3d9dfe0c"
+    documentation="Sistema de Información de Víctimas de Bogotá para registrar la gestión de atención integral a las víctimas. Interviene en los procesos de Paz, víctimas y reconciliación, y Fortalecimiento de la Gestión Pública. Interviene en los procesos de Paz, víctimas y reconciliación, y Fortalecimiento de la Gestión Pública.&#xA;">
+  <properties
+      key="destino"
+      value="doc"/>
+  <properties
+      key="app-categoria"
+      value="Otros sistemas de apoyo a la misionalidad "/>
+</archimate:ApplicationComponent>

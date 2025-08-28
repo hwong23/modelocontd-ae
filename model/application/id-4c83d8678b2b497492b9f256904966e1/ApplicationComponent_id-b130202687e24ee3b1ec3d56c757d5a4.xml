@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Siga"
+    name="SIGA"
     id="id-b130202687e24ee3b1ec3d56c757d5a4"
     documentation="Sistema Integrado de Gestión Documental, Archivo y Correspondencia para gestión de todas la comunicaciones internas de la SG (Memorandos, Circulares, etc), externas y algunas interoperabilidades.&#xA;">
   <properties
