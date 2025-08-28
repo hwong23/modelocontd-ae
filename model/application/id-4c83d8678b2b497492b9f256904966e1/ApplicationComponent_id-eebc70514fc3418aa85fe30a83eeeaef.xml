@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registro Distrital "
     id="id-eebc70514fc3418aa85fe30a83eeeaef"
-    documentation="Se publican todos los actos administrativos del Distrito, de cara al ciudadano.">
+    documentation="Aplicativo de software para publicar todos los actos administrativos del Distrito, de cara al ciudadano.&#xA;">
   <properties
       key="catalogo"
       value="true"/>
