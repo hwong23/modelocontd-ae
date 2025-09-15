@@ -189,7 +189,8 @@ https://archivobogota.secretariageneral.gov.co/proyectos-estrategicos/bogota-his
 | Gobierno Abierto de Datos | Application Component | Portal para la publicación de datos abiertos de Distrito con el fin de ser consultados por la Ciudadanía y utilizados en toma de decisiones o análisis de información.
  |
 | Contratación a la vista | Application Component | Sistema de registro de contratos distritales |
-| Registro Distrital  | Application Component | Se publican todos los actos administrativos del Distrito, de cara al ciudadano. |
+| Registro Distrital  | Application Component | Aplicativo de software para publicar todos los actos administrativos del Distrito, de cara al ciudadano.
+ |
 | MoviApp | Application Component | Aplicación móvil para ejercer la movilidad responsable, a través del uso generalizado de la bicicleta entre los funcionarios de las diferentes dependencias de la alcaldía. Aplicativo que permite el uso el registro del uso en bicicleta por parte de los funcionarios de las entidades del Distrito.
  |
 | Asignación de Turnos | Application Component | Sistema de Asignación de Turnos en los puntos de atención de la ciudad (Cades, Súper Cades, puntos de encuentro) |
@@ -225,7 +226,7 @@ https://archivobogota.secretariageneral.gov.co/proyectos-estrategicos/bogota-his
 | Presupuesto SI | Application Component | Sistema presupuestal de la Entidad |
 | Gestión de Elementos Devolutivos (SAI) | Application Component | Sistema control de gestión de elementos devolutivos (SAI, heredado de SICAPITAL).
  |
-| SIPRES Registro y Control de Presupuesto  | Application Component | Registro y control de la información de presupuesto de la Secretaría General (SIPRES).
+| SIPRES Registro y Control de Presupuesto | Application Component | Registro y control de la información de presupuesto de la Secretaría General (SIPRES).
  |
 | SIPRES Regalías | Application Component | Sistema para manejo y control del presupuesto de regalías (SIPRES REGALIAS).
  |
