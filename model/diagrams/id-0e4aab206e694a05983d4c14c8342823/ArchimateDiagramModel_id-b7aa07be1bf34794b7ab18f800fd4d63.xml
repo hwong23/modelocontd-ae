@@ -35,7 +35,7 @@
         fillColor="#ccccff">
       <bounds
           x="24"
-          y="138"
+          y="108"
           width="264"
           height="109"/>
       <children
@@ -118,7 +118,7 @@
         x="12"
         y="485"
         width="1068"
-        height="336"/>
+        height="224"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5ff4845fe9714eb793dc75842b6b89e4"
@@ -249,9 +249,9 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="820"
+        y="708"
         width="1068"
-        height="336"/>
+        height="224"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1295015b63454910a91271261b743a9f"
