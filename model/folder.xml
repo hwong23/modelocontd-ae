@@ -1,8 +1,8 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SG"
+    name="PERSN"
     id="id-e61caa0dc3cc436aa918b17e0f565135"
-    purpose="version 0.3.39&#xA;&#xA;# Proyecto arquitectura empresarial de la Secretaría General. Análisis de estrategias, acciones, tecnologías. Ingenium Colombia.&#xA;&#xA;* Rama actual: 8-doctecnico&#xA;* Pages: https://hwong23.github.io/modelocontd-ae/contd/report&#xA;* Plantilla tipografía: propuesta-reference&#xA;"
+    purpose="version 0.1&#xA;&#xA;# Proyecto arquitectura empresarial Personería General. Análisis de estrategias, acciones, tecnologías. Agencia Nacional Digital.&#xA;&#xA;* Rama actual: 9-personeria&#xA;* Pages: https://hwong23.github.io/modelocontd-ae/contd/report&#xA;* Plantilla tipografía: propuesta-reference&#xA;"
     version="5.0.0">
   <properties
       key="rutaMacMD"/>
