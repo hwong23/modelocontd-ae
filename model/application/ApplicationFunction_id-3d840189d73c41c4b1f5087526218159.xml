@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tablas maestras"
+    id="id-3d840189d73c41c4b1f5087526218159"
+    documentation="Gestiona parametrización requerida para el correcto funcionamiento del sistema.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Administracion HUMANO.csv on Fri Aug 07 2026 11:51:10 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

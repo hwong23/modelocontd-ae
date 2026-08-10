@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reporte: Libro de vacaciones"
+    id="id-379d348665b14d9ba29115f3fc08b8be"
+    documentation="Consulta del libro de vacaciones del colaborador.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. HUMANO En Linea Portal de Autogestion.csv on Fri Aug 07 2026 11:53:09 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

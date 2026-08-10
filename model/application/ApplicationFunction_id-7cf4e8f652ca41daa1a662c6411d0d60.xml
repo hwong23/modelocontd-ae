@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reporte: Bancos reportes"
+    id="id-7cf4e8f652ca41daa1a662c6411d0d60"
+    documentation="Información de entidades bancarias y afiliados.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Compensacion y Laborales.csv on Fri Aug 07 2026 11:50:01 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

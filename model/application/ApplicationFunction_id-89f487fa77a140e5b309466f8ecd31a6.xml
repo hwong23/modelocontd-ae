@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reporte: Certificado de ingresos y retenciones"
+    id="id-89f487fa77a140e5b309466f8ecd31a6"
+    documentation="Generación de certificado de ingresos y retenciones.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. HUMANO En Linea Portal de Autogestion.csv on Fri Aug 07 2026 11:53:09 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

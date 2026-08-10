@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cambio de cuenta bancaria"
+    id="id-7e0a61c230d1478e855be12132fd8602"
+    documentation="Registro de cambio de cuenta bancaria.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Tramites en Linea Cloud.csv on Fri Aug 07 2026 11:52:48 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

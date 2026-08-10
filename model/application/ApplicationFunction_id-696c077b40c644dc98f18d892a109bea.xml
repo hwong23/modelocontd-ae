@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Definición de niveles jerárquicos"
+    id="id-696c077b40c644dc98f18d892a109bea"
+    documentation="Permite crear y organizar los niveles que conforman la estructura institucional.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Estructura Organizacional.csv on Fri Aug 07 2026 11:53:20 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

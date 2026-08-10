@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incrementos salariales"
+    id="id-a2ea993329b94317a06ba8f6887d2d9e"
+    documentation="Permite gestionar incrementos por cargo, porcentaje, lista u otros criterios definidos.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Planta y Personal.csv on Fri Aug 07 2026 11:53:17 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

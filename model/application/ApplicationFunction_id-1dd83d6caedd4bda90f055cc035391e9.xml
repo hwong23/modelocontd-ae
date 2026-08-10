@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Selección del tipo de solicitud"
+    id="id-1dd83d6caedd4bda90f055cc035391e9"
+    documentation="Permite seleccionar el trámite disponible a realizar.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Tramites en Linea Cloud.csv on Fri Aug 07 2026 11:52:48 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

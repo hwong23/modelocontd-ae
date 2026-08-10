@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administración de frecuencias de pago"
+    id="id-7a9b695d5f574a4c839651efcc4e50d3"
+    documentation="Define y administra frecuencias de pago quincenales o mensuales.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Compensacion y Laborales.csv on Fri Aug 07 2026 11:50:01 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

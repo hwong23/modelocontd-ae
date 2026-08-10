@@ -1,48 +1,8 @@
 <archimate:ArchimateDiagramModel
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="03.Conjunto. Dominio Aplicaciones SG"
     id="id-421f8e047542418185c8d92411fdd466"
     documentation="Secretaría General de Bogotá">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-3a75e4c816da47bb917a99af0a012a73"
-      textAlignment="1">
-    <bounds
-        x="12"
-        width="373"
-        height="433"/>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-4432f24387bc4cf6a2fdf361c6880d0e">
-      <features
-          name="labelExpression"
-          value="${property:titulo}"/>
-      <bounds
-          x="12"
-          y="36"
-          width="289"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-097745511d984e7eaf02b5ad5a93e7a8.xml#id-097745511d984e7eaf02b5ad5a93e7a8"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-fc83e782af9d41af8e5d4d893c348247">
-      <bounds
-          x="12"
-          y="96"
-          width="289"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-7812cd6a3a0d4d5783b00f16f2c5826b.xml#id-7812cd6a3a0d4d5783b00f16f2c5826b"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-f40091e8ad3f4c5584f882cc8f42ff7e.xml#id-f40091e8ad3f4c5584f882cc8f42ff7e"/>
-  </children>
   <properties
       key="alias"
       value="conjunto.app"/>

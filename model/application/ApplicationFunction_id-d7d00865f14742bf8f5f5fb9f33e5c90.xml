@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reporte: Certificado laboral estándar"
+    id="id-d7d00865f14742bf8f5f5fb9f33e5c90"
+    documentation="Permite al colaborador generar certificado laboral estándar.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. HUMANO En Linea Portal de Autogestion.csv on Fri Aug 07 2026 11:53:09 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

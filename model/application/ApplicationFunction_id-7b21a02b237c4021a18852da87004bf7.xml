@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de solicitudes"
+    id="id-7b21a02b237c4021a18852da87004bf7"
+    documentation="Permite a usuarios responsables gestionar solicitudes asignadas según roles y disponibilidad.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Tramites en Linea Cloud.csv on Fri Aug 07 2026 11:52:48 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluaciones médicas ocupacionales"
+    id="id-65357b167d2c4db99e0124ceef49c74b"
+    documentation="Gestiona evaluaciones médicas ocupacionales y periódicas, programadas o por cambio de ocupación.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Salud y Seguridad Ausentismos.csv on Fri Aug 07 2026 11:53:14 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

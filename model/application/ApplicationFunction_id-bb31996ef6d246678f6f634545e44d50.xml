@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reporte: Retención mensual"
+    id="id-bb31996ef6d246678f6f634545e44d50"
+    documentation="Consulta de reporte mensual de retención.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. HUMANO En Linea Portal de Autogestion.csv on Fri Aug 07 2026 11:53:09 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

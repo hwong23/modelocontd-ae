@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de dotación"
+    id="id-ae5453976b854e95844f6f1a124a9730"
+    documentation="Administra la entrega y control de dotaciones o uniformes según criterios legales y parametrizables.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Planta y Personal.csv on Fri Aug 07 2026 11:53:17 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

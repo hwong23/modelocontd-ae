@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Servicio de Gestión Documental"
-    id="id-0e3b4305623a4e5289179fdd70edeaa7"
-    documentation="Servicio para la creación, almacenamiento y recuperación de documentos."/>

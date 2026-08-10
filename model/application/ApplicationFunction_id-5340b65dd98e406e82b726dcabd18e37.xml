@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roles, permisos y usuarios"
+    id="id-5340b65dd98e406e82b726dcabd18e37"
+    documentation="Define, asigna y modifica roles, permisos y usuarios según perfil o responsabilidad.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Administracion HUMANO.csv on Fri Aug 07 2026 11:51:10 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

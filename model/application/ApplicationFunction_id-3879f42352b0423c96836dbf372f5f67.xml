@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Condiciones de salud"
+    id="id-3879f42352b0423c96836dbf372f5f67"
+    documentation="Permite al empleador conocer condiciones de salud del trabajador.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Salud y Seguridad Ausentismos.csv on Fri Aug 07 2026 11:53:14 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

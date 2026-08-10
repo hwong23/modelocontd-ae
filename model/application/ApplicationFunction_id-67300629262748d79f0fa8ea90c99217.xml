@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reporte: Reporte de retención en la fuente"
+    id="id-67300629262748d79f0fa8ea90c99217"
+    documentation="Reporte asociado a retención en la fuente.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Compensacion y Laborales.csv on Fri Aug 07 2026 11:50:01 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cambio de clave"
+    id="id-1fb26a40ea194ae589a95d6700d8db22"
+    documentation="Permite actualizar clave del súper usuario, asignar claves y parametrizar reemplazo o bloqueo.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Administracion HUMANO.csv on Fri Aug 07 2026 11:51:10 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reporte: Aportes parafiscales"
+    id="id-7ca2e576384a4bb1b0d89edfe00bf4c3"
+    documentation="Información de aportes patronales a cajas, ICBF, SENA, ESAP y riesgos profesionales.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Compensacion y Laborales.csv on Fri Aug 07 2026 11:50:01 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

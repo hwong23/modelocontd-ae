@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Control de planta viabilizada"
+    id="id-58c4eea6d4b84ff2abfc138a74040e60"
+    documentation="Controla cargos asignados, evitando contrataciones por encima de lo permitido.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Administracion HUMANO.csv on Fri Aug 07 2026 11:51:10 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

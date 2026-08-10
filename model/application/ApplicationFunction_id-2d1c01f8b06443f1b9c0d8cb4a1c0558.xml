@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consulta de errores"
+    id="id-2d1c01f8b06443f1b9c0d8cb4a1c0558"
+    documentation="Permite consultar errores técnicos controlados mediante códigos de error.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Administracion HUMANO.csv on Fri Aug 07 2026 11:51:10 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registro de incapacidades"
+    id="id-92b976e46e1d42e3aa1c8ab4426e5cb0"
+    documentation="Registro de novedades por enfermedad general, accidente laboral, licencia de maternidad, licencia de paternidad y enfermedad laboral.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Tramites en Linea Cloud.csv on Fri Aug 07 2026 11:52:48 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

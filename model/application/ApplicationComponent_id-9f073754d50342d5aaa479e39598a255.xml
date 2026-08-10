@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trámites en Línea (Exclusivo Cloud)"
+    id="id-9f073754d50342d5aaa479e39598a255"
+    documentation="Módulo ERP Nómina.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Tramites en Linea Cloud.csv on Fri Aug 07 2026 11:52:48 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

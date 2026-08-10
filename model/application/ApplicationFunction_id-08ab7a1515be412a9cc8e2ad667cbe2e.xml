@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validación de información del personal"
+    id="id-08ab7a1515be412a9cc8e2ad667cbe2e"
+    documentation="Apoya la actualización y mantenimiento de datos laborales, personales y contractuales.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Planta y Personal.csv on Fri Aug 07 2026 11:53:17 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

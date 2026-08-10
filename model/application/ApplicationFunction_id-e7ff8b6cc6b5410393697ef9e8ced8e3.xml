@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reporte: Seguimiento de trámite"
+    id="id-e7ff8b6cc6b5410393697ef9e8ced8e3"
+    documentation="Permite consultar seguimiento y respuesta en línea sobre una solicitud.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Tramites en Linea Cloud.csv on Fri Aug 07 2026 11:52:48 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

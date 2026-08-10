@@ -1,9 +1,0 @@
-<archimate:CourseOfAction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestionar la seguridad de la información y seguridad digital (objetivo estratégico de TI)"
-    id="id-6b7a358db86b4a238072fac440921d99"
-    documentation="Objetivo de TI para proteger los activos de información y garantizar la ciberseguridad.">
-  <properties
-      key="destino"
-      value="doc"/>
-</archimate:CourseOfAction>

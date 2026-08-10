@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Definición de dependencias"
+    id="id-b8f3141d500a477a85e69565fdf9e67e"
+    documentation="Facilita el registro y administración de áreas, unidades o dependencias dentro de la entidad.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Estructura Organizacional.csv on Fri Aug 07 2026 11:53:20 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

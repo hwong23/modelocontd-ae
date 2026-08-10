@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asignación de cargos a dependencias"
+    id="id-d7b0c09901d1413b9d032a3ea7a98867"
+    documentation="Relaciona cargos con las dependencias correspondientes para soportar la gestión de planta.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Estructura Organizacional.csv on Fri Aug 07 2026 11:53:20 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

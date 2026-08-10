@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consulta de vacantes"
+    id="id-341c963d340f40738fa7a62e4f7d2d4a"
+    documentation="Permite identificar cargos disponibles o vacantes dentro de la estructura aprobada.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Estructura Organizacional.csv on Fri Aug 07 2026 11:53:20 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

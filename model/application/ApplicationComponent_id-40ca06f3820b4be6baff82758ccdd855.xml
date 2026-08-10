@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salud y Seguridad: Manejo Ausentismos - Recobro Incapacidades"
+    id="id-40ca06f3820b4be6baff82758ccdd855"
+    documentation="Módulo ERP Nómina.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Salud y Seguridad Ausentismos.csv on Fri Aug 07 2026 11:53:14 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

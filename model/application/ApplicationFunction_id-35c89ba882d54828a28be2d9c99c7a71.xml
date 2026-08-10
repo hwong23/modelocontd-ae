@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unidad Per Cápita y seguridad social"
+    id="id-35c89ba882d54828a28be2d9c99c7a71"
+    documentation="Permite registrar información asociada a seguridad social del colaborador y su núcleo familiar.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Planta y Personal.csv on Fri Aug 07 2026 11:53:17 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

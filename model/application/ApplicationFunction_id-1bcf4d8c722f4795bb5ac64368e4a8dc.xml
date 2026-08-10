@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afectación contable"
+    id="id-1bcf4d8c722f4795bb5ac64368e4a8dc"
+    documentation="Manejo de afectación contable por concepto e interfaz contable.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Compensacion y Laborales.csv on Fri Aug 07 2026 11:50:01 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

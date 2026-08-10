@@ -1,9 +1,0 @@
-<archimate:CourseOfAction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Fortalecimiento de la gestión mediante el uso y mejora de las tecnologías"
-    id="id-03cf87b32e3d4ed388e110398eb6410b"
-    documentation="Objetivo de mejorar la gestión pública mediante la aplicación de TI.">
-  <properties
-      key="destino"
-      value="doc"/>
-</archimate:CourseOfAction>

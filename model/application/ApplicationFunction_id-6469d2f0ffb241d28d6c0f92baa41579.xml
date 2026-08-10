@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asignación de funciones"
+    id="id-6469d2f0ffb241d28d6c0f92baa41579"
+    documentation="Asocia funciones específicas a cada cargo según su perfil y responsabilidad.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Estructura Organizacional.csv on Fri Aug 07 2026 11:53:20 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>
