@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ordenes:Gestión de descuentos y recargos (copy)"
+    name="Ordenes:Gestión de descuentos y recargos"
     id="id-c7af162bb6a64794b97d0b077ba72a11"
     documentation="Permite el manejo de descuentos e ingresos de diferentes tipos de recargos asociados a las órdenes de suministro.">
   <properties
