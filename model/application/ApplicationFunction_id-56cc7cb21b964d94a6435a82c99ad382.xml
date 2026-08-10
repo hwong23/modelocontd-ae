@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de unidades presupuestales"
+    id="id-56cc7cb21b964d94a6435a82c99ad382"
+    documentation="Permite identificar unidades presupuestales de gasto y su estructura propia.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

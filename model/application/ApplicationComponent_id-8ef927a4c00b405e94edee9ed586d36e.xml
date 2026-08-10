@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generación de libros contables"
+    id="id-8ef927a4c00b405e94edee9ed586d36e"
+    documentation="Genera libro mayor libro diario auxiliares por terceros saldos y movimientos centro de utilidad unidad ejecutora y demás libros contables.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

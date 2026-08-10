@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Control documental de cuentas"
+    id="id-4e3f1c4cfbf249d1ba8faea2bf4e7d32"
+    documentation="Controla la documentación que sirve como soporte para el trámite de una cuenta.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

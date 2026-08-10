@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de ubicación"
+    id="id-f3129613e2e94640ac9dad8bedeb2dfb"
+    documentation="Permite la ubicación de los elementos y actualización de sus características.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Solicitudes.csv on Mon Aug 10 2026 12:41:13 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

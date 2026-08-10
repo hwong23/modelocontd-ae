@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Depreciación automática"
+    id="id-a9374a01320444e2ac02bf66b9e8fef7"
+    documentation="Procesa automáticamente la depreciación generando asientos contables.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Solicitudes.csv on Mon Aug 10 2026 12:41:13 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

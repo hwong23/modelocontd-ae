@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generación de interfaces de pago"
+    id="id-1a972763c3724c7bb84bb6f39381cd33"
+    documentation="Permite la generación de plantillas con las diferentes órdenes de pago para ser integradas con procesos de pago externos al sistema.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

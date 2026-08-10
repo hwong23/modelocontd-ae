@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reposición de inventario"
+    id="id-a48830465f7f44c9988eabd897dcce3e"
+    documentation="Permite elaborar solicitudes destinadas a actualizar stock de bodega diferenciándolas de las solicitudes de suministro.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Solicitudes.csv on Mon Aug 10 2026 12:41:13 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

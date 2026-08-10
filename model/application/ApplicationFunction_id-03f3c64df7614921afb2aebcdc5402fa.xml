@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tipificación de cuentas"
+    id="id-03f3c64df7614921afb2aebcdc5402fa"
+    documentation="Gestiona cuentas monetarias y no monetarias.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

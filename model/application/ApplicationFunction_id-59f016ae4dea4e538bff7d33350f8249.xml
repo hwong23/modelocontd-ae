@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Homologación de rubros presupuestales"
+    id="id-59f016ae4dea4e538bff7d33350f8249"
+    documentation="Permite el reflejo, en línea mediante homologación de códigos, de los rubros presupuestales de gastos asignados para la ejecución.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

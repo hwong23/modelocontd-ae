@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión contable de bajas"
+    id="id-e493753a23114a1da8d00292fdce66bb"
+    documentation="Permite integrar múltiples cuentas contables para bajas de almacén considerando depreciación y costo histórico.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Almacen.csv on Mon Aug 10 2026 12:50:04 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión automática de modificaciones presupuestales"
+    id="id-7fafd6a5714a46b2a88d336decf3d125"
+    documentation="Refleja en línea, a partir de los movimientos de BOGDATA, actividades como adiciones, reducciones, traslados, aplazamientos y fin de aplazamientos presupuestales.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

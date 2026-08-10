@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión del plan de acción"
+    id="id-f404bde58a8b41c9aa091ee422ef98d7"
+    documentation="Permite la incorporación del plan de gestión o plan de acción en una estructura jerárquica definida.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

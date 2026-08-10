@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administración de catálogo presupuestal"
+    id="id-5a976232088349d1a1e662718b103768"
+    documentation="Permite la creación de catálogos de rubros presupuestales homologables con BOG DATA.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

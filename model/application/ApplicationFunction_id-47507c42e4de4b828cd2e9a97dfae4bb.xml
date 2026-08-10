@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trazabilidad de modificaciones"
+    id="id-47507c42e4de4b828cd2e9a97dfae4bb"
+    documentation="Facilita modificar encabezados de documentos manteniendo histórico de cambios.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

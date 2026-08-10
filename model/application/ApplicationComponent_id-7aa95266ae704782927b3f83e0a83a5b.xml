@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registro manual de comprobantes"
+    id="id-7aa95266ae704782927b3f83e0a83a5b"
+    documentation="Permite la elaboración de comprobantes de contabilidad mediante digitación directa.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

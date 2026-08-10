@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de reservas presupuestales"
+    id="id-d8d4b8f92fb54306b3e7f1ad6e2e7114"
+    documentation="Facilita la elaboración de órdenes de pago asociadas a reservas presupuestales.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

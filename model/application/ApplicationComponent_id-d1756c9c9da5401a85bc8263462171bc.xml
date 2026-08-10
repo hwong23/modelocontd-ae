@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de bienes de consumo y devolutivos"
+    id="id-d1756c9c9da5401a85bc8263462171bc"
+    documentation="Maneja movimientos de acuerdo con políticas contables para elementos de consumo y devolutivos.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Almacen.csv on Mon Aug 10 2026 12:50:04 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

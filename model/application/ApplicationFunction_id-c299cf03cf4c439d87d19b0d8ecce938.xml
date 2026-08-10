@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validación del ciclo presupuestal"
+    id="id-c299cf03cf4c439d87d19b0d8ecce938"
+    documentation="Permite la verificación del proceso de ejecución presupuestal teniendo en cuenta CDP, RP, obligación y pago.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

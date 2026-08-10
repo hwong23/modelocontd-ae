@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integración cuentas por pagar"
+    id="id-b3e6a56c8b3d4e25a4d5cdcbf0283507"
+    documentation="Integra las cuentas por pagar con el tipo de orden de pago correspondiente.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

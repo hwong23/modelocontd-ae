@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Parametrización contable integral"
+    id="id-dae4defd4aa7444c923313d4a2b04140"
+    documentation="El módulo de contabilidad permite a la entidad parametrizar y administrar la afectación contable esperada de todas las áreas: Central de cuentas procesos integrados de Tesorería almacenes inventarios de devolutivos y nómina.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

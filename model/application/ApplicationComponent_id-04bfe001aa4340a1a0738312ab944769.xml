@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Impresión de comprobantes"
+    id="id-04bfe001aa4340a1a0738312ab944769"
+    documentation="Facilita formato de impresión de comprobante contable evitando la utilización de formatos preimpresos o papel para luego transcribir al sistema.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aprobación de imputación contable"
+    id="id-e556b4d450594c5b9cc5ecfd50ac1983"
+    documentation="Permite revisar y aprobar o rechazar la imputación contable de una orden de pago.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Estadísticas de consumo y compras"
+    id="id-f762cc310e254044952d3d6395bc45bb"
+    documentation="Lleva estadísticas históricas de consumo y compras para futuras proyecciones.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Almacen.csv on Mon Aug 10 2026 12:50:04 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

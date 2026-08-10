@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de anticipos"
+    id="id-bacfc67822aa46c1b55cfa133987170f"
+    documentation="Gestiona anticipos, su amortización y liquidación.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

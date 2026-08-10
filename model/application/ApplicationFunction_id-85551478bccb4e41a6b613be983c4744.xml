@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reintegro de bienes"
+    id="id-85551478bccb4e41a6b613be983c4744"
+    documentation="Facilita mecanismos para reintegrar elementos al inventario.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Solicitudes.csv on Mon Aug 10 2026 12:41:13 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

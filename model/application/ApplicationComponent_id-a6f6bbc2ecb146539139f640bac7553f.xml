@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administración documental contractual"
+    id="id-a6f6bbc2ecb146539139f640bac7553f"
+    documentation="Crea el catálogo de documentos solicitados para cada uno de los tipos de contratos que la entidad realice durante su gestión administrativa con su correspondiente liquidación y seguimiento de la orden.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

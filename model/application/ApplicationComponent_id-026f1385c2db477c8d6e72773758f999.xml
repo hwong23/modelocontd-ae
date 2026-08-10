@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Automatización de recaudos"
+    id="id-026f1385c2db477c8d6e72773758f999"
+    documentation="Alimenta de manera automática el recaudo realizado por el área de tesorería mediante parametrización requerida por el Departamento Administrativo de Hacienda de Bogotá.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

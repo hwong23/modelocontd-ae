@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contabilidad descentralizada"
+    id="id-28e743c14b8a4b7697b76ae88f58bbbc"
+    documentation="Permite el manejo de contabilidad por secretarías y ordenadores del gasto generando balances estados de rentas y gastos y libros auxiliares por unidad ejecutora.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

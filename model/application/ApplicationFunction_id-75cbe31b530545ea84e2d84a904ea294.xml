@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validación documental"
+    id="id-75cbe31b530545ea84e2d84a904ea294"
+    documentation="Exige documentación mínima para legalización, como facturas, informes, cuentas y demás soportes requeridos.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

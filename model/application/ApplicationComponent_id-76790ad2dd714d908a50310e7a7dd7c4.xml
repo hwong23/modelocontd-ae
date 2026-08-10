@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consulta de trazabilidad de activos"
+    id="id-76790ad2dd714d908a50310e7a7dd7c4"
+    documentation="Permite consultar el movimiento detallado de cada elemento devolutivo.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Almacen.csv on Mon Aug 10 2026 12:50:04 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

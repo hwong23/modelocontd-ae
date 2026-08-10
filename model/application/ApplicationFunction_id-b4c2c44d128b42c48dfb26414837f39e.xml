@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consolidación de pagos e historial"
+    id="id-b4c2c44d128b42c48dfb26414837f39e"
+    documentation="Integra los pagos al proceso de egresos manteniendo coherencia histórica de pagos, anulaciones y reintegros.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consultas parametrizadas"
+    id="id-ae3d764a085641c8a27fb456eb98d5fc"
+    documentation="Facilita la generación de información mediante filtros por fechas, fuentes de financiación y rubros específicos.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

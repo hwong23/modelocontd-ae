@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consultas operativas de órdenes de pago"
+    id="id-f350078de97d4bfbb501aed6d584322d"
+    documentation="Permite consultar órdenes pendientes trámites estados certificados de retención compromisos y anticipos amortizados o pendientes.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

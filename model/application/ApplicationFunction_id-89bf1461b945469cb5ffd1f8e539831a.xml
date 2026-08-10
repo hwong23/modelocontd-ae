@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asignación de responsables"
+    id="id-89bf1461b945469cb5ffd1f8e539831a"
+    documentation="Permite la asignación de elementos a dependencias y cuentadantes.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Solicitudes.csv on Mon Aug 10 2026 12:41:13 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

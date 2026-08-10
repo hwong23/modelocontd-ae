@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generación de diarios de almacén"
+    id="id-3179d0dca8754c9bb37d7d33e526e109"
+    documentation="Permite la generación de estados de diarios de almacén.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Almacen.csv on Mon Aug 10 2026 12:50:04 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

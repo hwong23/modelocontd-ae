@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integración presupuesto-contabilidad ingresos"
+    id="id-7a184de41acc48b8812eca7551d224f6"
+    documentation="Relaciona rubros presupuestales de ingresos con cuentas contables.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

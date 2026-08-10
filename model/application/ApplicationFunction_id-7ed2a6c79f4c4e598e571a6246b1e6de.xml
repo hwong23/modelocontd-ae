@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Parametrización tributaria"
+    id="id-7ed2a6c79f4c4e598e571a6246b1e6de"
+    documentation="Permite parametrizar los tipos de afectación como Débito Crédito Saldo y Valores Base.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

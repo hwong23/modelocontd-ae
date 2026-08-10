@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Parametrización tributaria y categorización"
+    id="id-66bf07d36c6949d49aba22f4def517d7"
+    documentation="Configura categorías régimen y naturaleza de los terceros con parámetros predeterminados.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aprobación de solicitudes"
+    id="id-84f05707128c48089af35a7d8abf8bcd"
+    documentation="Permite la aprobación de cantidades solicitadas por las dependencias.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Solicitudes.csv on Mon Aug 10 2026 12:41:13 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

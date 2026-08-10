@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Seguimiento de solicitudes"
+    id="id-3533c64daa4c42c588af552f7088dd52"
+    documentation="Proporciona herramientas para hacer seguimiento a las solicitudes realizadas.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Solicitudes.csv on Mon Aug 10 2026 12:41:13 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consultas integradas presupuestales"
+    id="id-e27ced70ab994b8ca6ca942a68464b97"
+    documentation="Permite consultas por beneficiario objeto estado vigencia fechas compromisos asociados programación de pagos e informes de tramitación de órdenes.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

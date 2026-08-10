@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integración presupuesto-contabilidad gastos"
+    id="id-fa3d82753a6c4b7aadc96207094fb13d"
+    documentation="Relaciona rubros presupuestales de gastos con cuentas contables según tipo de registro y movimiento.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

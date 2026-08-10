@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ordenes de Suministro"
+    id="id-0376138457a24a9998e7d1db513f27d6"
+    documentation="Permite la generación de órdenes de suministro teniendo en cuenta especificaciones legales.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Ordenes de Suministro.csv on Mon Aug 10 2026 12:48:32 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

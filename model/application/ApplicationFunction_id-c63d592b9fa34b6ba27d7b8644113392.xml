@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consultas e informes gerenciales"
+    id="id-c63d592b9fa34b6ba27d7b8644113392"
+    documentation="Facilita consultas e impresiones de resultados a nivel de proyectos y planes de gestión.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

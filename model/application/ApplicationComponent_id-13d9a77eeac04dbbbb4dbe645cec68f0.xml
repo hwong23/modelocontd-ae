@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integración presupuestal con BOG DATA"
+    id="id-13d9a77eeac04dbbbb4dbe645cec68f0"
+    documentation="El módulo de ejecución presupuestal de ingreso permite integración con BOG DATA a partir del presupuesto asignado para ejecución.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

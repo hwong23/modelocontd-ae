@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de pagos externos"
+    id="id-b815f587b8fe480cbe858ce98e9a8a0c"
+    documentation="Genera órdenes de pago para registrar pagos efectuados mediante sistemas externos (sin situación de fondos).">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

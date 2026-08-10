@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configuración de centros de solicitud"
+    id="id-08907dbe828844b7bc72e9bec94a73e7"
+    documentation="Permite instalar y especificar centros de elaboración de solicitudes.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Solicitudes.csv on Mon Aug 10 2026 12:41:13 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

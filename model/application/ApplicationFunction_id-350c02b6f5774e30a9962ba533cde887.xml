@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Control de estado de activos"
+    id="id-350c02b6f5774e30a9962ba533cde887"
+    documentation="Suministra el estado real de los bienes devolutivos (bodega servicio reintegrado inservible etc.).">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Solicitudes.csv on Mon Aug 10 2026 12:41:13 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integración con comprobantes contables"
+    id="id-5bd14aaddb9b4d61842d815d570b8b6b"
+    documentation="Utiliza los comprobantes generados por el componente como base para los procesos de legalización.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

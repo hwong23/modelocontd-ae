@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cierre de vigencia"
+    id="id-3c924c5e4ffc4acaacd2069b8cd2a6e3"
+    documentation="Realiza control sobre los cierres de vigencia.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Ordenes de Suministro.csv on Mon Aug 10 2026 12:48:32 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

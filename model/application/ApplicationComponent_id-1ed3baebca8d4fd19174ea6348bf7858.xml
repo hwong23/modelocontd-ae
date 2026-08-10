@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Historial de precios"
+    id="id-1ed3baebca8d4fd19174ea6348bf7858"
+    documentation="Permite almacenar información de precios para futuras proyecciones de compras.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Ordenes de Suministro.csv on Mon Aug 10 2026 12:48:32 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

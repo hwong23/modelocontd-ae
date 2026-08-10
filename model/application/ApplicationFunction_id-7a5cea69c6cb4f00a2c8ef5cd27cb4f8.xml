@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trazabilidad documental"
+    id="id-7a5cea69c6cb4f00a2c8ef5cd27cb4f8"
+    documentation="Permite asociar movimientos a factura contrato orden de pago orden de entrada u otros documentos.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Radicación y validación de cuentas"
+    id="id-2e82a267e61942aa972fe44b8d807773"
+    documentation="Permite la radicación de cuentas de cobro validación de contratos registrados y verificación de documentos soporte antes de su ingreso al sistema.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

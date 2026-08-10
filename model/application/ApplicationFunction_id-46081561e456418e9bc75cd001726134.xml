@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de información maestra de terceros"
+    id="id-46081561e456418e9bc75cd001726134"
+    documentation="Administra la información completa de personas naturales y jurídicas incluyendo identificación razón social ubicación régimen tributario cuentas bancarias actividad económica y demás datos asociados.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

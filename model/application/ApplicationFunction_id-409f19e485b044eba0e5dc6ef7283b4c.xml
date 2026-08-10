@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modificaciones manuales de apropiación"
+    id="id-409f19e485b044eba0e5dc6ef7283b4c"
+    documentation="Facilita la elaboración manual de modificaciones de apropiación cuando se requiera en procesos específicos.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planeación financiera de proyectos"
+    id="id-43d512ff48bf4c4b9cfa887740998e84"
+    documentation="Los proyectos permiten definir actividades metas indicadores y rubros presupuestales asociados integrando CDP RP obligaciones y pagos.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

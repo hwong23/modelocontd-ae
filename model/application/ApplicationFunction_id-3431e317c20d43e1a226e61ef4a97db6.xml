@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legalización integral de anticipos"
+    id="id-3431e317c20d43e1a226e61ef4a97db6"
+    documentation="Facilita la legalización de avances girados considerando todo el ciclo presupuestal desde el CDP hasta el pago.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

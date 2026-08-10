@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administración de terceros"
+    id="id-885093ab2be946279371db30abb2a2a2"
+    documentation="Permite crear modificar o eliminar terceros del sistema así como asignar claves imprimir listados y modificar identificaciones.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>
