@@ -1,0 +1,7 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ING. Sistema ERP"
+    id="id-c50dbc2314f44e0aae332ac5bf34866a">
+  <profiles
+      href="folder.xml#id-77606b480f3b4fc7b855a762c1753c8b"/>
+</archimate:BusinessProcess>

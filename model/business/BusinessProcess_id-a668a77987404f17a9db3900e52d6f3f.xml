@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ING.Diseño Financiero"
+    id="id-a668a77987404f17a9db3900e52d6f3f"
+    documentation="### KPI&#xD;&#xA;- Nivel de HU sin detalle técnico&#xD;&#xA;Fuente: (Cantidad de HU refinadas y aprobadas sin diseño de implementacion [Repo Sharepoint] / Total de cantidad de HU [Azure DevOps])&#xD;&#xA;Dato 26/10/2023: 0/44=0&#xA;">
+  <profiles
+      href="folder.xml#id-77606b480f3b4fc7b855a762c1753c8b"/>
+</archimate:BusinessProcess>
