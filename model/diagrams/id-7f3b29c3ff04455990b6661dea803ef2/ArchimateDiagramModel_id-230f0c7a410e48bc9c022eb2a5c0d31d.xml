@@ -30,7 +30,7 @@
           href="AggregationRelationship_id-ca7e995cce044e0baa275b4dc85f97fb.xml#id-ca7e995cce044e0baa275b4dc85f97fb"/>
     </sourceConnections>
     <bounds
-        x="12"
+        x="24"
         y="66"
         width="1068"
         height="336"/>
@@ -168,7 +168,7 @@
           href="CompositionRelationship_id-5550f5438b744a9e9c0279101ec2bcb9.xml#id-5550f5438b744a9e9c0279101ec2bcb9"/>
     </sourceConnections>
     <bounds
-        x="12"
+        x="24"
         y="401"
         width="1068"
         height="336"/>
