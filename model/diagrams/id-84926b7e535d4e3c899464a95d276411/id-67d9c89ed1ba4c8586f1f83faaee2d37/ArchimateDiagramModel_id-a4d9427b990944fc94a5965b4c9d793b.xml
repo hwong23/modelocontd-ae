@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="app.HUMANO® En Línea – Portal de Autogestión"
+    name="app.HUMANO En Línea – Portal de Autogestión"
     id="id-a4d9427b990944fc94a5965b4c9d793b">
   <children
       xsi:type="archimate:DiagramModelNote"
