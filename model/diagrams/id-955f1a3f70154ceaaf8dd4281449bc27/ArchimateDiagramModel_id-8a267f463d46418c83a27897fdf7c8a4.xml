@@ -10,7 +10,7 @@
         x="24"
         y="36"
         width="205"
-        height="55"/>
+        height="37"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-732f895df8fb45fc82ae9fe9211a22a0.xml#id-732f895df8fb45fc82ae9fe9211a22a0"/>
@@ -20,9 +20,9 @@
       id="id-bedf309716cb48598696f0909ff560e1">
     <bounds
         x="24"
-        y="108"
+        y="84"
         width="205"
-        height="55"/>
+        height="37"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-615b1ba4c05b4010917332ad71783dbd.xml#id-615b1ba4c05b4010917332ad71783dbd"/>
@@ -32,9 +32,9 @@
       id="id-1607c3352cf34529b9f0b2293f28b597">
     <bounds
         x="24"
-        y="180"
+        y="132"
         width="205"
-        height="55"/>
+        height="37"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-27c272b30e99404cac201b788798088c.xml#id-27c272b30e99404cac201b788798088c"/>
