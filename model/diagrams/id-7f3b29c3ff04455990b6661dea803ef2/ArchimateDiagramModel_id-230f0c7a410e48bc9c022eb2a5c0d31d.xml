@@ -26,8 +26,8 @@
           href="TriggeringRelationship_id-096cf1619c2642dba69b9c611b667cbc.xml#id-096cf1619c2642dba69b9c611b667cbc"/>
     </sourceConnections>
     <bounds
-        x="563"
-        y="495"
+        x="252"
+        y="288"
         width="120"
         height="55"/>
     <archimateElement
@@ -48,8 +48,8 @@
           href="TriggeringRelationship_id-bfe530d5bc45414ab2d31cc5147827f9.xml#id-bfe530d5bc45414ab2d31cc5147827f9"/>
     </sourceConnections>
     <bounds
-        x="803"
-        y="327"
+        x="492"
+        y="120"
         width="120"
         height="55"/>
     <archimateElement
@@ -70,8 +70,8 @@
           href="TriggeringRelationship_id-cb7a34e0fb264e2f857e85f1d4f7210f.xml#id-cb7a34e0fb264e2f857e85f1d4f7210f"/>
     </sourceConnections>
     <bounds
-        x="1043"
-        y="327"
+        x="732"
+        y="120"
         width="120"
         height="55"/>
     <archimateElement
@@ -91,8 +91,8 @@
           href="TriggeringRelationship_id-a835d0364f7548cba96b2f7a03819a5e.xml#id-a835d0364f7548cba96b2f7a03819a5e"/>
     </sourceConnections>
     <bounds
-        x="323"
-        y="495"
+        x="12"
+        y="288"
         width="120"
         height="55"/>
     <archimateElement
@@ -113,8 +113,8 @@
           href="TriggeringRelationship_id-8bced0dbadb64e549760b75e784ae0d4.xml#id-8bced0dbadb64e549760b75e784ae0d4"/>
     </sourceConnections>
     <bounds
-        x="1403"
-        y="471"
+        x="1056"
+        y="264"
         width="120"
         height="55"/>
     <archimateElement
@@ -126,8 +126,8 @@
       id="id-b61805f900ec4d7596fdefaee72ebdc8"
       targetConnections="id-5db6e5eca4fe488f9138053895034577">
     <bounds
-        x="1667"
-        y="471"
+        x="1320"
+        y="264"
         width="120"
         height="55"/>
     <archimateElement
@@ -148,8 +148,8 @@
           href="TriggeringRelationship_id-bfe530d5bc45414ab2d31cc5147827f9.xml#id-bfe530d5bc45414ab2d31cc5147827f9"/>
     </sourceConnections>
     <bounds
-        x="803"
-        y="634"
+        x="492"
+        y="427"
         width="120"
         height="55"/>
     <archimateElement
@@ -170,8 +170,8 @@
           href="TriggeringRelationship_id-cb7a34e0fb264e2f857e85f1d4f7210f.xml#id-cb7a34e0fb264e2f857e85f1d4f7210f"/>
     </sourceConnections>
     <bounds
-        x="1043"
-        y="634"
+        x="732"
+        y="427"
         width="120"
         height="55"/>
     <archimateElement
@@ -192,8 +192,8 @@
           href="TriggeringRelationship_id-f4787f2cde8f40e08238a0af559e7fa1.xml#id-f4787f2cde8f40e08238a0af559e7fa1"/>
     </sourceConnections>
     <bounds
-        x="1271"
-        y="327"
+        x="960"
+        y="120"
         width="120"
         height="55"/>
     <archimateElement
@@ -214,12 +214,27 @@
           href="TriggeringRelationship_id-f4787f2cde8f40e08238a0af559e7fa1.xml#id-f4787f2cde8f40e08238a0af559e7fa1"/>
     </sourceConnections>
     <bounds
-        x="1271"
-        y="633"
+        x="960"
+        y="426"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-65ac8a4c65ad4d5e9c1b693376e1a62b.xml#id-65ac8a4c65ad4d5e9c1b693376e1a62b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-eebcf76f9ed448498e0ae7c186afeda9"
+      font="1|Lucida Grande|12.0|0|COCOA|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="Proceso de ingeniería&#xA;Instauración ERP Personería&#xA;&#xA;versión 0.1">
+    <bounds
+        x="12"
+        y="12"
+        width="301"
+        height="128"/>
   </children>
 </archimate:ArchimateDiagramModel>
