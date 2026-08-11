@@ -283,7 +283,7 @@
         <bounds
             x="156"
             y="60"
-            width="120"
+            width="132"
             height="55"/>
         <archimateElement
             xsi:type="archimate:Goal"

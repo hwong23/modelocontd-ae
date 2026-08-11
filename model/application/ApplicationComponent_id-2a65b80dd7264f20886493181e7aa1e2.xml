@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legalización de Avances"
+    id="id-2a65b80dd7264f20886493181e7aa1e2"
+    documentation="Facilita la elaboración de órdenes de pago asociadas a reservas presupuestales.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>

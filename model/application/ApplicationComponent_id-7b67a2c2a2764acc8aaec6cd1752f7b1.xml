@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consultas"
+    id="id-7b67a2c2a2764acc8aaec6cd1752f7b1"
+    documentation="Facilita la elaboración de órdenes de pago asociadas a reservas presupuestales.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
+</archimate:ApplicationComponent>
