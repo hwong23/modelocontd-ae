@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ref4.Repositorio de arquitectura"
-    id="id-ec282911ffb246f99f102fad6635ce48">
+    id="id-ec282911ffb246f99f102fad6635ce48"
+    documentation="Gestión Centralizada de Requerimientos (Requirements Management):&#xA;&#xA;Matriz de Trazabilidad entre requerimientos de negocio corporativos y requerimientos técnicos específicos de Nómina y Financiero.&#xA;Evaluación de impacto ante cambios: Cualquier modificación en el modelo de datos financiero se evalúa de inmediato contra los bloques de nómina.&#xA;&#xA;Gestión de Entregables de Arquitectura (ADM TOGAF):&#xA;&#xA;Visión de Arquitectura (Fase A): Definición clara del alcance del ERP y alineación de los stakeholders.&#xA;Arquitectura de Sistemas de Información (Fase C - Datos y Aplicaciones): Modelado de flujos de integración entre Nómina y Financiero (diagramas de interacción de aplicaciones, catálogos de interfaces, modelos conceptuales y lógicos de datos).&#xA;Arquitectura Tecnológica (Fase D): Estandarización del intercambio de información, bases de datos, seguridad e infraestructura en-tierra.&#xA;&#xA;Evolución y Control de los Bloques de Construcción (Building Blocks):&#xA;&#xA;ABB (Architecture Building Blocks): Definición lógica de capacidades reusables (ej. Servicio de Autenticación, Servicio de Auditoría, Motor de Reglas Contables).&#xA;SBB (Solution Building Blocks): Componentes de software y productos específicos que implementan los ABB en Nómina y Financiero.&#xA;Evita la duplicación de componentes tecnológicos, de licenciamiento y mantenimiento futuro.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6f078de51f45409fbb3c44e6b4ff5155"
