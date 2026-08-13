@@ -368,12 +368,11 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-26692cab39214445884e7e4d52c12b66"
-      font="1|Lucida Grande|12.0|0|COCOA|1|"
-      fontColor="#000000"
+      font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Proceso de ingeniería&#xA;Instauración ERP Personería&#xA;&#xA;versión 1.0.1">
+      content="Proceso de ingeniería&#xA;Instauración ERP Personería&#xA;&#xA;- Sincronización de hitos entre líneas Nóm, Fin&#xA;- Reutilización de artefactos&#xA;- Economóia de recursos&#xA;&#xA;versión 1.0.4">
     <bounds
         x="12"
         y="12"

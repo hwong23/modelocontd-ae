@@ -1,5 +1,5 @@
 <archimate:Assessment
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Riesgo Principal"
+    name="Riesgo Principal: silos de desarrollo"
     id="id-81722c2c900848d19ae71ec17fcd68f6"
-    documentation="Gestionar ambos sistemas de manera aislada (silos de desarrollo) conduciría a inconsistencias en los datos maestros, interfaces punto a punto frágiles, duplicación de esfuerzos de desarrollo y desfases en los tiempos de salida a producción.&#xA;"/>
+    documentation="Gestionar las líneas de sistemas (Nómina y Financiero) de manera aislada (**silos de desarrollo**) conduciría a inconsistencias en los datos institucionales, interfaces punto a punto, tentativa de duplicación de esfuerzos de desarrollo y desfases en los tiempos de salida a producción.&#xA;"/>

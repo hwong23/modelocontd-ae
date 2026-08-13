@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Financiero PCT"
-    id="id-ed3fe903f0af43c78854af72a6e867c6"/>
+    id="id-ed3fe903f0af43c78854af72a6e867c6"
+    documentation="Integración presupuestal con BOG DATA y automatización de recaudos.&#xA;"/>
