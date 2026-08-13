@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="02.1a.Proceso ING. ERP Personería"
     id="id-615b1ba4c05b4010917332ad71783dbd"
-    documentation="Sincronización de Hitos de Desarrollo: Las fases de análisis, diseño de interfaces, integración y pruebas de aceptación se ejecutan de forma alineada en ambos equipos.&#xA;&#xA;Reutilización e Interoperabilidad: Definición conjunta de artefactos y contratos de integración (API,, intercambio de información) desde las fases iniciales de diseño.&#xA;&#xA;Optimización de Recursos: Unificación de entornos de desarrollo, integración y marcos de pruebas y aceptaciones..&#xA;">
+    documentation="Sincronización de Hitos de Desarrollo: Las fases de análisis, diseño de interfaces, integración y pruebas de aceptación se ejecutan de forma alineada en ambos equipos.&#xA;&#xA;Reutilización e Interoperabilidad: Definición conjunta de artefactos y contratos de integración (API,, intercambio de información) desde las fases iniciales de diseño.&#xA;&#xA;Optimización de Recursos: Unificación de entornos de desarrollo, integración y marcos de pruebas y aceptaciones.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bc77a8d0d33a4648a1854dfe5ea90ccc"
