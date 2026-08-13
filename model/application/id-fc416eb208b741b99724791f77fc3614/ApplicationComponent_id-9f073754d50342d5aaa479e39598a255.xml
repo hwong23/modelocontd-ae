@@ -6,4 +6,6 @@
   <properties
       key="importado"
       value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Tramites en Linea Cloud.csv on Fri Aug 07 2026 11:52:48 GMT-0500 (COT)"/>
+  <profiles
+      href="folder.xml#id-00fb04354c134ff9bc3edba98cc93cdc"/>
 </archimate:ApplicationComponent>

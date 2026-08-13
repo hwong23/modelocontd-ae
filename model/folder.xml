@@ -23,4 +23,9 @@
       id="id-77606b480f3b4fc7b855a762c1753c8b"
       imagePath="images/_PnBRwJA5EfGmwP36YBG9tA.png"
       conceptType="BusinessProcess"/>
+  <profiles
+      name="Nómina"
+      id="id-00fb04354c134ff9bc3edba98cc93cdc"
+      imagePath="images/_t6z2QJcREfGb2phPgIru4A.png"
+      conceptType="ApplicationComponent"/>
 </archimate:ArchimateModel>

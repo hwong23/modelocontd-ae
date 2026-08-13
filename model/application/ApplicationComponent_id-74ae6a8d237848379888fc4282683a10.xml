@@ -2,4 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nómina Humano"
     id="id-74ae6a8d237848379888fc4282683a10"
-    documentation="HUMANO® CORE NOMINA ESTANDAR (modalidad On Premise), para la operación y administración de nómina.&#xA;&#xA;Core Nómina:&#xA;1. Estructura Organizacional&#xA;1. Planta y Personal &#xA;1. Compensación y Laborales&#xA;1. Salud y Seguridad: Manejo de Ausentismos-Recobros de Incapacidades&#xA;1. Módulo HUMANO® En Línea – Portal de Autogestión (Exclusivo Cloud SaaS)&#xA;1. Administración y Seguridad&#xA;"/>
+    documentation="HUMANO® CORE NOMINA ESTANDAR (modalidad On Premise), para la operación y administración de nómina.&#xA;&#xA;Core Nómina:&#xA;1. Estructura Organizacional&#xA;1. Planta y Personal &#xA;1. Compensación y Laborales&#xA;1. Salud y Seguridad: Manejo de Ausentismos-Recobros de Incapacidades&#xA;1. Módulo HUMANO® En Línea – Portal de Autogestión (Exclusivo Cloud SaaS)&#xA;1. Administración y Seguridad&#xA;">
+  <profiles
+      href="folder.xml#id-00fb04354c134ff9bc3edba98cc93cdc"/>
+</archimate:ApplicationComponent>
