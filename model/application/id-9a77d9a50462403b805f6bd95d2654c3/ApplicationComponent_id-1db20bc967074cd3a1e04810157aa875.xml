@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="app.Almacen"
+    name="Almacen"
     id="id-1db20bc967074cd3a1e04810157aa875"
     documentation="Permite generar automáticamente asientos contables a partir de movimientos de almacén.">
   <properties

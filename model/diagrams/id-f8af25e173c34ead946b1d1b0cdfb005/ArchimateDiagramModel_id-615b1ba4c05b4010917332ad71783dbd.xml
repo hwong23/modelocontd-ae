@@ -129,8 +129,8 @@
             href="RealizationRelationship_id-e73d02512e2541ecadeb5538894fed81.xml#id-e73d02512e2541ecadeb5538894fed81"/>
       </sourceConnections>
       <bounds
-          x="192"
-          y="24"
+          x="180"
+          y="23"
           width="120"
           height="55"/>
       <archimateElement
@@ -302,9 +302,9 @@
     </sourceConnections>
     <bounds
         x="180"
-        y="252"
+        y="189"
         width="120"
-        height="55"/>
+        height="181"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-55cbf6638b4347768be7c64b1046c49f.xml#id-55cbf6638b4347768be7c64b1046c49f"/>
@@ -344,7 +344,7 @@
           href="TriggeringRelationship_id-75e92998f4414310b861286d3bce34c9.xml#id-75e92998f4414310b861286d3bce34c9"/>
     </sourceConnections>
     <bounds
-        x="900"
+        x="780"
         y="252"
         width="120"
         height="55"/>
@@ -357,7 +357,7 @@
       id="id-d6dcf70abadd42909e5bbd758679eca0"
       targetConnections="id-34c9885139874a5ca389e33094073fe8">
     <bounds
-        x="1101"
+        x="984"
         y="252"
         width="120"
         height="55"/>
