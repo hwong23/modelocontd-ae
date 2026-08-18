@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ING.Planeación ERP"
     id="id-5b44f7df63474c0fbe139233092bda4a"
-    documentation="Plan de Implementación y Migración (Implementation and Migration Plan): Modela la descomposición de los Paquetes de Trabajo (Work Packages), la asignación de recursos y el cronograma de ejecución paralela.  &#xA;&#xA;&#xA;* **Catálogo de Entidades de Datos**: Mañ, 19ag, 1030am (No 2pm)&#xA;* **Catálogo de Interfaces**: Lista de interfaces de comunicación por funcionalidad o componente de la aplicación / sistema de información: VIe 21ag, 1030am&#xA;* **Portafolio de Aplicaciones / Funcionalidades**: Jue 20ag, 1030 am&#xA;Catálogos**: Lunes (a programar)&#xA;Catalogo de Parametrizaciones (captura configuraciones, supuestos, restricciones y brechas).&#xA;">
+    documentation="Plan de Implementación y Migración (Implementation and Migration Plan): Modela la descomposición de los Paquetes de Trabajo (Work Packages), la asignación de recursos y el cronograma de ejecución paralela.  &#xA;&#xA;&#xA;* **Catálogo de Entidades de Datos**: Mañ, 19ag, 1030am (No 2pm)&#xA;* **Catálogo de Interfaces**: Lista de interfaces de comunicación por funcionalidad o componente de la aplicación / sistema de información: VIe 21ag, 1030am&#xA;* **Portafolio de Aplicaciones / Funcionalidades**: Jue 20ag, 1030 am&#xA;Catálogos**: Lunes (a programar)&#xA;Catalogo de Parametrizaciones Martes... &#xA;">
   <profiles
       href="folder.xml#id-77606b480f3b4fc7b855a762c1753c8b"/>
 </archimate:BusinessProcess>
