@@ -26,6 +26,11 @@
   <profiles
       name="Nómina"
       id="id-00fb04354c134ff9bc3edba98cc93cdc"
-      imagePath="images/_t6z2QJcREfGb2phPgIru4A.png"
+      imagePath="images/_rN660JtGEfG1F860OPKQSw.png"
+      conceptType="ApplicationComponent"/>
+  <profiles
+      name="Financiero"
+      id="id-a561c4161c644f2eb21626e5a129ea3f"
+      imagePath="images/_GUTSQJtHEfG1F860OPKQSw.png"
       conceptType="ApplicationComponent"/>
 </archimate:ArchimateModel>
