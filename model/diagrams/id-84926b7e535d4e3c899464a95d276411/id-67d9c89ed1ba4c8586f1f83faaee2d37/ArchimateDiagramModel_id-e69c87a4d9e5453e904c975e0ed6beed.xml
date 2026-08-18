@@ -241,9 +241,9 @@
         id="id-f9c5e7b214534ee0bca7a53ee15518a1"
         targetConnections="id-a47c5c9eff7642509c3caa927d991ad8">
       <bounds
-          x="144"
+          x="131"
           y="24"
-          width="120"
+          width="132"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationFunction"

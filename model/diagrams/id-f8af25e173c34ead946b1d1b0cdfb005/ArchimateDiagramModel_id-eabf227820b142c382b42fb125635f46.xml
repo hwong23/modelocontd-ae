@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="02.1b.Proceso ING. ERP Personería. IInformación"
     id="id-eabf227820b142c382b42fb125635f46"
-    documentation="#### Descripción del Proceso de Ingeniería (Vista ArchiMate)&#xA;&#xA;Estructura de ejecución del contrato mediante el método de **desarrollo paralelo**, de los subproyectos independientes que convergen en una sola entrega de sistema ERP para #CLIENTE.&#xA;&#xA;* **PUnto de Partida y Descomposición General:**&#xA;* Se parte de una **Fase de Análisis / Requerimiento General** donde se define el alcance global del sistema ERP.&#xA;* A nivel de especificaciones de sistemas (equivalente a diseño en el proceso convencional de ingeniería), el proyecto se divide en múltiples **Subproyectos paralelos independientes** (Subproyecto Nómina, Subproyecto Financiero, ..., Subproyecto RR Físicos).&#xA;&#xA;&#xA;* **Ejecución en Paralelo (Ciclo por Subproyecto):**&#xA;* Cada subproyecto ejecuta sus propias etapas de ingeniería de manera autónoma y paralela: **Especificación Detallada > Implementación / Codiﬁcación > Verificación (pruebas unitarias x módulo)**.&#xA;* Aspecto clave: al trabajar sobre componentes terminados y comunicados únicamente por contratos o interfaces generales, se reduce el tiempo total de entrega (*time-to-market*) al evitar los cuellos de botella secuenciales del modelo en cascada tradicional.&#xA;&#xA;* **Integración y Despliegue Final:**&#xA;* Al finalizar los subproyectos, se pasa a una etapa común de **Integración de Componentes/Módulos**, seguida de **Pruebas de Integración y Sistema**, culminando en el **Despliegue e Integración Final del Sistema**.&#xA;&#xA;&#xA;#### Entregables e Instrumentos de TOGAF Asociados&#xA;&#xA;Para soportar y documentar este proceso de desarrollo paralelo (con arreglo a TOGAF), se emplean los siguientes entregables y artefactos:&#xA;&#xA;* **Documento de Definición de Arquitectura:** Contiene la especificación modular y las interfaces del sistema para permitir la independencia de los subproyectos.&#xA;&#xA;* **Especificación de Requerimientos de Arquitectura:** Define los criterios funcionales y no funcionales que debe cumplir cada módulo paralelo.&#xA;&#xA;* **Implementación y Migración:** Modela la descomposición de los Paquetes de Trabajo (_work packages_), la asignación de recursos y los períodos de ejecución paralela.&#xA;&#xA;&#xA;* **Artefactos del Modelo de Contenidos (TOGAF Catalogs, Matrices and Diagrams):**&#xA;* **Matriz de Interacción de Aplicaciones (Application Interaction Matrix):** Muestra los contratos e interfaces entre los subproyectos para asegurar que la integración final no presente incompatibilidades.&#xA;&#xA;* **Diagrama de Contexto del Proyecto (Project Context Diagram):** Mapea el alcance de cada subproyecto paralelo y los paquetes de trabajo asociados.&#xA;&#xA;* **Diagrama de Descomposición Funcional / Software Engineering Diagram:** Representa la división en paquetes, módulos y servicios a ser construidos en paralelo.&#xA;&#xA;&#xA;#### Objetivos del Proceso&#xA;Sincronización de Hitos de Desarrollo: Las fases de análisis, diseño de interfaces, integración y pruebas de aceptación se ejecutan de forma alineada en ambos equipos.&#xA;&#xA;Reutilización e Interoperabilidad: Definición conjunta de artefactos y contratos de integración (API,, intercambio de información) desde las fases iniciales de diseño.&#xA;&#xA;Optimización de Recursos: Unificación de entornos de desarrollo, integración y marcos de pruebas y aceptaciones.&#xA;&#xA;">
+    documentation="#### Descripción del Proceso de Ingeniería (Vista ArchiMate)&#xA;&#xA;Estructura de ejecución del contrato mediante el método de **desarrollo paralelo**, de los subproyectos independientes que convergen en una sola entrega de sistema ERP para #CLIENTE.&#xA;&#xA;* **Punto de Partida y Descomposición General:**&#xA;* Se parte de una **Fase de Análisis / Requerimiento General** donde se define el alcance global del sistema ERP.&#xA;* A nivel de especificaciones de sistemas (equivalente a diseño en el proceso convencional de ingeniería), el proyecto se divide en múltiples **Subproyectos paralelos independientes** (Subproyecto Nómina, Subproyecto Financiero, ..., Subproyecto RR Físicos).&#xA;&#xA;&#xA;* **Ejecución en Paralelo (Ciclo por Subproyecto):**&#xA;* Cada subproyecto ejecuta sus propias etapas de ingeniería de manera autónoma y paralela: **Especificación Detallada > Implementación / Codiﬁcación > Verificación (pruebas unitarias x módulo)**.&#xA;* Aspecto clave: al trabajar sobre componentes terminados y comunicados únicamente por contratos o interfaces generales, se reduce el tiempo total de entrega (*time-to-market*) al evitar los cuellos de botella secuenciales del modelo en cascada tradicional.&#xA;&#xA;* **Integración y Despliegue Final:**&#xA;* Al finalizar los subproyectos, se pasa a una etapa común de **Integración de Componentes/Módulos**, seguida de **Pruebas de Integración y Sistema**, culminando en el **Despliegue e Integración Final del Sistema**.&#xA;&#xA;&#xA;#### Entregables e Instrumentos de Arquitectura &#xA;&#xA;Para soportar y documentar este proceso de desarrollo paralelo (con arreglo a TOGAF), se emplean los siguientes entregables y artefactos:&#xA;&#xA;* **Documento de Definición de Arquitectura:** Contiene la especificación modular y las interfaces del sistema para permitir la independencia de los subproyectos.&#xA;&#xA;* **Especificación de Requerimientos de Arquitectura:** Define los criterios funcionales y no funcionales que debe cumplir cada módulo paralelo.&#xA;&#xA;* **Implementación y Migración:** Modela la descomposición de los Paquetes de Trabajo (_work packages_), la asignación de recursos y los períodos de ejecución paralela.&#xA;&#xA;&#xA;* **Artefactos del Modelo de Contenidos:**&#xA;* **Catálogo de Entidades de Datos**: Entidades de datos por negocio o componente.&#xA;* **Matriz de Datos /  Funcionalidad o Componente**: Muestra la relación de dependencia de cada funcionalidad con las entidades de datos.&#xA;&#xA;* **Catálogo de Interfaces**: Lista de interfaces de comunicación por funcionalidad o componente de la aplicación / sistema de información.&#xA;&#xA;* **Portafolio de Aplicaciones / Funcionalidades**: Lista de funcionalidades disponibilizadas por el proyecto, por aplicación o sistema de información. Nota: las funionalidades aprobadasse derivan de este catálogo.&#xA;&#xA;* **Matriz de Interacción de Aplicaciones (Application Interaction Matrix):** Muestra los contratos e interfaces entre los subproyectos para asegurar que la integración final no presente incompatibilidades.&#xA;&#xA;### Tecnologías&#xA;* **Catálogos**: Pila de Tecnología.&#xA;* **Matrices**: Matriz Aplicación/Tecnología.&#xA;&#xA;### Parametrización&#xA;**Catálogos**: Catalogo de Parametrizaciones (captura configuraciones, supuestos, restricciones y brechas).&#xA;&#xA;* **Diagrama de Contexto del Proyecto (Project Context Diagram):** Mapea el alcance de cada subproyecto paralelo y los paquetes de trabajo asociados.&#xA;&#xA;* **Diagrama de Descomposición Funcional / Software Engineering Diagram:** Representa la división en paquetes, módulos y servicios a ser construidos en paralelo.&#xA;&#xA;&#xA;#### Objetivos del Proceso&#xA;Sincronización de Hitos de Desarrollo: Las fases de análisis, diseño de interfaces, integración y pruebas de aceptación se ejecutan de forma alineada en ambos equipos.&#xA;&#xA;Reutilización e Interoperabilidad: Definición conjunta de artefactos y contratos de integración (API,, intercambio de información) desde las fases iniciales de diseño.&#xA;&#xA;Optimización de Recursos: Unificación de entornos de desarrollo, integración y marcos de pruebas y aceptaciones.&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-18d0ec556eca4fc1b3aa00e523a250ef"
@@ -141,7 +141,7 @@
           x="24"
           y="48"
           width="120"
-          height="48"/>
+          height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-a668a77987404f17a9db3900e52d6f3f.xml#id-a668a77987404f17a9db3900e52d6f3f"/>
@@ -149,7 +149,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0fd1637556834c4ca3946699ef2d997a"
-        targetConnections="id-20a0b429154840e6b3ef0bbb008da894">
+        targetConnections="id-20a0b429154840e6b3ef0bbb008da894"
+        font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-cc213aaa5e25418a9f0587fb6b47c5df"
@@ -318,7 +319,7 @@
           x="24"
           y="48"
           width="120"
-          height="48"/>
+          height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-ea738087c8c34e56b69ed9ad9d4c4998.xml#id-ea738087c8c34e56b69ed9ad9d4c4998"/>
@@ -360,7 +361,7 @@
     </sourceConnections>
     <bounds
         x="180"
-        y="189"
+        y="228"
         width="120"
         height="352"/>
     <archimateElement
@@ -381,7 +382,7 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="252"
+        y="291"
         width="120"
         height="55"/>
     <archimateElement
@@ -430,7 +431,7 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Proceso de ingeniería&#xA;Instauración ERP Personería&#xA;&#xA;- Sincronización de hitos entre líneas Nóm, Fin&#xA;- Reutilización de artefactos&#xA;- Economóia de recursos&#xA;&#xA;versión 1.1.0">
+      content="Proceso de ingeniería&#xA;Instauración ERP Personería&#xA;&#xA;- Sincronización de hitos entre líneas Nóm, Fin&#xA;- Reutilización de artefactos&#xA;- Economóia de recursos&#xA;&#xA;versión 1.1.5">
     <bounds
         x="12"
         y="12"
@@ -523,7 +524,7 @@
           x="24"
           y="48"
           width="120"
-          height="48"/>
+          height="61"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-83b0a85cea2846cbba15642b9ea46cbb.xml#id-83b0a85cea2846cbba15642b9ea46cbb"/>
@@ -624,7 +625,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-22e5f27429bc49309858e20adec630b6"
-        targetConnections="id-fd33e6bdc36c4f218b45f80d5b5e7516">
+        targetConnections="id-fd33e6bdc36c4f218b45f80d5b5e7516"
+        font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-e5bf6cac02034658aee49c969170ff7a"
@@ -680,7 +682,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-252017ed3cd345559108b69a49dcc6d7"
-      targetConnections="id-df1625a922ea4525b80ad7de2cd0f296">
+      targetConnections="id-df1625a922ea4525b80ad7de2cd0f296"
+      font="1|Lucida Grande|11.0|0|COCOA|1|LucidaGrande">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-86dd5a14180a455493f05c35d0bb3b45"
