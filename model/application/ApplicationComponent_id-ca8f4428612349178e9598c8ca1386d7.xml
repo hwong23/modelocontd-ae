@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Recursos Físicos"
+    name="sys: Recursos Físicos"
     id="id-ca8f4428612349178e9598c8ca1386d7"
     documentation="Generación de órdenes de suministros, especificaciones legales, descuentos e ingresos de recargo a las órdenes de suministro, almacenamiento de información respecto a precios para proyecciones de compras, realizacontrol a cierres de vigencia."/>
