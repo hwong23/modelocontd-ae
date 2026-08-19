@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="justifica"
+    id="id-02bdc923301640018bc882d80a506178">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-f53c130acf284722b5745cd799f783c2.xml#id-f53c130acf284722b5745cd799f783c2"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-9e54d651be6e4dc5abe49ebb5b479f27.xml#id-9e54d651be6e4dc5abe49ebb5b479f27"/>
+</archimate:AssociationRelationship>
