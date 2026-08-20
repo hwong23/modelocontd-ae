@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="app.financiero. Almacen"
+    name="app.rrfisicos. Almacen"
     id="id-9eaa020e28014e43b518422e5883d31f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

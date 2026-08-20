@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="app.financiero. Ordenes de Suministro"
+    name="app.rrfisicos. Ordenes de Suministro"
     id="id-4846fc8e2315465799ae389324c1012b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
