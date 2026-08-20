@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Control de acceso por unidad ejecutora"
-    id="id-e6080ce3310840d7bca54d811bdcb3de"
-    documentation="Controla la visualización de unidades ejecutoras por usuario.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
-</archimate:ApplicationComponent>

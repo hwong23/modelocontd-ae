@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestión integral de órdenes de pago"
-    id="id-d3ecf4718136425dadd85e8577e6b082"
-    documentation="Genera órdenes de pago con validaciones de documentos soporte, liquidación automática, causación de obligaciones y registro presupuestal, controlando estados como radicada, pendiente, liquidada, causada, pagada o anulada.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
-</archimate:ApplicationComponent>

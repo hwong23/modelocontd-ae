@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Generación de pagos desde compromisos"
-    id="id-288b98b312434809b001e1b4d26c711b"
-    documentation="Genera órdenes de pago tomando como base compromisos previamente adquiridos tanto de vigencia actual como de reversa presupuestal.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
-</archimate:ApplicationComponent>

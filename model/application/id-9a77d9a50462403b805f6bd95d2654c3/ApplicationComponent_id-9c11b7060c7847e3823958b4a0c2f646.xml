@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Seguimiento de cuentas"
-    id="id-9c11b7060c7847e3823958b4a0c2f646"
-    documentation="Genera informes de los estados de una cuenta durante todo el proceso.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
-</archimate:ApplicationComponent>

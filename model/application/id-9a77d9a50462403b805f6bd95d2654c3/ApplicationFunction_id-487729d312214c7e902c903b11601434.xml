@@ -1,8 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Elaboración y control de órdenes"
+    name="Elaboración y control de órdenes de pagos"
     id="id-487729d312214c7e902c903b11601434"
-    documentation="Permite elaborar órdenes de pago y desplegar mecanismos de control para el trámite de cuentas.">
+    documentation="Permite elaborar órdenes de pago y desplegar mecanismos de control para el trámite de cuentas.&#xA;Genera órdenes de pago tomando como base compromisos previamente adquiridos tanto de vigencia actual como de reversa presupuestal.&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>

@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Reportes de anticipos"
+    name="Reportes de anticipos y avances"
     id="id-d54e5957d0c0415da1d7b0bccf0ce2d8"
     documentation="Produce informes sobre anticipos amortizaciones y legalizaciones.">
   <properties

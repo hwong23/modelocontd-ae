@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestión de anticipos"
+    name="Gestión de tipos de órdenes de pago y anticipos"
     id="id-bacfc67822aa46c1b55cfa133987170f"
     documentation="Gestiona anticipos, su amortización y liquidación.">
   <properties

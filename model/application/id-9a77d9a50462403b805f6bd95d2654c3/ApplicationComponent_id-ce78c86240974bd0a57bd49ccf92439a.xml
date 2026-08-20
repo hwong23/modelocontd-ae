@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Administración de obligaciones"
-    id="id-ce78c86240974bd0a57bd49ccf92439a"
-    documentation="Gestiona las obligaciones adquiridas por la entidad teniendo en cuenta el proceso presupuestal.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
-</archimate:ApplicationComponent>

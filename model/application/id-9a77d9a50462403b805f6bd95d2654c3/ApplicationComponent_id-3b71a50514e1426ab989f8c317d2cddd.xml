@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Obligaciones e Integrador de Pagos"
+    name="Obligaciones e Integrador de Pagos - Autorización de Pagos"
     id="id-3b71a50514e1426ab989f8c317d2cddd"
     documentation="Permite el control de los compromisos adquiridos por la Administración Municipal.">
   <properties
