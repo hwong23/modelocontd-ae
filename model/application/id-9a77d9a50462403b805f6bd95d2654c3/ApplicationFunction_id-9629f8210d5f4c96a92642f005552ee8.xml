@@ -1,9 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Control de liquidación"
-    id="id-9629f8210d5f4c96a92642f005552ee8"
-    documentation="Verifica la correcta liquidación de la orden.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>

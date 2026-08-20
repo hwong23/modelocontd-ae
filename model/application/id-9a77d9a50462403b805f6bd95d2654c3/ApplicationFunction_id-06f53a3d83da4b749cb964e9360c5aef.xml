@@ -1,9 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Consulta de débitos y créditos"
-    id="id-06f53a3d83da4b749cb964e9360c5aef"
-    documentation="Permite visualizar los valores débito y crédito de cada transacción.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>

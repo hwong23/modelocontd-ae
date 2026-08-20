@@ -1,9 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Integración contable centralizada"
-    id="id-17657d140be34da1916288839c0b16ea"
-    documentation="Permite la integración con el componente de contabilidad para operar y administrar cuentas contables.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>

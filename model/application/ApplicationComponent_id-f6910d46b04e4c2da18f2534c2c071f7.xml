@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Comprobantes de Contabilidad"
-    id="id-f6910d46b04e4c2da18f2534c2c071f7"/>
+    id="id-f6910d46b04e4c2da18f2534c2c071f7"
+    documentation="Permite la distribución de una cuenta por unidad ejecutora.&#xA;Permite el manejo de contabilidad por secretarías y ordenadores del gasto generando balances estados de rentas y gastos y libros auxiliares por unidad ejecutora.&#xA;Manejo Interno por Unidad Ejecutora.&#xA;"/>

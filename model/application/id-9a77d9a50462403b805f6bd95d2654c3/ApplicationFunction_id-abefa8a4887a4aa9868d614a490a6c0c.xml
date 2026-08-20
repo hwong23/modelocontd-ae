@@ -1,8 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Administración de cuentas"
+    name="Administración y mantenimiento de plan de cuentas"
     id="id-abefa8a4887a4aa9868d614a490a6c0c"
-    documentation="Permite la adición modificación o retiro de cuentas.">
+    documentation="Permite mantener el plan de cuentas conforme a cambios normativos de la Contaduría General de la Nación.&#xA;&#xA;Datos:&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>

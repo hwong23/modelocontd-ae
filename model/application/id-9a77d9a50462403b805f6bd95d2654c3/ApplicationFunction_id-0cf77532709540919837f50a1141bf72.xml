@@ -1,8 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Certificación presupuestal por proyecto"
+    name="Certificados de bancos por proyecto"
     id="id-0cf77532709540919837f50a1141bf72"
-    documentation="Facilita la expedición de certificados de disponibilidad asociados a proyectos.">
+    documentation="Facilita la expedición de certificado de bancos, de tal manera que desde el punto de vista del proyecto se tenga el control de disponibilidad acorde a la estimación de valores asociados a las actividades a desarrollar en cada caso.">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>

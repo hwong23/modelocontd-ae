@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Causación de órdenes"
+    id="id-469063112c264ae3a772f19c52ba877b"
+    documentation="Brinda información para revisar anticipadamente la imputación contable antes de aprobar la causación.&#xA;Permite revisar y aprobar o rechazar la imputación contable de una orden de pago.&#xA;Permite revisar la liquidación realizada en el módulo de Control de Cuentas para aprobación o reliquidación.&#xA;Permite revisar la imputación presupuestal de la cuenta en trámite.&#xA;Permite visualizar los valores débito y crédito de cada transacción.&#xA;Verifica la coherencia entre imputación presupuestal y contable.&#xA;Verifica la correcta liquidación de la orden.&#xA;Verifica movimientos de entradas de almacén asociados al pago.&#xA;Permite visualizar las descripciones de las cuentas involucradas.&#xA;Permite visualizar las cuentas contables imputadas a la orden.&#xA;Permite efectuar la causación de la orden generando los correspondientes registros contables en línea y la obligación presupuestal.&#xA;Permite deshacer una causación previamente realizada.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>
