@@ -1,9 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Configuración de corrección monetaria"
-    id="id-ca0d1cb661364e29bd160658261afbda"
-    documentation="Permite definir cuentas de ajuste y corrección monetaria para cuentas no monetarias.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Plan de Cuentas"
-    id="id-364fef81060e4e62b5b165ab67937f42"/>
+    id="id-364fef81060e4e62b5b165ab67937f42"
+    documentation="Trazabilidad por tercero&#xA;Trazabilidad documental&#xA;Configuración de corrección monetaria&#xA;Clasificación funcional de cuentas&#xA;Tipificación de cuentas&#xA;Clasificación contable&#xA;Catalogación contable&#xA;Definición de características financieras"/>

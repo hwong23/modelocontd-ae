@@ -1,9 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Clasificación contable"
-    id="id-6007971cd43441da987ef0a186f74a00"
-    documentation="Administra la clase de cuenta (Clase Mayor Cuenta Subcuenta y Auxiliares).">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>
