@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Registro manual de comprobantes"
+    name="Registro manual de comprobantes diarios"
     id="id-7aa95266ae704782927b3f83e0a83a5b"
     documentation="Permite la elaboración de comprobantes de contabilidad mediante digitación directa.">
   <properties
