@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Orden de Pago"
     id="id-a628fdcb9d4843999a2dca7e37eeb011"
-    documentation="Facilita la elaboración de órdenes de pago asociadas a reservas presupuestales.&#xA;Genera órdenes de pago con validaciones de documentos soporte, liquidación automática, causación de obligaciones y registro presupuestal, controlando estados como radicada, pendiente, liquidada, causada, pagada o anulada.&#xA;Controla la visualización de unidades ejecutoras por usuario.&#xA;Gestiona las obligaciones adquiridas por la entidad teniendo en cuenta el proceso presupuestal.&#xA;Cuenta con integración en línea con las áreas de presupuesto y contabilidad.&#xA;Genera informes de los estados de una cuenta durante todo el proceso..&#xA;">
+    documentation="Facilita la elaboración de órdenes de pago asociadas a reservas presupuestales.&#xA;Integra el comprobante contable de la causación con el módulo de causación y registra presupuestalmente la obligación de pago.&#xA;Genera órdenes de pago con validaciones de documentos soporte, liquidación automática, causación de obligaciones y registro presupuestal, controlando estados como radicada, pendiente, liquidada, causada, pagada o anulada.&#xA;Controla la visualización de unidades ejecutoras por usuario.&#xA;Gestiona las obligaciones adquiridas por la entidad teniendo en cuenta el proceso presupuestal.&#xA;Cuenta con integración en línea con las áreas de presupuesto y contabilidad.&#xA;Genera informes de los estados de una cuenta durante todo el proceso..&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>

@@ -1,9 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Integración con causación contable"
-    id="id-286dfd792381401aac3c6c9cb41ff66e"
-    documentation="Integra el comprobante contable de la causación con el módulo de causación y registra presupuestalmente la obligación de pago.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>
