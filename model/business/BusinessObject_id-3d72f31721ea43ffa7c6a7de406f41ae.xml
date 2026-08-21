@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vista de Sistemas SG"
+    name="Vista de Sistemas"
     id="id-3d72f31721ea43ffa7c6a7de406f41ae"
     documentation="La vista de sistemas de información de la $CLIENTE (SG) presenta el resumen de las aplicaciones y herramientas de software que gestiona la Oficina de Tecnologías (OTIC) de la SG, organizadas por categoría. El diagraman comunica también las relaciones con los otros elementos de este dominio, y resalta la información relevante para la gestión de los sistemas.&#xA;"/>
