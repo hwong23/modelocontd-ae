@@ -314,7 +314,7 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="24"
+        y="72"
         width="1200"
         height="349"/>
     <children
@@ -762,5 +762,20 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-4837c5db7c314c9c8ebc331bcc8eb1f9.xml#id-4837c5db7c314c9c8ebc331bcc8eb1f9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-fcd9f8193e8947fc85707e7565533310"
+      textAlignment="1"
+      alpha="0"
+      content="Nómina Humano. Componente de Compensación&#xA;Componente y subcomponentes.&#xA;Versión 0.95">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="12"
+        y="12"
+        width="457"
+        height="108"/>
   </children>
 </archimate:ArchimateDiagramModel>

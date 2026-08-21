@@ -105,11 +105,20 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-821e5c81977543d7a2e4368d7b5bdd1e.xml#id-821e5c81977543d7a2e4368d7b5bdd1e"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5d0845d99cf548dab3199aa03979fe4e"
+        source="id-7577562a1b2646bb8e9aaa05d8d84284"
+        target="id-e55fdd5a02e148a0b5bc5808a9b6af2d">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-f0ec4a534c2449c59107a8fb7b5db01e.xml#id-f0ec4a534c2449c59107a8fb7b5db01e"/>
+    </sourceConnections>
     <bounds
         x="12"
         y="24"
-        width="829"
-        height="169"/>
+        width="685"
+        height="325"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-90e64ce346e54a05804ee73cd587c9e5"
@@ -180,8 +189,8 @@
         id="id-2a2247163f124bada589a903f98723ab"
         targetConnections="id-5b5b5346b64742548412413113af3afb">
       <bounds
-          x="672"
-          y="91"
+          x="12"
+          y="156"
           width="120"
           height="55"/>
       <archimateElement
@@ -252,6 +261,19 @@
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-d1756c9c9da5401a85bc8263462171bc.xml#id-d1756c9c9da5401a85bc8263462171bc"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-e55fdd5a02e148a0b5bc5808a9b6af2d"
+        targetConnections="id-5d0845d99cf548dab3199aa03979fe4e">
+      <bounds
+          x="540"
+          y="252"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-092de09a90c4462399934bac419c7ece.xml#id-092de09a90c4462399934bac419c7ece"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
