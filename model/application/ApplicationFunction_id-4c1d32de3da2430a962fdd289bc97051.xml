@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vinculación"
+    id="id-4c1d32de3da2430a962fdd289bc97051"
+    documentation="Gestiona la vinculación de empleados según diferentes tipos de contratación o régimen laboral.">
+  <properties
+      key="importado"
+      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Planta y Personal.csv on Fri Aug 07 2026 11:53:17 GMT-0500 (COT)"/>
+</archimate:ApplicationFunction>

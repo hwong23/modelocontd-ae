@@ -1,8 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Costeo"
+    name="Liquidación"
     id="id-73ae1220ccc94b6c801e28a1c5a26ee8"
-    documentation="Permite liquidar valores por cada concepto parametrizado.">
+    documentation="Gestión del proceso de Costeo, el cual permite liquidar (calcular) por cada concepto parametrizado los valores.&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Compensacion y Laborales.csv on Fri Aug 07 2026 11:50:01 GMT-0500 (COT)"/>

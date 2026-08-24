@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Manejo de embargos"
     id="id-27aa5bdc5d3146a0acf347a8040847b0"
-    documentation="Administra datos emitidos por juzgados y controla descuentos por nómina o prestaciones sociales.">
+    documentation="Administra datos emitidos por juzgados y controla descuentos por nómina o prestaciones sociales.&#xA;Manejo de embargos por alimentos, ejecutivos y otros.">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Compensacion y Laborales.csv on Fri Aug 07 2026 11:50:01 GMT-0500 (COT)"/>

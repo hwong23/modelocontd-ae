@@ -1,9 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Embargos judiciales"
-    id="id-0f4fd83e2fc2470da51b1927f25962ac"
-    documentation="Manejo de embargos por alimentos, ejecutivos y otros.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Compensacion y Laborales.csv on Fri Aug 07 2026 11:50:01 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>
