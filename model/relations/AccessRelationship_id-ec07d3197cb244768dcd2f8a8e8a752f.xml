@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ec07d3197cb244768dcd2f8a8e8a752f"
+    documentation="Tipos de comprobantes, entrada, parametrización, *"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f2a647f2d3fd4663bd6d6854bb912c17.xml#id-f2a647f2d3fd4663bd6d6854bb912c17"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-dc3dc3ff32334ec1968bdf750c50eb92.xml#id-dc3dc3ff32334ec1968bdf750c50eb92"/>
+</archimate:AccessRelationship>

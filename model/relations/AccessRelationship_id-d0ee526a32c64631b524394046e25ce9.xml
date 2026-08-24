@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d0ee526a32c64631b524394046e25ce9"
+    documentation="Centros de costo, ingreso, ingreso manual,&#xA;"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fab9e669233146629f46014a40a7b322.xml#id-fab9e669233146629f46014a40a7b322"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-98aaf406d3b14a36830296add705edaa.xml#id-98aaf406d3b14a36830296add705edaa"/>
+</archimate:AccessRelationship>

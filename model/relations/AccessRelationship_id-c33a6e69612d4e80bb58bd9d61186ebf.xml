@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-c33a6e69612d4e80bb58bd9d61186ebf"
+    documentation="Salidas, entrada, ingreso manual, "
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-092de09a90c4462399934bac419c7ece.xml#id-092de09a90c4462399934bac419c7ece"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-0cb0f9cadd8b4c59a9155fec8e40cb73.xml#id-0cb0f9cadd8b4c59a9155fec8e40cb73"/>
+</archimate:AccessRelationship>

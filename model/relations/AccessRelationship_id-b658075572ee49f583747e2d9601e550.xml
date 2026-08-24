@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b658075572ee49f583747e2d9601e550"
+    documentation="Comprobantes, salida, * Informes, salida, *">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8d6bc650e5404a6ba37f0aabe9b3d86a.xml#id-8d6bc650e5404a6ba37f0aabe9b3d86a"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-53aed1791a8c4b7290b51a99e2f544c2.xml#id-53aed1791a8c4b7290b51a99e2f544c2"/>
+</archimate:AccessRelationship>
