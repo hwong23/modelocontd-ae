@@ -1,12 +1,12 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Registro presupuestales de compromiso"
-    id="id-2cb2b4e551bc45d09a7c19c33c526ad3">
+    name="Causación"
+    id="id-3605d9fd67134230978b84940b6d23cf">
   <source
-      xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_id-8fd06c154d3f4c17816de5245e37247b.xml#id-8fd06c154d3f4c17816de5245e37247b"/>
-  <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-3b71a50514e1426ab989f8c317d2cddd.xml#id-3b71a50514e1426ab989f8c317d2cddd"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f6910d46b04e4c2da18f2534c2c071f7.xml#id-f6910d46b04e4c2da18f2534c2c071f7"/>
 </archimate:FlowRelationship>

@@ -1,12 +1,12 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Registro presupuestales de compromiso"
-    id="id-2cb2b4e551bc45d09a7c19c33c526ad3">
+    name="Legalización de entradas"
+    id="id-d63013175e294c2196414de07a50f292">
   <source
-      xsi:type="archimate:ApplicationFunction"
-      href="ApplicationFunction_id-8fd06c154d3f4c17816de5245e37247b.xml#id-8fd06c154d3f4c17816de5245e37247b"/>
-  <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-3b71a50514e1426ab989f8c317d2cddd.xml#id-3b71a50514e1426ab989f8c317d2cddd"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fab9e669233146629f46014a40a7b322.xml#id-fab9e669233146629f46014a40a7b322"/>
 </archimate:FlowRelationship>

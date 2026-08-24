@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ControlDoc"
+    name="ControlDoc &lt;&lt;SGDEA>>"
     id="id-e2d2a6545a964ec0b542c91bece6524c"
     documentation="Gestiona anticipos, su amortización y liquidación.">
   <properties
