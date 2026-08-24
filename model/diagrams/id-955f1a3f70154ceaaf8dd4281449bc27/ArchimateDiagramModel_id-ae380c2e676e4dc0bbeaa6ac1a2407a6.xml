@@ -15,4 +15,7 @@
   <properties
       key="plantillaElm"
       value="elementsimple-sintit-md,elementsimple-filatxt-md"/>
+  <properties
+      key="exportar"
+      value="false"/>
 </archimate:ArchimateDiagramModel>

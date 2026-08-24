@@ -78,4 +78,7 @@
   <properties
       key="titulo"
       value="01PERSN.sistemaRFisicos"/>
+  <properties
+      key="exportar"
+      value="false"/>
 </archimate:ArchimateDiagramModel>

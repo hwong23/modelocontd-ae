@@ -126,4 +126,7 @@
   <properties
       key="titulo"
       value="01PERSN.sistemaNomina"/>
+  <properties
+      key="exportar"
+      value="false"/>
 </archimate:ArchimateDiagramModel>

@@ -15,4 +15,7 @@
   <properties
       key="titulo"
       value="Documentación Dominio de Aplicaciones"/>
+  <properties
+      key="exportar"
+      value="false"/>
 </archimate:ArchimateDiagramModel>

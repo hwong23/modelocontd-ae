@@ -51,4 +51,7 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-eabf227820b142c382b42fb125635f46.xml#id-eabf227820b142c382b42fb125635f46"/>
   </children>
+  <properties
+      key="exportar"
+      value="false"/>
 </archimate:ArchimateDiagramModel>
