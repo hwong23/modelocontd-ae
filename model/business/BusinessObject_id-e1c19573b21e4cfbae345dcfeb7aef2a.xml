@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Encargo"
     id="id-e1c19573b21e4cfbae345dcfeb7aef2a"
-    documentation="..."/>
+    documentation="...">
+  <properties
+      key="ERP"
+      value="Nomina"/>
+</archimate:BusinessObject>

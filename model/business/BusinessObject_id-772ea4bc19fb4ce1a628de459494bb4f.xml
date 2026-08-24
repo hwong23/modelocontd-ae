@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Centro de Costos"
     id="id-772ea4bc19fb4ce1a628de459494bb4f"
-    documentation="Categorías, entrada, parametrización, "/>
+    documentation="Categorías, entrada, parametrización, ">
+  <properties
+      key="ERP"
+      value="Nomina"/>
+</archimate:BusinessObject>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Esquema de Pago"
     id="id-92f276a0896c4ec7845bc040ee553418"
-    documentation="..."/>
+    documentation="...">
+  <properties
+      key="ERP"
+      value="Nomina"/>
+</archimate:BusinessObject>
