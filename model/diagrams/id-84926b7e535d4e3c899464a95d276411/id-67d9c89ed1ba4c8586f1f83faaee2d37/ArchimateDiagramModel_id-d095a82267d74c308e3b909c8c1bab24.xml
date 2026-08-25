@@ -1570,7 +1570,7 @@
         targetConnections="id-37896c34dabd49378ece4d4c3c47b01c">
       <bounds
           x="36"
-          y="102"
+          y="108"
           width="120"
           height="55"/>
       <archimateElement
@@ -1583,7 +1583,7 @@
         targetConnections="id-028a3debff024d61bf15681fba90827f">
       <bounds
           x="204"
-          y="48"
+          y="36"
           width="120"
           height="55"/>
       <archimateElement
@@ -1596,7 +1596,7 @@
         targetConnections="id-95d9d99b070542c2bed2ce7eb0949f50">
       <bounds
           x="204"
-          y="94"
+          y="108"
           width="120"
           height="55"/>
       <archimateElement
@@ -1609,7 +1609,7 @@
         targetConnections="id-124fa3ecfb8349faab3f28e6dd8f71f4">
       <bounds
           x="36"
-          y="48"
+          y="36"
           width="120"
           height="55"/>
       <archimateElement
@@ -1684,5 +1684,5 @@
       key="titulo"/>
   <properties
       key="plantillaElm"
-      value="elementsimple-sintit-md,elementsimple-filatit-md"/>
+      value="elementsimple-sintit-md,elementsimple-filatxt-md"/>
 </archimate:ArchimateDiagramModel>

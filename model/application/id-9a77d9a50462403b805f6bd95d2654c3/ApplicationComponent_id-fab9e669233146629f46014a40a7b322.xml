@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Control de entradas de almacén"
     id="id-fab9e669233146629f46014a40a7b322"
-    documentation="Gestiona entradas y salidas con afectación contable automática durante traslados entre almacenes o usuarios.&#xA;&#xA;### Datos&#xA;&#xA;Entradas, entrada, ingreso manual, &#xA;Salidas, entrada, ingreso manual, &#xA;Terceros, entrada, ingreso manual, &#xA;Centros de costo: dependencia dentro de la Entidad, ingreso, ingreso manual,&#xA;">
+    documentation="Gestiona entradas y salidas con afectación contable automática durante traslados entre almacenes o usuarios.&#xA;&#xA;   Datos&#xA;   - Entradas, entrada, ingreso manual, &#xA;   - Salidas, entrada, ingreso manual, &#xA;   - Terceros, entrada, ingreso manual, &#xA;   - Centros de costo: dependencia dentro de la Entidad, ingreso, ingreso manual,&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Almacen.csv on Mon Aug 10 2026 12:50:04 GMT-0500 (COT)"/>
