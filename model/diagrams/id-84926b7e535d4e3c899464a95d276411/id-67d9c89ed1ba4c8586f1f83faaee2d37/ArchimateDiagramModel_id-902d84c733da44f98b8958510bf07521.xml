@@ -232,4 +232,7 @@
       key="devdoc"/>
   <properties
       key="titulo"/>
+  <properties
+      key="plantillaElm"
+      value="elementsimple-md,elementsimple-fila-md"/>
 </archimate:ArchimateDiagramModel>

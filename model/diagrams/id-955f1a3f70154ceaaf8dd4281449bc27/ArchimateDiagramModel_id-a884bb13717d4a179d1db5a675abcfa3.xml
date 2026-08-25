@@ -22,6 +22,15 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2612c2e913034ab09f7d7c3178542b2d"
       textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-4ad8d243dabc44028187f12557edaae7"
+        source="id-2612c2e913034ab09f7d7c3178542b2d"
+        target="id-b9ee44197f444855bc49d166e18aa913">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-09a2316012f5422fae1f99e929090344.xml#id-09a2316012f5422fae1f99e929090344"/>
+    </sourceConnections>
     <bounds
         x="12"
         y="168"
@@ -114,6 +123,44 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-9d89e4f5b6904de3b33b730e01ef59dd.xml#id-9d89e4f5b6904de3b33b730e01ef59dd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b9ee44197f444855bc49d166e18aa913"
+      targetConnections="id-4ad8d243dabc44028187f12557edaae7"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="324"
+        width="400"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-8578621352cd427fa2da8d3f5135b63b">
+      <bounds
+          x="12"
+          y="24"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-d095a82267d74c308e3b909c8c1bab24.xml#id-d095a82267d74c308e3b909c8c1bab24"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-e020bf36975343b1b622307039f9873b">
+      <bounds
+          x="144"
+          y="24"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-902d84c733da44f98b8958510bf07521.xml#id-902d84c733da44f98b8958510bf07521"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-b0f2293665a940f0aaaddffca57582a9.xml#id-b0f2293665a940f0aaaddffca57582a9"/>
   </children>
   <properties
       key="alias"
