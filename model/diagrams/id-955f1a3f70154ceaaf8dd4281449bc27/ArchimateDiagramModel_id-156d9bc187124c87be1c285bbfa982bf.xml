@@ -21,6 +21,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b97931856376462abfe3c5237c310afe"
+      targetConnections="id-075c776374e44592a7a40affa9ff044b"
       textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -33,7 +34,7 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="168"
+        y="324"
         width="400"
         height="140"/>
     <children
@@ -83,7 +84,7 @@
       textAlignment="1">
     <bounds
         x="12"
-        y="324"
+        y="480"
         width="400"
         height="140"/>
     <children
@@ -113,6 +114,40 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-b0f2293665a940f0aaaddffca57582a9.xml#id-b0f2293665a940f0aaaddffca57582a9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a878d115f9c941afb2c61645b94b4b55"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-075c776374e44592a7a40affa9ff044b"
+        source="id-a878d115f9c941afb2c61645b94b4b55"
+        target="id-b97931856376462abfe3c5237c310afe">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-1656bada9f684ba281ae15c73295e2ba.xml#id-1656bada9f684ba281ae15c73295e2ba"/>
+    </sourceConnections>
+    <bounds
+        x="12"
+        y="168"
+        width="400"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-e4897c3938d545d7a4c779d034738780">
+      <bounds
+          x="12"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-732f895df8fb45fc82ae9fe9211a22a0.xml#id-732f895df8fb45fc82ae9fe9211a22a0"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-ff98a9d1cc1c496ea762792ac780cbca.xml#id-ff98a9d1cc1c496ea762792ac780cbca"/>
   </children>
   <properties
       key="alias"
