@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestión de cambios al PAC"
     id="id-71f987ac86f343589fce0eee734983de"
-    documentation="Posibilita adiciones, reducciones, anticipos y aplazamientos durante la vigencia.">
+    documentation="Posibilita adiciones, reducciones, anticipos y aplazamientos durante la vigencia.&#xA;Permite modificaciones con o sin afectación de rubros o cuentas.&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>

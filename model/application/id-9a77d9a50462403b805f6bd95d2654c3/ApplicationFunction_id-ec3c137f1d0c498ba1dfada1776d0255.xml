@@ -1,9 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Programación de pagos"
-    id="id-ec3c137f1d0c498ba1dfada1776d0255"
-    documentation="Permite configurar compromisos presupuestales con programación de pagos validada contra PAC.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>

@@ -1,9 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestión de saldos comprometidos"
-    id="id-0ca84003fd9a4de08d29ea2eb7dc7837"
-    documentation="Permite anulación, adición, reducción y modificación de saldos no utilizados.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>

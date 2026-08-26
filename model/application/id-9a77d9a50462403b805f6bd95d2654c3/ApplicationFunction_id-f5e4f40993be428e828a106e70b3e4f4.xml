@@ -1,9 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Registro inicial del PAC"
-    id="id-f5e4f40993be428e828a106e70b3e4f4"
-    documentation="Cuenta con registro inicial de acuerdo con los requerimientos de la Administración Municipal.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>

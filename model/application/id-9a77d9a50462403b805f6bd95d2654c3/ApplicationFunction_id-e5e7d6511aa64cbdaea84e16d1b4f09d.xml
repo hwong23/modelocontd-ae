@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Administración del PAC"
     id="id-e5e7d6511aa64cbdaea84e16d1b4f09d"
-    documentation="Facilita a la entidad la gestión del PAC por fuente de financiación o por rubro.">
+    documentation="Facilita a la entidad la gestión del PAC por fuente de financiación o por rubro.&#xA;Cuenta con registro inicial de acuerdo con los requerimientos de la Administración Municipal.&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
