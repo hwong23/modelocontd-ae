@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Administración de catálogo presupuestal"
     id="id-5a976232088349d1a1e662718b103768"
-    documentation="Permite la creación de catálogos de rubros presupuestales homologables con BOG DATA.">
+    documentation="Permite la creación de catálogos de rubros presupuestales homologables con BOGDATA.&#xA;Permite identificar rubros específicos con situación de fondos o sin situación de fondos.&#xA;Permite identificar el rubro para un grupo de PAC específico.&#xA;Facilita un control específico que haga control de requerimiento de Centro de Utilidad o Regional al elaborar el RP.&#xA;Cuenta con plena integración entre registro de proyectos y contratos desde el punto de vista presupuestal.&#xA;Controla los saldos disponibles de Certificados de Disponibilidad y Registros Presupuestales.&#xA;Permite identificar unidades presupuestales de gasto y su estructura propia.&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>

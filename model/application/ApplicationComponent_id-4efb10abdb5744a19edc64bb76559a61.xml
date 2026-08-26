@@ -1,9 +1,8 @@
-<archimate:ApplicationFunction
+<archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestión de vencimientos"
-    id="id-b8d67c9df43b47d6bd412f45434014d2"
-    documentation="Administra certificados con fechas de vencimiento configurables.">
+    name="Presupuesto de Ingreso"
+    id="id-4efb10abdb5744a19edc64bb76559a61">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>
+</archimate:ApplicationComponent>

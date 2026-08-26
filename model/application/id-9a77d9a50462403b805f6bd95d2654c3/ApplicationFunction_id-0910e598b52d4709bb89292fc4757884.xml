@@ -1,9 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Control por centro de utilidad o regional"
-    id="id-0910e598b52d4709bb89292fc4757884"
-    documentation="Facilita un control específico que haga control de requerimiento de Centro de Utilidad o Regional al elaborar el RP.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>

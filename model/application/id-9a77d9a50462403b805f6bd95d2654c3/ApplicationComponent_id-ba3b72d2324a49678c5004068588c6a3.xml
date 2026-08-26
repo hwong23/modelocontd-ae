@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Apropiaciones, Ejecución Presupuestal de Gastos y PAC"
-    id="id-ba3b72d2324a49678c5004068588c6a3"/>
+    id="id-ba3b72d2324a49678c5004068588c6a3"
+    documentation="Control de disponibilidad presupuestal.&#xA;Gestión de reservas presupuestales. Facilita la elaboración de órdenes de pago asociadas a reservas presupuestales.&#xA;Permite la verificación del proceso de ejecución presupuestal teniendo en cuenta CDP, RP, obligación y pago.&#xA;Es integrado con las áreas de control de cuentas, causación, contabilidad y facilitar la integración de los procesos de tesorería. Ser parametrizable para garantizar el cumplimiento del estatuto orgánico de presupuesto y sus decretos reglamentarios. &#xA;Cumple con los requerimientos del proceso integrado de egresos, de tal manera que la información de los pagos sea parte de los consolidados de cada documento de la ejecución asociada y coherente en los movimientos históricos de pagos y reversiones (anulaciones y reintegros) &#xA;"/>

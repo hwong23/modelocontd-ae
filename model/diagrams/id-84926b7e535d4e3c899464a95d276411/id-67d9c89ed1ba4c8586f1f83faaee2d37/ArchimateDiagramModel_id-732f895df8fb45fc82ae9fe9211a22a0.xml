@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="app.Sistemas de información"
-    id="id-732f895df8fb45fc82ae9fe9211a22a0">
+    id="id-732f895df8fb45fc82ae9fe9211a22a0"
+    documentation="Core Nómina:&#xA;&#xA;   1. Estructura Organizacional&#xA;   1. Planta y Personal &#xA;   1. Compensación y Laborales&#xA;   1. Salud y Seguridad: Manejo de Ausentismos-Recobros de Incapacidades&#xA;   1. Módulo HUMANO® En Línea – Portal de Autogestión (Exclusivo Cloud SaaS)&#xA;   1. Administración y Seguridad&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6b0fca1a01f645f5b62c884c06db6ee4"

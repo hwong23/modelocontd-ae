@@ -1,8 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Integración proyectos y contratos"
-    id="id-e406f4e938764f96874b4afd7f4b07a8"
-    documentation="Cuenta con plena integración entre registro de proyectos y contratos desde el punto de vista presupuestal.">
+    name="Elaboración manual de RP"
+    id="id-c962de5c1616430fb92937c28524790a"
+    documentation="Facilita la elaboración manual RP cuando sea necesario.&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>

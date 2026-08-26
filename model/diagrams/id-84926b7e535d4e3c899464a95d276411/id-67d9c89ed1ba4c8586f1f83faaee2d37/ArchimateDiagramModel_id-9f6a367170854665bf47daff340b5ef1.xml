@@ -134,16 +134,16 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="24"
-        width="1200"
-        height="216"/>
+        y="-132"
+        width="684"
+        height="276"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-dce97f455f7b4fee96fd10ddd40ca9b6"
         targetConnections="id-651d4fac818445fda17c43f032d0ed2d">
       <bounds
-          x="960"
-          y="36"
+          x="276"
+          y="108"
           width="120"
           height="55"/>
       <archimateElement
@@ -155,8 +155,8 @@
         id="id-e9cbb33cb8e943c190449d07992f0f18"
         targetConnections="id-7f0dae9ab80c47aeadc423e88ed45c31">
       <bounds
-          x="696"
-          y="36"
+          x="12"
+          y="108"
           width="120"
           height="55"/>
       <archimateElement
@@ -168,7 +168,7 @@
         id="id-7e8eb383b667478fb9b969dad50283bc"
         targetConnections="id-de2401e69abe4dc4be6edb31b81378cb">
       <bounds
-          x="432"
+          x="408"
           y="36"
           width="120"
           height="55"/>
@@ -181,8 +181,8 @@
         id="id-6bc208d2c77d45d3a6f98c93935ac2af"
         targetConnections="id-90267f665b66406880a6d9f38d4f102e">
       <bounds
-          x="828"
-          y="36"
+          x="144"
+          y="108"
           width="120"
           height="55"/>
       <archimateElement
@@ -194,7 +194,7 @@
         id="id-98444832b1784659941063e45354f933"
         targetConnections="id-da3a0c7d8281402786586e9768049c28">
       <bounds
-          x="564"
+          x="540"
           y="36"
           width="120"
           height="55"/>
@@ -207,7 +207,7 @@
         id="id-c08928d5e5994535b8cd7b6a064fae00"
         targetConnections="id-5fe497a8d3e44e6daf8999879dbb80ea">
       <bounds
-          x="168"
+          x="144"
           y="36"
           width="120"
           height="55"/>
@@ -220,7 +220,7 @@
         id="id-18040457f8df4815ae1ac2a504b097f5"
         targetConnections="id-e69ca6da2adb4d748fa76924e7070716">
       <bounds
-          x="300"
+          x="276"
           y="36"
           width="120"
           height="55"/>
@@ -233,7 +233,7 @@
         id="id-1a9a5cd89f0a44989532d37200299aae"
         targetConnections="id-732cc46d2062459a9e31d5c855433824">
       <bounds
-          x="36"
+          x="12"
           y="36"
           width="120"
           height="55"/>
@@ -246,7 +246,7 @@
         id="id-0eaade1690a94e43bad2709f84cab76f"
         targetConnections="id-2c0f439e7dd84cb0ab29fca5d0021cca">
       <bounds
-          x="168"
+          x="540"
           y="108"
           width="120"
           height="55"/>
@@ -259,8 +259,8 @@
         id="id-8e0ca613157e470980c915d9750ce1e4"
         targetConnections="id-da2cca0b1a5f4ef69c13f1fcc301f1f9">
       <bounds
-          x="300"
-          y="108"
+          x="12"
+          y="180"
           width="120"
           height="55"/>
       <archimateElement
@@ -272,8 +272,8 @@
         id="id-87a97c14f2c041c4a6d5cb58663b289f"
         targetConnections="id-61729ba2fd784a3ea7ad2ab03455b4ee">
       <bounds
-          x="564"
-          y="108"
+          x="276"
+          y="180"
           width="120"
           height="55"/>
       <archimateElement
@@ -285,7 +285,7 @@
         id="id-088eabf4636648929c1ee0653b1fc00b"
         targetConnections="id-2387da4bad8e43ea91347a6792c1af28">
       <bounds
-          x="36"
+          x="408"
           y="108"
           width="120"
           height="55"/>
@@ -298,8 +298,8 @@
         id="id-cc46883332fe45419f4939312f00a670"
         targetConnections="id-b6761ed0e29f46c290841ed34017e839">
       <bounds
-          x="432"
-          y="108"
+          x="144"
+          y="180"
           width="120"
           height="55"/>
       <archimateElement
@@ -311,8 +311,8 @@
         id="id-e3d374c663e34a178daf1556eee2854b"
         targetConnections="id-443c28c23be94b54ac525e5be20c9d08">
       <bounds
-          x="696"
-          y="108"
+          x="408"
+          y="180"
           width="120"
           height="55"/>
       <archimateElement

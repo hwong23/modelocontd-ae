@@ -1,9 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Integración financiera transversal"
-    id="id-26f522fcdeca43e99aeaedac6c35b91b"
-    documentation="Se integra con control de cuentas, causación, contabilidad y procesos de tesorería.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>
