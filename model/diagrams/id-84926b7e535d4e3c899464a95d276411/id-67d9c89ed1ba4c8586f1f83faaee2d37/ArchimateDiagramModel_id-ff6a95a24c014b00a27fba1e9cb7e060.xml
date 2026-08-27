@@ -107,7 +107,7 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="108"
+          y="132"
           width="805"
           height="252"/>
       <children
@@ -115,8 +115,8 @@
           id="id-c5d8073be5dc4deda22ad842257ed0d2"
           targetConnections="id-94366ddb675144859893213c8375c6ef">
         <bounds
-            x="396"
-            y="24"
+            x="432"
+            y="84"
             width="120"
             height="55"/>
         <archimateElement
@@ -128,7 +128,7 @@
           id="id-651587c359d44439bbf9f99870280094"
           targetConnections="id-95752900fe404ad3a12b6414ef29f380">
         <bounds
-            x="528"
+            x="432"
             y="24"
             width="120"
             height="55"/>
@@ -141,7 +141,7 @@
           id="id-0ae1dc2e53d542d8a57d9ad68b90c7dd"
           targetConnections="id-87ddb3c0ef044ee2b53ce4d2002aadd3">
         <bounds
-            x="660"
+            x="564"
             y="24"
             width="120"
             height="55"/>
@@ -174,14 +174,15 @@
         <bounds
             x="12"
             y="24"
-            width="372"
-            height="85"/>
+            width="409"
+            height="97"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-81142aab235c471f9d79d3a6012e0f0d"
             targetConnections="id-fc50f96d6b73486091ac1bcad1602e9b">
           <bounds
-              y="12"
+              x="13"
+              y="24"
               width="120"
               height="55"/>
           <archimateElement
@@ -193,8 +194,8 @@
             id="id-ea0ec47bfad145a2a8bf82c8608ee852"
             targetConnections="id-7e266c4a9c1041f08a576a49b21ddaea">
           <bounds
-              x="96"
-              y="12"
+              x="144"
+              y="24"
               width="120"
               height="55"/>
           <archimateElement
@@ -237,9 +238,9 @@
               href="CompositionRelationship_id-c8f67fed234b4e6b92e4cb6b61b8bbb8.xml#id-c8f67fed234b4e6b92e4cb6b61b8bbb8"/>
         </sourceConnections>
         <bounds
-            x="396"
-            y="96"
-            width="384"
+            x="12"
+            y="132"
+            width="409"
             height="97"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
@@ -259,7 +260,7 @@
             id="id-bee2226431c342a69bed69cdf20930f0"
             targetConnections="id-124917dcd8204990b42d1e4092c19312">
           <bounds
-              x="108"
+              x="144"
               y="24"
               width="120"
               height="55"/>
@@ -272,7 +273,7 @@
             id="id-27153e599ffc4bdcbf8c28f09ac4aa5c"
             targetConnections="id-f4b2c87875ec466da2d92bddb46baece">
           <bounds
-              x="192"
+              x="276"
               y="24"
               width="120"
               height="55"/>
@@ -321,7 +322,7 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="372"
+          y="396"
           width="805"
           height="108"/>
       <children
@@ -391,7 +392,7 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="492"
+          y="516"
           width="805"
           height="96"/>
       <children
@@ -466,7 +467,7 @@
       </sourceConnections>
       <bounds
           x="12"
-          y="600"
+          y="624"
           width="805"
           height="97"/>
       <children
@@ -538,7 +539,7 @@
           x="12"
           y="24"
           width="337"
-          height="67"/>
+          height="97"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-d614899eef894a35a45e95b259fa3437"
@@ -591,7 +592,7 @@
       id="id-93eb04375b6d46fd9643f2add13404c7"
       textAlignment="1"
       alpha="0"
-      content="Componente Ejecución Presupuestal del Ingreso&#xA;Finacniero Componente y subcomponentes.&#xA;Versión 0.95">
+      content="Componente Ejecución Presupuestal del Ingreso&#xA;Finacniero Componente y subcomponentes.&#xA;Versión 0.101">
     <features
         name="lineAlpha"
         value="0"/>

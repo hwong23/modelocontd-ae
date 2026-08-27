@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integración presupuestal de ingresos con BOGDATA"
     id="id-13d9a77eeac04dbbbb4dbe645cec68f0"
-    documentation="El módulo de ejecución presupuestal de ingreso permite integración con BOGDATA a partir del presupuesto asignado para ejecución. [Nota]: aclaraciones PERSNR sobre uso (procedimiento) ejecución presupuestal de ingreso.&#xA;&#xA;">
+    documentation="El módulo de ejecución presupuestal de ingreso permite integración con BOGDATA a partir del presupuesto asignado para ejecución. [Nota]: aclaraciones PERSNR sobre uso (procedimiento) ejecución presupuestal de ingreso.&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
