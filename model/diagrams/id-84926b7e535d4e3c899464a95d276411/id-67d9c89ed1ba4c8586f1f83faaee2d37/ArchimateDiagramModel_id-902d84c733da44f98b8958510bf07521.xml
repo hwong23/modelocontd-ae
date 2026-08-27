@@ -221,6 +221,5 @@
   <properties
       key="titulo"/>
   <properties
-      key="plantillaElm"
-      value="elementsimple-md,elementsimple-fila-md"/>
+      key="plantillaElm"/>
 </archimate:ArchimateDiagramModel>

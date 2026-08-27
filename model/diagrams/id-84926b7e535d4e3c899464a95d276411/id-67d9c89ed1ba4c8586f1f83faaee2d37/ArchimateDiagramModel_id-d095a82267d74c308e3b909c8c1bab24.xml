@@ -1684,6 +1684,5 @@
   <properties
       key="titulo"/>
   <properties
-      key="plantillaElm"
-      value="elementsimple-sintit-md,elementsimple-filatxt-md"/>
+      key="plantillaElm"/>
 </archimate:ArchimateDiagramModel>
