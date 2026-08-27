@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Reportes personalizables"
     id="id-530eec30a3534fa8be2744f2c60a0fb9"
-    documentation="Permite ajustes menores en reportes personalizables sin afectar estructura, lógica ni cálculos.">
+    documentation="Permite ajustes menores, como nombres y etiquetas, en reportes personalizables sin afectar estructura, lógica ni cálculos.">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Administracion HUMANO.csv on Fri Aug 07 2026 11:51:10 GMT-0500 (COT)"/>
