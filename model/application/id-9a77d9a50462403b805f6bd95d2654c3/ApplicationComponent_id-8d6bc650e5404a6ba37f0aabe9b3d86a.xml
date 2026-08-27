@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contabilidad"
     id="id-8d6bc650e5404a6ba37f0aabe9b3d86a"
-    documentation="El módulo de contabilidad permite a la entidad parametrizar y administrar la afectación contable esperada de todas las áreas: Central de cuentas procesos integrados de Tesorería almacenes inventarios de devolutivos y nómina.&#xA;&#xA;   Datos&#xA;   - Comprobantes, salida, * Informes, salida, *">
+    documentation="El módulo de contabilidad permite a la entidad parametrizar y administrar la afectación contable esperada de todas las áreas: Central de cuentas procesos integrados de Tesorería almacenes inventarios de devolutivos y nómina.&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Clasificación de artículos"
     id="id-072b3cdfc95a41ad8d24365c375c0a8f"
-    documentation="Permite la agrupación de artículos en diferentes niveles jerárquicos.&#xA;&#xA;   Datos&#xA;   - Categorías, entrada, parametrización, &#xA;   - Elementos, entrada, parametrización, &#xA;   - Referencias, entrada, parametrización,&#xA;">
+    documentation="Permite la agrupación de artículos en diferentes niveles jerárquicos.&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Almacen.csv on Mon Aug 10 2026 12:50:04 GMT-0500 (COT)"/>
