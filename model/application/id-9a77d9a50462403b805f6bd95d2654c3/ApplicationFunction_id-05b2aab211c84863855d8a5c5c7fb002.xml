@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integración de CDP con BOGDATA"
     id="id-05b2aab211c84863855d8a5c5c7fb002"
-    documentation="Facilita el reflejo de Certificados de Disponibilidad Presupuestal originados desde BOGDATA y sus modificaciones.&#xA;&#xA;[Nota]: acllaración uso procedimiento de integración: quién los hace, BOGDATA?&#xA;">
+    documentation="Facilita el reflejo de Certificados de Disponibilidad Presupuestal originados desde BOGDATA y sus modificaciones. [Nota]: acllaración uso procedimiento de integración: quién los hace, BOGDATA?&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
