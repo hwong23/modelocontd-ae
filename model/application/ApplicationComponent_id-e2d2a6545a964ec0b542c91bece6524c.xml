@@ -1,8 +1,7 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ControlDoc &lt;&lt;SGDEA>>"
-    id="id-e2d2a6545a964ec0b542c91bece6524c"
-    documentation="Gestiona anticipos, su amortización y liquidación.">
+    id="id-e2d2a6545a964ec0b542c91bece6524c">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
