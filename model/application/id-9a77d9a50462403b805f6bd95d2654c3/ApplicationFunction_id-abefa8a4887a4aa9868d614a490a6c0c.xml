@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Administración y mantenimiento de plan de cuentas"
     id="id-abefa8a4887a4aa9868d614a490a6c0c"
-    documentation="Permite mantener el plan de cuentas conforme a cambios normativos de la Contaduría General de la Nación.&#xA;&#xA;### Datos&#xA;&#xA;Cuentas contables, entrada, migración, *&#xA;Tipos de comprobantes, entrada, parametrización, *&#xA;...">
+    documentation="Permite mantener el plan de cuentas conforme a cambios normativos de la Contaduría General de la Nación.&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
