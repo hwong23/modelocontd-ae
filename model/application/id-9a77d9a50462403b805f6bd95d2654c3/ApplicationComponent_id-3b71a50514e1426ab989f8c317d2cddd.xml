@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Obligaciones e Integrador de Pagos - Autorización de Pagos"
     id="id-3b71a50514e1426ab989f8c317d2cddd"
-    documentation="Permite el control de los compromisos adquiridos por la Administración Municipal.&#xA;&#xA;&#xA;   Integraciones&#xA;   - BOGDATA registro presupuestales de compromiso, consumidor, [Integración de RP con BOGDATA]&#xA;   - Control de saldos, productor, [...]&#xA;   - Entrada de almacén, consumidor, [Control de entradas de almacén]&#xA;   - Legalización de entradas, productor, [Control de entradas de almacén]&#xA;   - Informes de resultado, productor, [Seguimiento a Metas]&#xA;   - Causación, productor, [Comprobantes de Contabilidad]&#xA;   - Gestión de pagos, productor, [BOGDATA]&#xA;   - Órdenes pagadas, productor, [Integración para Pagos]&#xA;">
+    documentation="Permite el control de los compromisos adquiridos por la Administración Municipal.&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>

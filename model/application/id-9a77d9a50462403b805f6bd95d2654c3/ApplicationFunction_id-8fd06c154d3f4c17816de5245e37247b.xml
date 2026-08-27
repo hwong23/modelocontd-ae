@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integración de RP con BOGDATA"
     id="id-8fd06c154d3f4c17816de5245e37247b"
-    documentation="Facilita el reflejo de Registros Presupuestales de Compromiso originados desde BOGDATA y sus modificaciones.&#xA;&#xA;   Integraciones&#xA;   - BOGDATA registro presupuestales de compromiso, productor, [Obligaciones e Integrador de Pagos - Autorización de Pagos]&#xA;">
+    documentation="Facilita el reflejo de Registros Presupuestales de Compromiso originados desde BOGDATA y sus modificaciones.&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>

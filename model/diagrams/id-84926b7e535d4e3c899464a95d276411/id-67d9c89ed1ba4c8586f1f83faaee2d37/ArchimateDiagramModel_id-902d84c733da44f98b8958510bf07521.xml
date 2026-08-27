@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="app.Catálogo de interfaces"
-    id="id-902d84c733da44f98b8958510bf07521">
+    id="id-902d84c733da44f98b8958510bf07521"
+    documentation="Control documental de cuentas. Integraciones:&#xA;- Validación de documentos de soporte, consumidor, [ControlDoc]&#xA;&#xA;Obligaciones e Integrador de Pagos - Autorización de Pagos. Integraciones:&#xA;   - BOGDATA registro presupuestales de compromiso, consumidor, [Integración de RP con BOGDATA]&#xA;   - Control de saldos, productor, [...]&#xA;   - Entrada de almacén, consumidor, [Control de entradas de almacén]&#xA;   - Legalización de entradas, productor, [Control de entradas de almacén]&#xA;   - Informes de resultado, productor, [Seguimiento a Metas]&#xA;   - Causación, productor, [Comprobantes de Contabilidad]&#xA;   - Gestión de pagos, productor, [BOGDATA]&#xA;   - Órdenes pagadas, productor, [Integración para Pagos]&#xA;&#xA;Integración de RP con BOGDATA. Integraciones:&#xA;   - BOGDATA registro presupuestales de compromiso, productor, [Obligaciones e Integrador de Pagos - Autorización de Pagos]&#xA;&#xA;Integración para Pagos. Integraciones:&#xA;   - Órdenes de pagadas, consumidor, [BOGDATA]&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a86cad0b8aae4ee58b81e6b3e0005591"
