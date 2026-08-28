@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integración almacén-contabilidad"
     id="id-0892a6fde4dd4a0ea7d9ed66bc443b98"
-    documentation="Permite parametrizar movimientos contables derivados de entradas salidas depreciaciones y ajustes de almacén.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>
+    documentation="Permite parametrizar movimientos contables derivados de entradas salidas depreciaciones y ajustes de almacén."/>

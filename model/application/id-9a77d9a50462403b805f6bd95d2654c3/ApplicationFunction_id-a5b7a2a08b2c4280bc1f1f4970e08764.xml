@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Traslado de saldos"
     id="id-a5b7a2a08b2c4280bc1f1f4970e08764"
-    documentation="Permite traslados de saldos entre subcuentas del mismo tipo.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>
+    documentation="Permite traslados de saldos entre cuentas auxiliares del mismo tipo."/>

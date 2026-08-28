@@ -325,7 +325,7 @@
         <bounds
             x="168"
             y="24"
-            width="157"
+            width="181"
             height="55"/>
         <archimateElement
             xsi:type="archimate:ApplicationComponent"

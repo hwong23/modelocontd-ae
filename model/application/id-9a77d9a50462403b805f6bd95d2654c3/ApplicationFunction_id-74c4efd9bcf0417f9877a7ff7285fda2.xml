@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integración financiera de proyectos"
     id="id-74c4efd9bcf0417f9877a7ff7285fda2"
-    documentation="Garantiza la integración financiera mediante proyectos y actividades.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>
+    documentation="Garantiza la integración financiera mediante proyectos y actividades.&#xA;&#xA;NOTA: Verificar alcance de datos integrados con BOGDATA "/>

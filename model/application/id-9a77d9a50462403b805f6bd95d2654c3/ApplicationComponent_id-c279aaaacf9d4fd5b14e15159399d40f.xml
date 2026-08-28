@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Carga de saldos iniciales"
     id="id-c279aaaacf9d4fd5b14e15159399d40f"
-    documentation="Facilita el proceso para la carga de saldos iniciales.">
+    documentation="Facilita el proceso para la carga de saldos contables iniciales.">
   <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+      key="Datos"
+      value="Comprobante"/>
 </archimate:ApplicationComponent>

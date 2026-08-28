@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integración de ingresos externos"
     id="id-3680f1a5712941d28265bc938abf1a20"
-    documentation="Permite registrar información presupuestal y contable proveniente de sistemas externos.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>
+    documentation="Permite registrar información presupuestal y contable proveniente de sistemas externos mediante carga de archivos planos que cumplan con la estructura requerida por el sistema"/>

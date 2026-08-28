@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generación de medios magnéticos"
     id="id-bae58e43018e427e8c41b0bacafb30fa"
-    documentation="Genera los informes requeridos por la DIAN en medios magnéticos con información predeterminada como actividades económicas administraciones departamentos municipios y conceptos.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>
+    documentation="Genera los informes requeridos por la DIAN en medios magnéticos con información predeterminada como actividades económicas administraciones departamentos municipios y conceptos."/>

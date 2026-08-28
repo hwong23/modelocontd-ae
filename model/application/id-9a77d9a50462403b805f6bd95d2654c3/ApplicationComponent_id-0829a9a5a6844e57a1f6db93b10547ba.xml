@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generación de estados financieros"
     id="id-0829a9a5a6844e57a1f6db93b10547ba"
-    documentation="Los registros contables permiten generar balance general balances consolidados balances por unidad ejecutora herramientas de consulta y análisis y estados financieros.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
-</archimate:ApplicationComponent>
+    documentation="Los registros contables permiten generar balance general balances consolidados balances por unidad ejecutora como herramientas de consulta y análisis y estados financieros."/>

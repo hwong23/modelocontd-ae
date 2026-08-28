@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Planeación plurianual"
     id="id-214ced850ef44b9da9a9f5114c0b4044"
-    documentation="Permite registrar valores estimados para el año actual y años futuros según la duración del plan de gestión.">
-  <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
-</archimate:ApplicationFunction>
+    documentation="Permite registrar valores estimados para el año actual y años futuros según la duración del plan de gestión."/>

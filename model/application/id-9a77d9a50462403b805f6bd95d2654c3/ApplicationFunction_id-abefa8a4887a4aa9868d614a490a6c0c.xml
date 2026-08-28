@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Administración y mantenimiento de plan de cuentas"
     id="id-abefa8a4887a4aa9868d614a490a6c0c"
-    documentation="Permite mantener el plan de cuentas conforme a cambios normativos de la Contaduría General de la Nación.&#xA;">
+    documentation="Permite mantener el plan de cuentas conforme a cambios normativos de la Contaduría General de la Nación.&#xA;Gestiona la naturaleza de la cuenta (Débito o Crédito).&#xA;Clasificación contable en estructura jerárquica (Clase, Mayor, Cuenta, Subcuenta, auxiliares).&#xA;Definir si la cuenta requiere tercero&#xA;Definir si la cuenta requiere documento soporte&#xA;Configuración de corrección monetaria.[NOTA]: Normativamente ya no aplica&#xA;Tipificación de cuentas (Monetaria o No Monetaria).&#xA;Define si una cuenta hace parte del flujo de efectivo. &#xA;&#xA;NOTA: Verificar usabilidad por parte de la PERSONERIA">
   <properties
-      key="importado"
-      value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
+      key="Datos"
+      value="Plan de cuentas"/>
 </archimate:ApplicationFunction>
