@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interoperabilidad de pagos"
     id="id-c6e44ea8e5ed440e927e4335f91df43b"
-    documentation="Permite identificar pagos registrados desde sistemas externos para distintos tipos de órdenes.">
+    documentation="Permite identificar pagos registrados desde sistemas externos para distintos tipos de órdenes y hacer el respectivo registro contable.&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Contabilidad.csv on Mon Aug 10 2026 12:46:39 GMT-0500 (COT)"/>
