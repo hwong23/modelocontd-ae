@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Validación de documentos de soporte"
     id="id-cfbbe6b98c014009a34f0c9c0753e598"
-    documentation="bidireccional...&#xA;">
+    documentation="bidireccional...">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-e2d2a6545a964ec0b542c91bece6524c.xml#id-e2d2a6545a964ec0b542c91bece6524c"/>
