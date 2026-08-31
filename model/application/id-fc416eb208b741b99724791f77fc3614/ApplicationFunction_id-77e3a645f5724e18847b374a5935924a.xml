@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestión de pensionados"
     id="id-77e3a645f5724e18847b374a5935924a"
-    documentation="Registra información necesaria para administrar empleados pensionados dentro del sistema.">
+    documentation="Registra información necesaria para administrar empleados pensionados dentro del sistema. [Nota]: Esta funcionalidad se usa si tienen a cargo del cliente el pago de la pensión. Validar con el cliente.&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Documents/work/PERSN/modelexport/Personeria-02.Migracion. Planta y Personal.csv on Fri Aug 07 2026 11:53:17 GMT-0500 (COT)"/>
