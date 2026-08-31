@@ -756,4 +756,7 @@
         width="457"
         height="108"/>
   </children>
+  <properties
+      key="ERP"
+      value="Nómina"/>
 </archimate:ArchimateDiagramModel>

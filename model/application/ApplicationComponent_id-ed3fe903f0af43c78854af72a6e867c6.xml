@@ -3,6 +3,9 @@
     name="sys: Financiero PCT"
     id="id-ed3fe903f0af43c78854af72a6e867c6"
     documentation="Integración presupuestal con BOG DATA y automatización de recaudos.&#xA;">
+  <properties
+      key="ERP"
+      value="Financiero"/>
   <profiles
       href="folder.xml#id-a561c4161c644f2eb21626e5a129ea3f"/>
 </archimate:ApplicationComponent>

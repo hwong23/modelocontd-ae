@@ -169,4 +169,7 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-d0db35b368094eb4be2a6775ffe48669.xml#id-d0db35b368094eb4be2a6775ffe48669"/>
   </children>
+  <properties
+      key="ERP"
+      value="Nómina"/>
 </archimate:ArchimateDiagramModel>

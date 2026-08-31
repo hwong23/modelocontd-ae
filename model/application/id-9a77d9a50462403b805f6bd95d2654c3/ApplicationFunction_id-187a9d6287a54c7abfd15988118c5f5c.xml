@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Visualización de saldos"
     id="id-187a9d6287a54c7abfd15988118c5f5c"
-    documentation="Genera saldos por mes de cada cuenta y subcuenta resultado de los procesos de cierre o mayorizacion mensual"/>
+    documentation="Genera saldos por mes de cada cuenta y subcuenta resultado de los procesos de cierre o mayorizacion mensual">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationFunction>

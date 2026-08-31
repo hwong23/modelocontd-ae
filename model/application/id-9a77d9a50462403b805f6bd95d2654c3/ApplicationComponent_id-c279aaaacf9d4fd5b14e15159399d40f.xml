@@ -6,4 +6,7 @@
   <properties
       key="Datos"
       value="Comprobante"/>
+  <properties
+      key="ERP"
+      value="Financiero"/>
 </archimate:ApplicationComponent>

@@ -3,6 +3,9 @@
     name="sys: Nómina Humano"
     id="id-74ae6a8d237848379888fc4282683a10"
     documentation="HUMANO® CORE NOMINA ESTANDAR (modalidad On Premise), para la operación y administración de nómina.&#xA;">
+  <properties
+      key="ERP"
+      value="Nómina"/>
   <profiles
       href="folder.xml#id-00fb04354c134ff9bc3edba98cc93cdc"/>
 </archimate:ApplicationComponent>
