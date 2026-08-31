@@ -21,4 +21,7 @@
   <properties
       key="IncludeViewElements"
       value="false"/>
+  <properties
+      key="exportar"
+      value="false"/>
 </archimate:ArchimateDiagramModel>

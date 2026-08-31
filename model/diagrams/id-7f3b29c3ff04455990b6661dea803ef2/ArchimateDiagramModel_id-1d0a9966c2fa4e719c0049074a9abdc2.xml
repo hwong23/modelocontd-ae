@@ -197,4 +197,7 @@
         xsi:type="archimate:Capability"
         href="Capability_id-5bb34ceffee34ad7b372861ba723a5fd.xml#id-5bb34ceffee34ad7b372861ba723a5fd"/>
   </children>
+  <properties
+      key="exportar"
+      value="false"/>
 </archimate:ArchimateDiagramModel>

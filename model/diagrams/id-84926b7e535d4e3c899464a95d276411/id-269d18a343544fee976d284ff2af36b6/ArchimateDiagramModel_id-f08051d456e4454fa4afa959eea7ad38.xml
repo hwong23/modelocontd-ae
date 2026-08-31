@@ -6,4 +6,7 @@
   <properties
       key="titulo"
       value="Caracterización de Procesos SG"/>
+  <properties
+      key="exportar"
+      value="false"/>
 </archimate:ArchimateDiagramModel>

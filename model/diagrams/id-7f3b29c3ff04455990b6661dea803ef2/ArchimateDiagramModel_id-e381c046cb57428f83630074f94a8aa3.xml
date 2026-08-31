@@ -312,4 +312,7 @@
         xsi:type="archimate:Goal"
         href="Goal_id-728a499b23e74a7ea4db280e2c7c9d9e.xml#id-728a499b23e74a7ea4db280e2c7c9d9e"/>
   </children>
+  <properties
+      key="exportar"
+      value="false"/>
 </archimate:ArchimateDiagramModel>

@@ -173,4 +173,7 @@
   <properties
       key="IncludeDiagram"
       value="false"/>
+  <properties
+      key="exportar"
+      value="false"/>
 </archimate:ArchimateDiagramModel>

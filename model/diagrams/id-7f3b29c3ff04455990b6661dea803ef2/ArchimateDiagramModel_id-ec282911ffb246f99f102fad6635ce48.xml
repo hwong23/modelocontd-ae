@@ -802,4 +802,7 @@
         width="301"
         height="128"/>
   </children>
+  <properties
+      key="exportar"
+      value="false"/>
 </archimate:ArchimateDiagramModel>

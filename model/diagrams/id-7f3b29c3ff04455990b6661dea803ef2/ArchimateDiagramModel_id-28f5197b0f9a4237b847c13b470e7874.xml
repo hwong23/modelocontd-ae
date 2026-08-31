@@ -269,4 +269,7 @@
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-65ac8a4c65ad4d5e9c1b693376e1a62b.xml#id-65ac8a4c65ad4d5e9c1b693376e1a62b"/>
   </children>
+  <properties
+      key="exportar"
+      value="false"/>
 </archimate:ArchimateDiagramModel>

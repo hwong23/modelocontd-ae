@@ -83,4 +83,7 @@
   <properties
       key="IncluyeElementosSindoc"
       value="false"/>
+  <properties
+      key="exportar"
+      value="false"/>
 </archimate:ArchimateDiagramModel>

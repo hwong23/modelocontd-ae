@@ -482,4 +482,7 @@
         xsi:type="archimate:Assessment"
         href="Assessment_id-eb7f1770bf394dd6965443789f019317.xml#id-eb7f1770bf394dd6965443789f019317"/>
   </children>
+  <properties
+      key="exportar"
+      value="false"/>
 </archimate:ArchimateDiagramModel>
