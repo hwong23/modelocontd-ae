@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nómina"
     id="id-e6853090fd91476da8fd5261aa71716a"
-    documentation="..."/>
+    documentation="...">
+  <properties
+      key="ERP"
+      value="Nómina"/>
+</archimate:BusinessObject>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Parámetros"
     id="id-c6a562723b8f47eb882b9797bbec8231"
-    documentation="..."/>
+    documentation="...">
+  <properties
+      key="ERP"
+      value="Nómina"/>
+</archimate:BusinessObject>

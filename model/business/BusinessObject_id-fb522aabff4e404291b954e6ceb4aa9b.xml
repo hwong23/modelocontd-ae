@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fondos"
-    id="id-fb522aabff4e404291b954e6ceb4aa9b"/>
+    id="id-fb522aabff4e404291b954e6ceb4aa9b">
+  <properties
+      key="ERP"
+      value="Nómina"/>
+</archimate:BusinessObject>

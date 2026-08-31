@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Catalogo jerárquico suministrado por BOGDATA"
     id="id-d8fe0dd4c3074899bffcf122ee76883d"
-    documentation="&#xA;"/>
+    documentation="&#xA;">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:BusinessObject>

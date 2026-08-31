@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Novedades Ocasionales"
     id="id-7f66a26a64314981b37e4da827c6b588"
-    documentation="..."/>
+    documentation="...">
+  <properties
+      key="ERP"
+      value="Nómina"/>
+</archimate:BusinessObject>

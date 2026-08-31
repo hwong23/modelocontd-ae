@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Frecuencia de Pago"
     id="id-b80544393e2d4b358bb1c045aaeb602b"
-    documentation="..."/>
+    documentation="...">
+  <properties
+      key="ERP"
+      value="Nómina"/>
+</archimate:BusinessObject>

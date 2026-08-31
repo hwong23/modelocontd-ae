@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ARL"
     id="id-879c7713b84a4ff6aabd9d7fc9bc474c"
-    documentation="..."/>
+    documentation="...">
+  <properties
+      key="ERP"
+      value="Nómina"/>
+</archimate:BusinessObject>

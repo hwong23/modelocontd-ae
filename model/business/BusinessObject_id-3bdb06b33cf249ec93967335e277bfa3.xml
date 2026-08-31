@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Datos Básicos"
-    id="id-3bdb06b33cf249ec93967335e277bfa3"/>
+    id="id-3bdb06b33cf249ec93967335e277bfa3">
+  <properties
+      key="ERP"
+      value="Nómina"/>
+</archimate:BusinessObject>

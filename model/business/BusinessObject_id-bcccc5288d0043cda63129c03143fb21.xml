@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cargo Empresa"
     id="id-bcccc5288d0043cda63129c03143fb21"
-    documentation="Categorías, entrada, parametrización, "/>
+    documentation="Categorías, entrada, parametrización, ">
+  <properties
+      key="ERP"
+      value="Nómina"/>
+</archimate:BusinessObject>

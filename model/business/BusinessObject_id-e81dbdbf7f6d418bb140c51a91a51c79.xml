@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Familiar"
     id="id-e81dbdbf7f6d418bb140c51a91a51c79"
-    documentation="Categorías, entrada, parametrización, "/>
+    documentation="Categorías, entrada, parametrización, ">
+  <properties
+      key="ERP"
+      value="Nómina"/>
+</archimate:BusinessObject>

@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Idiomas"
-    id="id-c9c568672757421689ce0f20545bbc0d"/>
+    id="id-c9c568672757421689ce0f20545bbc0d">
+  <properties
+      key="ERP"
+      value="Nómina"/>
+</archimate:BusinessObject>

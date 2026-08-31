@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hoja de Vida"
-    id="id-4d0adb1cc40841019afe64c71d9d3e22"/>
+    id="id-4d0adb1cc40841019afe64c71d9d3e22">
+  <properties
+      key="ERP"
+      value="Nómina"/>
+</archimate:BusinessObject>

@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Plan de Cuentas"
-    id="id-34a05dc498a541ad855e2f95319f608d"/>
+    id="id-34a05dc498a541ad855e2f95319f608d">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:BusinessObject>

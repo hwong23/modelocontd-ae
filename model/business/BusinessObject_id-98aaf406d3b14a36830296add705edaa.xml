@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Centros de Costo"
-    id="id-98aaf406d3b14a36830296add705edaa"/>
+    id="id-98aaf406d3b14a36830296add705edaa">
+  <properties
+      key="ERP"
+      value="RFisicos"/>
+</archimate:BusinessObject>

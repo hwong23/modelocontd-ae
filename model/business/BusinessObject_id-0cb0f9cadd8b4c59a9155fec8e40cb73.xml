@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Salidas"
-    id="id-0cb0f9cadd8b4c59a9155fec8e40cb73"/>
+    id="id-0cb0f9cadd8b4c59a9155fec8e40cb73">
+  <properties
+      key="ERP"
+      value="RFisicos"/>
+</archimate:BusinessObject>

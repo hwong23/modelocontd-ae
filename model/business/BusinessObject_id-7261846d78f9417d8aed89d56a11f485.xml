@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Terceros"
     id="id-7261846d78f9417d8aed89d56a11f485"
-    documentation="&#xA;"/>
+    documentation="&#xA;">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:BusinessObject>

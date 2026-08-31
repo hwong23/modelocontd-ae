@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cargo Empresa Nivel"
-    id="id-512d3eb082b34bcca97e591978472b5b"/>
+    id="id-512d3eb082b34bcca97e591978472b5b">
+  <properties
+      key="ERP"
+      value="Nómina"/>
+</archimate:BusinessObject>

@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cargo Ocurrencia"
-    id="id-7fa80e12d55342b3be42581cfbff2446"/>
+    id="id-7fa80e12d55342b3be42581cfbff2446">
+  <properties
+      key="ERP"
+      value="Nómina"/>
+</archimate:BusinessObject>

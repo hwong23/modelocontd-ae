@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CDP suministrados por BOGDATA"
     id="id-8f7bb30a4c1e42fbb17393e7b0105595"
-    documentation="&#xA;"/>
+    documentation="&#xA;">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:BusinessObject>

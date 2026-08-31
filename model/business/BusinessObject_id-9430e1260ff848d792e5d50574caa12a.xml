@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cargo"
-    id="id-9430e1260ff848d792e5d50574caa12a"/>
+    id="id-9430e1260ff848d792e5d50574caa12a">
+  <properties
+      key="ERP"
+      value="Nómina"/>
+</archimate:BusinessObject>

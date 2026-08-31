@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tipos de Comprobantes"
-    id="id-2ed19fb8b72f47e28b0904a1a9992f36"/>
+    id="id-2ed19fb8b72f47e28b0904a1a9992f36">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:BusinessObject>

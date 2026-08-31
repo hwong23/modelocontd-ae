@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RP suministrados por BOGDATA"
     id="id-cbca7fa9619541cab259d05bf7966252"
-    documentation="&#xA;"/>
+    documentation="&#xA;">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:BusinessObject>

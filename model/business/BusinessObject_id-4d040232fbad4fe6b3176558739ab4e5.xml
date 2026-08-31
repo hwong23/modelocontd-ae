@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Formación Académica"
-    id="id-4d040232fbad4fe6b3176558739ab4e5"/>
+    id="id-4d040232fbad4fe6b3176558739ab4e5">
+  <properties
+      key="ERP"
+      value="Nómina"/>
+</archimate:BusinessObject>
