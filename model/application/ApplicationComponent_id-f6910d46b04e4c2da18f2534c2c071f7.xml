@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Comprobantes de Contabilidad"
     id="id-f6910d46b04e4c2da18f2534c2c071f7"
-    documentation="Hace referencia a los comprobante de contabilidad que se tienen en el sistema sean de origen manual o resultado de procesos integrados.&#xA;Permite distribución o registro de una cuenta por unidad ejecutora.&#xA;Permite el manejo de contabilidad por secretarías y ordenadores del gasto generando balances de prueba estados de rentas y gastos y libros auxiliares por unidad ejecutora.&#xA;Manejo Interno por Unidad Ejecutora.&#xA;">
+    documentation="Hace referencia a los comprobante de contabilidad que se tienen en el sistema sean de origen manual o resultado de procesos integrados. Permite distribución o registro de una cuenta por unidad ejecutora. Permite el manejo de contabilidad por secretarías y ordenadores del gasto generando balances de prueba estados de rentas y gastos y libros auxiliares por unidad ejecutora. Manejo Interno por Unidad Ejecutora.&#xA;">
   <properties
       key="Datos"
       value="Plan de cuentas&#xA;Tipo de Comprobantes&#xA;Terceros&#xA;"/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Elaboración manual de CDP"
     id="id-0ae4ce08fae440869e15c84d8cb2a412"
-    documentation="Facilita la elaboración manual de CDP cuando sea necesario.&#xA;Administra certificados con fechas de vencimiento configurables.&#xA;Gestiona anulación, adición, reducción, prórroga y modificación de certificados.&#xA;Proporciona control individual de cada CDP y sus registros presupuestales asociados.&#xA;">
+    documentation="Facilita la elaboración manual de CDP cuando sea necesario. Administra certificados con fechas de vencimiento configurables. Gestiona anulación, adición, reducción, prórroga y modificación de certificados. Proporciona control individual de cada CDP y sus registros presupuestales asociados.&#xA;">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-02.Migracion. Submodulo Ejecucion Presupuestal.csv on Mon Aug 10 2026 12:39:03 GMT-0500 (COT)"/>
