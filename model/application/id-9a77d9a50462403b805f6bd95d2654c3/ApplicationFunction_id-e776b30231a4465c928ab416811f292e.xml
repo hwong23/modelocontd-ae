@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integración descuentos contables"
     id="id-e776b30231a4465c928ab416811f292e"
-    documentation="Integra descuentos y recargos de órdenes de pago generando la afectación contable correspondiente."/>
+    documentation="Integra descuentos y recargos de órdenes de pago generando la afectación contable correspondiente.">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationFunction>

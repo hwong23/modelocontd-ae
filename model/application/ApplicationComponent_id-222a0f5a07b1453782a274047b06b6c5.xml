@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informes de Contabilidad"
     id="id-222a0f5a07b1453782a274047b06b6c5"
-    documentation="Compila informes normativos e informes adicionales de uso diario ya implementados en el sistema"/>
+    documentation="Compila informes normativos e informes adicionales de uso diario ya implementados en el sistema">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationComponent>

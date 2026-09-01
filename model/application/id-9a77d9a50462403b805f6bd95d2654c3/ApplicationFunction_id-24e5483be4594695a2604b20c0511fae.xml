@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Consultas contables"
     id="id-24e5483be4594695a2604b20c0511fae"
-    documentation="Genera consultas e impresiones de saldos y movimientos contables en cualquier momento."/>
+    documentation="Genera consultas e impresiones de saldos y movimientos contables en cualquier momento.">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationFunction>

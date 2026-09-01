@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interoperabilidad de pagos"
     id="id-c6e44ea8e5ed440e927e4335f91df43b"
-    documentation="Permite identificar pagos registrados desde sistemas externos para distintos tipos de órdenes y hacer el respectivo registro contable"/>
+    documentation="Permite identificar pagos registrados desde sistemas externos para distintos tipos de órdenes y hacer el respectivo registro contable">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationFunction>

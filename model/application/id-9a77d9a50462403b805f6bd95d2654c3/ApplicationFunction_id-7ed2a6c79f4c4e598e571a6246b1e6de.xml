@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Parametrización tributaria"
     id="id-7ed2a6c79f4c4e598e571a6246b1e6de"
-    documentation="Permite parametrizar los tipos de afectación de concepto para cada formato, se tienen en cuenta afectacion Débito, Crédito, Saldo y Valores Base."/>
+    documentation="Permite parametrizar los tipos de afectación de concepto para cada formato, se tienen en cuenta afectacion Débito, Crédito, Saldo y Valores Base.">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationFunction>

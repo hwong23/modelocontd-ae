@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Reclasificación de cuentas"
     id="id-587e791d928c47e696be9c3ea18d9064"
-    documentation="Permite procesos de reclasificación de cuentas contables manteniendo el histórico de información."/>
+    documentation="Permite procesos de reclasificación de cuentas contables manteniendo el histórico de información.">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationComponent>

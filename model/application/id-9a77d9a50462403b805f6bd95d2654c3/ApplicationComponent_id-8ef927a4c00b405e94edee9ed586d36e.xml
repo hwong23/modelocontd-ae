@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generación de libros contables"
     id="id-8ef927a4c00b405e94edee9ed586d36e"
-    documentation="Genera libro mayor, libros diarios auxiliares por terceros saldos y movimientos centro de utilidad unidad ejecutora y demás libros contables."/>
+    documentation="Genera libro mayor, libros diarios auxiliares por terceros saldos y movimientos centro de utilidad unidad ejecutora y demás libros contables.">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationComponent>

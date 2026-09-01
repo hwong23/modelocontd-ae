@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Control de cuentas bancarias"
     id="id-21c473783aaa477bb8155158dc5688aa"
-    documentation="Identifica cuentas contables asociadas al seguimiento y control de cuentas bancarias.&#xA;&#xA;[NOTA]: Verificar usabilidad porque PERSONERIA no administra las cuentas bancarias"/>
+    documentation="Identifica cuentas contables asociadas al seguimiento y control de cuentas bancarias.&#xA;&#xA;[NOTA]: Verificar usabilidad porque PERSONERIA no administra las cuentas bancarias">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationFunction>

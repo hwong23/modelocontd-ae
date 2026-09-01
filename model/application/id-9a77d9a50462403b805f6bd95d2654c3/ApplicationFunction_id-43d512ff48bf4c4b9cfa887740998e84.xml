@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Planeación financiera de proyectos"
     id="id-43d512ff48bf4c4b9cfa887740998e84"
-    documentation="Los proyectos permiten definir actividades metas indicadores y rubros presupuestales asociados integrando CDP RP obligaciones y pagos."/>
+    documentation="Los proyectos permiten definir actividades metas indicadores y rubros presupuestales asociados integrando CDP RP obligaciones y pagos.">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationFunction>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generación de información exógena - DIAN"
     id="id-173d4f4742e3476c813938735eb10457"
-    documentation="Facilita la generación de información exógena y notificación de saldos mediante correo electrónico a entes recíprocos."/>
+    documentation="Facilita la generación de información exógena y notificación de saldos mediante correo electrónico a entes recíprocos.">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationComponent>

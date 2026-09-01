@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Generación de medios magnéticos"
     id="id-bae58e43018e427e8c41b0bacafb30fa"
-    documentation="Genera los informes requeridos por la DIAN en medios magnéticos con información predeterminada como actividades económicas administraciones departamentos municipios y conceptos."/>
+    documentation="Genera los informes requeridos por la DIAN en medios magnéticos con información predeterminada como actividades económicas administraciones departamentos municipios y conceptos.">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationFunction>

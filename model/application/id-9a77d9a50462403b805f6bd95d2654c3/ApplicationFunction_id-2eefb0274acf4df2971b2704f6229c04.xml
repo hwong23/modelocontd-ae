@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Libros auxiliares y por terceros"
     id="id-2eefb0274acf4df2971b2704f6229c04"
-    documentation="Genera libros auxiliares, por terceros y por cuenta"/>
+    documentation="Genera libros auxiliares, por terceros y por cuenta">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationFunction>

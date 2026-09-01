@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integración"
     id="id-537a661021204a798c539bbba962aef5"
-    documentation="Permite la integración contable con el componente de contabilidad para operar y administrar cuentas contables.&#xA;Permite que la entidad sea dueña de su parametrización contable sin depender del fabricante del software.&#xA;Centraliza la integración contable y parámetros en un único módulo.&#xA;"/>
+    documentation="Permite la integración contable con el componente de contabilidad para operar y administrar cuentas contables.&#xA;Permite que la entidad sea dueña de su parametrización contable sin depender del fabricante del software.&#xA;Centraliza la integración contable y parámetros en un único módulo.&#xA;">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationComponent>

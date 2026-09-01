@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informes de resultados de plan de gestión"
     id="id-c63d592b9fa34b6ba27d7b8644113392"
-    documentation="Facilita consultas e impresiones de resultados a nivel de proyectos y planes de gestión."/>
+    documentation="Facilita consultas e impresiones de resultados a nivel de proyectos y planes de gestión.">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationFunction>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Planeación plurianual"
     id="id-214ced850ef44b9da9a9f5114c0b4044"
-    documentation="Permite registrar valores estimados para el año actual y años futuros según la duración del plan de gestión."/>
+    documentation="Permite registrar valores estimados para el año actual y años futuros según la duración del plan de gestión.">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationFunction>

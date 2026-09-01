@@ -6,6 +6,9 @@
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Obligaciones e Integrador de Pagos.csv on Mon Aug 10 2026 12:43:06 GMT-0500 (COT)"/>
+  <properties
+      key="ERP"
+      value="Financiero"/>
   <profiles
       href="folder.xml#id-a561c4161c644f2eb21626e5a129ea3f"/>
 </archimate:ApplicationComponent>

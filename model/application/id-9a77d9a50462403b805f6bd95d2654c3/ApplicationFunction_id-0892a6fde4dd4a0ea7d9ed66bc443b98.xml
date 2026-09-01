@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integración almacén-contabilidad"
     id="id-0892a6fde4dd4a0ea7d9ed66bc443b98"
-    documentation="Permite parametrizar movimientos contables derivados de entradas salidas depreciaciones y ajustes de almacén."/>
+    documentation="Permite parametrizar movimientos contables derivados de entradas salidas depreciaciones y ajustes de almacén.">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationFunction>

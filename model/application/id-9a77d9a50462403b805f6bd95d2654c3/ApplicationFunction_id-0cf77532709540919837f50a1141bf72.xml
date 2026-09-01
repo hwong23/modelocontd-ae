@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Certificados de bancos por proyecto"
     id="id-0cf77532709540919837f50a1141bf72"
-    documentation="Facilita la expedición de certificado de bancos, de tal manera que desde el punto de vista del proyecto se tenga el control de disponibilidad acorde a la estimación de valores asociados a las actividades a desarrollar en cada caso.&#xA;&#xA;NOTA: Verificar usabilidad por parte de la PERSONERIA"/>
+    documentation="Facilita la expedición de certificado de bancos, de tal manera que desde el punto de vista del proyecto se tenga el control de disponibilidad acorde a la estimación de valores asociados a las actividades a desarrollar en cada caso.&#xA;&#xA;NOTA: Verificar usabilidad por parte de la PERSONERIA">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationFunction>

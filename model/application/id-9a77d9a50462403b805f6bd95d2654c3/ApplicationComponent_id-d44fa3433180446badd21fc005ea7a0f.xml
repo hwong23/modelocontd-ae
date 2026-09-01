@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Programación de procesos contables de amortización"
     id="id-d44fa3433180446badd21fc005ea7a0f"
-    documentation="Permite la programación de procesos contables de amortización y aplicación de registros contables en el periodo correspondiente."/>
+    documentation="Permite la programación de procesos contables de amortización y aplicación de registros contables en el periodo correspondiente.">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationComponent>

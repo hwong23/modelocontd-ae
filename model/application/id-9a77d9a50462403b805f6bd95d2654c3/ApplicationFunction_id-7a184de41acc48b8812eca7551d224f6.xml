@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integración presupuesto-contabilidad ingresos"
     id="id-7a184de41acc48b8812eca7551d224f6"
-    documentation="Relaciona rubros presupuestales de ingresos con cuentas contables.&#xA;&#xA;[NOTA]: Verificar usabilidad por parte de la PERSONERIA"/>
+    documentation="Relaciona rubros presupuestales de ingresos con cuentas contables.&#xA;&#xA;[NOTA]: Verificar usabilidad por parte de la PERSONERIA">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationFunction>

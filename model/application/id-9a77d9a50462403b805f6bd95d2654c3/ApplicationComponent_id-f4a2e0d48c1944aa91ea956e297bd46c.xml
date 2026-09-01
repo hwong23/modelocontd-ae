@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Proceso de Autorización de Pagos"
     id="id-f4a2e0d48c1944aa91ea956e297bd46c"
-    documentation="Hace referencia al proceso de las ordenes de pago (Elaboración, Radicacion, Aprobacion y Causación)"/>
+    documentation="Hace referencia al proceso de las ordenes de pago (Elaboración, Radicacion, Aprobacion y Causación)">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationComponent>

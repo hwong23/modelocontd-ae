@@ -6,4 +6,7 @@
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Ordenes de Suministro.csv on Mon Aug 10 2026 12:48:32 GMT-0500 (COT)"/>
+  <properties
+      key="ERP"
+      value="RFísicos"/>
 </archimate:ApplicationComponent>

@@ -116,7 +116,7 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="24"
+        y="96"
         width="685"
         height="253"/>
     <children
@@ -278,5 +278,20 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-1db20bc967074cd3a1e04810157aa875.xml#id-1db20bc967074cd3a1e04810157aa875"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4cd5c3ddaf9d46c09e10d3db0d0d2def"
+      textAlignment="1"
+      alpha="0"
+      content="Almacén PCT&#xA;Componente y subcomponentes.&#xA;Versión 0.95">
+    <features
+        name="lineAlpha"
+        value="0"/>
+    <bounds
+        x="12"
+        y="12"
+        width="457"
+        height="108"/>
   </children>
 </archimate:ArchimateDiagramModel>

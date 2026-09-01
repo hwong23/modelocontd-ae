@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Seguimiento a Metas"
-    id="id-5c7df96290a546b9bbc8c23ce18b283f"/>
+    id="id-5c7df96290a546b9bbc8c23ce18b283f">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationComponent>

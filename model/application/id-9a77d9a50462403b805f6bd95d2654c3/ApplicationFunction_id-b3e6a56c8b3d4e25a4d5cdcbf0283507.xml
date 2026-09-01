@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integración cuentas por pagar"
     id="id-b3e6a56c8b3d4e25a4d5cdcbf0283507"
-    documentation="Integra las cuentas por pagar con el tipo de orden de pago correspondiente."/>
+    documentation="Integra las cuentas por pagar con el tipo de orden de pago correspondiente.">
+  <properties
+      key="ERP"
+      value="Financiero"/>
+</archimate:ApplicationFunction>
