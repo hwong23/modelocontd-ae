@@ -5,5 +5,5 @@
     documentation="Generación de órdenes de suministros, especificaciones legales, descuentos e ingresos de recargo a las órdenes de suministro, almacenamiento de información respecto a precios para proyecciones de compras, realiza control a cierres de vigencia.">
   <properties
       key="ERP"
-      value="RFisicos"/>
+      value="RFísicos"/>
 </archimate:ApplicationComponent>
