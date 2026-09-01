@@ -78,11 +78,20 @@
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-909ecb960e3543b39b470f86327a3fd2.xml#id-909ecb960e3543b39b470f86327a3fd2"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-ee4e190aabf94f03b82ff9c14408b679"
+        source="id-c60403dc01fe4a0db43f7158f73cc8de"
+        target="id-0f6bafe2f1d64551b3cc73c63d471010">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-c4a08aa4f8bb401282f594f88e30bfbc.xml#id-c4a08aa4f8bb401282f594f88e30bfbc"/>
+    </sourceConnections>
     <bounds
         x="12"
-        y="72"
-        width="1200"
-        height="253"/>
+        y="84"
+        width="829"
+        height="229"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-da8f05d958ad403b9eb146fb4e52cc8b"
@@ -109,7 +118,7 @@
           x="120"
           y="96"
           width="277"
-          height="133"/>
+          height="109"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-1560d6b39d134d659c50e5803f14ee8b"
@@ -231,28 +240,29 @@
           xsi:type="archimate:ApplicationFunction"
           href="ApplicationFunction_id-77e3a645f5724e18847b374a5935924a.xml#id-77e3a645f5724e18847b374a5935924a"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-0f6bafe2f1d64551b3cc73c63d471010"
+        targetConnections="id-ee4e190aabf94f03b82ff9c14408b679">
+      <bounds
+          x="672"
+          y="96"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationFunction"
+          href="ApplicationFunction_id-a2ea993329b94317a06ba8f6887d2d9e.xml#id-a2ea993329b94317a06ba8f6887d2d9e"/>
+    </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-7deb439ed2624c16bc0527b844c4ffff.xml#id-7deb439ed2624c16bc0527b844c4ffff"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0f6bafe2f1d64551b3cc73c63d471010">
-    <bounds
-        x="684"
-        y="123"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationFunction"
-        href="ApplicationFunction_id-a2ea993329b94317a06ba8f6887d2d9e.xml#id-a2ea993329b94317a06ba8f6887d2d9e"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-e8fbab6989f84f88a708f0cc97cca22b"
       textAlignment="1"
       alpha="0"
-      content="Nómina Humano. Componente Planta y Personal&#xA;Componente y subcomponentes.&#xA;Versión 0.91">
+      content="Nómina Humano. Componente Planta y Personal&#xA;Componente y subcomponentes.&#xA;Versión 0.103">
     <features
         name="lineAlpha"
         value="0"/>
