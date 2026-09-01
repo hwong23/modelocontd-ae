@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="dat.Catálogo de datos"
+    name="app.cat.Catálogo de datos"
     id="id-d095a82267d74c308e3b909c8c1bab24"
     documentation="Contabilidad. Datos:&#xA;- Comprobantes, salida, * Informes, salida, *&#xA;&#xA;Almacén. Datos:&#xA;- Inventario de elementos devolutivos, ingreso, migración, &#xA;&#xA;Clasificación de artículos. Datos:&#xA;- Categorías, entrada, parametrización, &#xA;- Elementos, entrada, parametrización, &#xA;- Referencias, entrada, parametrización,&#xA;&#xA;Integración contable de movimientos. Datos:&#xA;- Cuentas contables, entrada, migración, *&#xA;- Tipos de comprobantes, entrada, parametrización, *&#xA;&#xA;Control de entradas de almacén. Datos:&#xA;- Entradas, entrada, ingreso manual, &#xA;- Salidas, entrada, ingreso manual, &#xA;- Terceros, entrada, ingreso manual, &#xA;- Centros de costo: dependencia dentro de la Entidad, ingreso, ingreso manual,&#xA;&#xA;Control de salidas. Datos:&#xA;- Entradas, entrada, ingreso manual, &#xA;- Salidas, entrada, ingreso manual, &#xA;- Terceros, entrada, ingreso manual, &#xA;- Centros de costo: dependencia dentro de la Entidad, ingreso, ingreso manual,&#xA;">
   <children
