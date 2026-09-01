@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Control de entradas de almacén"
+    name="Entradas de almacén"
     id="id-fab9e669233146629f46014a40a7b322"
     documentation="Gestiona entradas y salidas con afectación contable automática durante traslados entre almacenes o usuarios.&#xA;">
   <properties

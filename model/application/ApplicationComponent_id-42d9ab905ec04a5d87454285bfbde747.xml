@@ -1,8 +1,7 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Salidas de almacén"
-    id="id-092de09a90c4462399934bac419c7ece"
-    documentation="Gestiona entradas y salidas con afectación contable automática durante traslados entre almacenes o usuarios.&#xA;">
+    name="Salida de devolutivo"
+    id="id-42d9ab905ec04a5d87454285bfbde747">
   <properties
       key="importado"
       value="Import from:/Users/hwo/Downloads/Personeria-03.Migracion. Submodulo Almacen.csv on Mon Aug 10 2026 12:50:04 GMT-0500 (COT)"/>

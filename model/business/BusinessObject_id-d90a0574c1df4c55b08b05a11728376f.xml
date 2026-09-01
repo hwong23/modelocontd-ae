@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Saldos Iniciales"
+    id="id-d90a0574c1df4c55b08b05a11728376f"
+    documentation="[Nota]: los saldos deben estar pre-conciliados entre Almac´n y Contabilidad. Personerá debe realiar la conciliación. {Nota]: establecer fecha de crote de saldos iniciales."/>
