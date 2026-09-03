@@ -91,42 +91,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d8a9b4912dfe4c92afe852763ff3be31">
-    <bounds
-        x="12"
-        y="684"
-        width="516"
-        height="48"/>
-    <archimateElement
-        xsi:type="archimate:ValueStream"
-        href="ValueStream_id-cbbf994c4db3446c8d0daa35216962b9.xml#id-cbbf994c4db3446c8d0daa35216962b9"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-feb90d4ec17b44149ca994e93712b817">
-    <bounds
-        x="11"
-        y="744"
-        width="312"
-        height="48"/>
-    <archimateElement
-        xsi:type="archimate:ValueStream"
-        href="ValueStream_id-15e8f1b4ec2148079f7043c80a010fbd.xml#id-15e8f1b4ec2148079f7043c80a010fbd"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7c5785de45d241e6a543e8830ab04181">
-    <bounds
-        x="11"
-        y="804"
-        width="156"
-        height="48"/>
-    <archimateElement
-        xsi:type="archimate:ValueStream"
-        href="ValueStream_id-9b28d22607a34e54ae429e00ac029478.xml#id-9b28d22607a34e54ae429e00ac029478"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7f92c67a5f064c81956a954f77df9b31">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
