@@ -2016,7 +2016,7 @@
       targetConnections="id-67f955d83a4b44609d9bc12d3ab2ebbd">
     <bounds
         x="732"
-        y="486"
+        y="492"
         width="120"
         height="55"/>
     <archimateElement
@@ -2029,7 +2029,7 @@
       targetConnections="id-12d15df49f174ee8a1ed9c6a7e94e1c1">
     <bounds
         x="732"
-        y="552"
+        y="558"
         width="120"
         height="55"/>
     <archimateElement
@@ -2054,8 +2054,8 @@
       id="id-ce72d5e68fbd4ba99bdb8bc2d38575bf"
       targetConnections="id-c25884650a2e46aeaa22151acb2b7480 id-78171d4846094d91bbec5ac139c6e0ba id-fd392e4df93645f9829dcc4e177fca66">
     <bounds
-        x="912"
-        y="731"
+        x="732"
+        y="425"
         width="120"
         height="55"/>
     <archimateElement
