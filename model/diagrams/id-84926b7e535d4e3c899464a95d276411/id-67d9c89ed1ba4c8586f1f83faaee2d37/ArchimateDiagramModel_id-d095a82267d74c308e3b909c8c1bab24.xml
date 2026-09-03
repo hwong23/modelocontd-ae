@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="app.cat.Catálogo de datos"
     id="id-d095a82267d74c308e3b909c8c1bab24"
-    documentation="Contabilidad. Datos:&#xA;- Comprobantes, salida, * Informes, salida, *&#xA;&#xA;Almacén. Datos:&#xA;- Inventario de elementos devolutivos, ingreso, migración, &#xA;&#xA;Clasificación de artículos. Datos:&#xA;- Categorías, entrada, parametrización, &#xA;- Elementos, entrada, parametrización, &#xA;- Referencias, entrada, parametrización,&#xA;&#xA;Integración contable de movimientos. Datos:&#xA;- Cuentas contables, entrada, migración, *&#xA;- Tipos de comprobantes, entrada, parametrización, *&#xA;&#xA;Control de entradas de almacén. Datos:&#xA;- Entradas, entrada, ingreso manual, &#xA;- Salidas, entrada, ingreso manual, &#xA;- Terceros, entrada, ingreso manual, &#xA;- Centros de costo: dependencia dentro de la Entidad, ingreso, ingreso manual,&#xA;&#xA;Control de salidas. Datos:&#xA;- Entradas, entrada, ingreso manual, &#xA;- Salidas, entrada, ingreso manual, &#xA;- Terceros, entrada, ingreso manual, &#xA;- Centros de costo: dependencia dentro de la Entidad, ingreso, ingreso manual,&#xA;">
+    documentation="Contabilidad. Datos:&#xA;- Comprobantes, salida, * Informes, salida, *&#xA;&#xA;Almacén. Datos:&#xA;- Inventario de elementos devolutivos, ingreso, migración, &#xA;&#xA;Clasificación de artículos. Datos:&#xA;- Categorías, entrada, parametrización, &#xA;- Elementos, entrada, parametrización, &#xA;- Referencias, entrada, parametrización,&#xA;&#xA;Integración contable de movimientos. Datos:&#xA;- Cuentas contables, entrada, migración, *&#xA;- Tipos de comprobantes, entrada, parametrización, *&#xA;&#xA;Control de entradas de almacén. Datos:&#xA;- Entradas, entrada, ingreso manual, &#xA;- Salidas, entrada, ingreso manual, &#xA;- Terceros, entrada, ingreso manual, &#xA;- Centros de costo: dependencia dentro de la Entidad, ingreso, ingreso manual,&#xA;&#xA;Control de salidas. Datos:&#xA;- Entradas, entrada, ingreso manual, &#xA;- Salidas, entrada, ingreso manual, &#xA;- Terceros, entrada, ingreso manual, &#xA;- Centros de costo: dependencia dentro de la Entidad, ingreso, ingreso manual,&#xA;&#xA;[Nota]: comprobantes de nómina de Contabilidad (PCT) a Nónina (SLog). Registro presupuesta se genera en BOGDATA, ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a525d4f460fc4215956a166eee1fdb06"
@@ -127,7 +127,7 @@
       targetConnections="id-c3dacfc0aa3640188212ee01c4b7eb29 id-d316118d64e048b18b88c93c98035b38 id-d22d3ebe3dbb48f99be8a547a4a19fb8 id-e8ff8dabf383464eadb56fa909589055">
     <bounds
         x="732"
-        y="360"
+        y="372"
         width="120"
         height="55"/>
     <archimateElement
@@ -1881,7 +1881,7 @@
           href="CompositionRelationship_id-5b5a373491064c64b4b0bfd905d56cd8.xml#id-5b5a373491064c64b4b0bfd905d56cd8"/>
     </sourceConnections>
     <bounds
-        x="2376"
+        x="2340"
         y="414"
         width="361"
         height="199"/>
@@ -2016,7 +2016,7 @@
       targetConnections="id-67f955d83a4b44609d9bc12d3ab2ebbd">
     <bounds
         x="732"
-        y="492"
+        y="504"
         width="120"
         height="55"/>
     <archimateElement
@@ -2029,7 +2029,7 @@
       targetConnections="id-12d15df49f174ee8a1ed9c6a7e94e1c1">
     <bounds
         x="732"
-        y="558"
+        y="570"
         width="120"
         height="55"/>
     <archimateElement
@@ -2042,7 +2042,7 @@
       targetConnections="id-a0f5b2d344f8485bb4b8c17a729e38b9">
     <bounds
         x="732"
-        y="684"
+        y="635"
         width="120"
         height="55"/>
     <archimateElement
@@ -2055,7 +2055,7 @@
       targetConnections="id-c25884650a2e46aeaa22151acb2b7480 id-78171d4846094d91bbec5ac139c6e0ba id-fd392e4df93645f9829dcc4e177fca66">
     <bounds
         x="732"
-        y="425"
+        y="437"
         width="120"
         height="55"/>
     <archimateElement

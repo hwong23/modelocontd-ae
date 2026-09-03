@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Estructura presupuestal definida en PCT"
+    name="Estructura presupuestal jerarquizada por BOGDATA"
     id="id-18fcd04a9a5b42eeb0f10165298553bd">
   <properties
       key="ERP"
