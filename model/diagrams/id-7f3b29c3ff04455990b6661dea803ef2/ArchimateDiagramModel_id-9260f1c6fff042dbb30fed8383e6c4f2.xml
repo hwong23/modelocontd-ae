@@ -5,111 +5,6 @@
     id="id-9260f1c6fff042dbb30fed8383e6c4f2"
     documentation="La fase de **Gestión de Requerimientos** es el núcleo central del ciclo **ADM (Architecture Development Method)** de TOGAF. A diferencia de las fases dinámicas (de la A a la H), esta fase opera de manera continua y transversal para identificar, almacenar, evaluar y alimentar las necesidades del negocio hacia cada fase del diseño arquitectónico y viceversa.&#xA;&#xA;### 1. Elementos del Metamodelo y Entregables Asociados&#xA;&#xA;Desde la perspectiva del *Content Metamodel* de TOGAF y sus entregables:&#xA;&#xA;* **Requisitos (Requirements):** Afirmaciones cuantitativas y cualitativas de necesidad de negocio que la arquitectura debe satisfacer.&#xA;&#xA;* **Catálogo de Requerimientos (Requirements Catalog):** Entregable/artefacto principal donde se centralizan las historias de usuario, requerimientos funcionales, no funcionales, restricciones (*Constraints*) y asunciones (*Assumptions*).&#xA;&#xA;* **Matriz de Impacto e Interoperabilidad:** Evalúa cómo un cambio en los requerimientos afecta las distintas capas de la arquitectura (Negocio, Datos, Aplicaciones, Tecnología).&#xA;&#xA;### 2. Relación con el Proceso de Desarrollo Paralelo (Concurrent Engineering)&#xA;&#xA;El flujo de **Desarrollo Paralelo** o *Ingeniería Concurrente* implica que diferentes equipos de ingeniería/arquitectura trabajan simultáneamente en distintas disciplinas, componentes o subsistemas (por ejemplo, Hardware, Software de Aplicación, Infraestructura Base y Datos).&#xA;&#xA;Cuando se aplica Desarrollo Paralelo, la vista de Gestión de Requerimientos de TOGAF asume un rol crítico bajo los siguientes pilares:&#xA;&#xA;* **Trazabilidad Bi-direccional en Tiempo Real:**&#xA;Como los equipos avanzan en paralelo, un cambio en un requerimiento de la *Arquitectura de Aplicaciones* (Fase C) puede tener un impacto inmediato en los requerimientos de la *Arquitectura de Tecnología* (Fase D) o la *Arquitectura de Negocio* (Fase B). La Gestión de Requerimientos actúa como la única fuente de verdad (*Single Source of Truth*) para evitar desalineaciones o retrabajos.&#xA;&#xA;&#xA;* **Gestión de Criterios de Aceptación e Interfaces:**&#xA;En desarrollo paralelo, los componentes construidos simultáneamente deben desacoplarse mediante **contratos de interfaz**. Los requerimientos definen no solo la función interna, sino las fronteras de integración e interoperabilidad entre los equipos de desarrollo.&#xA;&#xA;&#xA;* **Control de Variaciones y Conflictos:**&#xA;Si el equipo de infraestructura cambia una restricción de rendimiento (*SLA/Constraint*) mientras el equipo de aplicaciones diseña en paralelo, la fase de Gestión de Requerimientos detecta el conflicto (*Gap Analysis* de Requerimientos) y dispara la revaluación de la fase correspondiente del ADM o la fase H de *Change Management* si la arquitectura ya está desplegada.&#xA;&#xA;### Representación Conceptual en ArchiMate 3.1&#xA;&#xA;Si quisiéramos estructurar estos requerimientos en ArchiMate 3.1 para la integración de este proceso paralelo:&#xA;&#xA;1. **Capa de Motivación:**&#xA;* `Requirement` (ej. *Procesamiento Paralelo de Pedidos*): Especifica la necesidad técnica o funcional.&#xA;* `Constraint` (ej. *Tiempo de Respuesta &lt; 200ms*): Restringe las opciones de diseño de los equipos en paralelo.&#xA;&#xA;2. **Capa Core (Negocio / Aplicación / Tecnología):**&#xA;* Elementos `Business Function`, `Application Component` o `Node` que poseen relaciones de **Realización (`Realization`)** hacia los requerimientos correspondientes.&#xA;">
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d8f98f0f34b143b1981ed7ae65299d0a"
-      targetConnections="id-2b1cd02886fc4688b09d3092050548c2">
-    <bounds
-        x="852"
-        y="144"
-        width="265"
-        height="325"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-6de0000779af400a9ec96ec71bd7cd26"
-        targetConnections="id-6d951329d0224d4596107d57d9930f5b"
-        type="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-4f6689a7e7dc47e39963576baa19f378"
-          source="id-6de0000779af400a9ec96ec71bd7cd26"
-          target="id-4148b17da8a44e33a2bd11171a1cc47b">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_id-c8fa7ba1cbf94b03a154fdcb323ad6d8.xml#id-c8fa7ba1cbf94b03a154fdcb323ad6d8"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-9e02be812a9940b3b84fced5ce38312e"
-          source="id-6de0000779af400a9ec96ec71bd7cd26"
-          target="id-7cb7c8bbd3524f8c900968c05f1a1090">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_id-19dacaaa373846a2b03aaf458d2945e5.xml#id-19dacaaa373846a2b03aaf458d2945e5"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-eefac34e405f433c8f619f5c7802a46a"
-          source="id-6de0000779af400a9ec96ec71bd7cd26"
-          target="id-bcf7bb56c2d348089d4c8721c64c4a8b">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_id-0a7e22a77ec74959906b308fcd282485.xml#id-0a7e22a77ec74959906b308fcd282485"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-2b1cd02886fc4688b09d3092050548c2"
-          source="id-6de0000779af400a9ec96ec71bd7cd26"
-          target="id-d8f98f0f34b143b1981ed7ae65299d0a">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_id-f44a61fe60f44dbabfe0b0fa80ffaa23.xml#id-f44a61fe60f44dbabfe0b0fa80ffaa23"/>
-      </sourceConnections>
-      <bounds
-          x="24"
-          y="48"
-          width="216"
-          height="134"/>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-7cb7c8bbd3524f8c900968c05f1a1090"
-          targetConnections="id-9e02be812a9940b3b84fced5ce38312e"
-          type="1">
-        <bounds
-            x="36"
-            y="36"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:Contract"
-            href="Contract_id-2422e182aa404fd7ad9785e708281c65.xml#id-2422e182aa404fd7ad9785e708281c65"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-bcf7bb56c2d348089d4c8721c64c4a8b"
-          targetConnections="id-eefac34e405f433c8f619f5c7802a46a"
-          type="1">
-        <bounds
-            x="48"
-            y="48"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:Contract"
-            href="Contract_id-55dcbf4f68c5459594395401e9bbe7f6.xml#id-55dcbf4f68c5459594395401e9bbe7f6"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-4148b17da8a44e33a2bd11171a1cc47b"
-          targetConnections="id-4f6689a7e7dc47e39963576baa19f378"
-          type="1">
-        <bounds
-            x="60"
-            y="60"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:Contract"
-            href="Contract_id-015d06af1c474628bc2190724dc74d21.xml#id-015d06af1c474628bc2190724dc74d21"/>
-      </children>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-7834a02c63684955b6d1a3aeb2cb4295.xml#id-7834a02c63684955b6d1a3aeb2cb4295"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:ApplicationInteraction"
-        href="ApplicationInteraction_id-8760143e4c4e449b9c0e6c2f956a0f54.xml#id-8760143e4c4e449b9c0e6c2f956a0f54"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelNote"
       id="id-086d1198a87e4281918005cec944cbf6"
       textAlignment="1"
@@ -446,15 +341,6 @@
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-96c43537377141e08674428338fb940b.xml#id-96c43537377141e08674428338fb940b"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-6d951329d0224d4596107d57d9930f5b"
-          source="id-ecc040412172472ab47ae2db2a6451d7"
-          target="id-6de0000779af400a9ec96ec71bd7cd26">
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_id-6e03ad061c554948a6ea244a367d13ea.xml#id-6e03ad061c554948a6ea244a367d13ea"/>
       </sourceConnections>
       <bounds
           x="336"
