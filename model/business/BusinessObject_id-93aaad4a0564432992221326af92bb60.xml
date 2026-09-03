@@ -1,8 +1,0 @@
-<archimate:BusinessObject
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Estructura presupuestal definida en PCT"
-    id="id-93aaad4a0564432992221326af92bb60">
-  <properties
-      key="ERP"
-      value="Financiero"/>
-</archimate:BusinessObject>
