@@ -22,6 +22,13 @@ Your job is to inspect model artifacts, enrich documentation for elements and re
 - Do not run broad refactors; keep edits focused, minimal, and auditable.
 - If evidence is incomplete or ambiguous, state assumptions explicitly and ask for confirmation.
 
+## Discovery rule for element types
+- To find all elements of a given type, always start from the corresponding layer folder under model/ and traverse it recursively through all subfolders.
+- Do not limit the search to the top-level directory. Use a recursive scan (`os.walk`, `Path.rglob`, or `find`) so nested subfolders are included automatically.
+- Example: `application-component` elements are discovered under `model/application` and any nested subdirectories below it; `business-object` elements are discovered under `model/business` and descendants.
+- The inventory must be based on the actual XML artifacts found in the folder tree, not on a shallow listing of one directory level.
+- When a type has a specific layer folder, that folder is the root of the recursive search; the search scope is the entire subtree under that layer.
+
 ## Preferred Inputs
 - ArchiMate concept names, IDs, or viewpoint names.
 - Target audience for documentation (architecture team, business stakeholders, operations, etc.).
