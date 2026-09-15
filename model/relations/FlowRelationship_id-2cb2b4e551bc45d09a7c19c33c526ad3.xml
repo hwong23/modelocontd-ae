@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registro presupuestales de compromiso"
-    id="id-2cb2b4e551bc45d09a7c19c33c526ad3">
+    id="id-2cb2b4e551bc45d09a7c19c33c526ad3"
+    documentation="API o un servicio que consuma bogdata cada vez que hace un movimiento.&#xA;">
   <properties
       key="destino"
       value="doc"/>
