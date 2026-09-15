@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informes de resultado"
     id="id-8a9c28fda9f6425a98e7bace4be88701">
+  <properties
+      key="destino"
+      value="doc"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-3b71a50514e1426ab989f8c317d2cddd.xml#id-3b71a50514e1426ab989f8c317d2cddd"/>

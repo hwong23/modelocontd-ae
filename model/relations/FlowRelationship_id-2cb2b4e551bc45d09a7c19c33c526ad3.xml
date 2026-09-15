@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registro presupuestales de compromiso"
     id="id-2cb2b4e551bc45d09a7c19c33c526ad3">
+  <properties
+      key="destino"
+      value="doc"/>
   <source
       xsi:type="archimate:ApplicationFunction"
       href="ApplicationFunction_id-8fd06c154d3f4c17816de5245e37247b.xml#id-8fd06c154d3f4c17816de5245e37247b"/>

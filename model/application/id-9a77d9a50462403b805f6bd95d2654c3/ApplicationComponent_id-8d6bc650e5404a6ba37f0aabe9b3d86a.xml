@@ -6,6 +6,9 @@
   <properties
       key="ERP"
       value="Financiero"/>
+  <properties
+      key="destino"
+      value="doc"/>
   <profiles
       href="folder.xml#id-a561c4161c644f2eb21626e5a129ea3f"/>
 </archimate:ApplicationComponent>

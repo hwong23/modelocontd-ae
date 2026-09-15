@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Órdenes de pagadas"
     id="id-a61ba6236e3c410db28ba0badb380722">
+  <properties
+      key="destino"
+      value="doc"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-2929d65203cb498a82e9adf92b03a543.xml#id-2929d65203cb498a82e9adf92b03a543"/>

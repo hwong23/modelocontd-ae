@@ -285,7 +285,8 @@
         href="ApplicationComponent_id-8d6bc650e5404a6ba37f0aabe9b3d86a.xml#id-8d6bc650e5404a6ba37f0aabe9b3d86a"/>
   </children>
   <properties
-      key="alias"/>
+      key="alias"
+      value="vw-app.cat"/>
   <properties
       key="devdoc"/>
   <properties
