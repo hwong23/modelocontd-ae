@@ -1,8 +1,9 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestión de pagos"
-    id="id-43c1fb952ea04e01b322929d5d42ccb7">
+    name="Gestión de pagos / Listado de órdenes de pago"
+    id="id-43c1fb952ea04e01b322929d5d42ccb7"
+    documentation="BOGDATA debe disponer de un API o servicio que reciba el listado (En linea uno a uno o una carga masiva).&#xA;">
   <properties
       key="destino"
       value="doc"/>
