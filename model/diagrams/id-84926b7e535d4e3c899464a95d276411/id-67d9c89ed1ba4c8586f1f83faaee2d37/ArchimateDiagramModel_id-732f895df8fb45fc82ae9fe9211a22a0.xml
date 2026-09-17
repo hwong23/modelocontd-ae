@@ -508,4 +508,7 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-ca8f4428612349178e9598c8ca1386d7.xml#id-ca8f4428612349178e9598c8ca1386d7"/>
   </children>
+  <properties
+      key="titulo"
+      value="Sistemas de información ERP Personería"/>
 </archimate:ArchimateDiagramModel>
