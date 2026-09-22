@@ -11,7 +11,11 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
+      alpha="0"
       content="Vista de sistemas de información&#xA;Instauración ERP Personería&#xA;&#xA;versión 1.3.1">
+    <features
+        name="lineAlpha"
+        value="0"/>
     <bounds
         x="12"
         y="12"
@@ -24,8 +28,8 @@
       textAlignment="1">
     <bounds
         x="12"
-        y="168"
-        width="457"
+        y="139"
+        width="589"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelReference"
@@ -62,6 +66,18 @@
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-902d84c733da44f98b8958510bf07521.xml#id-902d84c733da44f98b8958510bf07521"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-fee92fae089441a09d0b86dfcd9a5d6f">
+      <bounds
+          x="420"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-937c7e524d744d87973762b97c4be03d.xml#id-937c7e524d744d87973762b97c4be03d"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
