@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Integración Propuesta.3.Plan"
+    name="Integración.3.Plan"
     id="id-937c7e524d744d87973762b97c4be03d"
     documentation="## Integraciones Identificadas (Relación F en la Matriz)&#xA;Los 12 flujos de información a implementar corresponden a:&#xA;&#xA;1. Obligaciones e Integrador de Pagos --> BOGDATA&#xA;2. Obligaciones e Integrador de Pagos --> Entradas de almacén&#xA;3. Obligaciones e Integrador de Pagos --> Seguimiento a Metas&#xA;4. Obligaciones e Integrador de Pagos --> Comprobantes de Contabilidad&#xA;5. Obligaciones e Integrador de Pagos --> Integración para Pagos&#xA;6. BOGDATA --> Integración para Pagos&#xA;7. BOGDATA --> Integración presupuestal de ingresos con BOGDATA&#xA;8. BOGDATA --> Integración presupuestal de gastos con BOGDATA&#xA;9. BOGDATA --> Disponibilidades Presupuestales&#xA;10. Entradas de almacén --> Obligaciones e Integrador de Pagos&#xA;11. ControlDoc &lt;&lt;SGDEA>> --> Control documental de cuentas&#xA;12. Integración de RP con BOGDATA --> Obligaciones e Integrador de Pagos&#xA;&#xA;1. Métodos de Planeación y Estimación en la Documentación&#xA;En las fuentes del cuaderno se identifican tres metodologías complementarias para estructurar y estimar proyectos de integración:&#xA;&#xA;A. Método de Estimación y Planeación en Paralelo (Parallel Agile / ICSM)&#xA;* Analizador de Complejidad por Casos de Uso (Use Case Complexity Analyzer): Evalúa los diagramas anidados (de secuencia, actividad o descomposición MVC/robustez) asociados a cada caso de uso o flujo de integración para clasificar su complejidad en Fácil, Media o Difícil.&#xA;* Estimación Táctica Basada en Tareas y Promedio Ponderado: Para la planificación de Sprints estructurados en Epics, User Stories y Tasks, se utiliza la fórmula de estimación ponderada entre el desarrollador y el gerente de proyecto: \[\text{Estimación Ponderada} = \frac{2 \times \text{Estimación Desarrollador} + \text{Estimación Gerente}}{3}\] Esta técnica busca asegurar que ninguna asignación supere un marco de un mes calendario por desarrollador.&#xA;* Patrón Cíclico en 3 Fases (ICSM - Incremental Commitment Spiral Model): Estructura el trabajo en iteraciones de aproximadamente un mes:&#xA;    1. Prueba de Concepto (Proof of Concept / Inception): Descubrimiento de requisitos mediante prototipos y modelo ejecutable de dominio.&#xA;    2. Producto Mínimo Viable (MVP): Desarrollo de las capacidades de integración principales en paralelo.&#xA;    3. Optimización y Pruebas de Aceptación (Optimization &amp; Acceptance Testing): Pruebas de escenarios, requisitos y paso a producción.&#xA;&#xA;B. Método de Planeación de Migración e Interoperabilidad (TOGAF 9.2 ADM)&#xA;* Matriz de Brechas, Soluciones y Dependencias Consolidadas: Organiza los requerimientos de integración, define la estrategia de solución (desarrollo propio, COTS o reutilización) y establece las dependencias técnicas de secuencia.&#xA;* Arquitecturas de Transición (Transition Architectures / Plateaus): Establece estados intermedios (plateaus) para entregar valor de negocio acumulativo sin recurrir a despliegues monolíticos (big-bang).&#xA;&#xA;C. Planificación de Capacidad y Tiempos de Servicio (Blueprint Trivadis)&#xA;* Métrica de Tiempos de Servicio (Service Times): Asigna tiempos de procesamiento a los componentes de cada capa del blueprint (Comunicación, Recolección/Distribución y Mediación) para calcular el tiempo de servicio total punto a punto, identificar cuellos de botella y definir acuerdos de nivel de servicio (SLA).&#xA;&#xA;2. Planeación y Estimación de la Implementación&#xA;A. Agrupación en Paquetes de Trabajo (Work Packages - TOGAF Phase E)&#xA;1. Paquete de Trabajo 1 (WP1): Integración Documental (SGDEA)&#xA;    * Flujo: ControlDoc --> Control documental de cuentas.&#xA;    * Alcance: Conexión con el SaaS documental externo para recepción de radicados/soporte de cuentas.&#xA;2. Paquete de Trabajo 3 (WP2): Integración Presupuestal Externa (BOGDATA SaaS)&#xA;    * Flujos: Sincronización de Disponibilidades Presupuestales (CDP), Registro Presupuestal (RP), Ingresos, Gastos, Integración para Pagos y Obligaciones con BOGDATA.&#xA;    * Alcance: Transformación a Modelo de Datos Canónico (CDM) y comunicación bidireccional segura con el SaaS estatal.&#xA;3. Paquete de Trabajo 2 (WP3): Mediación ERP Interna (Autorización de Pagos, Almacén, Contabilidad y Metas)&#xA;    * Flujos: Intercambios bidireccionales entre Obligaciones e Integrador de Pagos, Entradas de almacén, Comprobantes de Contabilidad, Seguimiento a Metas e Integración para Pagos.&#xA;    * Alcance: Orquestación y mediación interna de datos transaccionales de nómina, inventarios y contabilidad.&#xA;&#xA;B. Estimación de Esfuerzo (Fórmula Ponderada Parallel Agile)&#xA;ID&#x9;Flujo de Integración (Origen --> Destino)&#x9;Complejidad&#x9;Est. Dev &#x9;Est. Mgr &#x9;Est. Ponderada &#xA;WP1&#x9;ControlDoc --> Control documental de cuentas&#x9;Media&#x9;8 días&#x9;10 días&#x9;8.7 días&#xA;WP3.1&#x9;Obligaciones --> Entradas de almacén&#x9;Fácil&#x9;4 días&#x9;5 días&#x9;4.3 días&#xA;WP3.2&#x9;Entradas de almacén --> Obligaciones&#x9;Fácil&#x9;4 días&#x9;5 días&#x9;4.3 días&#xA;WP3.3&#x9;Obligaciones --> Comprobantes de Contabilidad&#x9;Media&#x9;6 días&#x9;8 días&#x9;6.7 días&#xA;WP3.4&#x9;Obligaciones --> Seguimiento a Metas&#x9;Fácil&#x9;3 días&#x9;4 días&#x9;3.3 días&#xA;WP3.5&#x9;Obligaciones --> Integración para Pagos&#x9;Media&#x9;6 días&#x9;7 días&#x9;6.3 días&#xA;WP2.1&#x9;BOGDATA --> Disponibilidades Presupuestales&#x9;Media&#x9;7 días&#x9;9 días&#x9;7.7 días&#xA;WP2.2&#x9;Integración RP con BOGDATA --> Obligaciones&#x9;Media&#x9;7 días&#x9;8 días&#x9;7.3 días&#xA;WP2.3&#x9;BOGDATA --> Integración presupuestal de ingresos&#x9;Media&#x9;6 días&#x9;8 días&#x9;6.7 días&#xA;WP2.4&#x9;BOGDATA --> Integración presupuestal de gastos&#x9;Media-Alta&#x9;8 días&#x9;10 días&#x9;8.7 días&#xA;WP2.5&#x9;BOGDATA --> Integración para Pagos&#x9;Media&#x9;7 días&#x9;8 días&#x9;7.3 días&#xA;WP2.6&#x9;Obligaciones --> BOGDATA&#x9;Media-Alta&#x9;8 días&#x9;10 días&#x9;8.7 días&#xA;TOTAL&#x9;Consolidado de las 12 Integraciones&#x9;&#x9;74 días&#x9;92 días&#x9;80.0 días-hombre&#xA;&#xA;C. Cronograma de Implementación (3 Fases / Transiciones)&#xA;Aprovechando la capacidad de desarrollo en paralelo por casos de uso, la ejecución se organiza en un marco temporal de 3 meses (equivalente a 3 Transiciones de TOGAF / Sprints de Parallel Agile):&#xA;&#xA;[ MES 1: Inception / Prottp ] ──► &#x9;[ MES 2: MVP / Paralelo ] ──► &#x9;[ MES 3: Optimización, QA, WP3]&#xA;- Entorno integración&#xA;- Modelo Canónico (CDM)&#xA;- Piloto WP1 (ControlDoc)&#x9;- WP2 (CDP, RP, Gastos)&#xA;&#x9;- Medición Tiempos Servicio&#xA;- Despliegue Producción&#xA;- Pruebas Aceptación/Escenarios&#xA;&#x9;&#x9;- WP2 (5 flujos ERP)&#xA;&#xA;1. Fase 1 / Transición 1 (Mes 1): Prueba de Concepto (Inception &amp; PoC)&#xA;    * Configuración de la capa de comunicación y mediación de Trivadis.&#xA;    * Definición del Modelo de Datos Canónico (CDM) para comprobantes y terceros.&#xA;    * Desarrollo del conector piloto WP1 (ControlDoc) y prototipo de autenticación/comunicación con BOGDATA.&#xA;2. Fase 2 / Transición 2 (Mes 2): Producto Mínimo Viable (MVP) y Salida a Producción&#xA;    * Desarrollo de la primera ola crítica de WP2 (CDP, RP, Ingresos y Gastos con BOGDATA).&#xA;    * Desarrollo de la segunda ola crítica de WP2 (CDP, RP, Ingresos y Gastos con BOGDATA)&#xA;        * Integración de flujos de pagos finales (Integración para Pagos &lt;—> BOGDATA).&#xA;3. Fase 3 / Transición 3 (Mes 3): Optimización y Extensión a Producción&#xA;    * Evaluación de tiempos de servicio por componente (Trivadis Capacity Planning).&#xA;    * Pruebas de aceptación orientadas a escenarios y requisitos (Domain-Oriented Testing) y paso a producción de la arquitectura integrada.&#xA;    * Desarrollo simultáneo de WP3 (5 flujos ERP internos).&#xA;">
   <children
@@ -34,5 +34,61 @@
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-902d84c733da44f98b8958510bf07521.xml#id-902d84c733da44f98b8958510bf07521"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9b6a336b864d4d15b915020c8a18b5e5">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-486b830dd3554149a0577f55beb420e3"
+        source="id-9b6a336b864d4d15b915020c8a18b5e5"
+        target="id-af227abbba704f9ab0365fed003c018f">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-8724460cdc1e4342843fa941ddf2dc3c.xml#id-8724460cdc1e4342843fa941ddf2dc3c"/>
+    </sourceConnections>
+    <bounds
+        x="22"
+        y="216"
+        width="159"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-31ff7c530bc84348aa1f8b098e7eeb0e.xml#id-31ff7c530bc84348aa1f8b098e7eeb0e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-af227abbba704f9ab0365fed003c018f"
+      targetConnections="id-486b830dd3554149a0577f55beb420e3">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-b3193723f12e49d9b8aeacac7af65030"
+        source="id-af227abbba704f9ab0365fed003c018f"
+        target="id-6b2fafe98dd34ba89ce2083aee08f4ab">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-07285fa2803f4694ad75898263432723.xml#id-07285fa2803f4694ad75898263432723"/>
+    </sourceConnections>
+    <bounds
+        x="216"
+        y="216"
+        width="159"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-621a882b4d2e41228ce80cfcd38d1d8c.xml#id-621a882b4d2e41228ce80cfcd38d1d8c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6b2fafe98dd34ba89ce2083aee08f4ab"
+      targetConnections="id-b3193723f12e49d9b8aeacac7af65030">
+    <bounds
+        x="408"
+        y="216"
+        width="159"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_id-9c9debeb032a43a287d6f3e0c37f33fa.xml#id-9c9debeb032a43a287d6f3e0c37f33fa"/>
   </children>
 </archimate:ArchimateDiagramModel>
