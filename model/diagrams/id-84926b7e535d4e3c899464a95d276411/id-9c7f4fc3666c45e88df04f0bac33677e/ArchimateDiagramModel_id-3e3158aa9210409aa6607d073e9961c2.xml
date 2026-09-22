@@ -176,8 +176,8 @@
           href="ServingRelationship_id-ceaba62cb6784294ae96dfec0bec2000.xml#id-ceaba62cb6784294ae96dfec0bec2000"/>
     </sourceConnections>
     <bounds
-        x="679"
-        y="402"
+        x="456"
+        y="369"
         width="120"
         height="55"/>
     <archimateElement
@@ -223,8 +223,8 @@
       id="id-179bc5e356054ac6a219e1ce3d97d43a"
       targetConnections="id-b0f6343f37e3452bb1fa6bcb8157d453">
     <bounds
-        x="613"
-        y="329"
+        x="456"
+        y="464"
         width="120"
         height="55"/>
     <archimateElement
@@ -236,8 +236,8 @@
       id="id-76da63d7967d49a09db020436380fbf8"
       targetConnections="id-363668910307430792acaebbfb3c67b9">
     <bounds
-        x="697"
-        y="619"
+        x="456"
+        y="666"
         width="120"
         height="55"/>
     <archimateElement
