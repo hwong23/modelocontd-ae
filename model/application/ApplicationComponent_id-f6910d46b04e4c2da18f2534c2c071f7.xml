@@ -9,4 +9,7 @@
   <properties
       key="ERP"
       value="Financiero"/>
+  <properties
+      key="destino"
+      value="doc"/>
 </archimate:ApplicationComponent>

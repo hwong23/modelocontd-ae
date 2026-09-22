@@ -88,15 +88,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-2f0b7c3f2d0a4f44b78d988c8fe2e739"
-        source="id-244f9ad4a6be45ada635e8461de82b38"
-        target="id-799e4377a38b47878592e294adc65d2b">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-f9b44f8f78bf4afbb4dd9367eb5fb04a.xml#id-f9b44f8f78bf4afbb4dd9367eb5fb04a"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4fa9d8ba585043138f4ab0f3f2130da5"
         source="id-244f9ad4a6be45ada635e8461de82b38"
         target="id-71a644730f104c6f993dc7577aa436f0">
@@ -374,31 +365,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-799e4377a38b47878592e294adc65d2b"
-      targetConnections="id-2f0b7c3f2d0a4f44b78d988c8fe2e739">
-    <bounds
-        x="600"
-        y="452"
-        width="120"
-        height="55"/>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-58b992beb5814c18bda619a12f10edff">
-      <bounds
-          x="96"
-          y="24"
-          width="24"
-          height="26"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-0ee6e68eb252483a95341b5fdb9b6100.xml#id-0ee6e68eb252483a95341b5fdb9b6100"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-7deb439ed2624c16bc0527b844c4ffff.xml#id-7deb439ed2624c16bc0527b844c4ffff"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-71a644730f104c6f993dc7577aa436f0"
       targetConnections="id-4fa9d8ba585043138f4ab0f3f2130da5">
     <bounds
@@ -455,7 +421,11 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
+      alpha="0"
       content="Vista de sistemas de información&#xA;Instauración ERP Personería&#xA;&#xA;versión 1.3.1">
+    <features
+        name="lineAlpha"
+        value="0"/>
     <bounds
         x="12"
         y="12"
@@ -542,4 +512,7 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-ca8f4428612349178e9598c8ca1386d7.xml#id-ca8f4428612349178e9598c8ca1386d7"/>
   </children>
+  <properties
+      key="titulo"
+      value="Sistemas de información ERP Personería"/>
 </archimate:ArchimateDiagramModel>

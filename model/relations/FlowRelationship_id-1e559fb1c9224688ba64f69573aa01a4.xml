@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Certificados de Disponibilidad Presupuestal"
+    id="id-1e559fb1c9224688ba64f69573aa01a4"
+    documentation="API o un servicio que consuma bogdata cada vez que hace un movimiento. Nuevos. Modificaciones, anulaciones, reversiones (aprobados).&#xA;">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2929d65203cb498a82e9adf92b03a543.xml#id-2929d65203cb498a82e9adf92b03a543"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2b37f840537b4209943205a5b433f672.xml#id-2b37f840537b4209943205a5b433f672"/>
+</archimate:FlowRelationship>

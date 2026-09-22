@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WP1. Integración Documental (SGDEA)"
+    id="id-31ff7c530bc84348aa1f8b098e7eeb0e"
+    documentation="Flujo: ControlDoc --> Control documental de cuentas. Alcance: Conexión con el SaaS documental externo para recepción de radicados/soporte de cuentas. Duración: 1 mes."/>

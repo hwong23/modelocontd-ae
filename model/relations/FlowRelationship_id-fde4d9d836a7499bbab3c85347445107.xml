@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Entrada de almacén"
     id="id-fde4d9d836a7499bbab3c85347445107">
+  <properties
+      key="destino"
+      value="doc"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-fab9e669233146629f46014a40a7b322.xml#id-fab9e669233146629f46014a40a7b322"/>

@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Movimiento de gasto"
+    id="id-12f6b583e8194b08862abd8116fdaa87"
+    documentation="API o un servicio que consuma bogdata cada vez que hace un movimiento. Estructura jerarquica de presupuestp, apropiacion inicial, modificaciones.&#xA;">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2929d65203cb498a82e9adf92b03a543.xml#id-2929d65203cb498a82e9adf92b03a543"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d928e88dddf446f980d9201381ec0f55.xml#id-d928e88dddf446f980d9201381ec0f55"/>
+</archimate:FlowRelationship>

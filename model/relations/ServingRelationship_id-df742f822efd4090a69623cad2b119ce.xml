@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Protocolos REST / HTTPS / SFTP"
+    id="id-df742f822efd4090a69623cad2b119ce">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-e4ab2f6907ac41a1acb86a573e62802e.xml#id-e4ab2f6907ac41a1acb86a573e62802e"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-71830c0e1a1649f3b86f83070429a1b3.xml#id-71830c0e1a1649f3b86f83070429a1b3"/>
+</archimate:ServingRelationship>

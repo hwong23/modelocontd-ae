@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cliente"
+    id="id-8a10b8c69ef74ee6ab2098e95fded7e8"
+    documentation="Actor externo que consume los servicios de la organización."/>

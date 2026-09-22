@@ -1,0 +1,21 @@
+/*
+ * List application components recursively in the loaded ArchiMate model.
+ *
+ * Based on the jArchi style used in the repository under:
+ * /Users/hwo/gh/jarchi-hwo/scr
+ */
+
+console.show();
+console.clear();
+console.log("> Listing application components");
+
+var comps = $("application-component");
+console.log("COUNT " + comps.length);
+
+comps.each(function (e) {
+    if (e && e.name) {
+        console.log(e.name + " | " + e.id);
+    }
+});
+
+console.log("> Finished");
