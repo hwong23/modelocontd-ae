@@ -1,7 +1,7 @@
 <canvas:CanvasModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="Integración.3.Plan.1.Base"
+    name="Gantt Integración.3.Plan.1.Base"
     id="id-fda62fa606df4ec8950e1bae86f8206d">
   <children
       xsi:type="canvas:CanvasModelImage"
@@ -14,4 +14,7 @@
         width="2156"
         height="540"/>
   </children>
+  <properties
+      key="IncludeViewElements"
+      value="false"/>
 </canvas:CanvasModel>
