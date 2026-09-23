@@ -1,0 +1,17 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Integración.3.Plan.2.Acelerado"
+    id="id-b6ad91b451b44a8a8f891f42ca3c6398">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="id-2acd9989542a4bdca69bfd6269ae7f23"
+      name="Image"
+      imagePath="images/_fXqZ0LdmEfG8g8QiQaPTHw.png">
+    <bounds
+        x="24"
+        y="48"
+        width="1798"
+        height="720"/>
+  </children>
+</canvas:CanvasModel>
