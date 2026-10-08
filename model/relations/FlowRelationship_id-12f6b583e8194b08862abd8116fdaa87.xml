@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Movimiento de gasto"
+    name="IINF04. Movimiento de gasto"
     id="id-12f6b583e8194b08862abd8116fdaa87"
     documentation="API o un servicio que consuma bogdata cada vez que hace un movimiento. Estructura jerarquica de presupuestp, apropiacion inicial, modificaciones.&#xA;">
   <source
